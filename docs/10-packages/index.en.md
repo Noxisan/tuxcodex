@@ -87,4 +87,10 @@ package a file belongs to, and keeping a server up to date.
 
 <div class="grid cards" markdown>
 
+-   :material-update:{ .lg .middle } **[unattended-upgrade](unattended-upgrade.md)**
+
+    ---
+
+    Install security updates automatically.
+
 </div>
