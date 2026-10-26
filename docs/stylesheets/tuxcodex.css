@@ -139,3 +139,13 @@
   height: 3.5rem;
   max-height: none;
 }
+
+/* Command blocks vs. output blocks */
+.md-typeset .language-bash pre {
+  border-left: 3px solid var(--tc-accent);
+}
+
+.md-typeset .language-text pre > code {
+  background-color: var(--tc-bg);
+  color: var(--tc-muted);
+}
