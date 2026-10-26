@@ -1,21 +1,70 @@
+/* TuxCodex dark theme: neutral dark grey with a soft blue accent */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #0a0f0a;
-  --md-primary-fg-color--light: #0a0f0a;
-  --md-primary-fg-color--dark: #0a0f0a;
-  --md-primary-bg-color: #39ff6a;
-  --md-accent-fg-color: #39ff6a;
-  --md-default-bg-color: #0d0d0d;
-  --md-typeset-a-color: #39ff6a;
-  --md-code-bg-color: #111811;
+  --tc-bg: #0f1115;
+  --tc-surface: #161a21;
+  --tc-border: #262b35;
+  --tc-text: #d4d7dd;
+  --tc-muted: #8b919c;
+  --tc-accent: #7aa2f7;
+  --tc-accent-light: #a3bffa;
+
+  --md-hue: 220;
+  --md-default-bg-color: var(--tc-bg);
+  --md-default-fg-color: var(--tc-text);
+  --md-default-fg-color--light: var(--tc-muted);
+  --md-primary-fg-color: var(--tc-surface);
+  --md-primary-fg-color--light: var(--tc-surface);
+  --md-primary-fg-color--dark: var(--tc-bg);
+  --md-primary-bg-color: var(--tc-text);
+  --md-primary-bg-color--light: var(--tc-muted);
+  --md-accent-fg-color: var(--tc-accent-light);
+  --md-accent-fg-color--transparent: rgba(122, 162, 247, 0.1);
+  --md-typeset-a-color: var(--tc-accent);
+  --md-code-bg-color: var(--tc-surface);
+  --md-footer-bg-color: var(--tc-surface);
+  --md-footer-bg-color--dark: var(--tc-bg);
 }
 
 .md-header,
 .md-tabs {
-  background-color: #0a0f0a;
-  border-bottom: 1px solid #39ff6a;
+  background-color: var(--tc-surface);
 }
 
-.md-typeset h1,
+.md-header {
+  border-bottom: 1px solid var(--tc-border);
+}
+
+.md-tabs {
+  border-bottom: 1px solid var(--tc-border);
+}
+
+.md-tabs__link--active,
+.md-nav__link--active {
+  color: var(--tc-accent);
+}
+
+.md-typeset h1 {
+  color: var(--tc-accent);
+  font-weight: 600;
+}
+
 .md-typeset h2 {
-  color: #39ff6a;
+  color: var(--tc-text);
+  border-bottom: 1px solid var(--tc-border);
+  padding-bottom: 0.2em;
+}
+
+.md-typeset blockquote {
+  border-left-color: var(--tc-accent);
+  color: var(--tc-muted);
+}
+
+.md-typeset pre > code,
+.md-typeset table:not([class]) {
+  border: 1px solid var(--tc-border);
+}
+
+.md-typeset img[alt$="output"] {
+  border-radius: 8px;
+  border: 1px solid var(--tc-border);
 }
