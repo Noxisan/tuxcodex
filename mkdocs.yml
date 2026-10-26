@@ -157,6 +157,7 @@ nav:
       - pkill: 08-processes/pkill.md
       - killall: 08-processes/killall.md
       - timeout: 08-processes/timeout.md
+      - jobs: 08-processes/jobs.md
 
 markdown_extensions:
   - admonition

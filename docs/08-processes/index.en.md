@@ -104,6 +104,18 @@ controlling jobs and priorities.
 
 </div>
 
+## Jobs and background
+
+<div class="grid cards" markdown>
+
+-   :material-format-list-checks:{ .lg .middle } **[jobs](jobs.md)**
+
+    ---
+
+    Background and paused commands of this shell.
+
+</div>
+
 ## Understanding processes
 
 Every running program is a process with a number, the **PID**. Every process (except

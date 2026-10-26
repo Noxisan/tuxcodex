@@ -104,6 +104,18 @@ und Jobs und Prioritäten steuern.
 
 </div>
 
+## Jobs und Hintergrund
+
+<div class="grid cards" markdown>
+
+-   :material-format-list-checks:{ .lg .middle } **[jobs](jobs.md)**
+
+    ---
+
+    Hintergrund- und angehaltene Befehle dieser Shell.
+
+</div>
+
 ## Prozesse verstehen
 
 Jedes laufende Programm ist ein Prozess mit einer Nummer, der **PID**. Jeder Prozess
