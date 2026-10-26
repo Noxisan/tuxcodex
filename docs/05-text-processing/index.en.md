@@ -30,6 +30,12 @@ configuration files and the output of other commands.
 
     Sort lines alphabetically, numerically or by column.
 
+-   :material-filter-variant-remove:{ .lg .middle } **[uniq](uniq.md)**
+
+    ---
+
+    Remove or count repeated lines.
+
 </div>
 
 ## Combining commands with pipes

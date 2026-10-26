@@ -100,6 +100,7 @@ nav:
       - Overview: 05-text-processing/index.md
       - wc: 05-text-processing/wc.md
       - sort: 05-text-processing/sort.md
+      - uniq: 05-text-processing/uniq.md
 
 markdown_extensions:
   - admonition

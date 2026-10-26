@@ -138,4 +138,4 @@ tail -n +2 users.csv | sort -t, -k2
 
 ## Verwandte Befehle
 
-[wc](wc.md) · [tail](../04-viewing-files/tail.md)
+[wc](wc.md) · [tail](../04-viewing-files/tail.md) · [uniq](uniq.md)

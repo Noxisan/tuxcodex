@@ -30,6 +30,12 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
     Sortiert Zeilen alphabetisch, numerisch oder nach Spalte.
 
+-   :material-filter-variant-remove:{ .lg .middle } **[uniq](uniq.md)**
+
+    ---
+
+    Entfernt oder zählt wiederholte Zeilen.
+
 </div>
 
 ## Befehle mit Pipes verbinden
