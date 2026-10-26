@@ -26,6 +26,12 @@ zu welchem Paket eine Datei gehört, und einen Server aktuell halten.
 
     Pakete installieren, aktualisieren und entfernen.
 
+-   :material-database-search-outline:{ .lg .middle } **[apt-cache](apt-cache.md)**
+
+    ---
+
+    Verfügbare Versionen und Abhängigkeiten.
+
 </div>
 
 ## RHEL

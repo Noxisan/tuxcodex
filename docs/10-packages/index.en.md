@@ -26,6 +26,12 @@ package a file belongs to, and keeping a server up to date.
 
     Install, update and remove packages.
 
+-   :material-database-search-outline:{ .lg .middle } **[apt-cache](apt-cache.md)**
+
+    ---
+
+    Available versions and dependencies.
+
 </div>
 
 ## RHEL
