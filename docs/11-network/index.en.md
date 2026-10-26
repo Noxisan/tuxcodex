@@ -21,6 +21,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
 <div class="grid cards" markdown>
 
+-   :material-ip-network-outline:{ .lg .middle } **[ip](ip.md)**
+
+    ---
+
+    Interfaces, addresses and routes.
+
 </div>
 
 ## Check connections

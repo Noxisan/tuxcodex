@@ -21,6 +21,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
 <div class="grid cards" markdown>
 
+-   :material-ip-network-outline:{ .lg .middle } **[ip](ip.md)**
+
+    ---
+
+    Schnittstellen, Adressen und Routen.
+
 </div>
 
 ## Verbindungen prüfen

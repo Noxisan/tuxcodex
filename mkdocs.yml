@@ -204,6 +204,7 @@ nav:
   - Network:
       - 11-network/index.md
       - Basics: 11-network/basics.md
+      - ip: 11-network/ip.md
 
 markdown_extensions:
   - admonition
