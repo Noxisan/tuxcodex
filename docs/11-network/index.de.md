@@ -39,6 +39,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     Testen, ob ein Host antwortet.
 
+-   :material-map-marker-path:{ .lg .middle } **[traceroute](traceroute.md)**
+
+    ---
+
+    Den Weg zu einem Host zeigen, Sprung für Sprung.
+
 </div>
 
 ## DNS

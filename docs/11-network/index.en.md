@@ -39,6 +39,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     Test whether a host answers.
 
+-   :material-map-marker-path:{ .lg .middle } **[traceroute](traceroute.md)**
+
+    ---
+
+    Show the route to a host, hop by hop.
+
 </div>
 
 ## DNS
