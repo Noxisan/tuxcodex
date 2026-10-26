@@ -141,6 +141,7 @@ nav:
       - delgroup: 07-users-groups/delgroup.md
       - su: 07-users-groups/su.md
       - sudo: 07-users-groups/sudo.md
+      - visudo: 07-users-groups/visudo.md
 
 markdown_extensions:
   - admonition

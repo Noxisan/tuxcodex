@@ -121,4 +121,4 @@ wenn er `sudo` benutzen darf.
 
 ## Verwandte Befehle
 
-[su](su.md) · [usermod](usermod.md) · [whoami](../01-orientation/whoami.md)
+[su](su.md) · [usermod](usermod.md) · [whoami](../01-orientation/whoami.md) · [visudo](visudo.md)

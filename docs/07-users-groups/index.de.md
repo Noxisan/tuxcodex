@@ -126,6 +126,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Führt Befehle als root oder anderer Benutzer aus.
 
+-   :material-file-document-edit-outline:{ .lg .middle } **[visudo](visudo.md)**
+
+    ---
+
+    Bearbeitet die sudo-Konfiguration sicher.
+
 </div>
 
 ## Die wichtigen Dateien

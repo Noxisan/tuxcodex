@@ -126,6 +126,12 @@ root rights through `sudo` and `su`.
 
     Run commands as root or another user.
 
+-   :material-file-document-edit-outline:{ .lg .middle } **[visudo](visudo.md)**
+
+    ---
+
+    Edit the sudo configuration safely.
+
 </div>
 
 ## The important files
