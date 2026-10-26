@@ -1,0 +1,59 @@
+site_name: TuxCodex
+site_description: Linux Administration & DevOps a handbook by Nox
+site_author: Nox
+repo_url: https://github.com/noxisan/tuxcodex
+repo_name: tuxcodex
+
+theme:
+  name: material
+  logo: assets/logo-small.png
+  favicon: assets/favicon.png
+  palette:
+    scheme: slate
+    primary: custom
+    accent: custom
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: de
+          name: Deutsch
+          build: true
+          site_description: Linux-Administration & DevOps ein Handbuch von Nox
+          nav_translations:
+            Home: Startseite
+            Orientation: Orientierung
+            Navigation: Navigation
+
+nav:
+  - Home: index.md
+  - Orientation:
+      - whoami: 01-orientation/whoami.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/tuxcodex.css
