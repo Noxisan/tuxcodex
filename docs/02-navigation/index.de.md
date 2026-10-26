@@ -13,6 +13,18 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
 </div>
 
+## Wo bin ich, und wohin kann ich?
+
+<div class="grid cards" markdown>
+
+-   :material-folder-marker-outline:{ .lg .middle } **[pwd](pwd.md)**
+
+    ---
+
+    Zeigt das Verzeichnis, in dem du gerade bist.
+
+</div>
+
 ## Die wichtigsten Verzeichnisse auf einem Debian-Server
 
 | Verzeichnis | Inhalt |

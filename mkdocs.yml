@@ -57,6 +57,7 @@ nav:
       - timedatectl: 01-orientation/timedatectl.md
   - Navigation:
       - Overview: 02-navigation/index.md
+      - pwd: 02-navigation/pwd.md
 
 markdown_extensions:
   - admonition

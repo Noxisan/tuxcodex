@@ -14,6 +14,18 @@ looking for?
 
 </div>
 
+## Where am I, and where can I go?
+
+<div class="grid cards" markdown>
+
+-   :material-folder-marker-outline:{ .lg .middle } **[pwd](pwd.md)**
+
+    ---
+
+    Show the directory you are currently in.
+
+</div>
+
 ## The most important directories on a Debian server
 
 | Directory | Contents |
