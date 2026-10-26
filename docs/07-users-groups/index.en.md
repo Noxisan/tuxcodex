@@ -24,6 +24,12 @@ root rights through `sudo` and `su`.
 
     Show the groups a user belongs to.
 
+-   :material-account-search-outline:{ .lg .middle } **[getent](getent.md)**
+
+    ---
+
+    Look up users, groups, hosts and services.
+
 </div>
 
 ## The important files

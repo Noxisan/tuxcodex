@@ -24,6 +24,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Zeigt die Gruppen eines Benutzers.
 
+-   :material-account-search-outline:{ .lg .middle } **[getent](getent.md)**
+
+    ---
+
+    Schlägt Benutzer, Gruppen, Hosts und Dienste nach.
+
 </div>
 
 ## Die wichtigen Dateien
