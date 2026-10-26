@@ -141,6 +141,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     Simple firewall of Debian and Ubuntu.
 
+-   :material-wall-fire:{ .lg .middle } **[firewall-cmd](firewall-cmd.md)**
+
+    ---
+
+    firewalld on RHEL, Rocky and Alma.
+
 </div>
 
 ## Capture traffic

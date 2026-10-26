@@ -131,4 +131,4 @@ after every delete, they shift.
 
 ## Related commands
 
-[ss](ss.md) · [nc](nc.md)
+[ss](ss.md) · [nc](nc.md) · [firewall-cmd](firewall-cmd.md)

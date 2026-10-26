@@ -141,6 +141,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     Einfache Firewall von Debian und Ubuntu.
 
+-   :material-wall-fire:{ .lg .middle } **[firewall-cmd](firewall-cmd.md)**
+
+    ---
+
+    firewalld unter RHEL, Rocky und Alma.
+
 </div>
 
 ## Datenverkehr mitschneiden
