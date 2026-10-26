@@ -69,6 +69,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
 <div class="grid cards" markdown>
 
+-   :material-dns-outline:{ .lg .middle } **[dig](dig.md)**
+
+    ---
+
+    DNS-Server direkt fragen.
+
 </div>
 
 ## HTTP und Downloads

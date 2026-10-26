@@ -69,6 +69,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
 <div class="grid cards" markdown>
 
+-   :material-dns-outline:{ .lg .middle } **[dig](dig.md)**
+
+    ---
+
+    Ask DNS servers directly.
+
 </div>
 
 ## HTTP and downloads

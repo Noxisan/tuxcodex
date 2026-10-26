@@ -210,6 +210,7 @@ nav:
       - mtr: 11-network/mtr.md
       - ss: 11-network/ss.md
       - nc: 11-network/nc.md
+      - dig: 11-network/dig.md
 
 markdown_extensions:
   - admonition
