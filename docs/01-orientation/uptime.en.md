@@ -87,4 +87,4 @@ rising over the last 15 minutes (`1.05` → `2.10` → `3.92`).
 
 ## Related commands
 
-[w](w.md) · [last](last.md) · [uname](uname.md)
+[w](w.md) · [last](last.md) · [uname](uname.md) · [date](date.md)

@@ -86,6 +86,18 @@ commands to run after logging in to a server.
 
 </div>
 
+## What time is it on the server?
+
+<div class="grid cards" markdown>
+
+-   :material-calendar-clock:{ .lg .middle } **[date](date.md)**
+
+    ---
+
+    Show date and time, format and calculate dates.
+
+</div>
+
 ## The first minute on a new server
 
 Five commands that give you a complete picture right after logging in:

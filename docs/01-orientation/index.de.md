@@ -86,6 +86,18 @@ Befehle nach der Anmeldung an einem Server.
 
 </div>
 
+## Wie spät ist es auf dem Server?
+
+<div class="grid cards" markdown>
+
+-   :material-calendar-clock:{ .lg .middle } **[date](date.md)**
+
+    ---
+
+    Zeigt Datum und Uhrzeit, formatiert und berechnet Zeitpunkte.
+
+</div>
+
 ## Die erste Minute auf einem neuen Server
 
 Fünf Befehle, die dir direkt nach der Anmeldung ein vollständiges Bild geben:

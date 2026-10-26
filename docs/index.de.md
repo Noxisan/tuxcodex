@@ -26,7 +26,7 @@ Alles, was ich lerne – Befehle, Konfigurationen, Fehlerbehebung – landet hie
     ---
 
     Wer bin ich, wo bin ich und was ist auf dieser Maschine gerade los?
-    `whoami`, `id`, `hostname`, `uname`, `uptime`, `who`, `w`, `last`
+    `whoami`, `id`, `hostname`, `uname`, `uptime`, `who`, `w`, `last`, `date`
 
 -   :material-folder-outline:{ .lg .middle } **Navigation** · *in Arbeit*
 
