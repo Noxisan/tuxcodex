@@ -102,6 +102,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Fügt Gruppenmitglieder hinzu oder entfernt sie.
 
+-   :material-account-multiple-minus-outline:{ .lg .middle } **[delgroup](delgroup.md)**
+
+    ---
+
+    Löscht eine Gruppe oder entfernt einen Benutzer daraus (Debian).
+
 </div>
 
 ## Die wichtigen Dateien

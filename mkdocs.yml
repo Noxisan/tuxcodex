@@ -138,6 +138,7 @@ nav:
       - addgroup: 07-users-groups/addgroup.md
       - groupadd: 07-users-groups/groupadd.md
       - gpasswd: 07-users-groups/gpasswd.md
+      - delgroup: 07-users-groups/delgroup.md
 
 markdown_extensions:
   - admonition

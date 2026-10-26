@@ -102,6 +102,12 @@ root rights through `sudo` and `su`.
 
     Add or remove group members.
 
+-   :material-account-multiple-minus-outline:{ .lg .middle } **[delgroup](delgroup.md)**
+
+    ---
+
+    Delete a group or remove a user from it (Debian).
+
 </div>
 
 ## The important files

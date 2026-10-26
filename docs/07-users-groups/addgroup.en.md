@@ -99,4 +99,4 @@ fatal: The group `developers' already exists.
 
 ## Related commands
 
-[adduser](adduser.md) · [getent](getent.md) · [groupadd](groupadd.md)
+[adduser](adduser.md) · [getent](getent.md) · [groupadd](groupadd.md) · [delgroup](delgroup.md)

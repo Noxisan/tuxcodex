@@ -97,4 +97,4 @@ fatal: You may not remove the user from their primary group.
 
 ## Verwandte Befehle
 
-[adduser](adduser.md) · [usermod](usermod.md) · [userdel](userdel.md)
+[adduser](adduser.md) · [usermod](usermod.md) · [userdel](userdel.md) · [delgroup](delgroup.md)
