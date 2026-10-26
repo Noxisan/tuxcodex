@@ -87,6 +87,12 @@ Verbindungen tunneln und den SSH-Server gegen Angriffe schützen.
 
 <div class="grid cards" markdown>
 
+-   :material-server-security:{ .lg .middle } **[sshd](sshd.md)**
+
+    ---
+
+    Den SSH-Server prüfen und absichern.
+
 </div>
 
 ## Absichern

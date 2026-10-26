@@ -233,6 +233,7 @@ nav:
       - scp: 12-ssh/scp.md
       - sftp: 12-ssh/sftp.md
       - rsync: 12-ssh/rsync.md
+      - sshd: 12-ssh/sshd.md
 
 markdown_extensions:
   - admonition

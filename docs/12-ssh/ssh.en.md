@@ -131,4 +131,4 @@ command shown and connect again. If not, find out why first.
 
 ## Related commands
 
-[ssh-keygen](ssh-keygen.md) · [ssh-copy-id](ssh-copy-id.md) · [scp](scp.md) · [sshd](sshd.md) · [ssh-keygen](ssh-keygen.md) · [ssh-copy-id](ssh-copy-id.md) · [scp](scp.md)
+[ssh-keygen](ssh-keygen.md) · [ssh-copy-id](ssh-copy-id.md) · [scp](scp.md) · [sshd](sshd.md) · [ssh-keygen](ssh-keygen.md) · [ssh-copy-id](ssh-copy-id.md) · [scp](scp.md) · [sshd](sshd.md)

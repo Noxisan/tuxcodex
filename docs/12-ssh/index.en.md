@@ -87,6 +87,12 @@ tunnelling connections and protecting the SSH server against attacks.
 
 <div class="grid cards" markdown>
 
+-   :material-server-security:{ .lg .middle } **[sshd](sshd.md)**
+
+    ---
+
+    Check and harden the SSH server.
+
 </div>
 
 ## Hardening
