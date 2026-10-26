@@ -81,6 +81,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     Kurze DNS-Abfragen.
 
+-   :material-server-network:{ .lg .middle } **[resolvectl](resolvectl.md)**
+
+    ---
+
+    Der lokale Resolver von systemd.
+
 </div>
 
 ## HTTP und Downloads

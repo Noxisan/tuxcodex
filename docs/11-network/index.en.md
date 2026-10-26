@@ -81,6 +81,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     Short DNS lookups.
 
+-   :material-server-network:{ .lg .middle } **[resolvectl](resolvectl.md)**
+
+    ---
+
+    The local resolver of systemd.
+
 </div>
 
 ## HTTP and downloads
