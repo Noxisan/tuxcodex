@@ -104,4 +104,10 @@ den Server sauber neu starten oder herunterfahren.
 
     Herunterfahren oder neu starten, sofort oder zeitgesteuert.
 
+-   :material-restart:{ .lg .middle } **[reboot](reboot.md)**
+
+    ---
+
+    Das System sofort neu starten.
+
 </div>

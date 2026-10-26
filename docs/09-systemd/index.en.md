@@ -104,4 +104,10 @@ restarting or shutting down the server cleanly.
 
     Shut down or reboot, now or at a set time.
 
+-   :material-restart:{ .lg .middle } **[reboot](reboot.md)**
+
+    ---
+
+    Restart the system right away.
+
 </div>

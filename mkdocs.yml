@@ -185,6 +185,7 @@ nav:
       - localectl: 09-systemd/localectl.md
       - systemd-tmpfiles: 09-systemd/systemd-tmpfiles.md
       - shutdown: 09-systemd/shutdown.md
+      - reboot: 09-systemd/reboot.md
 
 markdown_extensions:
   - admonition

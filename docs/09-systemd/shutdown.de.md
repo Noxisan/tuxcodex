@@ -104,4 +104,4 @@ The system will power off at Mon 2026-10-26 22:00:00 CET!
 
 ## Verwandte Befehle
 
-[systemctl](systemctl.md) · [loginctl](loginctl.md) · [w](../01-orientation/w.md)
+[systemctl](systemctl.md) · [loginctl](loginctl.md) · [w](../01-orientation/w.md) · [reboot](reboot.md)
