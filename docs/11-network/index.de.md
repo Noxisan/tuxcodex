@@ -117,6 +117,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     NetworkManager unter RHEL, Rocky und Alma.
 
+-   :material-file-cog-outline:{ .lg .middle } **[netplan](netplan.md)**
+
+    ---
+
+    Netzwerkkonfiguration unter Ubuntu.
+
 </div>
 
 ## Firewall

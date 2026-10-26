@@ -117,6 +117,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     NetworkManager on RHEL, Rocky and Alma.
 
+-   :material-file-cog-outline:{ .lg .middle } **[netplan](netplan.md)**
+
+    ---
+
+    Network configuration on Ubuntu.
+
 </div>
 
 ## Firewall
