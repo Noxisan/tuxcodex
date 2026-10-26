@@ -36,6 +36,12 @@ und Jobs und Prioritäten steuern.
 
     Gibt die PIDs eines laufenden Programms aus.
 
+-   :material-file-tree:{ .lg .middle } **[pstree](pstree.md)**
+
+    ---
+
+    Zeigt Prozesse als Baum aus Eltern und Kindern.
+
 </div>
 
 ## Prozesse verstehen

@@ -148,6 +148,7 @@ nav:
       - ps: 08-processes/ps.md
       - pgrep: 08-processes/pgrep.md
       - pidof: 08-processes/pidof.md
+      - pstree: 08-processes/pstree.md
 
 markdown_extensions:
   - admonition

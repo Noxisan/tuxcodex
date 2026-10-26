@@ -36,6 +36,12 @@ controlling jobs and priorities.
 
     Print the PIDs of a running program.
 
+-   :material-file-tree:{ .lg .middle } **[pstree](pstree.md)**
+
+    ---
+
+    Show processes as a tree of parents and children.
+
 </div>
 
 ## Understanding processes

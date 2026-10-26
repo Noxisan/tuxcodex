@@ -117,4 +117,4 @@ The zombie `4021` waits for its parent `4010`. Only the parent can clean it up.
 
 ## Related commands
 
-[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md) · [pgrep](pgrep.md)
+[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md) · [pgrep](pgrep.md) · [pstree](pstree.md)
