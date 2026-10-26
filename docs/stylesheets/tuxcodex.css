@@ -138,8 +138,34 @@
 
 /* Chapter overview pages */
 .tc-hero--chapter {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  column-gap: 0.9rem;
   text-align: left;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .tc-hero--chapter > h1 {
+    font-size: 1.9em;
+  }
+}
+
+/* Icon left of the title, everything else below on the full width */
+.tc-hero--chapter > * {
+  grid-column: 1 / -1;
+}
+
+.md-typeset .tc-hero--chapter > p:first-child {
+  grid-column: 1;
+  margin: 0;
+  line-height: 0;
+}
+
+.md-typeset .tc-hero--chapter > h1 {
+  grid-column: 2;
+  margin: 0;
 }
 
 .tc-hero--chapter p {
@@ -150,13 +176,13 @@
 
 .md-typeset .tc-hero-icon {
   display: inline-block;
-  height: 3.5rem;
+  height: 2.8rem;
   color: var(--tc-accent);
 }
 
 .md-typeset .tc-hero-icon svg {
-  width: 3.5rem;
-  height: 3.5rem;
+  width: 2.8rem;
+  height: 2.8rem;
   max-height: none;
 }
 
