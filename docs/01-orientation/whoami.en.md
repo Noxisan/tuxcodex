@@ -1,6 +1,6 @@
 # whoami
 
-> Prints the name of the user you are currently working as (the effective user).
+> Shows the name of the user you are currently working as (the effective user).
 
 ## Syntax
 

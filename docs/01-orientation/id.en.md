@@ -1,6 +1,6 @@
 # id
 
-> Prints the user ID, group ID and all group memberships of a user.
+> Shows the user ID, group ID and all group memberships of a user.
 
 ## Syntax
 

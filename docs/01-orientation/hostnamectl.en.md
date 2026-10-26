@@ -80,6 +80,11 @@ hostnamectl | grep -E 'Static|Deployment'
 - To label servers with `deployment` and `location`, which some tools and prompts can
   read
 
+!!! tip "Good to know"
+    `hostnamectl hostname NAME` writes `/etc/hostname` and changes the running host name
+    at the same time. No reboot is needed, but your shell prompt only shows the new name
+    after you log in again.
+
 !!! warning "Update `/etc/hosts` as well"
     On Debian, the host name is also listed in `/etc/hosts` next to `127.0.1.1`.
     `hostnamectl` does not change that line. If you forget it, `sudo` will complain with
@@ -88,11 +93,6 @@ hostnamectl | grep -E 'Static|Deployment'
     ```text
     127.0.1.1   tuxcodex-srv.example.com tuxcodex-srv
     ```
-
-!!! tip "Good to know"
-    `hostnamectl hostname NAME` writes `/etc/hostname` and changes the running host name
-    at the same time. No reboot is needed, but your shell prompt only shows the new name
-    after you log in again.
 
 ## Related commands
 

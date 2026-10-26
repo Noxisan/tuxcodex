@@ -1,6 +1,6 @@
 # uname
 
-> Prints information about the running kernel and the hardware architecture.
+> Shows information about the running kernel and the hardware architecture.
 
 ## Syntax
 
