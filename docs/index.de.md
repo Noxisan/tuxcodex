@@ -11,7 +11,7 @@ hide:
 # Willkommen bei TuxCodex
 
 Mein persönliches Handbuch für **Linux-Administration und DevOps**.
-Alles, was ich lerne – Befehle, Konfigurationen, Fehlerbehebung – landet hier.
+Alles, was ich lerne, landet hier: Befehle, Konfigurationen und Fehlerbehebung.
 
 [Mit Kapitel 1 starten](01-orientation/index.md){ .md-button .md-button--primary }
 
@@ -68,7 +68,7 @@ Alles, was ich lerne – Befehle, Konfigurationen, Fehlerbehebung – landet hie
 
     ---
 
-    Wann du den Befehl auf einem Server brauchst – mit Tipps und Stolperfallen.
+    Wann du den Befehl auf einem Server brauchst, mit Tipps und Stolperfallen.
 
 -   :material-swap-horizontal:{ .lg .middle } **Debian vs. Arch**
 
@@ -79,5 +79,5 @@ Alles, was ich lerne – Befehle, Konfigurationen, Fehlerbehebung – landet hie
 </div>
 
 !!! tip "So nutzt du dieses Handbuch"
-    Nutze die Suche oben oder arbeite die Kapitel der Reihe nach durch –
-    jedes Kapitel baut auf dem vorherigen auf.
+    Nutze die Suche oben oder arbeite die Kapitel der Reihe nach durch.
+    Jedes Kapitel baut auf dem vorherigen auf.

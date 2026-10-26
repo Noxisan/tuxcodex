@@ -111,7 +111,7 @@ Europe/Berlin
 
 - Nach der Installation eines Servers: richtige Zeitzone setzen und prüfen, ob NTP läuft
 - Wenn Zeiten in Logs falsch aussehen oder Einträge zweier Server nicht zusammenpassen
-- Wenn TLS-Verbindungen, Kerberos oder 2FA-Codes scheitern – eine falsche Uhr ist eine
+- Wenn TLS-Verbindungen, Kerberos oder 2FA-Codes scheitern, denn eine falsche Uhr ist eine
   häufige Ursache
 - Um zu prüfen, ob die Zeitsynchronisation funktioniert (`System clock synchronized: yes`)
 
@@ -131,7 +131,7 @@ Europe/Berlin
 | | Debian | Arch |
 |---|--------|------|
 | NTP-Client | eigenes Paket `systemd-timesyncd` (oder `chrony`) | `systemd-timesyncd` gehört zu `systemd` |
-| Aktiviert | automatisch, sobald installiert | nein – einschalten mit `sudo timedatectl set-ntp true` |
+| Aktiviert | automatisch, sobald installiert | nein, einschalten mit `sudo timedatectl set-ntp true` |
 
 Zeigt `timedatectl` unter Debian `NTP service: n/a`, installiere den Client:
 

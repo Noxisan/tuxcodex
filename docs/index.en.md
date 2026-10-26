@@ -11,7 +11,7 @@ hide:
 # Welcome to TuxCodex
 
 My personal handbook for **Linux administration and DevOps**.
-Everything I learn – commands, configurations, troubleshooting – ends up here.
+Everything I learn ends up here: commands, configurations and troubleshooting.
 
 [Start with chapter 1](01-orientation/index.md){ .md-button .md-button--primary }
 
@@ -79,5 +79,5 @@ Everything I learn – commands, configurations, troubleshooting – ends up her
 </div>
 
 !!! tip "How to use this handbook"
-    Use the search at the top or work through the chapters in order –
-    each chapter builds on the previous one.
+    Use the search at the top or work through the chapters in order.
+    Each chapter builds on the previous one.

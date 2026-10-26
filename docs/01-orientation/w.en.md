@@ -97,7 +97,7 @@ nox      pts/1    198.51.100.23    10:30    5:12   0.03s  0.03s -bash
 
 !!! tip "`w` vs. `who`"
     [`who`](who.md) only shows **who** is logged in. `w` also shows **what** they are
-    doing and how long they have been idle – and the uptime and load on top.
+    doing and how long they have been idle, plus the uptime and load.
 
 !!! warning "Check before you reboot"
     A session running `apt`, `dpkg` or a database migration must not be interrupted by

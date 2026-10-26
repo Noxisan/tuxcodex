@@ -71,7 +71,7 @@ Außerdem steigt die Last seit 15 Minuten an (`1.05` → `2.10` → `3.92`).
 
 - Um zu prüfen, ob ein Server unerwartet neu gestartet ist (Absturz, Stromausfall,
   automatisches Update)
-- Als erster schneller Check, wenn ein Server träge wirkt: Ist die Last hoch – und
+- Als erster schneller Check, wenn ein Server träge wirkt: Ist die Last hoch, und
   steigt oder fällt sie?
 - Um zu bestätigen, dass ein geplanter Neustart wirklich stattgefunden hat
 - In Monitoring-Skripten, die nur den Startzeitpunkt brauchen (`uptime -s`)
@@ -79,7 +79,7 @@ Außerdem steigt die Last seit 15 Minuten an (`1.05` → `2.10` → `3.92`).
 !!! tip "Den Load Average lesen"
     Der Load Average zählt Prozesse, die laufen oder auf CPU bzw. Festplatten-I/O
     warten. Als Faustregel gilt: Liegt die Last über der Anzahl der CPU-Kerne (`nproc`),
-    staut sich Arbeit. Die drei Werte zeigen den Trend – ist der 1-Minuten-Wert höher
+    staut sich Arbeit. Die drei Werte zeigen den Trend: Ist der 1-Minuten-Wert höher
     als der 15-Minuten-Wert, steigt die Last.
 
 !!! warning "Hohe Last heißt nicht immer CPU"

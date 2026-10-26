@@ -1,6 +1,6 @@
 # w
 
-> Zeigt, wer angemeldet ist und was gerade passiert – dazu Laufzeit und Systemlast.
+> Zeigt, wer angemeldet ist und was gerade passiert, dazu Laufzeit und Systemlast.
 
 ## Syntax
 
@@ -90,7 +90,7 @@ nox      pts/1    198.51.100.23    10:30    5:12   0.03s  0.03s -bash
 
 ## Wann brauche ich das?
 
-- Vor einem Neustart: Arbeitet noch jemand – oder ist eine Sitzung seit Stunden untätig?
+- Vor einem Neustart: Arbeitet noch jemand, oder ist eine Sitzung seit Stunden untätig?
 - Um zu sehen, was andere Admins gerade tun, etwa ob jemand parallel zu dir ein
   `apt upgrade` laufen lässt
 - Um vergessene Sitzungen mit langer `IDLE`-Zeit zu finden
@@ -99,7 +99,7 @@ nox      pts/1    198.51.100.23    10:30    5:12   0.03s  0.03s -bash
 
 !!! tip "`w` oder `who`?"
     [`who`](who.md) zeigt nur, **wer** angemeldet ist. `w` zeigt zusätzlich, **was** die
-    Sitzungen gerade tun und wie lange sie schon untätig sind – plus Laufzeit und Last.
+    Sitzungen gerade tun und wie lange sie schon untätig sind, plus Laufzeit und Last.
 
 !!! warning "Vor dem Neustart nachsehen"
     Eine Sitzung, in der gerade `apt`, `dpkg` oder eine Datenbankmigration läuft, darf

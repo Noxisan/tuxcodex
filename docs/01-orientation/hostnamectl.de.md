@@ -72,18 +72,18 @@ hostnamectl | grep -E 'Static|Deployment'
 
 ## Wann brauche ich das?
 
-- Um einen frisch installierten Server oder eine geklonte VM umzubenennen – so, dass der
+- Um einen frisch installierten Server oder eine geklonte VM umzubenennen, und zwar so, dass der
   Name einen Neustart übersteht
 - Um OS-Version, Kernel, Architektur und Virtualisierung auf einen Blick zu sehen, etwa
   wenn du dich zum ersten Mal auf einem fremden Server anmeldest
 - Um herauszufinden, ob du auf einer VM, in einem Container oder auf echter Hardware
   bist (`Virtualization`, `Chassis`)
-- Um Server mit `deployment` und `location` zu kennzeichnen – manche Tools und Prompts
+- Um Server mit `deployment` und `location` zu kennzeichnen, denn manche Tools und Prompts
   lesen das aus
 
 !!! tip "Gut zu wissen"
     `hostnamectl hostname NAME` schreibt `/etc/hostname` und ändert gleichzeitig den
-    laufenden Hostnamen. Ein Neustart ist nicht nötig – dein Shell-Prompt zeigt den
+    laufenden Hostnamen. Ein Neustart ist nicht nötig, dein Shell-Prompt zeigt den
     neuen Namen aber erst nach einer neuen Anmeldung.
 
 !!! warning "Auch `/etc/hosts` anpassen"

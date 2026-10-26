@@ -111,7 +111,7 @@ Europe/Berlin
 
 - After installing a server: set the right time zone and make sure NTP is active
 - When log times look wrong, or entries from two servers don't line up
-- When TLS connections, Kerberos or 2FA codes fail – a wrong clock is a common cause
+- When TLS connections, Kerberos or 2FA codes fail, since a wrong clock is a common cause
 - To check that time synchronization works (`System clock synchronized: yes`)
 
 !!! tip "UTC on servers"
@@ -129,7 +129,7 @@ Europe/Berlin
 | | Debian | Arch |
 |---|--------|------|
 | NTP client | separate package `systemd-timesyncd` (or `chrony`) | `systemd-timesyncd` is part of `systemd` |
-| Enabled | automatically, once installed | no – turn it on with `sudo timedatectl set-ntp true` |
+| Enabled | automatically, once installed | no, turn it on with `sudo timedatectl set-ntp true` |
 
 If `timedatectl` shows `NTP service: n/a` on Debian, install the client:
 

@@ -10,7 +10,7 @@ whoami [OPTION]
 
 ## Optionen
 
-`whoami` hat keine eigenen Optionen – es macht genau eine Sache.
+`whoami` hat keine eigenen Optionen, es macht genau eine Sache.
 
 | Option      | Beschreibung                              |
 |-------------|-------------------------------------------|
@@ -69,11 +69,11 @@ Please do not run this script as root.
 
 - Nach `su`, `sudo -i` oder `sudo -u <benutzer> -s`, um sicherzugehen, dass du wirklich als der Benutzer arbeitest, den du erwartest
 - Bevor du etwas Zerstörerisches ausführst (`rm -rf`, `chown -R`, `systemctl stop`): ein kurzes `whoami` erspart böse Überraschungen
-- In Skripten, die als bestimmter Benutzer laufen müssen – oder gerade nicht
+- In Skripten, die als bestimmter Benutzer laufen müssen oder gerade nicht
 - Wenn mehrere SSH-Sitzungen offen sind und du den Überblick verloren hast
 
 !!! tip "Gut zu wissen"
-    `whoami` zeigt den **effektiven** Benutzer – deshalb gibt `sudo whoami` `root` aus.
+    `whoami` zeigt den **effektiven** Benutzer. Deshalb gibt `sudo whoami` `root` aus.
     Der Befehl entspricht `id -un`.
 
 !!! warning "`whoami` ist nicht `who am i`"

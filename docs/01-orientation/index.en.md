@@ -118,5 +118,5 @@ last -n 5     # who logged in recently?
 ```
 
 !!! tip "Learning path"
-    The commands are sorted from simple to more complex. Work through them in order –
-    later pages build on the earlier ones.
+    The commands are sorted from simple to more complex. Work through them in order,
+    since later pages build on the earlier ones.

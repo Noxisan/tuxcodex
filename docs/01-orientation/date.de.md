@@ -101,7 +101,7 @@ Mon Oct 26 10:42:17 CET 2026
 ## Wann brauche ich das?
 
 - Um Uhrzeit und Zeitzone des Servers zu prüfen, bevor du Logeinträge vergleichst
-- Für Dateinamen von Backups und Exporten (`backup-2026-10-26.tar.gz`) – mit `%F`
+- Für Dateinamen von Backups und Exporten (`backup-2026-10-26.tar.gz`), mit `%F`
   werden sie richtig sortiert
 - Für Zeitstempel in eigenen Skripten und Logmeldungen
 - Um Unix-Zeitstempel aus Logs, Datenbanken oder APIs in ein lesbares Datum umzuwandeln

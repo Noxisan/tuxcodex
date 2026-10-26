@@ -1,6 +1,6 @@
 # who
 
-> Zeigt, wer gerade am System angemeldet ist – an welchem Terminal und von wo.
+> Zeigt, wer gerade am System angemeldet ist, an welchem Terminal und von wo.
 
 ## Syntax
 
@@ -85,19 +85,19 @@ who -b
 
 - Vor einem Neustart oder einer Wartung: Arbeitet gerade noch jemand auf dem Server?
 - Um ungewöhnliche Anmeldungen zu entdecken, etwa von einer unbekannten IP-Adresse
-- Um herauszufinden, von welcher Adresse du selbst verbunden bist (`who am i`) – zum
+- Um herauszufinden, von welcher Adresse du selbst verbunden bist (`who am i`), zum
   Beispiel für eine Firewall-Regel
 - Um das Terminal (`pts/1`) einer anderen Sitzung zu finden, bevor du ihr mit `write`
   eine Nachricht schickst oder sie beendest
 
 !!! tip "Gut zu wissen"
-    `who am i` zeigt den Benutzer, der sich am Terminal **angemeldet** hat – auch nach
+    `who am i` zeigt den Benutzer, der sich am Terminal **angemeldet** hat, auch nach
     `sudo -i` oder `su`. [`whoami`](whoami.md) zeigt dagegen, als wer du gerade arbeitest.
 
 !!! warning "Unbekannte Anmeldungen"
     Zeigt `who` eine Sitzung von einer Adresse, die du nicht kennst, prüfe sie sofort mit
     [`w`](w.md) (was macht sie gerade?) und in den SSH-Logs. Notiere Benutzer, Terminal, Adresse
-    und Uhrzeit, bevor du die Sitzung beendest – so kannst du später nachforschen.
+    und Uhrzeit, bevor du die Sitzung beendest. So kannst du später nachforschen.
 
 ## Verwandte Befehle
 

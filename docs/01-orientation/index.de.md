@@ -119,4 +119,4 @@ last -n 5     # wer hat sich zuletzt angemeldet?
 
 !!! tip "Lernpfad"
     Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
-    durch – spätere Seiten bauen auf den früheren auf.
+    durch. Spätere Seiten bauen auf den früheren auf.

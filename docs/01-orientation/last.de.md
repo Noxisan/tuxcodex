@@ -1,6 +1,6 @@
 # last
 
-> Zeigt die Anmelde-Historie: wer sich wann, von wo und wie lange angemeldet hat – dazu die Neustarts.
+> Zeigt die Anmelde-Historie: wer sich wann, von wo und wie lange angemeldet hat, dazu die Neustarts.
 
 ## Syntax
 
@@ -88,7 +88,7 @@ wtmpdb begins Tue Sep  9 14:20:11 2025
 ## Wann brauche ich das?
 
 - Nach einem Vorfall: Wer war zu dem Zeitpunkt angemeldet, und von welcher Adresse?
-- Um zu prüfen, wann der Server zuletzt neu gestartet wurde – und mit welchem Kernel
+- Um zu prüfen, wann der Server zuletzt neu gestartet wurde und mit welchem Kernel
 - Um Anmeldungen zu ungewöhnlichen Zeiten oder von unbekannten Adressen zu entdecken
 - Um Wartungsarbeiten zu dokumentieren: Wann hat sich ein Kollege angemeldet, und wie
   lange war er da?

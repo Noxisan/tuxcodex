@@ -75,7 +75,7 @@ ls /boot/vmlinuz-*
 /boot/vmlinuz-6.12.48+deb13-amd64
 ```
 
-Der neueste installierte Kernel (`6.12.48`) läuft noch nicht – der Server braucht einen Neustart.
+Der neueste installierte Kernel (`6.12.48`) läuft noch nicht. Der Server braucht einen Neustart.
 
 ![uname output](../assets/screenshots/01-orientation/uname.png)
 
@@ -87,7 +87,7 @@ Der neueste installierte Kernel (`6.12.48`) läuft noch nicht – der Server bra
   oder ein Docker-Image
 - Um passende Kernel-Header oder -Module zu installieren (DKMS, VirtualBox, WireGuard
   auf älteren Systemen)
-- Für Bug-Reports und Hilfeanfragen – die Kernel-Version ist meist die erste Frage
+- Für Bug-Reports und Hilfeanfragen, denn die Kernel-Version ist meist die erste Frage
 
 !!! tip "Version der Distribution"
     `uname` kennt nur den Kernel, nicht die Distribution. Die Debian-Version bekommst du

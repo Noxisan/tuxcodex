@@ -1,6 +1,6 @@
 # hostname
 
-> Zeigt den Namen der Maschine an, auf der du gerade bist – oder setzt ihn vorübergehend.
+> Zeigt den Namen der Maschine an, auf der du gerade bist, oder setzt ihn vorübergehend.
 
 ## Syntax
 
@@ -80,12 +80,12 @@ test-srv
 - Um sicherzugehen, dass du auf dem richtigen Server bist, bevor du etwas änderst
 - Um mit `hostname -I` schnell die IP-Adressen des Servers zu sehen, ohne dich durch die
   Ausgabe von `ip address` zu lesen
-- Um zu prüfen, ob der FQDN stimmt – darauf verlassen sich Mailserver, Zertifikate und
+- Um zu prüfen, ob der FQDN stimmt, denn darauf verlassen sich Mailserver, Zertifikate und
   manche Monitoring-Agenten
 - In Skripten und Logmeldungen, die den Maschinennamen enthalten sollen
 
 !!! tip "Schnell die IP herausfinden"
-    `hostname -I` ist der schnellste Weg zu den Adressen eines Servers – etwa wenn du an
+    `hostname -I` ist der schnellste Weg zu den Adressen eines Servers, etwa wenn du an
     der Konsole sitzt und die IP für SSH brauchst.
 
 !!! warning "`-i` zeigt unter Debian `127.0.1.1`"
@@ -94,7 +94,7 @@ test-srv
 
 !!! warning "Änderungen sind nicht dauerhaft"
     `hostname NAME` ändert den Namen nur bis zum nächsten Neustart. Dauerhaft änderst du
-    ihn mit `hostnamectl hostname NAME` – und passt zusätzlich den Eintrag in
+    ihn mit `hostnamectl hostname NAME` und passt zusätzlich den Eintrag in
     `/etc/hosts` an.
 
 ## Debian vs. Arch
