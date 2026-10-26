@@ -75,6 +75,12 @@ tunnelling connections and protecting the SSH server against attacks.
 
     Interactive file transfer over SSH.
 
+-   :material-folder-sync-outline:{ .lg .middle } **[rsync](rsync.md)**
+
+    ---
+
+    Synchronise files, only changes are sent.
+
 </div>
 
 ## Server

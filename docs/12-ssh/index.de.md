@@ -75,6 +75,12 @@ Verbindungen tunneln und den SSH-Server gegen Angriffe schützen.
 
     Interaktive Dateiübertragung über SSH.
 
+-   :material-folder-sync-outline:{ .lg .middle } **[rsync](rsync.md)**
+
+    ---
+
+    Dateien abgleichen, nur Änderungen werden übertragen.
+
 </div>
 
 ## Server
