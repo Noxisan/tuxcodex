@@ -138,7 +138,3 @@ Special permissions:
     3. Can I reach the file at all? `namei -l /full/path/FILE` shows the permissions of
        every directory on the way. Every directory needs `x`.
     4. Are there ACLs (`+` after the permissions in `ls -l`) or attributes like `i`?
-
-!!! tip "Learning path"
-    The commands are sorted from simple to more complex. Work through them in order,
-    since later pages build on the earlier ones.

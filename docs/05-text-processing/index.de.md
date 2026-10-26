@@ -156,7 +156,3 @@ awk '{print $1}' /var/log/nginx/access.log | sort | uniq -c | sort -rn | head
 
 `awk` nimmt die erste Spalte (die IP), `sort` gruppiert gleiche Adressen, `uniq -c` zählt
 sie, `sort -rn` setzt die höchste Zahl nach oben, und `head` behält die Top 10.
-
-!!! tip "Lernpfad"
-    Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
-    durch. Spätere Seiten bauen auf den früheren auf.

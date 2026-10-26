@@ -116,7 +116,3 @@ uptime        # how long has it been running, how high is the load?
 w             # who else is logged in, and what is running?
 last -n 5     # who logged in recently?
 ```
-
-!!! tip "Learning path"
-    The commands are sorted from simple to more complex. Work through them in order,
-    since later pages build on the earlier ones.

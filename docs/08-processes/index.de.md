@@ -188,7 +188,3 @@ Die wichtigsten Signale:
     Dienste wie nginx oder PostgreSQL startest und stoppst du mit `systemctl`, das im
     Kapitel über systemd behandelt wird. Die Befehle in diesem Kapitel helfen dir
     herauszufinden, was läuft, und mit Prozessen umzugehen, die nicht mehr reagieren.
-
-!!! tip "Lernpfad"
-    Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
-    durch. Spätere Seiten bauen auf den früheren auf.

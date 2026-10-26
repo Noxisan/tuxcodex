@@ -117,7 +117,3 @@ rückgängig machen. Diese Gewohnheiten schützen dich auf jedem Server:
 | Mit Rechten und Zeitstempeln kopieren | `cp -a` statt `cp -r` |
 | Vor relativen Pfaden prüfen, wo du bist | `pwd` |
 | Namen mit Leerzeichen in Anführungszeichen setzen | `rm "old backup.tar.gz"` |
-
-!!! tip "Lernpfad"
-    Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
-    durch. Spätere Seiten bauen auf den früheren auf.

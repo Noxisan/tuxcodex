@@ -138,7 +138,3 @@ Sonderrechte:
     3. Komme ich überhaupt an die Datei? `namei -l /voller/pfad/DATEI` zeigt die Rechte
        jedes Verzeichnisses auf dem Weg. Jedes Verzeichnis braucht `x`.
     4. Gibt es ACLs (`+` hinter den Rechten bei `ls -l`) oder Attribute wie `i`?
-
-!!! tip "Lernpfad"
-    Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
-    durch. Spätere Seiten bauen auf den früheren auf.

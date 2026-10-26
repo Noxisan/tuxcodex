@@ -109,7 +109,20 @@
   background-color: var(--tc-surface);
 }
 
-.md-typeset .grid.cards > ul > li:hover {
+/* Whole card is clickable when its title is a link */
+.md-typeset .grid.cards > ul > li:has(> p:first-child a) {
+  position: relative;
+  cursor: pointer;
+}
+
+.md-typeset .grid.cards > ul > li > p:first-child a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.md-typeset .grid.cards > ul > li:has(> p:first-child a):hover {
   border-color: var(--tc-accent);
 }
 

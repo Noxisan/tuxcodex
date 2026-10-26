@@ -156,7 +156,3 @@ awk '{print $1}' /var/log/nginx/access.log | sort | uniq -c | sort -rn | head
 
 `awk` takes the first column (the IP), `sort` groups identical addresses, `uniq -c`
 counts them, `sort -rn` puts the highest number on top and `head` keeps the top 10.
-
-!!! tip "Learning path"
-    The commands are sorted from simple to more complex. Work through them in order,
-    since later pages build on the earlier ones.

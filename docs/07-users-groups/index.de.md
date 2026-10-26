@@ -172,7 +172,3 @@ nox:x:1000:1000:Nox,,,:/home/nox:/bin/bash
     Nimm die Befehle aus diesem Kapitel, statt `/etc/passwd`, `/etc/shadow` oder
     `/etc/group` mit einem Editor zu bearbeiten. Sie sperren die Dateien und halten alle
     zueinander stimmig. Wenn es wirklich sein muss, nimm `vipw` und `vigr`.
-
-!!! tip "Lernpfad"
-    Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
-    durch. Spätere Seiten bauen auf den früheren auf.

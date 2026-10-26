@@ -116,7 +116,3 @@ uptime        # wie lange läuft sie schon, wie hoch ist die Last?
 w             # wer ist noch angemeldet, und was läuft gerade?
 last -n 5     # wer hat sich zuletzt angemeldet?
 ```
-
-!!! tip "Lernpfad"
-    Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
-    durch. Spätere Seiten bauen auf den früheren auf.

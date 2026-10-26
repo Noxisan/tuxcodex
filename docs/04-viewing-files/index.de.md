@@ -118,7 +118,3 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
     Auf Distributionen mit systemd schreiben viele Dienste keine eigenen Logdateien,
     sondern ins systemd-Journal. Diese liest du mit `journalctl`, das im Kapitel über
     Logs ausführlich behandelt wird.
-
-!!! tip "Lernpfad"
-    Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
-    durch. Spätere Seiten bauen auf den früheren auf.

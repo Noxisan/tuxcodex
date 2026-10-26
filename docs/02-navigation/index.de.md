@@ -117,7 +117,3 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 | `/proc`, `/sys` | Virtuelle Dateisysteme mit Live-Informationen aus dem Kernel |
 | `/dev` | Geräte (Festplatten, Terminals) |
 | `/mnt`, `/media` | Einhängepunkte für zusätzliche Laufwerke |
-
-!!! tip "Lernpfad"
-    Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
-    durch. Spätere Seiten bauen auf den früheren auf.

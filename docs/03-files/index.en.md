@@ -117,7 +117,3 @@ you on every server:
 | Copy with permissions and timestamps | `cp -a` instead of `cp -r` |
 | Check where you are before using relative paths | `pwd` |
 | Use quotes for names with spaces | `rm "old backup.tar.gz"` |
-
-!!! tip "Learning path"
-    The commands are sorted from simple to more complex. Work through them in order,
-    since later pages build on the earlier ones.

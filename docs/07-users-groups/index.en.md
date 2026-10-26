@@ -172,7 +172,3 @@ nox:x:1000:1000:Nox,,,:/home/nox:/bin/bash
     Use the commands of this chapter instead of editing `/etc/passwd`, `/etc/shadow` or
     `/etc/group` with an editor. They lock the files and keep all of them consistent. If
     you really have to, use `vipw` and `vigr`.
-
-!!! tip "Learning path"
-    The commands are sorted from simple to more complex. Work through them in order,
-    since later pages build on the earlier ones.

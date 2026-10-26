@@ -188,7 +188,3 @@ The most important signals:
     Services like nginx or PostgreSQL are started and stopped with `systemctl`, which is
     covered in the chapter on systemd. The commands in this chapter help you find out
     what is running and handle processes that don't react any more.
-
-!!! tip "Learning path"
-    The commands are sorted from simple to more complex. Work through them in order,
-    since later pages build on the earlier ones.

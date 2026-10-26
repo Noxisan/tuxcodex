@@ -118,7 +118,3 @@ looking for?
 | `/proc`, `/sys` | Virtual file systems with live information from the kernel |
 | `/dev` | Devices (disks, terminals) |
 | `/mnt`, `/media` | Mount points for additional drives |
-
-!!! tip "Learning path"
-    The commands are sorted from simple to more complex. Work through them in order,
-    since later pages build on the earlier ones.
