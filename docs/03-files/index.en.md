@@ -74,6 +74,18 @@ what a file really is.
 
 </div>
 
+## Inspect and change
+
+<div class="grid cards" markdown>
+
+-   :material-file-document-check-outline:{ .lg .middle } **[stat](stat.md)**
+
+    ---
+
+    Show all metadata: size, permissions, owner and timestamps.
+
+</div>
+
 ## Working safely with files
 
 Most mistakes with files happen in a second and can't be undone. These habits protect

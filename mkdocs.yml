@@ -78,6 +78,7 @@ nav:
       - rm: 03-files/rm.md
       - rmdir: 03-files/rmdir.md
       - ln: 03-files/ln.md
+      - stat: 03-files/stat.md
 
 markdown_extensions:
   - admonition

@@ -74,6 +74,18 @@ herausfinden, was eine Datei wirklich ist.
 
 </div>
 
+## Untersuchen und ändern
+
+<div class="grid cards" markdown>
+
+-   :material-file-document-check-outline:{ .lg .middle } **[stat](stat.md)**
+
+    ---
+
+    Zeigt alle Metadaten: Größe, Rechte, Besitzer und Zeitstempel.
+
+</div>
+
 ## Sicher arbeiten mit Dateien
 
 Die meisten Fehler mit Dateien passieren in einer Sekunde und lassen sich nicht
