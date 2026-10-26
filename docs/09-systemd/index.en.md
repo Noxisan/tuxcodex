@@ -50,6 +50,12 @@ restarting or shutting down the server cleanly.
 
 <div class="grid cards" markdown>
 
+-   :material-rocket-launch-outline:{ .lg .middle } **[systemd-run](systemd-run.md)**
+
+    ---
+
+    Run a command as a temporary unit.
+
 </div>
 
 ## System settings

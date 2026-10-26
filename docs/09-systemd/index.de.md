@@ -50,6 +50,12 @@ den Server sauber neu starten oder herunterfahren.
 
 <div class="grid cards" markdown>
 
+-   :material-rocket-launch-outline:{ .lg .middle } **[systemd-run](systemd-run.md)**
+
+    ---
+
+    Einen Befehl als vorübergehende Unit ausführen.
+
 </div>
 
 ## Systemeinstellungen

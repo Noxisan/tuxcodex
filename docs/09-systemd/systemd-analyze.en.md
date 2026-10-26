@@ -109,4 +109,4 @@ The script doesn't exist yet, or the path has a typo.
 
 ## Related commands
 
-[systemctl](systemctl.md) · [journalctl](journalctl.md) · [uptime](../01-orientation/uptime.md)
+[systemctl](systemctl.md) · [journalctl](journalctl.md) · [uptime](../01-orientation/uptime.md) · [systemd-run](systemd-run.md)

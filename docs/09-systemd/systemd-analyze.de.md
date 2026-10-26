@@ -109,4 +109,4 @@ Das Skript existiert noch nicht, oder der Pfad hat einen Tippfehler.
 
 ## Verwandte Befehle
 
-[systemctl](systemctl.md) · [journalctl](journalctl.md) · [uptime](../01-orientation/uptime.md)
+[systemctl](systemctl.md) · [journalctl](journalctl.md) · [uptime](../01-orientation/uptime.md) · [systemd-run](systemd-run.md)
