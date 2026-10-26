@@ -30,6 +30,12 @@ controlling jobs and priorities.
 
     Find PIDs by name, user or command line.
 
+-   :material-identifier:{ .lg .middle } **[pidof](pidof.md)**
+
+    ---
+
+    Print the PIDs of a running program.
+
 </div>
 
 ## Understanding processes
