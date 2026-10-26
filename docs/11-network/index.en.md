@@ -159,4 +159,10 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
 <div class="grid cards" markdown>
 
+-   :material-waveform:{ .lg .middle } **[tcpdump](tcpdump.md)**
+
+    ---
+
+    Record and inspect network packets.
+
 </div>

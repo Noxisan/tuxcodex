@@ -159,4 +159,10 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
 <div class="grid cards" markdown>
 
+-   :material-waveform:{ .lg .middle } **[tcpdump](tcpdump.md)**
+
+    ---
+
+    Netzwerkpakete aufzeichnen und ansehen.
+
 </div>

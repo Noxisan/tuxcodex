@@ -221,6 +221,7 @@ nav:
       - ufw: 11-network/ufw.md
       - firewall-cmd: 11-network/firewall-cmd.md
       - nft: 11-network/nft.md
+      - tcpdump: 11-network/tcpdump.md
 
 markdown_extensions:
   - admonition
