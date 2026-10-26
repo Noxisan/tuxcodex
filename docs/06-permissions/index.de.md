@@ -56,6 +56,18 @@ Attribute, und wie du herausfindest, warum etwas „Permission denied“ meldet.
 
 </div>
 
+## Zugriffslisten (ACLs)
+
+<div class="grid cards" markdown>
+
+-   :material-playlist-check:{ .lg .middle } **[getfacl](getfacl.md)**
+
+    ---
+
+    Zeigt zusätzliche Rechte für einzelne Benutzer und Gruppen.
+
+</div>
+
 ## Rechte verstehen
 
 Jede Datei hat einen Besitzer, eine Gruppe und drei Sätze von Rechten. `ls -l` zeigt sie:

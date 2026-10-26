@@ -56,6 +56,18 @@ attributes, and how to find out why something says "Permission denied".
 
 </div>
 
+## Access control lists (ACLs)
+
+<div class="grid cards" markdown>
+
+-   :material-playlist-check:{ .lg .middle } **[getfacl](getfacl.md)**
+
+    ---
+
+    Show additional permissions for single users and groups.
+
+</div>
+
 ## Understanding permissions
 
 Every file has an owner, a group and three sets of permissions. `ls -l` shows them:
