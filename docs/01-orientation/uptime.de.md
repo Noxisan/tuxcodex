@@ -88,4 +88,4 @@ Außerdem steigt die Last seit 15 Minuten an (`1.05` → `2.10` → `3.92`).
 
 ## Verwandte Befehle
 
-[uname](uname.md)
+[w](w.md) · [uname](uname.md)

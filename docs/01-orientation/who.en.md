@@ -96,9 +96,9 @@ who -b
 
 !!! warning "Unknown logins"
     If `who` shows a session from an address you don't recognise, check it right away
-    with `w` (what is it doing?) and the SSH logs. Note user, terminal, address and
+    with [`w`](w.md) (what is it doing?) and the SSH logs. Note user, terminal, address and
     time before you end the session, so you can investigate later.
 
 ## Related commands
 
-[whoami](whoami.md)
+[w](w.md) · [whoami](whoami.md)

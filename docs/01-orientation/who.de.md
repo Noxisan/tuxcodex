@@ -96,9 +96,9 @@ who -b
 
 !!! warning "Unbekannte Anmeldungen"
     Zeigt `who` eine Sitzung von einer Adresse, die du nicht kennst, prüfe sie sofort mit
-    `w` (was macht sie gerade?) und in den SSH-Logs. Notiere Benutzer, Terminal, Adresse
+    [`w`](w.md) (was macht sie gerade?) und in den SSH-Logs. Notiere Benutzer, Terminal, Adresse
     und Uhrzeit, bevor du die Sitzung beendest – so kannst du später nachforschen.
 
 ## Verwandte Befehle
 
-[whoami](whoami.md)
+[w](w.md) · [whoami](whoami.md)

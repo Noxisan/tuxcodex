@@ -15,3 +15,4 @@ been up and who else is logged in.
 | [uname](uname.md) | Show kernel release and architecture |
 | [uptime](uptime.md) | Show uptime, logged-in users and load average |
 | [who](who.md) | Show who is logged in and from where |
+| [w](w.md) | Show who is logged in and what they are doing |
