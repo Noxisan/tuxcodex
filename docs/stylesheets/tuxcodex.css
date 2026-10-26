@@ -368,3 +368,8 @@
   width: 0.9rem;
   height: 0.9rem;
 }
+
+/* Home page: highlight the subject in the introduction */
+.md-typeset .tc-hero p strong {
+  color: #ffffff;
+}
