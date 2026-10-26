@@ -13,3 +13,4 @@ lange das System schon läuft und wer sonst noch angemeldet ist.
 | [hostname](hostname.md) | Zeigt den Hostnamen oder setzt ihn vorübergehend |
 | [hostnamectl](hostnamectl.md) | Zeigt Systeminformationen und setzt den Hostnamen dauerhaft |
 | [uname](uname.md) | Zeigt Kernel-Release und Architektur |
+| [uptime](uptime.md) | Zeigt Laufzeit, angemeldete Benutzer und Systemlast |

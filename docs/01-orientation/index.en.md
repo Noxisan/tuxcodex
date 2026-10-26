@@ -13,3 +13,4 @@ been up and who else is logged in.
 | [hostname](hostname.md) | Show or temporarily set the host name |
 | [hostnamectl](hostnamectl.md) | Show system information and set the host name permanently |
 | [uname](uname.md) | Show kernel release and architecture |
+| [uptime](uptime.md) | Show uptime, logged-in users and load average |
