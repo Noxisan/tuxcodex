@@ -74,6 +74,18 @@ attributes, and how to find out why something says "Permission denied".
 
 </div>
 
+## File attributes
+
+<div class="grid cards" markdown>
+
+-   :material-tag-search-outline:{ .lg .middle } **[lsattr](lsattr.md)**
+
+    ---
+
+    Show special attributes like immutable or append only.
+
+</div>
+
 ## Understanding permissions
 
 Every file has an owner, a group and three sets of permissions. `ls -l` shows them:

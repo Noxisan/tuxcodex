@@ -121,6 +121,7 @@ nav:
       - namei: 06-permissions/namei.md
       - getfacl: 06-permissions/getfacl.md
       - setfacl: 06-permissions/setfacl.md
+      - lsattr: 06-permissions/lsattr.md
 
 markdown_extensions:
   - admonition

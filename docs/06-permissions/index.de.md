@@ -74,6 +74,18 @@ Attribute, und wie du herausfindest, warum etwas „Permission denied“ meldet.
 
 </div>
 
+## Dateiattribute
+
+<div class="grid cards" markdown>
+
+-   :material-tag-search-outline:{ .lg .middle } **[lsattr](lsattr.md)**
+
+    ---
+
+    Zeigt besondere Attribute wie unveränderlich oder nur anhängen.
+
+</div>
+
 ## Rechte verstehen
 
 Jede Datei hat einen Besitzer, eine Gruppe und drei Sätze von Rechten. `ls -l` zeigt sie:
