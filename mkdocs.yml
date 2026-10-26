@@ -213,6 +213,7 @@ nav:
       - dig: 11-network/dig.md
       - host: 11-network/host.md
       - resolvectl: 11-network/resolvectl.md
+      - curl: 11-network/curl.md
 
 markdown_extensions:
   - admonition

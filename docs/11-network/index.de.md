@@ -93,6 +93,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
 <div class="grid cards" markdown>
 
+-   :material-web:{ .lg .middle } **[curl](curl.md)**
+
+    ---
+
+    Webseiten, APIs und Zertifikate testen.
+
 </div>
 
 ## Netzwerk konfigurieren

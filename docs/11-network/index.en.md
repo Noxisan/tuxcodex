@@ -93,6 +93,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
 <div class="grid cards" markdown>
 
+-   :material-web:{ .lg .middle } **[curl](curl.md)**
+
+    ---
+
+    Test websites, APIs and certificates.
+
 </div>
 
 ## Configure the network
