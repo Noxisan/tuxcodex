@@ -56,6 +56,18 @@ in English and German. Compiled by Nox.
 
     Owners, groups and access rights, and how to fix them.
 
+-   :material-account-multiple-outline:{ .lg .middle } **Users and groups** · *coming soon*
+
+    ---
+
+    Creating and managing users and groups, `sudo` and `su`.
+
+-   :material-cog-transfer-outline:{ .lg .middle } **Processes** · *coming soon*
+
+    ---
+
+    Finding, watching and stopping running programs.
+
 </div>
 
 ## All commands

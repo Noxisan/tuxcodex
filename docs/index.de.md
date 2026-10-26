@@ -56,6 +56,18 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
 
     Besitzer, Gruppen und Zugriffsrechte, und wie man sie korrigiert.
 
+-   :material-account-multiple-outline:{ .lg .middle } **Benutzer und Gruppen** · *in Arbeit*
+
+    ---
+
+    Benutzer und Gruppen anlegen und verwalten, `sudo` und `su`.
+
+-   :material-cog-transfer-outline:{ .lg .middle } **Prozesse** · *in Arbeit*
+
+    ---
+
+    Laufende Programme finden, beobachten und beenden.
+
 </div>
 
 ## Alle Befehle
