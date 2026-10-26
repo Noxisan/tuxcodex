@@ -14,11 +14,6 @@ Das praxisnahe Nachschlagewerk für **Linux-Administration und DevOps**.
 Jeder Befehl mit Syntax, echten Beispielen und Tipps aus dem Server-Alltag,
 auf Deutsch und Englisch. Zusammengestellt von Nox.
 
-<form class="tc-search" role="search" onsubmit="return false">
-  <input type="search" id="tc-search-input" placeholder="Befehle, Optionen, Beispiele suchen …" aria-label="Suche" autocomplete="off" spellcheck="false" data-empty="Keine Treffer">
-  <ul id="tc-search-results" class="tc-search-results" hidden></ul>
-</form>
-
 </div>
 
 ## Kapitel

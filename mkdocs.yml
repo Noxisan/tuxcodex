@@ -134,7 +134,6 @@ extra_css:
 
 extra_javascript:
   - javascripts/header.js
-  - javascripts/home-search.js
 
 hooks:
   - hooks/command_index.py
