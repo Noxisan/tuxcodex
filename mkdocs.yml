@@ -63,6 +63,7 @@ nav:
       - tree: 02-navigation/tree.md
       - pushd: 02-navigation/pushd.md
       - popd: 02-navigation/popd.md
+      - find: 02-navigation/find.md
 
 markdown_extensions:
   - admonition

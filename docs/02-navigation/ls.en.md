@@ -140,8 +140,8 @@ drwxr-xr-x 79 root root 4096 Oct 26 08:01 /etc
 
 !!! warning "Don't use `ls` output in scripts"
     File names can contain spaces and special characters that break the output of `ls`.
-    In scripts, use `for f in /path/*` or `find` instead.
+    In scripts, use `for f in /path/*` or [`find`](find.md) instead.
 
 ## Related commands
 
-[cd](cd.md) · [pwd](pwd.md) · [tree](tree.md)
+[cd](cd.md) · [pwd](pwd.md) · [tree](tree.md) · [find](find.md)

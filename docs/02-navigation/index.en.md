@@ -62,6 +62,18 @@ looking for?
 
 </div>
 
+## Where is it?
+
+<div class="grid cards" markdown>
+
+-   :material-file-search-outline:{ .lg .middle } **[find](find.md)**
+
+    ---
+
+    Search files by name, type, size, age or owner.
+
+</div>
+
 ## The most important directories on a Debian server
 
 | Directory | Contents |

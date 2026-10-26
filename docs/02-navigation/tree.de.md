@@ -133,4 +133,4 @@ tree -I '*.gz'
 
 ## Verwandte Befehle
 
-[ls](ls.md) · [cd](cd.md)
+[ls](ls.md) · [cd](cd.md) · [find](find.md)

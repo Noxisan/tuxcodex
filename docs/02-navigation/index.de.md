@@ -61,6 +61,18 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
 </div>
 
+## Wo ist es?
+
+<div class="grid cards" markdown>
+
+-   :material-file-search-outline:{ .lg .middle } **[find](find.md)**
+
+    ---
+
+    Sucht Dateien nach Name, Typ, Größe, Alter oder Besitzer.
+
+</div>
+
 ## Die wichtigsten Verzeichnisse auf einem Debian-Server
 
 | Verzeichnis | Inhalt |

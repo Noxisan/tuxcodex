@@ -140,8 +140,8 @@ drwxr-xr-x 79 root root 4096 Oct 26 08:01 /etc
 
 !!! warning "Die Ausgabe von `ls` nicht in Skripten verwenden"
     Dateinamen können Leerzeichen und Sonderzeichen enthalten, die die Ausgabe von `ls`
-    unbrauchbar machen. Nimm in Skripten stattdessen `for f in /pfad/*` oder `find`.
+    unbrauchbar machen. Nimm in Skripten stattdessen `for f in /pfad/*` oder [`find`](find.md).
 
 ## Verwandte Befehle
 
-[cd](cd.md) · [pwd](pwd.md) · [tree](tree.md)
+[cd](cd.md) · [pwd](pwd.md) · [tree](tree.md) · [find](find.md)
