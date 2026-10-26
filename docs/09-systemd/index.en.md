@@ -98,4 +98,10 @@ restarting or shutting down the server cleanly.
 
     Show and end login sessions.
 
+-   :material-power:{ .lg .middle } **[shutdown](shutdown.md)**
+
+    ---
+
+    Shut down or reboot, now or at a set time.
+
 </div>

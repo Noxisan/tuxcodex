@@ -98,4 +98,10 @@ den Server sauber neu starten oder herunterfahren.
 
     Anmeldesitzungen anzeigen und beenden.
 
+-   :material-power:{ .lg .middle } **[shutdown](shutdown.md)**
+
+    ---
+
+    Herunterfahren oder neu starten, sofort oder zeitgesteuert.
+
 </div>

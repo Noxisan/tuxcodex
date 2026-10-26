@@ -101,4 +101,4 @@ Linger=yes
 
 ## Related commands
 
-[who](../01-orientation/who.md) · [w](../01-orientation/w.md) · [pkill](../08-processes/pkill.md) · [systemd-run](systemd-run.md)
+[who](../01-orientation/who.md) · [w](../01-orientation/w.md) · [pkill](../08-processes/pkill.md) · [systemd-run](systemd-run.md) · [shutdown](shutdown.md)

@@ -184,6 +184,7 @@ nav:
       - loginctl: 09-systemd/loginctl.md
       - localectl: 09-systemd/localectl.md
       - systemd-tmpfiles: 09-systemd/systemd-tmpfiles.md
+      - shutdown: 09-systemd/shutdown.md
 
 markdown_extensions:
   - admonition
