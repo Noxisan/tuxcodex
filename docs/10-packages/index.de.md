@@ -32,6 +32,12 @@ zu welchem Paket eine Datei gehört, und einen Server aktuell halten.
 
     Verfügbare Versionen und Abhängigkeiten.
 
+-   :material-package-variant:{ .lg .middle } **[dpkg](dpkg.md)**
+
+    ---
+
+    Installierte Pakete, ihre Dateien und .deb-Dateien.
+
 </div>
 
 ## RHEL

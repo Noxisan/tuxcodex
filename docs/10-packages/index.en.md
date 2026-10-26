@@ -32,6 +32,12 @@ package a file belongs to, and keeping a server up to date.
 
     Available versions and dependencies.
 
+-   :material-package-variant:{ .lg .middle } **[dpkg](dpkg.md)**
+
+    ---
+
+    Installed packages, their files and .deb files.
+
 </div>
 
 ## RHEL

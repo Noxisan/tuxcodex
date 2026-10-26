@@ -127,4 +127,4 @@ nginx-doc - small, powerful, scalable web/proxy server - documentation
 
 ## Verwandte Befehle
 
-[apt](apt.md)
+[apt](apt.md) · [dpkg](dpkg.md)

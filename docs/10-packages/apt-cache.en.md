@@ -126,4 +126,4 @@ nginx-doc - small, powerful, scalable web/proxy server - documentation
 
 ## Related commands
 
-[apt](apt.md)
+[apt](apt.md) · [dpkg](dpkg.md)

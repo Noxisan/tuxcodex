@@ -192,6 +192,7 @@ nav:
       - Basics: 10-packages/basics.md
       - apt: 10-packages/apt.md
       - apt-cache: 10-packages/apt-cache.md
+      - dpkg: 10-packages/dpkg.md
 
 markdown_extensions:
   - admonition
