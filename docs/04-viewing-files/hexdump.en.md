@@ -106,4 +106,4 @@ An alternative is `xxd` from the package of the same name.
 
 ## Related commands
 
-[file](../03-files/file.md) · [cat](cat.md)
+[file](../03-files/file.md) · [cat](cat.md) · [strings](strings.md)

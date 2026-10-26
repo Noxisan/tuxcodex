@@ -108,4 +108,4 @@ Eine Alternative ist `xxd` aus dem gleichnamigen Paket.
 
 ## Verwandte Befehle
 
-[file](../03-files/file.md) · [cat](cat.md)
+[file](../03-files/file.md) · [cat](cat.md) · [strings](strings.md)

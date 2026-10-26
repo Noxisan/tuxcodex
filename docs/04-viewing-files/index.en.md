@@ -96,6 +96,12 @@ text files to compressed logs and binary files.
 
     Show the bytes of a file in hexadecimal.
 
+-   :material-format-text:{ .lg .middle } **[strings](strings.md)**
+
+    ---
+
+    Pull readable text out of binary files.
+
 </div>
 
 ## Reading logs

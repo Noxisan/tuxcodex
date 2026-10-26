@@ -96,6 +96,12 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
     Zeigt die Bytes einer Datei hexadezimal an.
 
+-   :material-format-text:{ .lg .middle } **[strings](strings.md)**
+
+    ---
+
+    Zieht lesbaren Text aus Binärdateien.
+
 </div>
 
 ## Logs lesen
