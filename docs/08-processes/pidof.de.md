@@ -89,4 +89,4 @@ pidof -x backup.sh
 
 ## Verwandte Befehle
 
-[pgrep](pgrep.md) · [ps](ps.md)
+[pgrep](pgrep.md) · [ps](ps.md) · [lsof](lsof.md)

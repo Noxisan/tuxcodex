@@ -66,6 +66,12 @@ und Jobs und Prioritäten steuern.
 
     Belegter, freier und verfügbarer Speicher und Swap.
 
+-   :material-file-lock-outline:{ .lg .middle } **[lsof](lsof.md)**
+
+    ---
+
+    Offene Dateien, Ports und wer sie hält.
+
 </div>
 
 ## Prozesse verstehen

@@ -66,6 +66,12 @@ controlling jobs and priorities.
 
     Used, free and available memory and swap.
 
+-   :material-file-lock-outline:{ .lg .middle } **[lsof](lsof.md)**
+
+    ---
+
+    Open files, ports and who holds them.
+
 </div>
 
 ## Understanding processes

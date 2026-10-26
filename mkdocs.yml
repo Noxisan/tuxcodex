@@ -152,6 +152,7 @@ nav:
       - top: 08-processes/top.md
       - htop: 08-processes/htop.md
       - free: 08-processes/free.md
+      - lsof: 08-processes/lsof.md
 
 markdown_extensions:
   - admonition
