@@ -94,7 +94,7 @@ pushd -n /tmp
 - When you work in several places at once, for example editing a config in `/etc/nginx`
   and checking the result in `/var/log/nginx`
 - In scripts that briefly work in another directory and then return to where they
-  started (together with `popd`)
+  started (together with [`popd`](popd.md))
 - When `cd -` is not enough because you need more than two directories
 
 !!! tip "`pushd` without arguments"
@@ -107,4 +107,4 @@ pushd -n /tmp
 
 ## Related commands
 
-[cd](cd.md) · [pwd](pwd.md)
+[cd](cd.md) · [pwd](pwd.md) · [popd](popd.md)

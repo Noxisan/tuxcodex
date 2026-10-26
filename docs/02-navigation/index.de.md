@@ -35,6 +35,12 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
     Wechselt das Verzeichnis und merkt sich das vorherige auf einem Stapel.
 
+-   :material-layers-minus:{ .lg .middle } **[popd](popd.md)**
+
+    ---
+
+    Springt zum vorherigen Verzeichnis auf dem Stapel zurück.
+
 </div>
 
 ## Was liegt hier?

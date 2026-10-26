@@ -36,6 +36,12 @@ looking for?
 
     Change directory and remember the previous one on a stack.
 
+-   :material-layers-minus:{ .lg .middle } **[popd](popd.md)**
+
+    ---
+
+    Jump back to the previous directory on the stack.
+
 </div>
 
 ## What is in here?

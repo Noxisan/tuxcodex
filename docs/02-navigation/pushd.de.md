@@ -93,7 +93,7 @@ pushd -n /tmp
 - Wenn du an mehreren Stellen gleichzeitig arbeitest, etwa eine Konfiguration in
   `/etc/nginx` bearbeitest und das Ergebnis in `/var/log/nginx` prüfst
 - In Skripten, die kurz in einem anderen Verzeichnis arbeiten und danach an den
-  Ausgangspunkt zurückkehren (zusammen mit `popd`)
+  Ausgangspunkt zurückkehren (zusammen mit [`popd`](popd.md))
 - Wenn `cd -` nicht reicht, weil du mehr als zwei Verzeichnisse brauchst
 
 !!! tip "`pushd` ohne Argumente"
@@ -106,4 +106,4 @@ pushd -n /tmp
 
 ## Verwandte Befehle
 
-[cd](cd.md) · [pwd](pwd.md)
+[cd](cd.md) · [pwd](pwd.md) · [popd](popd.md)
