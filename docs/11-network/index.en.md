@@ -75,6 +75,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     Ask DNS servers directly.
 
+-   :material-dns:{ .lg .middle } **[host](host.md)**
+
+    ---
+
+    Short DNS lookups.
+
 </div>
 
 ## HTTP and downloads

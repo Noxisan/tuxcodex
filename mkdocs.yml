@@ -211,6 +211,7 @@ nav:
       - ss: 11-network/ss.md
       - nc: 11-network/nc.md
       - dig: 11-network/dig.md
+      - host: 11-network/host.md
 
 markdown_extensions:
   - admonition

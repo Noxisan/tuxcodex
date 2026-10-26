@@ -75,6 +75,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     DNS-Server direkt fragen.
 
+-   :material-dns:{ .lg .middle } **[host](host.md)**
+
+    ---
+
+    Kurze DNS-Abfragen.
+
 </div>
 
 ## HTTP und Downloads
