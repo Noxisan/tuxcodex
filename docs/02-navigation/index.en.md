@@ -72,6 +72,12 @@ looking for?
 
     Search files by name, type, size, age or owner.
 
+-   :material-database-search-outline:{ .lg .middle } **[locate](locate.md)**
+
+    ---
+
+    Find files by name in a moment using a database.
+
 </div>
 
 ## The most important directories on a Debian server

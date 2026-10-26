@@ -71,6 +71,12 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
     Sucht Dateien nach Name, Typ, Größe, Alter oder Besitzer.
 
+-   :material-database-search-outline:{ .lg .middle } **[locate](locate.md)**
+
+    ---
+
+    Findet Dateien blitzschnell über eine Datenbank.
+
 </div>
 
 ## Die wichtigsten Verzeichnisse auf einem Debian-Server

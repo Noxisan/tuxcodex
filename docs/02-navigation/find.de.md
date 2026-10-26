@@ -128,4 +128,4 @@ total 8
 
 ## Verwandte Befehle
 
-[ls](ls.md) · [tree](tree.md)
+[ls](ls.md) · [tree](tree.md) · [locate](locate.md)

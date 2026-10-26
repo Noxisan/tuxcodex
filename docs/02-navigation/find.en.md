@@ -126,4 +126,4 @@ total 8
 
 ## Related commands
 
-[ls](ls.md) · [tree](tree.md)
+[ls](ls.md) · [tree](tree.md) · [locate](locate.md)
