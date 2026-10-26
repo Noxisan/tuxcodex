@@ -144,6 +144,12 @@ controlling jobs and priorities.
 
     Start a command with a different priority.
 
+-   :material-tune-variant:{ .lg .middle } **[renice](renice.md)**
+
+    ---
+
+    Change the priority of a running process.
+
 </div>
 
 ## Understanding processes

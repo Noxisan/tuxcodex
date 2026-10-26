@@ -144,6 +144,12 @@ und Jobs und Prioritäten steuern.
 
     Einen Befehl mit anderer Priorität starten.
 
+-   :material-tune-variant:{ .lg .middle } **[renice](renice.md)**
+
+    ---
+
+    Die Priorität eines laufenden Prozesses ändern.
+
 </div>
 
 ## Prozesse verstehen

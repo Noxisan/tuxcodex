@@ -86,4 +86,4 @@ The script still runs, but with the normal value `0`. With `sudo`, it would get 
 
 ## Related commands
 
-[ps](ps.md) · [top](top.md) · [timeout](timeout.md)
+[ps](ps.md) · [top](top.md) · [timeout](timeout.md) · [renice](renice.md)

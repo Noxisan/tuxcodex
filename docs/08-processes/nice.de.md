@@ -87,4 +87,4 @@ Das Skript läuft trotzdem, aber mit dem normalen Wert `0`. Mit `sudo` bekäme e
 
 ## Verwandte Befehle
 
-[ps](ps.md) · [top](top.md) · [timeout](timeout.md)
+[ps](ps.md) · [top](top.md) · [timeout](timeout.md) · [renice](renice.md)

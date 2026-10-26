@@ -162,6 +162,7 @@ nav:
       - fg: 08-processes/fg.md
       - nohup: 08-processes/nohup.md
       - nice: 08-processes/nice.md
+      - renice: 08-processes/renice.md
 
 markdown_extensions:
   - admonition
