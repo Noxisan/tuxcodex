@@ -104,4 +104,4 @@ lsattr -d /var/log/app
 
 ## Related commands
 
-[stat](../03-files/stat.md) · [ls](../02-navigation/ls.md)
+[stat](../03-files/stat.md) · [ls](../02-navigation/ls.md) · [chattr](chattr.md)

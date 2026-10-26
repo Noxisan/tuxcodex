@@ -122,6 +122,7 @@ nav:
       - getfacl: 06-permissions/getfacl.md
       - setfacl: 06-permissions/setfacl.md
       - lsattr: 06-permissions/lsattr.md
+      - chattr: 06-permissions/chattr.md
 
 markdown_extensions:
   - admonition

@@ -84,6 +84,12 @@ Attribute, und wie du herausfindest, warum etwas „Permission denied“ meldet.
 
     Zeigt besondere Attribute wie unveränderlich oder nur anhängen.
 
+-   :material-tag-edit-outline:{ .lg .middle } **[chattr](chattr.md)**
+
+    ---
+
+    Schützt Dateien mit Attributen wie unveränderlich.
+
 </div>
 
 ## Rechte verstehen

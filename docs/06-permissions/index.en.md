@@ -84,6 +84,12 @@ attributes, and how to find out why something says "Permission denied".
 
     Show special attributes like immutable or append only.
 
+-   :material-tag-edit-outline:{ .lg .middle } **[chattr](chattr.md)**
+
+    ---
+
+    Protect files with attributes like immutable.
+
 </div>
 
 ## Understanding permissions
