@@ -33,6 +33,12 @@ Verbindungen tunneln und den SSH-Server gegen Angriffe schützen.
 
 <div class="grid cards" markdown>
 
+-   :material-key-plus:{ .lg .middle } **[ssh-keygen](ssh-keygen.md)**
+
+    ---
+
+    SSH-Schlüssel erzeugen und verwalten.
+
 </div>
 
 ## Dateien übertragen

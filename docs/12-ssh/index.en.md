@@ -33,6 +33,12 @@ tunnelling connections and protecting the SSH server against attacks.
 
 <div class="grid cards" markdown>
 
+-   :material-key-plus:{ .lg .middle } **[ssh-keygen](ssh-keygen.md)**
+
+    ---
+
+    Create and manage SSH keys.
+
 </div>
 
 ## Transfer files
