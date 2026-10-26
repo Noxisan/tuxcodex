@@ -47,7 +47,8 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
 
     ---
 
-    Dateien und Logs lesen: `cat`, `less`, `head`, `tail`.
+    Dateien und Logs lesen, auch komprimierte und binäre Dateien.
+    `cat`, `tac`, `nl`, `less`, `head`, `tail`, `zcat`, `zless`, `hexdump`, `strings`
 
 </div>
 

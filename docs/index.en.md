@@ -47,7 +47,8 @@ in English and German. Compiled by Nox.
 
     ---
 
-    Reading files and logs: `cat`, `less`, `head`, `tail`.
+    Reading files and logs, also compressed and binary files.
+    `cat`, `tac`, `nl`, `less`, `head`, `tail`, `zcat`, `zless`, `hexdump`, `strings`
 
 </div>
 
