@@ -112,9 +112,9 @@ Der Zombie `4021` wartet auf seinen Elternprozess `4010`. Nur der kann ihn aufr�
     den Elternprozess. Nimm, was zur Frage passt, die Liste ist dieselbe.
 
 !!! warning "`ps aux | grep` findet sich selbst"
-    `ps aux | grep nginx` zeigt auch den `grep`-Prozess selbst. Nimm stattdessen `pgrep`
+    `ps aux | grep nginx` zeigt auch den `grep`-Prozess selbst. Nimm stattdessen [`pgrep`](pgrep.md)
     oder den Trick `ps aux | grep '[n]ginx'`.
 
 ## Verwandte Befehle
 
-[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md)
+[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md) · [pgrep](pgrep.md)

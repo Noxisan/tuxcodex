@@ -113,8 +113,8 @@ The zombie `4021` waits for its parent `4010`. Only the parent can clean it up.
 
 !!! warning "`ps aux | grep` finds itself"
     `ps aux | grep nginx` also shows the `grep` process itself. Use
-    `pgrep` instead, or the trick `ps aux | grep '[n]ginx'`.
+    [`pgrep`](pgrep.md) instead, or the trick `ps aux | grep '[n]ginx'`.
 
 ## Related commands
 
-[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md)
+[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md) · [pgrep](pgrep.md)

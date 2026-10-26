@@ -146,6 +146,7 @@ nav:
   - Processes:
       - Overview: 08-processes/index.md
       - ps: 08-processes/ps.md
+      - pgrep: 08-processes/pgrep.md
 
 markdown_extensions:
   - admonition

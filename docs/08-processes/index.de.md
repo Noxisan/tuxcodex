@@ -24,6 +24,12 @@ und Jobs und Prioritäten steuern.
 
     Zeigt laufende Prozesse mit CPU, Speicher und Kommandozeile.
 
+-   :material-magnify-scan:{ .lg .middle } **[pgrep](pgrep.md)**
+
+    ---
+
+    Findet PIDs nach Name, Benutzer oder Kommandozeile.
+
 </div>
 
 ## Prozesse verstehen

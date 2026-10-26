@@ -24,6 +24,12 @@ controlling jobs and priorities.
 
     Show running processes with CPU, memory and command line.
 
+-   :material-magnify-scan:{ .lg .middle } **[pgrep](pgrep.md)**
+
+    ---
+
+    Find PIDs by name, user or command line.
+
 </div>
 
 ## Understanding processes
