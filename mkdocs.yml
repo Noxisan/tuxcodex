@@ -48,6 +48,7 @@ nav:
       - id: 01-orientation/id.md
       - hostname: 01-orientation/hostname.md
       - hostnamectl: 01-orientation/hostnamectl.md
+      - uname: 01-orientation/uname.md
 
 markdown_extensions:
   - admonition

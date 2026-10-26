@@ -97,4 +97,4 @@ hostnamectl | grep -E 'Static|Deployment'
 
 ## Verwandte Befehle
 
-[hostname](hostname.md)
+[hostname](hostname.md) · [uname](uname.md)
