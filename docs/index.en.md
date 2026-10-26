@@ -15,7 +15,8 @@ Every command with syntax, real examples and tips from everyday server work,
 in English and German. Compiled by Nox.
 
 <form class="tc-search" role="search" onsubmit="return false">
-  <input type="search" id="tc-search-input" placeholder="Search commands, options, examples …" aria-label="Search" autocomplete="off">
+  <input type="search" id="tc-search-input" placeholder="Search commands, options, examples …" aria-label="Search" autocomplete="off" spellcheck="false" data-empty="No results">
+  <ul id="tc-search-results" class="tc-search-results" hidden></ul>
 </form>
 
 </div>
