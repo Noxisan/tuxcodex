@@ -93,4 +93,10 @@ zu welchem Paket eine Datei gehört, und einen Server aktuell halten.
 
     Sicherheitsupdates automatisch installieren.
 
+-   :material-restart-alert:{ .lg .middle } **[needrestart](needrestart.md)**
+
+    ---
+
+    Dienste finden, die nach Updates einen Neustart brauchen.
+
 </div>

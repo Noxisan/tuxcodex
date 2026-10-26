@@ -199,6 +199,7 @@ nav:
       - rpm: 10-packages/rpm.md
       - pacman: 10-packages/pacman.md
       - unattended-upgrade: 10-packages/unattended-upgrade.md
+      - needrestart: 10-packages/needrestart.md
 
 markdown_extensions:
   - admonition

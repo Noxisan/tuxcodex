@@ -93,4 +93,10 @@ package a file belongs to, and keeping a server up to date.
 
     Install security updates automatically.
 
+-   :material-restart-alert:{ .lg .middle } **[needrestart](needrestart.md)**
+
+    ---
+
+    Find services that need a restart after updates.
+
 </div>

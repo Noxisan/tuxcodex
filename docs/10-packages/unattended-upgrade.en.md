@@ -109,7 +109,7 @@ tail -n 4 /var/log/unattended-upgrades/unattended-upgrades.log
 
 !!! warning "Services keep the old version"
     A running service keeps using the old library until it is restarted. Check with
-    `needrestart` which services need a restart after an update.
+    [`needrestart`](needrestart.md) which services need a restart after an update.
 
 ## Distribution differences
 
@@ -119,4 +119,4 @@ tail -n 4 /var/log/unattended-upgrades/unattended-upgrades.log
 
 ## Related commands
 
-[apt](apt.md) · [apt-mark](apt-mark.md) · [systemctl](../09-systemd/systemctl.md) · [journalctl](../09-systemd/journalctl.md)
+[apt](apt.md) · [apt-mark](apt-mark.md) · [systemctl](../09-systemd/systemctl.md) · [journalctl](../09-systemd/journalctl.md) · [needrestart](needrestart.md)

@@ -110,7 +110,7 @@ tail -n 4 /var/log/unattended-upgrades/unattended-upgrades.log
 
 !!! warning "Dienste behalten die alte Version"
     Ein laufender Dienst nutzt die alte Bibliothek weiter, bis er neu gestartet wird.
-    Prüfe mit `needrestart`, welche Dienste nach einem Update einen
+    Prüfe mit [`needrestart`](needrestart.md), welche Dienste nach einem Update einen
     Neustart brauchen.
 
 ## Unterschiede zwischen Distributionen
@@ -121,4 +121,4 @@ tail -n 4 /var/log/unattended-upgrades/unattended-upgrades.log
 
 ## Verwandte Befehle
 
-[apt](apt.md) · [apt-mark](apt-mark.md) · [systemctl](../09-systemd/systemctl.md) · [journalctl](../09-systemd/journalctl.md)
+[apt](apt.md) · [apt-mark](apt-mark.md) · [systemctl](../09-systemd/systemctl.md) · [journalctl](../09-systemd/journalctl.md) · [needrestart](needrestart.md)
