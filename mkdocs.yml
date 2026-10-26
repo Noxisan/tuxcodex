@@ -145,6 +145,7 @@ nav:
       - visudo: 07-users-groups/visudo.md
   - Processes:
       - Overview: 08-processes/index.md
+      - ps: 08-processes/ps.md
 
 markdown_extensions:
   - admonition

@@ -14,6 +14,18 @@ controlling jobs and priorities.
 
 </div>
 
+## Find processes
+
+<div class="grid cards" markdown>
+
+-   :material-format-list-bulleted-square:{ .lg .middle } **[ps](ps.md)**
+
+    ---
+
+    Show running processes with CPU, memory and command line.
+
+</div>
+
 ## Understanding processes
 
 Every running program is a process with a number, the **PID**. Every process (except

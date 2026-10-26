@@ -14,6 +14,18 @@ und Jobs und Prioritäten steuern.
 
 </div>
 
+## Prozesse finden
+
+<div class="grid cards" markdown>
+
+-   :material-format-list-bulleted-square:{ .lg .middle } **[ps](ps.md)**
+
+    ---
+
+    Zeigt laufende Prozesse mit CPU, Speicher und Kommandozeile.
+
+</div>
+
 ## Prozesse verstehen
 
 Jedes laufende Programm ist ein Prozess mit einer Nummer, der **PID**. Jeder Prozess
