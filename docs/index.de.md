@@ -10,8 +10,9 @@ hide:
 
 # Willkommen bei TuxCodex
 
-Mein persönliches Handbuch für **Linux-Administration und DevOps**.
-Alles, was ich lerne, landet hier: Befehle, Konfigurationen und Fehlerbehebung.
+Das praxisnahe Nachschlagewerk für **Linux-Administration und DevOps**.
+Jeder Befehl mit Syntax, echten Beispielen und Tipps aus dem Server-Alltag,
+auf Deutsch und Englisch. Zusammengestellt von Nox.
 
 [Mit Kapitel 1 starten](01-orientation/index.md){ .md-button .md-button--primary }
 
