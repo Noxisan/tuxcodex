@@ -38,6 +38,7 @@ plugins:
             Home: Startseite
             Orientation: Orientierung
             Navigation: Navigation
+            Files: Dateien
             Overview: Übersicht
 
 nav:
@@ -68,6 +69,8 @@ nav:
       - which: 02-navigation/which.md
       - whereis: 02-navigation/whereis.md
       - realpath: 02-navigation/realpath.md
+  - Files:
+      - Overview: 03-files/index.md
 
 markdown_extensions:
   - admonition

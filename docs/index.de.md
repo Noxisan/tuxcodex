@@ -36,7 +36,7 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
     Im Dateisystem bewegen und Dateien finden.
     `pwd`, `cd`, `ls`, `tree`, `pushd`, `popd`, `find`, `locate`, `which`, `whereis`, `realpath`
 
--   :material-file-document-outline:{ .lg .middle } **Dateien** · *in Arbeit*
+-   :material-file-document-outline:{ .lg .middle } **[Dateien](03-files/index.md)**
 
     ---
 
