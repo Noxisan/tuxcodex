@@ -50,6 +50,18 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
 </div>
 
+## Anfang und Ende
+
+<div class="grid cards" markdown>
+
+-   :material-arrow-collapse-up:{ .lg .middle } **[head](head.md)**
+
+    ---
+
+    Zeigt die ersten Zeilen einer Datei.
+
+</div>
+
 ## Logs lesen
 
 | Aufgabe | Befehl |

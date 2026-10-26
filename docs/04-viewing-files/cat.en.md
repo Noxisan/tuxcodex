@@ -97,7 +97,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIExampleKeyOnlyForThisHandbook0123456789ab n
 
 !!! tip "Long files belong in `less`"
     `cat` prints everything at once, and long files rush past. For anything longer than
-    one screen, use `less`.
+    one screen, use [`less`](less.md).
 
 !!! warning "Binary files mess up the terminal"
     `cat` on a binary file can print control characters that switch the terminal into a
@@ -106,4 +106,4 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIExampleKeyOnlyForThisHandbook0123456789ab n
 
 ## Related commands
 
-[file](../03-files/file.md) · [tac](tac.md) · [nl](nl.md) · [less](less.md)
+[file](../03-files/file.md) · [tac](tac.md) · [nl](nl.md) · [less](less.md) · [head](head.md)

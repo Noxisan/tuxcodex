@@ -50,6 +50,18 @@ text files to compressed logs and binary files.
 
 </div>
 
+## Beginning and end
+
+<div class="grid cards" markdown>
+
+-   :material-arrow-collapse-up:{ .lg .middle } **[head](head.md)**
+
+    ---
+
+    Show the first lines of a file.
+
+</div>
+
 ## Reading logs
 
 | Task | Command |

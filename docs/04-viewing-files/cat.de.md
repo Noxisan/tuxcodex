@@ -99,7 +99,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIExampleKeyOnlyForThisHandbook0123456789ab n
 
 !!! tip "Lange Dateien gehören in `less`"
     `cat` gibt alles auf einmal aus, lange Dateien rauschen einfach durch. Für alles, was
-    länger als ein Bildschirm ist, nimm `less`.
+    länger als ein Bildschirm ist, nimm [`less`](less.md).
 
 !!! warning "Binärdateien bringen das Terminal durcheinander"
     `cat` auf eine Binärdatei kann Steuerzeichen ausgeben, die das Terminal in einen
@@ -108,4 +108,4 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIExampleKeyOnlyForThisHandbook0123456789ab n
 
 ## Verwandte Befehle
 
-[file](../03-files/file.md) · [tac](tac.md) · [nl](nl.md) · [less](less.md)
+[file](../03-files/file.md) · [tac](tac.md) · [nl](nl.md) · [less](less.md) · [head](head.md)

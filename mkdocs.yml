@@ -89,6 +89,7 @@ nav:
       - tac: 04-viewing-files/tac.md
       - nl: 04-viewing-files/nl.md
       - less: 04-viewing-files/less.md
+      - head: 04-viewing-files/head.md
 
 markdown_extensions:
   - admonition
