@@ -107,6 +107,7 @@ nav:
       - grep: 05-text-processing/grep.md
       - sed: 05-text-processing/sed.md
       - awk: 05-text-processing/awk.md
+      - diff: 05-text-processing/diff.md
 
 markdown_extensions:
   - admonition

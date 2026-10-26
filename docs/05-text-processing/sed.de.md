@@ -140,8 +140,8 @@ Pfaden nicht maskieren.
 !!! danger "`sed -i` auf viele Dateien"
     `sed -i 's/.../.../g' *.conf` ändert alle Dateien auf einmal, ohne Nachfrage und ohne
     Rückgängig. Ein falsches Muster beschädigt jede Datei. Leg ein Backup an oder nimm
-    `-i.bak`, und prüfe das Ergebnis mit `diff`.
+    `-i.bak`, und prüfe das Ergebnis mit [`diff`](diff.md).
 
 ## Verwandte Befehle
 
-[grep](grep.md) · [tr](tr.md) · [awk](awk.md)
+[grep](grep.md) · [tr](tr.md) · [awk](awk.md) · [diff](diff.md)

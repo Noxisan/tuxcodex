@@ -140,8 +140,8 @@ have to be escaped.
 !!! danger "`sed -i` on many files"
     `sed -i 's/.../.../g' *.conf` changes all files at once, without asking and without
     an undo. A wrong pattern breaks every file. Make a backup or use `-i.bak`, and check
-    the result with `diff`.
+    the result with [`diff`](diff.md).
 
 ## Related commands
 
-[grep](grep.md) · [tr](tr.md) · [awk](awk.md)
+[grep](grep.md) · [tr](tr.md) · [awk](awk.md) · [diff](diff.md)

@@ -86,6 +86,18 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
 </div>
 
+## Vergleichen
+
+<div class="grid cards" markdown>
+
+-   :material-file-compare:{ .lg .middle } **[diff](diff.md)**
+
+    ---
+
+    Zeigt die Unterschiede zwischen zwei Dateien oder Verzeichnissen.
+
+</div>
+
 ## Befehle mit Pipes verbinden
 
 Ihre eigentliche Stärke zeigen diese Werkzeuge erst in Kombination. Jeder Befehl erledigt

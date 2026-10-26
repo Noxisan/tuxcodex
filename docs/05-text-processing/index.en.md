@@ -86,6 +86,18 @@ configuration files and the output of other commands.
 
 </div>
 
+## Compare
+
+<div class="grid cards" markdown>
+
+-   :material-file-compare:{ .lg .middle } **[diff](diff.md)**
+
+    ---
+
+    Show the differences between two files or directories.
+
+</div>
+
 ## Combining commands with pipes
 
 The real strength of these tools comes from combining them. Each command does one thing,
