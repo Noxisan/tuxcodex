@@ -98,6 +98,18 @@ configuration files and the output of other commands.
 
 </div>
 
+## Pipelines
+
+<div class="grid cards" markdown>
+
+-   :material-call-split:{ .lg .middle } **[tee](tee.md)**
+
+    ---
+
+    Write output to a file and the screen at the same time.
+
+</div>
+
 ## Combining commands with pipes
 
 The real strength of these tools comes from combining them. Each command does one thing,

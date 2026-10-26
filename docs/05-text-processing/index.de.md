@@ -98,6 +98,18 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
 </div>
 
+## Pipelines
+
+<div class="grid cards" markdown>
+
+-   :material-call-split:{ .lg .middle } **[tee](tee.md)**
+
+    ---
+
+    Schreibt Ausgaben gleichzeitig in eine Datei und auf den Bildschirm.
+
+</div>
+
 ## Befehle mit Pipes verbinden
 
 Ihre eigentliche Stärke zeigen diese Werkzeuge erst in Kombination. Jeder Befehl erledigt

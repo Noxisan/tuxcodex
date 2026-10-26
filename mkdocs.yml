@@ -108,6 +108,7 @@ nav:
       - sed: 05-text-processing/sed.md
       - awk: 05-text-processing/awk.md
       - diff: 05-text-processing/diff.md
+      - tee: 05-text-processing/tee.md
 
 markdown_extensions:
   - admonition
