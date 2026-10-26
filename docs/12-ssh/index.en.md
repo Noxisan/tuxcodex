@@ -93,6 +93,12 @@ tunnelling connections and protecting the SSH server against attacks.
 
     Check and harden the SSH server.
 
+-   :material-fingerprint:{ .lg .middle } **[ssh-keyscan](ssh-keyscan.md)**
+
+    ---
+
+    Fetch and check host keys.
+
 </div>
 
 ## Hardening

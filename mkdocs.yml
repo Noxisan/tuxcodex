@@ -234,6 +234,7 @@ nav:
       - sftp: 12-ssh/sftp.md
       - rsync: 12-ssh/rsync.md
       - sshd: 12-ssh/sshd.md
+      - ssh-keyscan: 12-ssh/ssh-keyscan.md
 
 markdown_extensions:
   - admonition

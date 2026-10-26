@@ -136,4 +136,4 @@ Original contents retained as /home/nox/.ssh/known_hosts.old
 
 ## Verwandte Befehle
 
-[ssh](ssh.md) · [ssh-copy-id](ssh-copy-id.md) · [ssh-agent](ssh-agent.md) · [ssh-add](ssh-add.md) · [ssh-copy-id](ssh-copy-id.md) · [ssh-agent](ssh-agent.md) · [ssh-add](ssh-add.md)
+[ssh](ssh.md) · [ssh-copy-id](ssh-copy-id.md) · [ssh-agent](ssh-agent.md) · [ssh-add](ssh-add.md) · [ssh-copy-id](ssh-copy-id.md) · [ssh-agent](ssh-agent.md) · [ssh-add](ssh-add.md) · [ssh-keyscan](ssh-keyscan.md)

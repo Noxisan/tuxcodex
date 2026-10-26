@@ -130,4 +130,4 @@ x11forwarding no
 
 ## Related commands
 
-[ssh](ssh.md) · [systemctl](../09-systemd/systemctl.md) · [journalctl](../09-systemd/journalctl.md)
+[ssh](ssh.md) · [systemctl](../09-systemd/systemctl.md) · [journalctl](../09-systemd/journalctl.md) · [ssh-keyscan](ssh-keyscan.md)

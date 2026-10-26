@@ -93,6 +93,12 @@ Verbindungen tunneln und den SSH-Server gegen Angriffe schützen.
 
     Den SSH-Server prüfen und absichern.
 
+-   :material-fingerprint:{ .lg .middle } **[ssh-keyscan](ssh-keyscan.md)**
+
+    ---
+
+    Host-Keys holen und prüfen.
+
 </div>
 
 ## Absichern
