@@ -97,4 +97,4 @@ deb http://deb.debian.org/debian trixie-backports main
 
 ## Verwandte Befehle
 
-[cat](../04-viewing-files/cat.md) · [grep](grep.md)
+[cat](../04-viewing-files/cat.md) · [grep](grep.md) · [xargs](xargs.md)

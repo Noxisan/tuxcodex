@@ -108,6 +108,12 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
     Schreibt Ausgaben gleichzeitig in eine Datei und auf den Bildschirm.
 
+-   :material-arrow-right-bold-box-outline:{ .lg .middle } **[xargs](xargs.md)**
+
+    ---
+
+    Übergibt Eingabezeilen als Argumente an einen anderen Befehl.
+
 </div>
 
 ## Befehle mit Pipes verbinden

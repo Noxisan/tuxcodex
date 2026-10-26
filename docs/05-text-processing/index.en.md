@@ -108,6 +108,12 @@ configuration files and the output of other commands.
 
     Write output to a file and the screen at the same time.
 
+-   :material-arrow-right-bold-box-outline:{ .lg .middle } **[xargs](xargs.md)**
+
+    ---
+
+    Pass input lines as arguments to another command.
+
 </div>
 
 ## Combining commands with pipes

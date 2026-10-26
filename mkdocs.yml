@@ -109,6 +109,7 @@ nav:
       - awk: 05-text-processing/awk.md
       - diff: 05-text-processing/diff.md
       - tee: 05-text-processing/tee.md
+      - xargs: 05-text-processing/xargs.md
 
 markdown_extensions:
   - admonition
