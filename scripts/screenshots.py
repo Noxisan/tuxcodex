@@ -14,6 +14,7 @@ Usage:
 """
 
 import argparse
+import posixpath
 import re
 import subprocess
 from pathlib import Path
@@ -79,11 +80,60 @@ def first_example(page):
     return match["cmd"].rstrip("\n").split("\n"), match["out"].rstrip("\n").split("\n")
 
 
+class Shell:
+    """Tracks the working directory so prompts change after cd, pushd and popd."""
+
+    HOME = f"/home/{USER}"
+
+    def __init__(self):
+        self.cwd = self.HOME
+        self.oldpwd = self.HOME
+        self.stack = []
+
+    def resolve(self, arg):
+        if arg in ("", "~"):
+            return self.HOME
+        if arg == "-":
+            return self.oldpwd
+        if arg.startswith("~/"):
+            arg = self.HOME + arg[1:]
+        return posixpath.normpath(posixpath.join(self.cwd, arg))
+
+    def chdir(self, path):
+        self.oldpwd, self.cwd = self.cwd, path
+
+    def run(self, command):
+        words = command.split()
+        if not words:
+            return
+        args = [w for w in words[1:] if not w.startswith(("-", "+")) or w == "-"]
+        target = args[0] if args else ""
+        if words[0] == "cd":
+            self.chdir(self.resolve(target))
+        elif words[0] == "pushd" and target:
+            self.stack.append(self.cwd)
+            self.chdir(self.resolve(target))
+        elif words[0] == "popd" and self.stack and not words[1:]:
+            self.chdir(self.stack.pop())
+
+    def display(self):
+        if self.cwd == self.HOME or self.cwd.startswith(self.HOME + "/"):
+            return "~" + self.cwd[len(self.HOME):]
+        return self.cwd
+
+    def prompt(self):
+        return [(f"{USER}@{HOST}", ACCENT, True), (":", TEXT, False),
+                (self.display(), ACCENT, False), ("$ ", TEXT, False)]
+
+
 def render(commands, output, target, fonts):
-    prompt = [(f"{USER}@{HOST}", ACCENT, True), (":", TEXT, False),
-              ("~", ACCENT, False), ("$ ", TEXT, False)]
-    lines = [prompt + [(cmd, TEXT, False)] for cmd in commands]
+    shell = Shell()
+    lines = []
+    for cmd in commands:
+        lines.append(shell.prompt() + [(cmd, TEXT, False)])
+        shell.run(cmd)
     lines += [[(line, TEXT, False)] for line in output]
+    prompt = shell.prompt()
     lines.append(prompt)
 
     cols = max(MIN_COLS, *(sum(len(t) for t, _, _ in line) for line in lines))
@@ -98,7 +148,7 @@ def render(commands, output, target, fonts):
     for i, colour in enumerate(DOTS):
         cx = PAD_X + r + i * 3.4 * r
         draw.ellipse([cx - r, TITLE_H / 2 - r, cx + r, TITLE_H / 2 + r], fill=colour)
-    title = f"{USER}@{HOST}: ~"
+    title = f"{USER}@{HOST}: {shell.display()}"
     draw.text(((width - fonts.regular.getlength(title)) / 2, TITLE_H / 2), title,
               font=fonts.regular, fill=MUTED, anchor="lm")
 
