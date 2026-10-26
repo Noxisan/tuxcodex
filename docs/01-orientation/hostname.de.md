@@ -109,4 +109,4 @@ oder `cat /etc/hostname` und für die IP-Adressen `ip -brief address`.
 
 ## Verwandte Befehle
 
-[whoami](whoami.md) · [id](id.md)
+[hostnamectl](hostnamectl.md) · [whoami](whoami.md) · [id](id.md)

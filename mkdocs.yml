@@ -47,6 +47,7 @@ nav:
       - whoami: 01-orientation/whoami.md
       - id: 01-orientation/id.md
       - hostname: 01-orientation/hostname.md
+      - hostnamectl: 01-orientation/hostnamectl.md
 
 markdown_extensions:
   - admonition

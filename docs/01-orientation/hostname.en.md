@@ -108,4 +108,4 @@ On Arch, `hostname` may be missing on minimal systems. Use `hostnamectl` or
 
 ## Related commands
 
-[whoami](whoami.md) · [id](id.md)
+[hostnamectl](hostnamectl.md) · [whoami](whoami.md) · [id](id.md)
