@@ -44,6 +44,12 @@ package a file belongs to, and keeping a server up to date.
 
     Hold packages or mark them manual or auto.
 
+-   :material-file-find-outline:{ .lg .middle } **[apt-file](apt-file.md)**
+
+    ---
+
+    Find the package that provides a file.
+
 </div>
 
 ## RHEL

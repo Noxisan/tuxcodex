@@ -44,6 +44,12 @@ zu welchem Paket eine Datei gehört, und einen Server aktuell halten.
 
     Pakete festhalten oder als manuell oder automatisch markieren.
 
+-   :material-file-find-outline:{ .lg .middle } **[apt-file](apt-file.md)**
+
+    ---
+
+    Das Paket finden, das eine Datei liefert.
+
 </div>
 
 ## RHEL

@@ -194,6 +194,7 @@ nav:
       - apt-cache: 10-packages/apt-cache.md
       - dpkg: 10-packages/dpkg.md
       - apt-mark: 10-packages/apt-mark.md
+      - apt-file: 10-packages/apt-file.md
 
 markdown_extensions:
   - admonition
