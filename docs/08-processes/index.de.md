@@ -74,6 +74,18 @@ und Jobs und Prioritäten steuern.
 
 </div>
 
+## Prozesse beenden
+
+<div class="grid cards" markdown>
+
+-   :material-close-octagon-outline:{ .lg .middle } **[kill](kill.md)**
+
+    ---
+
+    Einem Prozess per PID ein Signal senden.
+
+</div>
+
 ## Prozesse verstehen
 
 Jedes laufende Programm ist ein Prozess mit einer Nummer, der **PID**. Jeder Prozess

@@ -116,4 +116,4 @@ MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   2547.3 avail Mem
 
 ## Verwandte Befehle
 
-[ps](ps.md) · [uptime](../01-orientation/uptime.md) · [htop](htop.md) · [free](free.md)
+[ps](ps.md) · [uptime](../01-orientation/uptime.md) · [htop](htop.md) · [free](free.md) · [kill](kill.md)

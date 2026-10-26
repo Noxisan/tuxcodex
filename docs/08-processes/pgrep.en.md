@@ -108,4 +108,4 @@ nginx is running
 
 ## Related commands
 
-[ps](ps.md) · [grep](../05-text-processing/grep.md) · [pidof](pidof.md)
+[ps](ps.md) · [grep](../05-text-processing/grep.md) · [pidof](pidof.md) · [kill](kill.md)

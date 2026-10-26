@@ -117,4 +117,4 @@ Der Zombie `4021` wartet auf seinen Elternprozess `4010`. Nur der kann ihn aufr�
 
 ## Verwandte Befehle
 
-[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md) · [pgrep](pgrep.md) · [pstree](pstree.md) · [top](top.md)
+[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md) · [pgrep](pgrep.md) · [pstree](pstree.md) · [top](top.md) · [kill](kill.md)

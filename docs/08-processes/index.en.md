@@ -74,6 +74,18 @@ controlling jobs and priorities.
 
 </div>
 
+## Stop processes
+
+<div class="grid cards" markdown>
+
+-   :material-close-octagon-outline:{ .lg .middle } **[kill](kill.md)**
+
+    ---
+
+    Send a signal to a process by PID.
+
+</div>
+
 ## Understanding processes
 
 Every running program is a process with a number, the **PID**. Every process (except
