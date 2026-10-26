@@ -109,8 +109,8 @@ q8ZkT3vNw1LpXa7RcY0m
 !!! warning "Keine Umlaute"
     GNU `tr` arbeitet Byte für Byte. Zeichen wie `ä` oder `é` bestehen in UTF-8 aus
     mehreren Bytes und werden nicht umgewandelt oder sogar beschädigt. Für solchen Text
-    nimm `sed`.
+    nimm [`sed`](sed.md).
 
 ## Verwandte Befehle
 
-[cut](cut.md) · [file](../03-files/file.md)
+[cut](cut.md) · [file](../03-files/file.md) · [sed](sed.md)

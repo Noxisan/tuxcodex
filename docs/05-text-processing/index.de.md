@@ -72,6 +72,12 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
     Sucht und filtert Zeilen mit Mustern und regulären Ausdrücken.
 
+-   :material-find-replace:{ .lg .middle } **[sed](sed.md)**
+
+    ---
+
+    Ersetzt Text, löscht Zeilen und gibt Bereiche aus, auch direkt in Dateien.
+
 </div>
 
 ## Befehle mit Pipes verbinden

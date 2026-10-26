@@ -105,6 +105,7 @@ nav:
       - tr: 05-text-processing/tr.md
       - column: 05-text-processing/column.md
       - grep: 05-text-processing/grep.md
+      - sed: 05-text-processing/sed.md
 
 markdown_extensions:
   - admonition

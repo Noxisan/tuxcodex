@@ -72,6 +72,12 @@ configuration files and the output of other commands.
 
     Search and filter lines with patterns and regular expressions.
 
+-   :material-find-replace:{ .lg .middle } **[sed](sed.md)**
+
+    ---
+
+    Replace text, delete lines and print ranges, also directly in files.
+
 </div>
 
 ## Combining commands with pipes

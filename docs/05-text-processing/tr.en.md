@@ -106,8 +106,8 @@ q8ZkT3vNw1LpXa7RcY0m
 
 !!! warning "No umlauts"
     GNU `tr` works byte by byte. Characters like `ä` or `é` consist of several bytes in
-    UTF-8 and are not converted, or are even broken. Use `sed` for such text.
+    UTF-8 and are not converted, or are even broken. Use [`sed`](sed.md) for such text.
 
 ## Related commands
 
-[cut](cut.md) · [file](../03-files/file.md)
+[cut](cut.md) · [file](../03-files/file.md) · [sed](sed.md)
