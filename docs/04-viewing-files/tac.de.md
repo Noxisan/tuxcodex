@@ -78,4 +78,4 @@ tac /var/log/nginx/access.log | less
 
 ## Verwandte Befehle
 
-[cat](cat.md)
+[cat](cat.md) · [less](less.md)

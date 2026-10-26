@@ -38,6 +38,18 @@ text files to compressed logs and binary files.
 
 </div>
 
+## Read page by page
+
+<div class="grid cards" markdown>
+
+-   :material-book-open-page-variant-outline:{ .lg .middle } **[less](less.md)**
+
+    ---
+
+    Scroll, search and follow large files and logs.
+
+</div>
+
 ## Reading logs
 
 | Task | Command |

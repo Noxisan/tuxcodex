@@ -38,6 +38,18 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
 </div>
 
+## Seitenweise lesen
+
+<div class="grid cards" markdown>
+
+-   :material-book-open-page-variant-outline:{ .lg .middle } **[less](less.md)**
+
+    ---
+
+    Große Dateien und Logs durchblättern, durchsuchen und verfolgen.
+
+</div>
+
 ## Logs lesen
 
 | Aufgabe | Befehl |

@@ -99,4 +99,4 @@ nl -n rz -w 3 -s ' ' deploy.log
 
 ## Related commands
 
-[cat](cat.md)
+[cat](cat.md) · [less](less.md)
