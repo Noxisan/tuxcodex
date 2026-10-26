@@ -68,6 +68,18 @@ text files to compressed logs and binary files.
 
 </div>
 
+## Compressed files
+
+<div class="grid cards" markdown>
+
+-   :material-zip-box-outline:{ .lg .middle } **[zcat](zcat.md)**
+
+    ---
+
+    Print gzip-compressed files without unpacking them.
+
+</div>
+
 ## Reading logs
 
 | Task | Command |

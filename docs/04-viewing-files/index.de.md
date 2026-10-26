@@ -68,6 +68,18 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
 </div>
 
+## Komprimierte Dateien
+
+<div class="grid cards" markdown>
+
+-   :material-zip-box-outline:{ .lg .middle } **[zcat](zcat.md)**
+
+    ---
+
+    Gibt gzip-komprimierte Dateien aus, ohne sie zu entpacken.
+
+</div>
+
 ## Logs lesen
 
 | Aufgabe | Befehl |
