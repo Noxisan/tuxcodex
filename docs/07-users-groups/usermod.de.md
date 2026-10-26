@@ -118,4 +118,4 @@ Umbenennen oder die UID ändern geht nur, wenn der Benutzer keine laufenden Proz
 
 ## Verwandte Befehle
 
-[useradd](useradd.md) · [groups](groups.md)
+[useradd](useradd.md) · [groups](groups.md) · [passwd](passwd.md)

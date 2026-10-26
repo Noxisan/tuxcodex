@@ -54,6 +54,12 @@ root rights through `sudo` and `su`.
 
     Change groups, shell, name or lock of a user.
 
+-   :material-form-textbox-password:{ .lg .middle } **[passwd](passwd.md)**
+
+    ---
+
+    Set, lock, unlock or expire a password.
+
 </div>
 
 ## The important files

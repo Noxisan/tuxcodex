@@ -54,6 +54,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Ändert Gruppen, Shell, Name oder Sperre eines Benutzers.
 
+-   :material-form-textbox-password:{ .lg .middle } **[passwd](passwd.md)**
+
+    ---
+
+    Setzt, sperrt, entsperrt oder erneuert ein Passwort.
+
 </div>
 
 ## Die wichtigen Dateien

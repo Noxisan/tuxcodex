@@ -131,6 +131,7 @@ nav:
       - adduser: 07-users-groups/adduser.md
       - useradd: 07-users-groups/useradd.md
       - usermod: 07-users-groups/usermod.md
+      - passwd: 07-users-groups/passwd.md
 
 markdown_extensions:
   - admonition
