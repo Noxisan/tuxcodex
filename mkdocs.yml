@@ -214,6 +214,7 @@ nav:
       - host: 11-network/host.md
       - resolvectl: 11-network/resolvectl.md
       - curl: 11-network/curl.md
+      - wget: 11-network/wget.md
 
 markdown_extensions:
   - admonition

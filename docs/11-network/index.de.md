@@ -99,6 +99,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     Webseiten, APIs und Zertifikate testen.
 
+-   :material-download-network-outline:{ .lg .middle } **[wget](wget.md)**
+
+    ---
+
+    Dateien herunterladen, Downloads fortsetzen.
+
 </div>
 
 ## Netzwerk konfigurieren

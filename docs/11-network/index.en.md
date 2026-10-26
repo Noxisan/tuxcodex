@@ -99,6 +99,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     Test websites, APIs and certificates.
 
+-   :material-download-network-outline:{ .lg .middle } **[wget](wget.md)**
+
+    ---
+
+    Download files, resume downloads.
+
 </div>
 
 ## Configure the network
