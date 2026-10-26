@@ -63,6 +63,12 @@ tunnelling connections and protecting the SSH server against attacks.
 
 <div class="grid cards" markdown>
 
+-   :material-file-swap-outline:{ .lg .middle } **[scp](scp.md)**
+
+    ---
+
+    Copy files over SSH.
+
 </div>
 
 ## Server

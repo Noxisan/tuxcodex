@@ -230,6 +230,7 @@ nav:
       - ssh-copy-id: 12-ssh/ssh-copy-id.md
       - ssh-agent: 12-ssh/ssh-agent.md
       - ssh-add: 12-ssh/ssh-add.md
+      - scp: 12-ssh/scp.md
 
 markdown_extensions:
   - admonition
