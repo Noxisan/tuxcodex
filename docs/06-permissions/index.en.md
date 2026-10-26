@@ -24,6 +24,12 @@ attributes, and how to find out why something says "Permission denied".
 
     Change permissions as a number or with letters.
 
+-   :material-account-key-outline:{ .lg .middle } **[chown](chown.md)**
+
+    ---
+
+    Change owner and group of files.
+
 </div>
 
 ## Understanding permissions

@@ -24,6 +24,12 @@ Attribute, und wie du herausfindest, warum etwas „Permission denied“ meldet.
 
     Ändert Rechte als Zahl oder mit Buchstaben.
 
+-   :material-account-key-outline:{ .lg .middle } **[chown](chown.md)**
+
+    ---
+
+    Ändert Besitzer und Gruppe von Dateien.
+
 </div>
 
 ## Rechte verstehen

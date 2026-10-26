@@ -126,4 +126,4 @@ automatisch der Gruppe `developers`.
 
 ## Verwandte Befehle
 
-[ls](../02-navigation/ls.md) · [stat](../03-files/stat.md)
+[ls](../02-navigation/ls.md) · [stat](../03-files/stat.md) · [chown](chown.md)

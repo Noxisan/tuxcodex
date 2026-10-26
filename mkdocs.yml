@@ -115,6 +115,7 @@ nav:
   - Permissions:
       - Overview: 06-permissions/index.md
       - chmod: 06-permissions/chmod.md
+      - chown: 06-permissions/chown.md
 
 markdown_extensions:
   - admonition
