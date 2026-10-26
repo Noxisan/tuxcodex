@@ -86,4 +86,4 @@ config.tar.gz                                 100%   12KB   2.0MB/s   00:00
 
 ## Related commands
 
-[rsync](rsync.md) · [sftp](sftp.md) · [ssh](ssh.md) · [cp](../03-files/cp.md) · [sftp](sftp.md) · [rsync](rsync.md)
+[rsync](rsync.md) · [sftp](sftp.md) · [ssh](ssh.md) · [cp](../03-files/cp.md)

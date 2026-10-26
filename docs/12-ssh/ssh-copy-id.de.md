@@ -107,4 +107,4 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAWZDtTcIe235G0EzeAQj/BESDJnWT39gRghXyiMZZal
 
 ## Verwandte Befehle
 
-[ssh-keygen](ssh-keygen.md) · [ssh](ssh.md) · [sshd](sshd.md) · [sshd](sshd.md)
+[ssh-keygen](ssh-keygen.md) · [ssh](ssh.md) · [sshd](sshd.md)

@@ -107,4 +107,4 @@ Uploading notes.txt to /srv/backup/notes.txt
 
 ## Verwandte Befehle
 
-[scp](scp.md) · [rsync](rsync.md) · [sshd](sshd.md) · [rsync](rsync.md) · [sshd](sshd.md)
+[scp](scp.md) · [rsync](rsync.md) · [sshd](sshd.md)
