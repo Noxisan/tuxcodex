@@ -114,6 +114,12 @@ und Jobs und Prioritäten steuern.
 
     Hintergrund- und angehaltene Befehle dieser Shell.
 
+-   :material-play-pause:{ .lg .middle } **[bg](bg.md)**
+
+    ---
+
+    Einen angehaltenen Job im Hintergrund fortsetzen.
+
 </div>
 
 ## Prozesse verstehen

@@ -109,4 +109,4 @@ jobs
 
 ## Related commands
 
-[kill](kill.md) · [ps](ps.md)
+[kill](kill.md) · [ps](ps.md) · [bg](bg.md)

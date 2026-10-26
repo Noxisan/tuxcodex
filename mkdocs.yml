@@ -158,6 +158,7 @@ nav:
       - killall: 08-processes/killall.md
       - timeout: 08-processes/timeout.md
       - jobs: 08-processes/jobs.md
+      - bg: 08-processes/bg.md
 
 markdown_extensions:
   - admonition

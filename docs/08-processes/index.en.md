@@ -114,6 +114,12 @@ controlling jobs and priorities.
 
     Background and paused commands of this shell.
 
+-   :material-play-pause:{ .lg .middle } **[bg](bg.md)**
+
+    ---
+
+    Continue a paused job in the background.
+
 </div>
 
 ## Understanding processes
