@@ -78,6 +78,12 @@ text files to compressed logs and binary files.
 
     Print gzip-compressed files without unpacking them.
 
+-   :material-book-open-variant:{ .lg .middle } **[zless](zless.md)**
+
+    ---
+
+    Browse and search compressed files page by page.
+
 </div>
 
 ## Reading logs

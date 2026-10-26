@@ -78,6 +78,12 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
     Gibt gzip-komprimierte Dateien aus, ohne sie zu entpacken.
 
+-   :material-book-open-variant:{ .lg .middle } **[zless](zless.md)**
+
+    ---
+
+    Komprimierte Dateien seitenweise lesen und durchsuchen.
+
 </div>
 
 ## Logs lesen

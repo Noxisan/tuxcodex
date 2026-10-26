@@ -93,4 +93,4 @@ OK
 
 ## Related commands
 
-[cat](cat.md) · [less](less.md)
+[cat](cat.md) · [less](less.md) · [zless](zless.md)

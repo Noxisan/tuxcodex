@@ -92,6 +92,7 @@ nav:
       - head: 04-viewing-files/head.md
       - tail: 04-viewing-files/tail.md
       - zcat: 04-viewing-files/zcat.md
+      - zless: 04-viewing-files/zless.md
 
 markdown_extensions:
   - admonition
