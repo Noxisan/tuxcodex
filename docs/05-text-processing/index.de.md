@@ -116,6 +116,18 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
 </div>
 
+## Strukturierte Daten
+
+<div class="grid cards" markdown>
+
+-   :material-code-json:{ .lg .middle } **[jq](jq.md)**
+
+    ---
+
+    Liest, filtert und formatiert JSON-Daten.
+
+</div>
+
 ## Befehle mit Pipes verbinden
 
 Ihre eigentliche Stärke zeigen diese Werkzeuge erst in Kombination. Jeder Befehl erledigt

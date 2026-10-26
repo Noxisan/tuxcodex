@@ -110,6 +110,7 @@ nav:
       - diff: 05-text-processing/diff.md
       - tee: 05-text-processing/tee.md
       - xargs: 05-text-processing/xargs.md
+      - jq: 05-text-processing/jq.md
 
 markdown_extensions:
   - admonition

@@ -154,4 +154,4 @@ sudo apt install gawk
 
 ## Related commands
 
-[cut](cut.md) · [sort](sort.md) · [uniq](uniq.md)
+[cut](cut.md) · [sort](sort.md) · [uniq](uniq.md) · [jq](jq.md)

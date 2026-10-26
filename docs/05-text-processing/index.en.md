@@ -116,6 +116,18 @@ configuration files and the output of other commands.
 
 </div>
 
+## Structured data
+
+<div class="grid cards" markdown>
+
+-   :material-code-json:{ .lg .middle } **[jq](jq.md)**
+
+    ---
+
+    Read, filter and format JSON data.
+
+</div>
+
 ## Combining commands with pipes
 
 The real strength of these tools comes from combining them. Each command does one thing,
