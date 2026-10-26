@@ -14,6 +14,18 @@ herausfinden, was eine Datei wirklich ist.
 
 </div>
 
+## Anlegen
+
+<div class="grid cards" markdown>
+
+-   :material-file-plus-outline:{ .lg .middle } **[touch](touch.md)**
+
+    ---
+
+    Legt eine leere Datei an oder aktualisiert ihre Zeitstempel.
+
+</div>
+
 ## Sicher arbeiten mit Dateien
 
 Die meisten Fehler mit Dateien passieren in einer Sekunde und lassen sich nicht

@@ -14,6 +14,18 @@ what a file really is.
 
 </div>
 
+## Create
+
+<div class="grid cards" markdown>
+
+-   :material-file-plus-outline:{ .lg .middle } **[touch](touch.md)**
+
+    ---
+
+    Create an empty file or update its timestamps.
+
+</div>
+
 ## Working safely with files
 
 Most mistakes with files happen in a second and can't be undone. These habits protect
