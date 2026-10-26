@@ -56,7 +56,7 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
 
     Besitzer, Gruppen und Zugriffsrechte, und wie man sie korrigiert.
 
--   :material-account-multiple-outline:{ .lg .middle } **Benutzer und Gruppen** · *in Arbeit*
+-   :material-account-multiple-outline:{ .lg .middle } **[Benutzer und Gruppen](07-users-groups/index.md)**
 
     ---
 

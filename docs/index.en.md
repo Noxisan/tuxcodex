@@ -56,7 +56,7 @@ in English and German. Compiled by Nox.
 
     Owners, groups and access rights, and how to fix them.
 
--   :material-account-multiple-outline:{ .lg .middle } **Users and groups** · *coming soon*
+-   :material-account-multiple-outline:{ .lg .middle } **[Users and groups](07-users-groups/index.md)**
 
     ---
 

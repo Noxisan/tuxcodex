@@ -42,6 +42,7 @@ plugins:
             Viewing files: Dateien anzeigen
             Text processing: Textverarbeitung
             Permissions: Rechte
+            Users and groups: Benutzer und Gruppen
             Overview: Übersicht
 
 nav:
@@ -123,6 +124,8 @@ nav:
       - setfacl: 06-permissions/setfacl.md
       - lsattr: 06-permissions/lsattr.md
       - chattr: 06-permissions/chattr.md
+  - Users and groups:
+      - Overview: 07-users-groups/index.md
 
 markdown_extensions:
   - admonition
