@@ -8,7 +8,7 @@ hide:
 
 # TuxCodex { .tc-sr-only }
 
-![TuxCodex Logo](assets/logo.png){ width="320" }
+![TuxCodex Logo](assets/logo-hero.png){ width="300" }
 
 <div class="tc-distros" markdown>
 <span class="tc-badge tc-badge--redhat" markdown="span">:simple-redhat: Red Hat</span>

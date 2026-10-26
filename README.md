@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/logo.png" alt="TuxCodex logo" width="280">
+<img src="docs/assets/logo-hero.png" alt="TuxCodex logo" width="260">
 
 **The practical handbook for Linux administration and DevOps.**<br>
 Every command with syntax, real examples and tips from everyday server work.<br>
