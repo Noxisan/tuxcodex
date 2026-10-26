@@ -1,12 +1,12 @@
-/* TuxCodex dark theme: neutral dark grey with a soft blue accent */
+/* TuxCodex dark theme: neutral dark grey with a soft mint accent */
 [data-md-color-scheme="slate"] {
   --tc-bg: #0f1115;
   --tc-surface: #161a21;
   --tc-border: #262b35;
   --tc-text: #d4d7dd;
   --tc-muted: #8b919c;
-  --tc-accent: #7aa2f7;
-  --tc-accent-light: #a3bffa;
+  --tc-accent: #7af7b9;
+  --tc-accent-light: #a6fad1;
 
   --md-hue: 220;
   --md-default-bg-color: var(--tc-bg);
@@ -18,7 +18,7 @@
   --md-primary-bg-color: var(--tc-text);
   --md-primary-bg-color--light: var(--tc-muted);
   --md-accent-fg-color: var(--tc-accent-light);
-  --md-accent-fg-color--transparent: rgba(122, 162, 247, 0.1);
+  --md-accent-fg-color--transparent: rgba(122, 247, 185, 0.1);
   --md-typeset-a-color: var(--tc-accent);
   --md-code-bg-color: var(--tc-surface);
   --md-footer-bg-color: var(--tc-surface);
@@ -54,7 +54,7 @@
   padding-bottom: 0.2em;
 }
 
-.md-typeset blockquote {
+[dir] .md-typeset blockquote {
   border-left-color: var(--tc-accent);
   color: var(--tc-muted);
 }

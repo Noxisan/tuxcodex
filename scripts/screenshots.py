@@ -31,7 +31,7 @@ TITLE_BG = "#1f242d"
 BORDER = "#262b35"
 TEXT = "#d4d7dd"
 MUTED = "#8b919c"
-ACCENT = "#7aa2f7"
+ACCENT = "#7af7b9"
 DOTS = ("#ed8796", "#eed49f", "#a6da95")
 
 SCALE = 2
