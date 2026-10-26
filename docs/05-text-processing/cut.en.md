@@ -105,7 +105,7 @@ du -sh /srv/* | cut -f2
 
 !!! tip "Several spaces in a row: use `awk`"
     `cut -d' '` treats every single space as a separator. If columns are aligned with
-    several spaces, the counting gets mixed up. `awk` handles this correctly.
+    several spaces, the counting gets mixed up. [`awk`](awk.md) handles this correctly.
 
 !!! warning "CSV files with commas in values"
     A value like `"Smith, John"` contains a comma, and `cut -d,` splits it in two. For
@@ -113,4 +113,4 @@ du -sh /srv/* | cut -f2
 
 ## Related commands
 
-[sort](sort.md) · [uniq](uniq.md) · [tr](tr.md) · [column](column.md) · [grep](grep.md)
+[sort](sort.md) · [uniq](uniq.md) · [tr](tr.md) · [column](column.md) · [grep](grep.md) · [awk](awk.md)

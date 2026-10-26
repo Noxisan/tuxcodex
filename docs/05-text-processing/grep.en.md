@@ -198,4 +198,4 @@ user exists
 
 ## Related commands
 
-[cut](cut.md) · [wc](wc.md) · [less](../04-viewing-files/less.md) · [sed](sed.md)
+[cut](cut.md) · [wc](wc.md) · [less](../04-viewing-files/less.md) · [sed](sed.md) · [awk](awk.md)

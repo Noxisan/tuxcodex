@@ -78,6 +78,12 @@ configuration files and the output of other commands.
 
     Replace text, delete lines and print ranges, also directly in files.
 
+-   :material-code-braces:{ .lg .middle } **[awk](awk.md)**
+
+    ---
+
+    Evaluate text column by column: filter, count and add up.
+
 </div>
 
 ## Combining commands with pipes

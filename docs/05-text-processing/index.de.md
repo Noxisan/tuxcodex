@@ -78,6 +78,12 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
     Ersetzt Text, löscht Zeilen und gibt Bereiche aus, auch direkt in Dateien.
 
+-   :material-code-braces:{ .lg .middle } **[awk](awk.md)**
+
+    ---
+
+    Wertet Text spaltenweise aus: filtern, zählen und summieren.
+
 </div>
 
 ## Befehle mit Pipes verbinden

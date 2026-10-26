@@ -144,4 +144,4 @@ Pfaden nicht maskieren.
 
 ## Verwandte Befehle
 
-[grep](grep.md) · [tr](tr.md)
+[grep](grep.md) · [tr](tr.md) · [awk](awk.md)

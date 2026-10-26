@@ -107,8 +107,8 @@ du -sh /srv/* | cut -f2
 
 !!! tip "Mehrere Leerzeichen hintereinander: `awk` nehmen"
     `cut -d' '` behandelt jedes einzelne Leerzeichen als Trenner. Sind Spalten mit
-    mehreren Leerzeichen ausgerichtet, gerät die Zählung durcheinander. `awk` kommt damit
-    richtig zurecht.
+    mehreren Leerzeichen ausgerichtet, gerät die Zählung durcheinander. [`awk`](awk.md) kommt
+    damit richtig zurecht.
 
 !!! warning "CSV-Dateien mit Kommas in Werten"
     Ein Wert wie `"Smith, John"` enthält ein Komma, und `cut -d,` teilt ihn in zwei. Für
@@ -116,4 +116,4 @@ du -sh /srv/* | cut -f2
 
 ## Verwandte Befehle
 
-[sort](sort.md) · [uniq](uniq.md) · [tr](tr.md) · [column](column.md) · [grep](grep.md)
+[sort](sort.md) · [uniq](uniq.md) · [tr](tr.md) · [column](column.md) · [grep](grep.md) · [awk](awk.md)

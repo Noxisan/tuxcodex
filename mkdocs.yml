@@ -106,6 +106,7 @@ nav:
       - column: 05-text-processing/column.md
       - grep: 05-text-processing/grep.md
       - sed: 05-text-processing/sed.md
+      - awk: 05-text-processing/awk.md
 
 markdown_extensions:
   - admonition
