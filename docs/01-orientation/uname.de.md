@@ -77,7 +77,7 @@ ls /boot/vmlinuz-*
 
 Der neueste installierte Kernel (`6.12.48`) läuft noch nicht – der Server braucht einen Neustart.
 
-<!-- SCREENSHOT: assets/screenshots/01-orientation/uname.png -->
+![uname output](../assets/screenshots/01-orientation/uname.png)
 
 ## Wann brauche ich das?
 

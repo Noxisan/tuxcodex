@@ -68,7 +68,7 @@ hostnamectl | grep -E 'Static|Deployment'
       Deployment: production
 ```
 
-<!-- SCREENSHOT: assets/screenshots/01-orientation/hostnamectl.png -->
+![hostnamectl output](../assets/screenshots/01-orientation/hostnamectl.png)
 
 ## Wann brauche ich das?
 

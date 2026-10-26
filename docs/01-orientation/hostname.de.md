@@ -73,7 +73,7 @@ hostname
 test-srv
 ```
 
-<!-- SCREENSHOT: assets/screenshots/01-orientation/hostname.png -->
+![hostname output](../assets/screenshots/01-orientation/hostname.png)
 
 ## Wann brauche ich das?
 

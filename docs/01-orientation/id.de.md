@@ -70,7 +70,7 @@ id backup-user
 id: ‘backup-user’: no such user
 ```
 
-<!-- SCREENSHOT: assets/screenshots/01-orientation/id.png -->
+![id output](../assets/screenshots/01-orientation/id.png)
 
 ## Wann brauche ich das?
 

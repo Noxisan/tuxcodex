@@ -65,7 +65,7 @@ uptime
 With 4 cores, a load of `3.92` means the CPUs are almost fully busy. The load has been
 rising over the last 15 minutes (`1.05` → `2.10` → `3.92`).
 
-<!-- SCREENSHOT: assets/screenshots/01-orientation/uptime.png -->
+![uptime output](../assets/screenshots/01-orientation/uptime.png)
 
 ## When do I need it?
 

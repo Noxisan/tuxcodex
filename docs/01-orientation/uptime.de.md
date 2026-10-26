@@ -65,7 +65,7 @@ uptime
 Bei 4 Kernen bedeutet eine Last von `3.92`, dass die CPUs fast voll ausgelastet sind.
 Außerdem steigt die Last seit 15 Minuten an (`1.05` → `2.10` → `3.92`).
 
-<!-- SCREENSHOT: assets/screenshots/01-orientation/uptime.png -->
+![uptime output](../assets/screenshots/01-orientation/uptime.png)
 
 ## Wann brauche ich das?
 

@@ -83,7 +83,7 @@ reboot   system boot  6.12.43+deb13-am Thu Oct  1 06:15 - 07:35 (13+01:20)
 wtmpdb begins Tue Sep  9 14:20:11 2025
 ```
 
-<!-- SCREENSHOT: assets/screenshots/01-orientation/last.png -->
+![last output](../assets/screenshots/01-orientation/last.png)
 
 ## Wann brauche ich das?
 

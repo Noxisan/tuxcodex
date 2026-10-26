@@ -79,7 +79,7 @@ who -b
          system boot  2026-10-14 07:37
 ```
 
-<!-- SCREENSHOT: assets/screenshots/01-orientation/who.png -->
+![who output](../assets/screenshots/01-orientation/who.png)
 
 ## When do I need it?
 
