@@ -24,6 +24,12 @@ herausfinden, was eine Datei wirklich ist.
 
     Legt eine leere Datei an oder aktualisiert ihre Zeitstempel.
 
+-   :material-folder-plus-outline:{ .lg .middle } **[mkdir](mkdir.md)**
+
+    ---
+
+    Legt Verzeichnisse an, auch mit fehlenden übergeordneten Verzeichnissen.
+
 </div>
 
 ## Sicher arbeiten mit Dateien

@@ -101,4 +101,4 @@ ls: cannot access 'missing.txt': No such file or directory
 
 ## Related commands
 
-[ls](../02-navigation/ls.md) · [find](../02-navigation/find.md)
+[ls](../02-navigation/ls.md) · [find](../02-navigation/find.md) · [mkdir](mkdir.md)

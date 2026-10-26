@@ -24,6 +24,12 @@ what a file really is.
 
     Create an empty file or update its timestamps.
 
+-   :material-folder-plus-outline:{ .lg .middle } **[mkdir](mkdir.md)**
+
+    ---
+
+    Create directories, including missing parent directories.
+
 </div>
 
 ## Working safely with files
