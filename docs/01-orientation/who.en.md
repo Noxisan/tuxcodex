@@ -101,4 +101,4 @@ who -b
 
 ## Related commands
 
-[w](w.md) · [whoami](whoami.md)
+[w](w.md) · [last](last.md) · [whoami](whoami.md)

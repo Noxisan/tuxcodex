@@ -107,4 +107,4 @@ nox      pts/1    198.51.100.23    10:30    5:12   0.03s  0.03s -bash
 
 ## Verwandte Befehle
 
-[who](who.md) · [uptime](uptime.md)
+[who](who.md) · [last](last.md) · [uptime](uptime.md)

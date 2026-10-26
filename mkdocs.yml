@@ -52,6 +52,7 @@ nav:
       - uptime: 01-orientation/uptime.md
       - who: 01-orientation/who.md
       - w: 01-orientation/w.md
+      - last: 01-orientation/last.md
 
 markdown_extensions:
   - admonition

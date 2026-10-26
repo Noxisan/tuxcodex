@@ -16,3 +16,4 @@ lange das System schon läuft und wer sonst noch angemeldet ist.
 | [uptime](uptime.md) | Zeigt Laufzeit, angemeldete Benutzer und Systemlast |
 | [who](who.md) | Zeigt, wer angemeldet ist und von wo |
 | [w](w.md) | Zeigt, wer angemeldet ist und was gerade läuft |
+| [last](last.md) | Zeigt die Anmelde- und Neustart-Historie |
