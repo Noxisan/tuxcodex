@@ -42,6 +42,12 @@ what a file really is.
 
     Copy files and directories.
 
+-   :material-file-move-outline:{ .lg .middle } **[mv](mv.md)**
+
+    ---
+
+    Move or rename files and directories.
+
 </div>
 
 ## Working safely with files

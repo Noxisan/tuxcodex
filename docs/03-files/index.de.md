@@ -42,6 +42,12 @@ herausfinden, was eine Datei wirklich ist.
 
     Kopiert Dateien und Verzeichnisse.
 
+-   :material-file-move-outline:{ .lg .middle } **[mv](mv.md)**
+
+    ---
+
+    Verschiebt oder benennt Dateien und Verzeichnisse um.
+
 </div>
 
 ## Sicher arbeiten mit Dateien

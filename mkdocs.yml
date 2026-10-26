@@ -74,6 +74,7 @@ nav:
       - touch: 03-files/touch.md
       - mkdir: 03-files/mkdir.md
       - cp: 03-files/cp.md
+      - mv: 03-files/mv.md
 
 markdown_extensions:
   - admonition

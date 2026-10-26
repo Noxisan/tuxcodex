@@ -123,4 +123,4 @@ Antworte mit `y`, um zu überschreiben, oder mit `n`, um abzubrechen.
 
 ## Verwandte Befehle
 
-[mkdir](mkdir.md) · [touch](touch.md)
+[mkdir](mkdir.md) · [touch](touch.md) · [mv](mv.md)

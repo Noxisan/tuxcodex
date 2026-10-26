@@ -123,4 +123,4 @@ Answer with `y` to overwrite or `n` to cancel.
 
 ## Related commands
 
-[mkdir](mkdir.md) · [touch](touch.md)
+[mkdir](mkdir.md) · [touch](touch.md) · [mv](mv.md)
