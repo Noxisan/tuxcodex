@@ -1,4 +1,5 @@
 ---
+icon: material/text-box-search-outline
 hide:
   - toc
 ---

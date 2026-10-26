@@ -1,4 +1,5 @@
 ---
+icon: material/folder-outline
 hide:
   - toc
 ---

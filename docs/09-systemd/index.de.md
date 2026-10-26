@@ -1,4 +1,5 @@
 ---
+icon: material/cog-sync-outline
 hide:
   - toc
 ---

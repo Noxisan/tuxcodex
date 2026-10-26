@@ -1,4 +1,5 @@
 ---
+icon: material/account-multiple-outline
 hide:
   - toc
 ---

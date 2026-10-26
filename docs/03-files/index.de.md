@@ -1,4 +1,5 @@
 ---
+icon: material/file-document-outline
 hide:
   - toc
 ---
