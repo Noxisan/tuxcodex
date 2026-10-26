@@ -98,4 +98,4 @@ Ausgabe und Exit-Code sind die des Befehls selbst.
 
 ## Verwandte Befehle
 
-[kill](kill.md) · [pkill](pkill.md) · [killall](killall.md)
+[kill](kill.md) · [pkill](pkill.md) · [killall](killall.md) · [nice](nice.md)

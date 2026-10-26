@@ -134,6 +134,18 @@ controlling jobs and priorities.
 
 </div>
 
+## Priorities
+
+<div class="grid cards" markdown>
+
+-   :material-speedometer-slow:{ .lg .middle } **[nice](nice.md)**
+
+    ---
+
+    Start a command with a different priority.
+
+</div>
+
 ## Understanding processes
 
 Every running program is a process with a number, the **PID**. Every process (except

@@ -134,6 +134,18 @@ und Jobs und Prioritäten steuern.
 
 </div>
 
+## Prioritäten
+
+<div class="grid cards" markdown>
+
+-   :material-speedometer-slow:{ .lg .middle } **[nice](nice.md)**
+
+    ---
+
+    Einen Befehl mit anderer Priorität starten.
+
+</div>
+
 ## Prozesse verstehen
 
 Jedes laufende Programm ist ein Prozess mit einer Nummer, der **PID**. Jeder Prozess

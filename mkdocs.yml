@@ -161,6 +161,7 @@ nav:
       - bg: 08-processes/bg.md
       - fg: 08-processes/fg.md
       - nohup: 08-processes/nohup.md
+      - nice: 08-processes/nice.md
 
 markdown_extensions:
   - admonition
