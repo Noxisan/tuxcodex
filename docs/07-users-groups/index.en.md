@@ -120,6 +120,12 @@ root rights through `sudo` and `su`.
 
     Switch to another user, by default root.
 
+-   :material-shield-crown-outline:{ .lg .middle } **[sudo](sudo.md)**
+
+    ---
+
+    Run commands as root or another user.
+
 </div>
 
 ## The important files

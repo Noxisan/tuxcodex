@@ -120,6 +120,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Wechselt zu einem anderen Benutzer, standardmäßig zu root.
 
+-   :material-shield-crown-outline:{ .lg .middle } **[sudo](sudo.md)**
+
+    ---
+
+    Führt Befehle als root oder anderer Benutzer aus.
+
 </div>
 
 ## Die wichtigen Dateien

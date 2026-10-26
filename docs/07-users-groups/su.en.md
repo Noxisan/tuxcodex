@@ -114,4 +114,4 @@ If `root` has no password, use `sudo -i` instead of `su -`.
 
 ## Related commands
 
-[whoami](../01-orientation/whoami.md) · [id](../01-orientation/id.md)
+[whoami](../01-orientation/whoami.md) · [id](../01-orientation/id.md) · [sudo](sudo.md)
