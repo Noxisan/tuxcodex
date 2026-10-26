@@ -105,4 +105,10 @@ Verbindungen tunneln und den SSH-Server gegen Angriffe schützen.
 
 <div class="grid cards" markdown>
 
+-   :material-shield-alert-outline:{ .lg .middle } **[fail2ban-client](fail2ban-client.md)**
+
+    ---
+
+    Angreifer nach Fehlversuchen sperren.
+
 </div>

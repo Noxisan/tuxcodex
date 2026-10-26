@@ -235,6 +235,7 @@ nav:
       - rsync: 12-ssh/rsync.md
       - sshd: 12-ssh/sshd.md
       - ssh-keyscan: 12-ssh/ssh-keyscan.md
+      - fail2ban-client: 12-ssh/fail2ban-client.md
 
 markdown_extensions:
   - admonition
