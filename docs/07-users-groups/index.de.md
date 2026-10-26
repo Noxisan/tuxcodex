@@ -72,6 +72,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Löscht einen Benutzer oder entfernt ihn aus einer Gruppe (Debian).
 
+-   :material-account-remove-outline:{ .lg .middle } **[userdel](userdel.md)**
+
+    ---
+
+    Löscht ein Benutzerkonto auf jeder Distribution.
+
 </div>
 
 ## Die wichtigen Dateien

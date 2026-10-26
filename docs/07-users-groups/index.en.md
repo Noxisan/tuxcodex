@@ -72,6 +72,12 @@ root rights through `sudo` and `su`.
 
     Delete a user or remove it from a group (Debian).
 
+-   :material-account-remove-outline:{ .lg .middle } **[userdel](userdel.md)**
+
+    ---
+
+    Delete a user account on every distribution.
+
 </div>
 
 ## The important files
