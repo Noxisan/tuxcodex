@@ -209,6 +209,7 @@ nav:
       - traceroute: 11-network/traceroute.md
       - mtr: 11-network/mtr.md
       - ss: 11-network/ss.md
+      - nc: 11-network/nc.md
 
 markdown_extensions:
   - admonition

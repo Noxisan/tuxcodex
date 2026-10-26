@@ -57,6 +57,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     Listening ports and open connections.
 
+-   :material-swap-horizontal:{ .lg .middle } **[nc](nc.md)**
+
+    ---
+
+    Test ports and talk to services by hand.
+
 </div>
 
 ## DNS

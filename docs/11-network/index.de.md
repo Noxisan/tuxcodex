@@ -57,6 +57,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     Lauschende Ports und offene Verbindungen.
 
+-   :material-swap-horizontal:{ .lg .middle } **[nc](nc.md)**
+
+    ---
+
+    Ports testen und von Hand mit Diensten sprechen.
+
 </div>
 
 ## DNS
