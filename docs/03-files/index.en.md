@@ -54,6 +54,12 @@ what a file really is.
 
     Delete files and directories permanently.
 
+-   :material-folder-remove-outline:{ .lg .middle } **[rmdir](rmdir.md)**
+
+    ---
+
+    Delete empty directories safely.
+
 </div>
 
 ## Working safely with files

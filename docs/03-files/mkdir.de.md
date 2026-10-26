@@ -100,4 +100,4 @@ mkdir: cannot create directory ‘projects’: File exists
 
 ## Verwandte Befehle
 
-[touch](touch.md) · [cd](../02-navigation/cd.md) · [tree](../02-navigation/tree.md)
+[touch](touch.md) · [cd](../02-navigation/cd.md) · [tree](../02-navigation/tree.md) · [rmdir](rmdir.md)

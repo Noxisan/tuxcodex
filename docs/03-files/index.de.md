@@ -54,6 +54,12 @@ herausfinden, was eine Datei wirklich ist.
 
     Löscht Dateien und Verzeichnisse endgültig.
 
+-   :material-folder-remove-outline:{ .lg .middle } **[rmdir](rmdir.md)**
+
+    ---
+
+    Löscht leere Verzeichnisse sicher.
+
 </div>
 
 ## Sicher arbeiten mit Dateien

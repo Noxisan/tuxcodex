@@ -121,4 +121,4 @@ Der erste Befehl scheitert, weil `rm` `-file.txt` als Optionen liest. Der zweite
 
 ## Verwandte Befehle
 
-[mv](mv.md) · [find](../02-navigation/find.md)
+[mv](mv.md) · [find](../02-navigation/find.md) · [rmdir](rmdir.md)
