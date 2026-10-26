@@ -43,6 +43,7 @@ plugins:
             Text processing: Textverarbeitung
             Permissions: Rechte
             Users and groups: Benutzer und Gruppen
+            Processes: Prozesse
             Overview: Übersicht
 
 nav:
@@ -142,6 +143,8 @@ nav:
       - su: 07-users-groups/su.md
       - sudo: 07-users-groups/sudo.md
       - visudo: 07-users-groups/visudo.md
+  - Processes:
+      - Overview: 08-processes/index.md
 
 markdown_extensions:
   - admonition

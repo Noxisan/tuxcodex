@@ -71,7 +71,7 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Creating and managing users and groups, `sudo` and `su`.
 
--   :material-cog-transfer-outline:{ .lg .middle } **Processes** · *coming soon*
+-   :material-cog-transfer-outline:{ .lg .middle } **[Processes](08-processes/index.md)**
 
     ---
 

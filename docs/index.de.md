@@ -71,7 +71,7 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Benutzer und Gruppen anlegen und verwalten, `sudo` und `su`.
 
--   :material-cog-transfer-outline:{ .lg .middle } **Prozesse** · *in Arbeit*
+-   :material-cog-transfer-outline:{ .lg .middle } **[Prozesse](08-processes/index.md)**
 
     ---
 
