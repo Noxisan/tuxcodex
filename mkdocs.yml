@@ -1,6 +1,7 @@
 site_name: TuxCodex
 site_description: Linux Administration & DevOps a handbook by Nox
 site_author: Nox
+site_url: https://noxisan.github.io/tuxcodex/
 repo_url: https://github.com/noxisan/tuxcodex
 repo_name: tuxcodex
 
@@ -13,8 +14,7 @@ theme:
     primary: custom
     accent: custom
   features:
-    - navigation.tabs
-    - navigation.sections
+    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
@@ -51,7 +51,7 @@ plugins:
 nav:
   - Home: index.md
   - Orientation:
-      - Overview: 01-orientation/index.md
+      - 01-orientation/index.md
       - Basics: 01-orientation/basics.md
       - whoami: 01-orientation/whoami.md
       - id: 01-orientation/id.md
@@ -65,7 +65,7 @@ nav:
       - date: 01-orientation/date.md
       - timedatectl: 01-orientation/timedatectl.md
   - Navigation:
-      - Overview: 02-navigation/index.md
+      - 02-navigation/index.md
       - Basics: 02-navigation/basics.md
       - pwd: 02-navigation/pwd.md
       - cd: 02-navigation/cd.md
@@ -79,7 +79,7 @@ nav:
       - whereis: 02-navigation/whereis.md
       - realpath: 02-navigation/realpath.md
   - Files:
-      - Overview: 03-files/index.md
+      - 03-files/index.md
       - Basics: 03-files/basics.md
       - touch: 03-files/touch.md
       - mkdir: 03-files/mkdir.md
@@ -93,7 +93,7 @@ nav:
       - truncate: 03-files/truncate.md
       - shred: 03-files/shred.md
   - Viewing files:
-      - Overview: 04-viewing-files/index.md
+      - 04-viewing-files/index.md
       - Basics: 04-viewing-files/basics.md
       - cat: 04-viewing-files/cat.md
       - tac: 04-viewing-files/tac.md
@@ -106,7 +106,7 @@ nav:
       - hexdump: 04-viewing-files/hexdump.md
       - strings: 04-viewing-files/strings.md
   - Text processing:
-      - Overview: 05-text-processing/index.md
+      - 05-text-processing/index.md
       - Basics: 05-text-processing/basics.md
       - wc: 05-text-processing/wc.md
       - sort: 05-text-processing/sort.md
@@ -122,7 +122,7 @@ nav:
       - xargs: 05-text-processing/xargs.md
       - jq: 05-text-processing/jq.md
   - Permissions:
-      - Overview: 06-permissions/index.md
+      - 06-permissions/index.md
       - Basics: 06-permissions/basics.md
       - chmod: 06-permissions/chmod.md
       - chown: 06-permissions/chown.md
@@ -134,7 +134,7 @@ nav:
       - lsattr: 06-permissions/lsattr.md
       - chattr: 06-permissions/chattr.md
   - Users and groups:
-      - Overview: 07-users-groups/index.md
+      - 07-users-groups/index.md
       - Basics: 07-users-groups/basics.md
       - groups: 07-users-groups/groups.md
       - getent: 07-users-groups/getent.md
@@ -153,7 +153,7 @@ nav:
       - sudo: 07-users-groups/sudo.md
       - visudo: 07-users-groups/visudo.md
   - Processes:
-      - Overview: 08-processes/index.md
+      - 08-processes/index.md
       - Basics: 08-processes/basics.md
       - ps: 08-processes/ps.md
       - pgrep: 08-processes/pgrep.md
@@ -175,7 +175,7 @@ nav:
       - renice: 08-processes/renice.md
       - watch: 08-processes/watch.md
   - systemd and services:
-      - Overview: 09-systemd/index.md
+      - 09-systemd/index.md
       - Basics: 09-systemd/basics.md
       - systemctl: 09-systemd/systemctl.md
       - journalctl: 09-systemd/journalctl.md
