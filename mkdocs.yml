@@ -131,3 +131,9 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/tuxcodex.css
+
+extra_javascript:
+  - javascripts/home-search.js
+
+hooks:
+  - hooks/command_index.py

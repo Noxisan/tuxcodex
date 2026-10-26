@@ -14,9 +14,15 @@ Das praxisnahe Nachschlagewerk für **Linux-Administration und DevOps**.
 Jeder Befehl mit Syntax, echten Beispielen und Tipps aus dem Server-Alltag,
 auf Deutsch und Englisch. Zusammengestellt von Nox.
 
-[Mit Kapitel 1 starten](01-orientation/index.md){ .md-button .md-button--primary }
+<form class="tc-search" role="search" onsubmit="return false">
+  <input type="search" id="tc-search-input" placeholder="Befehle, Optionen, Beispiele suchen …" aria-label="Suche" autocomplete="off">
+</form>
 
 </div>
+
+## Alle Befehle
+
+<!-- COMMAND_INDEX -->
 
 ## Kapitel
 
@@ -27,35 +33,30 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
     ---
 
     Wer bin ich, wo bin ich und was ist auf dieser Maschine gerade los?
-    `whoami`, `id`, `hostname`, `uname`, `uptime`, `who`, `w`, `last`, `date`, `timedatectl`
 
 -   :material-folder-outline:{ .lg .middle } **[Navigation](02-navigation/index.md)**
 
     ---
 
     Im Dateisystem bewegen und Dateien finden.
-    `pwd`, `cd`, `ls`, `tree`, `pushd`, `popd`, `find`, `locate`, `which`, `whereis`, `realpath`
 
 -   :material-file-document-outline:{ .lg .middle } **[Dateien](03-files/index.md)**
 
     ---
 
     Dateien und Verzeichnisse anlegen, kopieren, verschieben und löschen.
-    `touch`, `mkdir`, `cp`, `mv`, `rm`, `rmdir`, `ln`, `stat`, `file`, `truncate`, `shred`
 
 -   :material-text-box-search-outline:{ .lg .middle } **[Dateien anzeigen](04-viewing-files/index.md)**
 
     ---
 
     Dateien und Logs lesen, auch komprimierte und binäre Dateien.
-    `cat`, `tac`, `nl`, `less`, `head`, `tail`, `zcat`, `zless`, `hexdump`, `strings`
 
 -   :material-text-search:{ .lg .middle } **[Textverarbeitung](05-text-processing/index.md)**
 
     ---
 
     Text in Logs und Konfigurationsdateien suchen, filtern, sortieren und ändern.
-    `wc`, `sort`, `uniq`, `cut`, `tr`, `column`, `grep`, `sed`, `awk`, `diff`, `tee`, `xargs`, `jq`
 
 -   :material-shield-lock-outline:{ .lg .middle } **Rechte** · *in Arbeit*
 

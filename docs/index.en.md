@@ -14,9 +14,15 @@ The hands-on reference for **Linux administration and DevOps**.
 Every command with syntax, real examples and tips from everyday server work,
 in English and German. Compiled by Nox.
 
-[Start with chapter 1](01-orientation/index.md){ .md-button .md-button--primary }
+<form class="tc-search" role="search" onsubmit="return false">
+  <input type="search" id="tc-search-input" placeholder="Search commands, options, examples …" aria-label="Search" autocomplete="off">
+</form>
 
 </div>
+
+## All commands
+
+<!-- COMMAND_INDEX -->
 
 ## Chapters
 
@@ -27,35 +33,30 @@ in English and German. Compiled by Nox.
     ---
 
     Who am I, where am I, and what is going on on this machine?
-    `whoami`, `id`, `hostname`, `uname`, `uptime`, `who`, `w`, `last`, `date`, `timedatectl`
 
 -   :material-folder-outline:{ .lg .middle } **[Navigation](02-navigation/index.md)**
 
     ---
 
     Moving around the file system and finding files.
-    `pwd`, `cd`, `ls`, `tree`, `pushd`, `popd`, `find`, `locate`, `which`, `whereis`, `realpath`
 
 -   :material-file-document-outline:{ .lg .middle } **[Files](03-files/index.md)**
 
     ---
 
     Creating, copying, moving and deleting files and directories.
-    `touch`, `mkdir`, `cp`, `mv`, `rm`, `rmdir`, `ln`, `stat`, `file`, `truncate`, `shred`
 
 -   :material-text-box-search-outline:{ .lg .middle } **[Viewing files](04-viewing-files/index.md)**
 
     ---
 
     Reading files and logs, also compressed and binary files.
-    `cat`, `tac`, `nl`, `less`, `head`, `tail`, `zcat`, `zless`, `hexdump`, `strings`
 
 -   :material-text-search:{ .lg .middle } **[Text processing](05-text-processing/index.md)**
 
     ---
 
     Searching, filtering, sorting and changing text in logs and configuration files.
-    `wc`, `sort`, `uniq`, `cut`, `tr`, `column`, `grep`, `sed`, `awk`, `diff`, `tee`, `xargs`, `jq`
 
 -   :material-shield-lock-outline:{ .lg .middle } **Permissions** · *coming soon*
 
