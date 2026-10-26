@@ -133,6 +133,7 @@ extra_css:
   - stylesheets/tuxcodex.css
 
 extra_javascript:
+  - javascripts/header.js
   - javascripts/home-search.js
 
 hooks:

@@ -273,3 +273,130 @@
   color: var(--tc-muted);
   font-size: 0.75rem;
 }
+
+/* Header: title left, search in the middle, language and repository right */
+.md-header__title {
+  order: 1;
+}
+
+.md-header__inner > label[for="__search"],
+.md-search {
+  order: 2;
+}
+
+.md-header__option {
+  order: 3;
+}
+
+.md-header__source {
+  order: 4;
+}
+
+/* Header: "Tux" white, "Codex" in the accent colour */
+.tc-title-tux {
+  color: #ffffff;
+}
+
+.tc-title-codex {
+  color: var(--tc-accent);
+}
+
+@media screen and (min-width: 60em) {
+  /* Same width as the repository link on the right, so the search sits in the middle */
+  .md-header__title {
+    flex: 0 0 11.7rem;
+    margin-right: 0;
+  }
+
+  .md-search {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+  .md-search__inner,
+  [data-md-toggle="search"]:checked ~ .md-header .md-search__inner {
+    float: none;
+    width: 100%;
+    max-width: 30rem;
+  }
+
+  .md-search__form {
+    height: 2rem;
+    background-color: var(--tc-bg);
+    border: 1px solid var(--tc-border);
+    border-radius: 0.5rem;
+    box-shadow: none;
+    transition: border-color 0.2s;
+  }
+
+  .md-search__form:hover,
+  [data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+    background-color: var(--tc-bg);
+    border-color: var(--tc-accent);
+  }
+
+  [data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+    border-radius: 0.5rem 0.5rem 0 0;
+  }
+
+  .md-search__input {
+    font-size: 0.75rem;
+  }
+
+  .md-search__input::placeholder {
+    color: var(--tc-muted);
+  }
+
+  .md-search__icon[for="__search"] {
+    color: var(--tc-accent);
+  }
+
+  .md-search__output {
+    border-radius: 0 0 0.5rem 0.5rem;
+  }
+
+  .md-search__scrollwrap {
+    width: 100%;
+  }
+}
+
+/* Navigation tabs: accent colour for the active tab, underline on hover */
+.md-tabs__link {
+  position: relative;
+  opacity: 1;
+  color: var(--tc-muted);
+  transition: color 0.2s;
+}
+
+.md-tabs__link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.45rem;
+  height: 2px;
+  background: var(--tc-accent);
+  border-radius: 1px;
+  transform: scaleX(0);
+  transition: transform 0.2s;
+}
+
+.md-tabs__link:hover {
+  color: var(--tc-text);
+}
+
+.md-tabs__link:hover::after {
+  transform: scaleX(0.6);
+  opacity: 0.6;
+}
+
+.md-tabs__item--active .md-tabs__link,
+.md-tabs__item--active .md-tabs__link:hover {
+  color: var(--tc-accent);
+}
+
+.md-tabs__item--active .md-tabs__link::after {
+  transform: scaleX(1);
+  opacity: 1;
+}
