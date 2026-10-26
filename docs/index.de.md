@@ -88,6 +88,19 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
     ---
 
     Software mit `apt`, `dnf` und `pacman` installieren, aktualisieren und entfernen.
+
+-   :material-lan:{ .lg .middle } **[Netzwerk](11-network/index.md)**
+
+    ---
+
+    Adressen, Verbindungen, DNS, Downloads, Netzwerkkonfiguration und Firewall.
+
+-   :material-console-network-outline:{ .lg .middle } **SSH** · *in Arbeit*
+
+    ---
+
+    Sicher anmelden, Schlüssel, Tunnel und Dateien zwischen Servern kopieren.
+
 </div>
 
 ## Alle Befehle

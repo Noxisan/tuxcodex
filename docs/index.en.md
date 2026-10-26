@@ -88,6 +88,19 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
     ---
 
     Installing, updating and removing software with `apt`, `dnf` and `pacman`.
+
+-   :material-lan:{ .lg .middle } **[Network](11-network/index.md)**
+
+    ---
+
+    Addresses, connections, DNS, downloads, network configuration and the firewall.
+
+-   :material-console-network-outline:{ .lg .middle } **SSH** · *coming soon*
+
+    ---
+
+    Logging in securely, keys, tunnels and copying files between servers.
+
 </div>
 
 ## All commands

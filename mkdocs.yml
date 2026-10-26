@@ -46,6 +46,7 @@ plugins:
             Processes: Prozesse
             systemd and services: systemd und Dienste
             Packages: Pakete
+            Network: Netzwerk
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -200,6 +201,9 @@ nav:
       - pacman: 10-packages/pacman.md
       - unattended-upgrade: 10-packages/unattended-upgrade.md
       - needrestart: 10-packages/needrestart.md
+  - Network:
+      - 11-network/index.md
+      - Basics: 11-network/basics.md
 
 markdown_extensions:
   - admonition
