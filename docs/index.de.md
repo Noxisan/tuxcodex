@@ -95,11 +95,23 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Adressen, Verbindungen, DNS, Downloads, Netzwerkkonfiguration und Firewall.
 
--   :material-console-network-outline:{ .lg .middle } **SSH** · *in Arbeit*
+-   :material-console-network-outline:{ .lg .middle } **[SSH](12-ssh/index.md)**
 
     ---
 
     Sicher anmelden, Schlüssel, Tunnel und Dateien zwischen Servern kopieren.
+
+-   :material-harddisk:{ .lg .middle } **Festplatten und Speicher** · *in Arbeit*
+
+    ---
+
+    Partitionen, Dateisysteme, Einhängen, Speicherplatz und LVM.
+
+-   :material-archive-arrow-down-outline:{ .lg .middle } **Archive** · *in Arbeit*
+
+    ---
+
+    Packen und komprimieren mit `tar`, `gzip`, `zstd` und `zip`.
 
 </div>
 

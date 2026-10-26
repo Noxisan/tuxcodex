@@ -222,6 +222,9 @@ nav:
       - firewall-cmd: 11-network/firewall-cmd.md
       - nft: 11-network/nft.md
       - tcpdump: 11-network/tcpdump.md
+  - SSH:
+      - 12-ssh/index.md
+      - Basics: 12-ssh/basics.md
 
 markdown_extensions:
   - admonition

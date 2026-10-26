@@ -95,11 +95,23 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Addresses, connections, DNS, downloads, network configuration and the firewall.
 
--   :material-console-network-outline:{ .lg .middle } **SSH** · *coming soon*
+-   :material-console-network-outline:{ .lg .middle } **[SSH](12-ssh/index.md)**
 
     ---
 
     Logging in securely, keys, tunnels and copying files between servers.
+
+-   :material-harddisk:{ .lg .middle } **Disks and storage** · *coming soon*
+
+    ---
+
+    Partitions, file systems, mounting, disk space and LVM.
+
+-   :material-archive-arrow-down-outline:{ .lg .middle } **Archives** · *coming soon*
+
+    ---
+
+    Packing and compressing with `tar`, `gzip`, `zstd` and `zip`.
 
 </div>
 
