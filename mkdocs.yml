@@ -218,6 +218,7 @@ nav:
       - nmcli: 11-network/nmcli.md
       - netplan: 11-network/netplan.md
       - ifup: 11-network/ifup.md
+      - ufw: 11-network/ufw.md
 
 markdown_extensions:
   - admonition

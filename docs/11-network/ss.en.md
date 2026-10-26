@@ -129,4 +129,4 @@ FRAG      0         0         0
 
 ## Related commands
 
-[ip](ip.md) · [nc](nc.md) · [lsof](../08-processes/lsof.md)
+[ip](ip.md) · [nc](nc.md) · [lsof](../08-processes/lsof.md) · [ufw](ufw.md)

@@ -135,6 +135,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
 <div class="grid cards" markdown>
 
+-   :material-wall:{ .lg .middle } **[ufw](ufw.md)**
+
+    ---
+
+    Simple firewall of Debian and Ubuntu.
+
 </div>
 
 ## Capture traffic

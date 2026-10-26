@@ -135,6 +135,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
 <div class="grid cards" markdown>
 
+-   :material-wall:{ .lg .middle } **[ufw](ufw.md)**
+
+    ---
+
+    Einfache Firewall von Debian und Ubuntu.
+
 </div>
 
 ## Datenverkehr mitschneiden
