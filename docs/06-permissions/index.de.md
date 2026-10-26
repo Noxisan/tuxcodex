@@ -14,6 +14,18 @@ Attribute, und wie du herausfindest, warum etwas „Permission denied“ meldet.
 
 </div>
 
+## Grundrechte
+
+<div class="grid cards" markdown>
+
+-   :material-lock-open-variant-outline:{ .lg .middle } **[chmod](chmod.md)**
+
+    ---
+
+    Ändert Rechte als Zahl oder mit Buchstaben.
+
+</div>
+
 ## Rechte verstehen
 
 Jede Datei hat einen Besitzer, eine Gruppe und drei Sätze von Rechten. `ls -l` zeigt sie:

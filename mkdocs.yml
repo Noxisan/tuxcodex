@@ -114,6 +114,7 @@ nav:
       - jq: 05-text-processing/jq.md
   - Permissions:
       - Overview: 06-permissions/index.md
+      - chmod: 06-permissions/chmod.md
 
 markdown_extensions:
   - admonition

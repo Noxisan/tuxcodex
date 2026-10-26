@@ -14,6 +14,18 @@ attributes, and how to find out why something says "Permission denied".
 
 </div>
 
+## Basic permissions
+
+<div class="grid cards" markdown>
+
+-   :material-lock-open-variant-outline:{ .lg .middle } **[chmod](chmod.md)**
+
+    ---
+
+    Change permissions as a number or with letters.
+
+</div>
+
 ## Understanding permissions
 
 Every file has an owner, a group and three sets of permissions. `ls -l` shows them:
