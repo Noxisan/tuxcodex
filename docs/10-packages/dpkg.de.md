@@ -143,4 +143,4 @@ schließt die Installation ab.
 
 ## Verwandte Befehle
 
-[apt](apt.md) · [apt-cache](apt-cache.md) · [apt-file](apt-file.md)
+[apt](apt.md) · [apt-cache](apt-cache.md) · [apt-file](apt-file.md) · [rpm](rpm.md)

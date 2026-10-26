@@ -63,6 +63,12 @@ zu welchem Paket eine Datei gehört, und einen Server aktuell halten.
 
     Paketmanager von RHEL, Rocky und Alma.
 
+-   :material-archive-outline:{ .lg .middle } **[rpm](rpm.md)**
+
+    ---
+
+    Pakete abfragen und ihre Dateien prüfen.
+
 </div>
 
 ## Arch

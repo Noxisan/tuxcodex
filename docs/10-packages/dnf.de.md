@@ -180,4 +180,4 @@ Is this ok [y/N]: y
 
 ## Verwandte Befehle
 
-[apt](apt.md) · [systemctl](../09-systemd/systemctl.md)
+[apt](apt.md) · [systemctl](../09-systemd/systemctl.md) · [rpm](rpm.md)

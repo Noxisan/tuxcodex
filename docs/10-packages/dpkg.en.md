@@ -142,4 +142,4 @@ finishes the installation.
 
 ## Related commands
 
-[apt](apt.md) · [apt-cache](apt-cache.md) · [apt-file](apt-file.md)
+[apt](apt.md) · [apt-cache](apt-cache.md) · [apt-file](apt-file.md) · [rpm](rpm.md)

@@ -63,6 +63,12 @@ package a file belongs to, and keeping a server up to date.
 
     Package manager of RHEL, Rocky and Alma.
 
+-   :material-archive-outline:{ .lg .middle } **[rpm](rpm.md)**
+
+    ---
+
+    Query packages and verify their files.
+
 </div>
 
 ## Arch
