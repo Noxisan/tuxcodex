@@ -126,6 +126,12 @@ controlling jobs and priorities.
 
     Bring a job back to the foreground.
 
+-   :material-shield-sun-outline:{ .lg .middle } **[nohup](nohup.md)**
+
+    ---
+
+    Keep a command running after logout.
+
 </div>
 
 ## Understanding processes

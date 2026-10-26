@@ -104,9 +104,9 @@ jobs
 
 !!! warning "Abmelden beendet Jobs"
     Schließt du die Shell oder bricht die SSH-Verbindung ab, bekommen laufende Jobs
-    meist das Signal `HUP` und enden. Für lange Jobs nimm `nohup` oder einen
+    meist das Signal `HUP` und enden. Für lange Jobs nimm [`nohup`](nohup.md) oder einen
     Terminal-Multiplexer wie `tmux`.
 
 ## Verwandte Befehle
 
-[kill](kill.md) · [ps](ps.md) · [bg](bg.md) · [fg](fg.md)
+[kill](kill.md) · [ps](ps.md) · [bg](bg.md) · [fg](fg.md) · [nohup](nohup.md)

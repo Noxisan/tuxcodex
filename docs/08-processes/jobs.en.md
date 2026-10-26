@@ -104,9 +104,9 @@ jobs
 
 !!! warning "Logging out ends jobs"
     When you close the shell or the SSH connection drops, the running jobs usually get
-    the `HUP` signal and end. Use `nohup` for long jobs, or a terminal
+    the `HUP` signal and end. Use [`nohup`](nohup.md) for long jobs, or a terminal
     multiplexer like `tmux`.
 
 ## Related commands
 
-[kill](kill.md) · [ps](ps.md) · [bg](bg.md) · [fg](fg.md)
+[kill](kill.md) · [ps](ps.md) · [bg](bg.md) · [fg](fg.md) · [nohup](nohup.md)

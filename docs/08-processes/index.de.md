@@ -126,6 +126,12 @@ und Jobs und Prioritäten steuern.
 
     Einen Job in den Vordergrund zurückholen.
 
+-   :material-shield-sun-outline:{ .lg .middle } **[nohup](nohup.md)**
+
+    ---
+
+    Einen Befehl nach dem Abmelden weiterlaufen lassen.
+
 </div>
 
 ## Prozesse verstehen
