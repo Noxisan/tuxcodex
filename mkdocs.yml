@@ -60,6 +60,7 @@ nav:
       - pwd: 02-navigation/pwd.md
       - cd: 02-navigation/cd.md
       - ls: 02-navigation/ls.md
+      - tree: 02-navigation/tree.md
 
 markdown_extensions:
   - admonition

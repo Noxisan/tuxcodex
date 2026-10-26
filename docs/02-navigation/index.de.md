@@ -41,6 +41,12 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
     Listet Verzeichnisinhalte mit Rechten, Besitzer, Größe und Datum.
 
+-   :material-file-tree-outline:{ .lg .middle } **[tree](tree.md)**
+
+    ---
+
+    Zeigt ein Verzeichnis samt Unterverzeichnissen als Baum.
+
 </div>
 
 ## Die wichtigsten Verzeichnisse auf einem Debian-Server

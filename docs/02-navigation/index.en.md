@@ -42,6 +42,12 @@ looking for?
 
     List directory contents with permissions, owner, size and date.
 
+-   :material-file-tree-outline:{ .lg .middle } **[tree](tree.md)**
+
+    ---
+
+    Show a directory and its subdirectories as a tree.
+
 </div>
 
 ## The most important directories on a Debian server

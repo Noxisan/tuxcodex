@@ -144,4 +144,4 @@ drwxr-xr-x 79 root root 4096 Oct 26 08:01 /etc
 
 ## Related commands
 
-[cd](cd.md) · [pwd](pwd.md)
+[cd](cd.md) · [pwd](pwd.md) · [tree](tree.md)
