@@ -83,7 +83,7 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Managing services, reading their logs and restarting the server cleanly.
 
--   :material-package-variant-closed:{ .lg .middle } **Packages** · *coming soon*
+-   :material-package-variant-closed:{ .lg .middle } **[Packages](10-packages/index.md)**
 
     ---
 

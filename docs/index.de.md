@@ -83,7 +83,7 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Dienste verwalten, ihre Logs lesen und den Server sauber neu starten.
 
--   :material-package-variant-closed:{ .lg .middle } **Pakete** · *in Arbeit*
+-   :material-package-variant-closed:{ .lg .middle } **[Pakete](10-packages/index.md)**
 
     ---
 

@@ -45,6 +45,7 @@ plugins:
             Users and groups: Benutzer und Gruppen
             Processes: Prozesse
             systemd and services: systemd und Dienste
+            Packages: Pakete
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -186,6 +187,9 @@ nav:
       - systemd-tmpfiles: 09-systemd/systemd-tmpfiles.md
       - shutdown: 09-systemd/shutdown.md
       - reboot: 09-systemd/reboot.md
+  - Packages:
+      - 10-packages/index.md
+      - Basics: 10-packages/basics.md
 
 markdown_extensions:
   - admonition
