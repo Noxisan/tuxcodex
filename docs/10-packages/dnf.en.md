@@ -177,4 +177,4 @@ Is this ok [y/N]: y
 
 ## Related commands
 
-[apt](apt.md) · [systemctl](../09-systemd/systemctl.md) · [rpm](rpm.md)
+[apt](apt.md) · [systemctl](../09-systemd/systemctl.md) · [rpm](rpm.md) · [pacman](pacman.md)

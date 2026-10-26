@@ -194,4 +194,4 @@ Removing libncursesw6:amd64 (6.5+20250216-2) ...
 
 ## Related commands
 
-[systemctl](../09-systemd/systemctl.md) · [htop](../08-processes/htop.md) · [apt-cache](apt-cache.md) · [dpkg](dpkg.md) · [apt-mark](apt-mark.md) · [dnf](dnf.md)
+[systemctl](../09-systemd/systemctl.md) · [htop](../08-processes/htop.md) · [apt-cache](apt-cache.md) · [dpkg](dpkg.md) · [apt-mark](apt-mark.md) · [dnf](dnf.md) · [pacman](pacman.md)

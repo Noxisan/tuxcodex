@@ -75,6 +75,12 @@ package a file belongs to, and keeping a server up to date.
 
 <div class="grid cards" markdown>
 
+-   :material-pac-man:{ .lg .middle } **[pacman](pacman.md)**
+
+    ---
+
+    Package manager of Arch Linux.
+
 </div>
 
 ## Updates in operation

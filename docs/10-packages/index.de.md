@@ -75,6 +75,12 @@ zu welchem Paket eine Datei gehört, und einen Server aktuell halten.
 
 <div class="grid cards" markdown>
 
+-   :material-pac-man:{ .lg .middle } **[pacman](pacman.md)**
+
+    ---
+
+    Paketmanager von Arch Linux.
+
 </div>
 
 ## Updates im Betrieb

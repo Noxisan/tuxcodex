@@ -197,6 +197,7 @@ nav:
       - apt-file: 10-packages/apt-file.md
       - dnf: 10-packages/dnf.md
       - rpm: 10-packages/rpm.md
+      - pacman: 10-packages/pacman.md
 
 markdown_extensions:
   - admonition
