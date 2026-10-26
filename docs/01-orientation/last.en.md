@@ -34,8 +34,8 @@ last
 
 ```text
 nox      pts/1        198.51.100.23    Mon Oct 26 10:30 - still logged in
-nox      pts/0        192.0.2.10       Mon Oct 26 09:12 - still logged in
-nox      pts/0        192.0.2.10       Sun Oct 25 18:03 - 19:47  (01:44)
+nox      pts/0        192.0.2.45       Mon Oct 26 09:12 - still logged in
+nox      pts/0        192.0.2.45       Sun Oct 25 18:03 - 19:47  (01:44)
 reboot   system boot  6.12.48+deb13-am Wed Oct 14 07:37 - still running
 
 wtmpdb begins Tue Sep  9 14:20:11 2025
@@ -52,8 +52,8 @@ last -n 3
 
 ```text
 nox      pts/1        198.51.100.23    Mon Oct 26 10:30 - still logged in
-nox      pts/0        192.0.2.10       Mon Oct 26 09:12 - still logged in
-nox      pts/0        192.0.2.10       Sun Oct 25 18:03 - 19:47  (01:44)
+nox      pts/0        192.0.2.45       Mon Oct 26 09:12 - still logged in
+nox      pts/0        192.0.2.45       Sun Oct 25 18:03 - 19:47  (01:44)
 
 wtmpdb begins Tue Sep  9 14:20:11 2025
 ```
@@ -66,8 +66,8 @@ last nox
 
 ```text
 nox      pts/1        198.51.100.23    Mon Oct 26 10:30 - still logged in
-nox      pts/0        192.0.2.10       Mon Oct 26 09:12 - still logged in
-nox      pts/0        192.0.2.10       Sun Oct 25 18:03 - 19:47  (01:44)
+nox      pts/0        192.0.2.45       Mon Oct 26 09:12 - still logged in
+nox      pts/0        192.0.2.45       Sun Oct 25 18:03 - 19:47  (01:44)
 
 wtmpdb begins Tue Sep  9 14:20:11 2025
 ```

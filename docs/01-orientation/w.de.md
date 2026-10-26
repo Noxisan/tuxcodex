@@ -33,7 +33,7 @@ w
 ```text
  10:42:17 up 12 days,  3:05,  2 users,  load average: 0.08, 0.03, 0.01
 USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
-nox      pts/0    192.0.2.10       09:12    0.00s  0.06s  0.00s w
+nox      pts/0    192.0.2.45       09:12    0.00s  0.06s  0.00s w
 nox      pts/1    198.51.100.23    10:30    5:12   0.03s  0.03s -bash
 ```
 
@@ -58,7 +58,7 @@ w -h
 ```
 
 ```text
-nox      pts/0    192.0.2.10       09:12    0.00s  0.06s  0.00s w -h
+nox      pts/0    192.0.2.45       09:12    0.00s  0.06s  0.00s w -h
 nox      pts/1    198.51.100.23    10:30    5:12   0.03s  0.03s -bash
 ```
 
@@ -71,7 +71,7 @@ w -s
 ```text
  10:42:17 up 12 days,  3:05,  2 users,  load average: 0.08, 0.03, 0.01
 USER     TTY      FROM              IDLE WHAT
-nox      pts/0    192.0.2.10        0.00s w -s
+nox      pts/0    192.0.2.45        0.00s w -s
 nox      pts/1    198.51.100.23     5:12  -bash
 ```
 
@@ -84,7 +84,7 @@ w nox
 ```text
  10:42:17 up 12 days,  3:05,  2 users,  load average: 0.08, 0.03, 0.01
 USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
-nox      pts/0    192.0.2.10       09:12    0.00s  0.06s  0.00s w nox
+nox      pts/0    192.0.2.45       09:12    0.00s  0.06s  0.00s w nox
 nox      pts/1    198.51.100.23    10:30    5:12   0.03s  0.03s -bash
 ```
 
