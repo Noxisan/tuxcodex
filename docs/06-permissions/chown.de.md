@@ -111,4 +111,4 @@ Nur `root` darf Dateien einem anderen Benutzer übergeben.
 
 ## Verwandte Befehle
 
-[chmod](chmod.md) · [id](../01-orientation/id.md)
+[chmod](chmod.md) · [id](../01-orientation/id.md) · [chgrp](chgrp.md)

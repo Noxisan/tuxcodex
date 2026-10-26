@@ -30,6 +30,12 @@ Attribute, und wie du herausfindest, warum etwas „Permission denied“ meldet.
 
     Ändert Besitzer und Gruppe von Dateien.
 
+-   :material-account-group-outline:{ .lg .middle } **[chgrp](chgrp.md)**
+
+    ---
+
+    Ändert nur die Gruppe von Dateien.
+
 </div>
 
 ## Rechte verstehen

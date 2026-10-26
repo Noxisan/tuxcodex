@@ -110,4 +110,4 @@ Only `root` may give files to another user.
 
 ## Related commands
 
-[chmod](chmod.md) · [id](../01-orientation/id.md)
+[chmod](chmod.md) · [id](../01-orientation/id.md) · [chgrp](chgrp.md)

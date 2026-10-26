@@ -30,6 +30,12 @@ attributes, and how to find out why something says "Permission denied".
 
     Change owner and group of files.
 
+-   :material-account-group-outline:{ .lg .middle } **[chgrp](chgrp.md)**
+
+    ---
+
+    Change only the group of files.
+
 </div>
 
 ## Understanding permissions

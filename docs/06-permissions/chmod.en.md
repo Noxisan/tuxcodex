@@ -124,4 +124,4 @@ automatically belong to the group `developers`.
 
 ## Related commands
 
-[ls](../02-navigation/ls.md) · [stat](../03-files/stat.md) · [chown](chown.md)
+[ls](../02-navigation/ls.md) · [stat](../03-files/stat.md) · [chown](chown.md) · [chgrp](chgrp.md)
