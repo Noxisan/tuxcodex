@@ -38,6 +38,18 @@ configuration files and the output of other commands.
 
 </div>
 
+## Cut and transform
+
+<div class="grid cards" markdown>
+
+-   :material-content-cut:{ .lg .middle } **[cut](cut.md)**
+
+    ---
+
+    Cut columns or characters out of each line.
+
+</div>
+
 ## Combining commands with pipes
 
 The real strength of these tools comes from combining them. Each command does one thing,

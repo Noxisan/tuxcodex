@@ -104,4 +104,4 @@ Nothing was removed, because the duplicates in the file are not next to each oth
 
 ## Related commands
 
-[sort](sort.md) · [wc](wc.md)
+[sort](sort.md) · [wc](wc.md) · [cut](cut.md)

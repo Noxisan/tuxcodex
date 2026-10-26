@@ -38,6 +38,18 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
 </div>
 
+## Zerschneiden und umwandeln
+
+<div class="grid cards" markdown>
+
+-   :material-content-cut:{ .lg .middle } **[cut](cut.md)**
+
+    ---
+
+    Schneidet Spalten oder Zeichen aus jeder Zeile heraus.
+
+</div>
+
 ## Befehle mit Pipes verbinden
 
 Ihre eigentliche Stärke zeigen diese Werkzeuge erst in Kombination. Jeder Befehl erledigt

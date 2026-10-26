@@ -104,4 +104,4 @@ Nichts wurde entfernt, weil die Duplikate in der Datei nicht direkt nebeneinande
 
 ## Verwandte Befehle
 
-[sort](sort.md) · [wc](wc.md)
+[sort](sort.md) · [wc](wc.md) · [cut](cut.md)
