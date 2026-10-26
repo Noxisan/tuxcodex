@@ -38,6 +38,12 @@ den Server sauber neu starten oder herunterfahren.
 
     Logs von Diensten und System lesen und filtern.
 
+-   :material-chart-timeline:{ .lg .middle } **[systemd-analyze](systemd-analyze.md)**
+
+    ---
+
+    Bootzeit analysieren und Unit-Dateien prüfen.
+
 </div>
 
 ## Starten und planen

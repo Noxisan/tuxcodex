@@ -38,6 +38,12 @@ restarting or shutting down the server cleanly.
 
     Read and filter the logs of services and the system.
 
+-   :material-chart-timeline:{ .lg .middle } **[systemd-analyze](systemd-analyze.md)**
+
+    ---
+
+    Analyze boot time and check unit files.
+
 </div>
 
 ## Run and schedule
