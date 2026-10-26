@@ -128,4 +128,4 @@ sudo systemctl enable --now plocate-updatedb.timer
 
 ## Verwandte Befehle
 
-[find](find.md)
+[find](find.md) · [whereis](whereis.md)

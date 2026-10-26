@@ -33,7 +33,8 @@ in English and German. Compiled by Nox.
 
     ---
 
-    Moving around the file system: `pwd`, `cd`, `ls` and friends.
+    Moving around the file system and finding files.
+    `pwd`, `cd`, `ls`, `tree`, `pushd`, `popd`, `find`, `locate`, `which`, `whereis`, `realpath`
 
 -   :material-file-document-outline:{ .lg .middle } **Files** · *coming soon*
 
