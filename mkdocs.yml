@@ -93,6 +93,7 @@ nav:
       - tail: 04-viewing-files/tail.md
       - zcat: 04-viewing-files/zcat.md
       - zless: 04-viewing-files/zless.md
+      - hexdump: 04-viewing-files/hexdump.md
 
 markdown_extensions:
   - admonition

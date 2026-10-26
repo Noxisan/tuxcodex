@@ -86,6 +86,18 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
 </div>
 
+## Binärdateien
+
+<div class="grid cards" markdown>
+
+-   :material-hexadecimal:{ .lg .middle } **[hexdump](hexdump.md)**
+
+    ---
+
+    Zeigt die Bytes einer Datei hexadezimal an.
+
+</div>
+
 ## Logs lesen
 
 | Aufgabe | Befehl |

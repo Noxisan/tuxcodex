@@ -86,6 +86,18 @@ text files to compressed logs and binary files.
 
 </div>
 
+## Binary files
+
+<div class="grid cards" markdown>
+
+-   :material-hexadecimal:{ .lg .middle } **[hexdump](hexdump.md)**
+
+    ---
+
+    Show the bytes of a file in hexadecimal.
+
+</div>
+
 ## Reading logs
 
 | Task | Command |
