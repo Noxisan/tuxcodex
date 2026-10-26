@@ -231,6 +231,7 @@ nav:
       - ssh-agent: 12-ssh/ssh-agent.md
       - ssh-add: 12-ssh/ssh-add.md
       - scp: 12-ssh/scp.md
+      - sftp: 12-ssh/sftp.md
 
 markdown_extensions:
   - admonition

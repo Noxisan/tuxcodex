@@ -69,6 +69,12 @@ Verbindungen tunneln und den SSH-Server gegen Angriffe schützen.
 
     Dateien über SSH kopieren.
 
+-   :material-folder-network-outline:{ .lg .middle } **[sftp](sftp.md)**
+
+    ---
+
+    Interaktive Dateiübertragung über SSH.
+
 </div>
 
 ## Server

@@ -69,6 +69,12 @@ tunnelling connections and protecting the SSH server against attacks.
 
     Copy files over SSH.
 
+-   :material-folder-network-outline:{ .lg .middle } **[sftp](sftp.md)**
+
+    ---
+
+    Interactive file transfer over SSH.
+
 </div>
 
 ## Server
