@@ -30,6 +30,12 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
     Gibt eine Datei rückwärts aus, letzte Zeile zuerst.
 
+-   :material-format-list-numbered:{ .lg .middle } **[nl](nl.md)**
+
+    ---
+
+    Gibt eine Datei mit Zeilennummern aus.
+
 </div>
 
 ## Logs lesen

@@ -106,4 +106,4 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIExampleKeyOnlyForThisHandbook0123456789ab n
 
 ## Related commands
 
-[file](../03-files/file.md) · [tac](tac.md)
+[file](../03-files/file.md) · [tac](tac.md) · [nl](nl.md)

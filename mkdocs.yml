@@ -87,6 +87,7 @@ nav:
       - Overview: 04-viewing-files/index.md
       - cat: 04-viewing-files/cat.md
       - tac: 04-viewing-files/tac.md
+      - nl: 04-viewing-files/nl.md
 
 markdown_extensions:
   - admonition

@@ -30,6 +30,12 @@ text files to compressed logs and binary files.
 
     Print a file backwards, last line first.
 
+-   :material-format-list-numbered:{ .lg .middle } **[nl](nl.md)**
+
+    ---
+
+    Print a file with line numbers.
+
 </div>
 
 ## Reading logs
