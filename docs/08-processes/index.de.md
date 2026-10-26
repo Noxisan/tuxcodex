@@ -96,6 +96,12 @@ und Jobs und Prioritäten steuern.
 
     Allen Prozessen mit exaktem Namen ein Signal senden.
 
+-   :material-timer-sand-complete:{ .lg .middle } **[timeout](timeout.md)**
+
+    ---
+
+    Einen Befehl nach einem Zeitlimit beenden.
+
 </div>
 
 ## Prozesse verstehen

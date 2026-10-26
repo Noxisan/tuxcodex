@@ -96,6 +96,12 @@ controlling jobs and priorities.
 
     Signal all processes with an exact name.
 
+-   :material-timer-sand-complete:{ .lg .middle } **[timeout](timeout.md)**
+
+    ---
+
+    End a command after a time limit.
+
 </div>
 
 ## Understanding processes
