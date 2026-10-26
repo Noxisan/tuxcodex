@@ -14,6 +14,18 @@ root rights through `sudo` and `su`.
 
 </div>
 
+## Look up users and groups
+
+<div class="grid cards" markdown>
+
+-   :material-account-group:{ .lg .middle } **[groups](groups.md)**
+
+    ---
+
+    Show the groups a user belongs to.
+
+</div>
+
 ## The important files
 
 | File | Contents |

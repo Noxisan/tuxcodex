@@ -14,6 +14,18 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
 </div>
 
+## Benutzer und Gruppen nachschlagen
+
+<div class="grid cards" markdown>
+
+-   :material-account-group:{ .lg .middle } **[groups](groups.md)**
+
+    ---
+
+    Zeigt die Gruppen eines Benutzers.
+
+</div>
+
 ## Die wichtigen Dateien
 
 | Datei | Inhalt |

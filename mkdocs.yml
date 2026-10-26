@@ -126,6 +126,7 @@ nav:
       - chattr: 06-permissions/chattr.md
   - Users and groups:
       - Overview: 07-users-groups/index.md
+      - groups: 07-users-groups/groups.md
 
 markdown_extensions:
   - admonition
