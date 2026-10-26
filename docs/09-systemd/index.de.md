@@ -20,6 +20,12 @@ den Server sauber neu starten oder herunterfahren.
 
 <div class="grid cards" markdown>
 
+-   :material-cog-play-outline:{ .lg .middle } **[systemctl](systemctl.md)**
+
+    ---
+
+    Dienste starten, stoppen, aktivieren und prüfen.
+
 </div>
 
 ## Logs und Analyse

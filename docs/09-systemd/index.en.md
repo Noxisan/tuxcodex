@@ -20,6 +20,12 @@ restarting or shutting down the server cleanly.
 
 <div class="grid cards" markdown>
 
+-   :material-cog-play-outline:{ .lg .middle } **[systemctl](systemctl.md)**
+
+    ---
+
+    Start, stop, enable and check services.
+
 </div>
 
 ## Logs and analysis

@@ -177,6 +177,7 @@ nav:
   - systemd and services:
       - Overview: 09-systemd/index.md
       - Basics: 09-systemd/basics.md
+      - systemctl: 09-systemd/systemctl.md
 
 markdown_extensions:
   - admonition
