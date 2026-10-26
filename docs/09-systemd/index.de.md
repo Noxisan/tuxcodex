@@ -74,6 +74,12 @@ den Server sauber neu starten oder herunterfahren.
 
     Zeitzone und Zeitsynchronisation anzeigen und setzen. Behandelt im Kapitel Orientierung.
 
+-   :material-keyboard-outline:{ .lg .middle } **[localectl](localectl.md)**
+
+    ---
+
+    Systemsprache und Tastaturlayout anzeigen und setzen.
+
 </div>
 
 ## Sitzungen und Neustart

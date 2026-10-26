@@ -74,6 +74,12 @@ restarting or shutting down the server cleanly.
 
     Show and set time zone and time synchronization. Covered in the chapter Orientation.
 
+-   :material-keyboard-outline:{ .lg .middle } **[localectl](localectl.md)**
+
+    ---
+
+    Show and set system language and keyboard layout.
+
 </div>
 
 ## Sessions and power

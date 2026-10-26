@@ -182,6 +182,7 @@ nav:
       - systemd-analyze: 09-systemd/systemd-analyze.md
       - systemd-run: 09-systemd/systemd-run.md
       - loginctl: 09-systemd/loginctl.md
+      - localectl: 09-systemd/localectl.md
 
 markdown_extensions:
   - admonition
