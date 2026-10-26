@@ -88,4 +88,4 @@ only appears there after you log in again.
 
 ## Related commands
 
-[id](../01-orientation/id.md) · [whoami](../01-orientation/whoami.md) · [getent](getent.md) · [adduser](adduser.md)
+[id](../01-orientation/id.md) · [whoami](../01-orientation/whoami.md) · [getent](getent.md) · [adduser](adduser.md) · [usermod](usermod.md)

@@ -88,4 +88,4 @@ erscheint dort erst nach einer neuen Anmeldung.
 
 ## Verwandte Befehle
 
-[id](../01-orientation/id.md) · [whoami](../01-orientation/whoami.md) · [getent](getent.md) · [adduser](adduser.md)
+[id](../01-orientation/id.md) · [whoami](../01-orientation/whoami.md) · [getent](getent.md) · [adduser](adduser.md) · [usermod](usermod.md)

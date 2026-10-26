@@ -48,6 +48,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Legt einen Benutzer in einem Befehl an, für Skripte und jede Distribution.
 
+-   :material-account-edit-outline:{ .lg .middle } **[usermod](usermod.md)**
+
+    ---
+
+    Ändert Gruppen, Shell, Name oder Sperre eines Benutzers.
+
 </div>
 
 ## Die wichtigen Dateien

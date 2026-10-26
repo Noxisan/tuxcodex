@@ -48,6 +48,12 @@ root rights through `sudo` and `su`.
 
     Create a user in one command, for scripts and every distribution.
 
+-   :material-account-edit-outline:{ .lg .middle } **[usermod](usermod.md)**
+
+    ---
+
+    Change groups, shell, name or lock of a user.
+
 </div>
 
 ## The important files

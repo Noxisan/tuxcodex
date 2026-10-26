@@ -112,4 +112,4 @@ useradd: user 'bob' already exists
 
 ## Verwandte Befehle
 
-[adduser](adduser.md) · [getent](getent.md)
+[adduser](adduser.md) · [getent](getent.md) · [usermod](usermod.md)
