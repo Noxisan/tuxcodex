@@ -55,6 +55,7 @@ in English and German. Compiled by Nox.
     ---
 
     Searching, filtering, sorting and changing text in logs and configuration files.
+    `wc`, `sort`, `uniq`, `cut`, `tr`, `column`, `grep`, `sed`, `awk`, `diff`, `tee`, `xargs`, `jq`
 
 -   :material-shield-lock-outline:{ .lg .middle } **Permissions** · *coming soon*
 

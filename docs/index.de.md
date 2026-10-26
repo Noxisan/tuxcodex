@@ -55,6 +55,7 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
     ---
 
     Text in Logs und Konfigurationsdateien suchen, filtern, sortieren und ändern.
+    `wc`, `sort`, `uniq`, `cut`, `tr`, `column`, `grep`, `sed`, `awk`, `diff`, `tee`, `xargs`, `jq`
 
 -   :material-shield-lock-outline:{ .lg .middle } **Rechte** · *in Arbeit*
 
