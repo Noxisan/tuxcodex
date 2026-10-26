@@ -80,6 +80,18 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
 </div>
 
+## Gruppen verwalten
+
+<div class="grid cards" markdown>
+
+-   :material-account-multiple-plus-outline:{ .lg .middle } **[addgroup](addgroup.md)**
+
+    ---
+
+    Legt eine Gruppe an oder fügt ihr einen Benutzer hinzu (Debian).
+
+</div>
+
 ## Die wichtigen Dateien
 
 | Datei | Inhalt |

@@ -127,4 +127,4 @@ fatal: The user `alice' already exists.
 
 ## Related commands
 
-[groups](groups.md) · [getent](getent.md) · [useradd](useradd.md) · [deluser](deluser.md)
+[groups](groups.md) · [getent](getent.md) · [useradd](useradd.md) · [deluser](deluser.md) · [addgroup](addgroup.md)

@@ -80,6 +80,18 @@ root rights through `sudo` and `su`.
 
 </div>
 
+## Manage groups
+
+<div class="grid cards" markdown>
+
+-   :material-account-multiple-plus-outline:{ .lg .middle } **[addgroup](addgroup.md)**
+
+    ---
+
+    Create a group or add a user to it (Debian).
+
+</div>
+
 ## The important files
 
 | File | Contents |

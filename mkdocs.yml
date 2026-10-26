@@ -135,6 +135,7 @@ nav:
       - chage: 07-users-groups/chage.md
       - deluser: 07-users-groups/deluser.md
       - userdel: 07-users-groups/userdel.md
+      - addgroup: 07-users-groups/addgroup.md
 
 markdown_extensions:
   - admonition
