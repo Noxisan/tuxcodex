@@ -68,3 +68,57 @@
   border-radius: 8px;
   border: 1px solid var(--tc-border);
 }
+
+/* Home page */
+.tc-hero {
+  text-align: center;
+  margin: 1rem 0 2.5rem;
+}
+
+.tc-hero img {
+  /* blends the logo's near-black background into the page background */
+  mix-blend-mode: lighten;
+}
+
+.md-typeset .tc-hero h1 {
+  margin: 0.5rem 0 0.75rem;
+  font-size: 2.4em;
+}
+
+.tc-hero p {
+  max-width: 34rem;
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--tc-muted);
+}
+
+.md-typeset .md-button--primary {
+  background-color: var(--tc-accent);
+  border-color: var(--tc-accent);
+  color: var(--tc-bg);
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: var(--tc-accent-light);
+  border-color: var(--tc-accent-light);
+  color: var(--tc-bg);
+}
+
+.md-typeset .grid.cards > ul > li {
+  border-color: var(--tc-border);
+  background-color: var(--tc-surface);
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--tc-accent);
+}
+
+.md-typeset .grid.cards .twemoji {
+  color: var(--tc-accent);
+}
+
+@media screen and (min-width: 45em) {
+  .md-typeset .grid.cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
