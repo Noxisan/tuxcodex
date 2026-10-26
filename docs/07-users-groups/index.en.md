@@ -90,6 +90,12 @@ root rights through `sudo` and `su`.
 
     Create a group or add a user to it (Debian).
 
+-   :material-account-multiple-plus:{ .lg .middle } **[groupadd](groupadd.md)**
+
+    ---
+
+    Create a group on every distribution.
+
 </div>
 
 ## The important files

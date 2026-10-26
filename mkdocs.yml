@@ -136,6 +136,7 @@ nav:
       - deluser: 07-users-groups/deluser.md
       - userdel: 07-users-groups/userdel.md
       - addgroup: 07-users-groups/addgroup.md
+      - groupadd: 07-users-groups/groupadd.md
 
 markdown_extensions:
   - admonition

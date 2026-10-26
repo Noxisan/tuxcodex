@@ -90,6 +90,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Legt eine Gruppe an oder fügt ihr einen Benutzer hinzu (Debian).
 
+-   :material-account-multiple-plus:{ .lg .middle } **[groupadd](groupadd.md)**
+
+    ---
+
+    Legt eine Gruppe auf jeder Distribution an.
+
 </div>
 
 ## Die wichtigen Dateien
