@@ -80,6 +80,12 @@ restarting or shutting down the server cleanly.
 
     Show and set system language and keyboard layout.
 
+-   :material-folder-refresh-outline:{ .lg .middle } **[systemd-tmpfiles](systemd-tmpfiles.md)**
+
+    ---
+
+    Create and clean up runtime and temporary files.
+
 </div>
 
 ## Sessions and power

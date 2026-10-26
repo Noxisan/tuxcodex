@@ -80,6 +80,12 @@ den Server sauber neu starten oder herunterfahren.
 
     Systemsprache und Tastaturlayout anzeigen und setzen.
 
+-   :material-folder-refresh-outline:{ .lg .middle } **[systemd-tmpfiles](systemd-tmpfiles.md)**
+
+    ---
+
+    Laufzeit- und temporäre Dateien anlegen und aufräumen.
+
 </div>
 
 ## Sitzungen und Neustart
