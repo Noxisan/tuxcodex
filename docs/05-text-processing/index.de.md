@@ -48,6 +48,12 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
     Schneidet Spalten oder Zeichen aus jeder Zeile heraus.
 
+-   :material-swap-horizontal:{ .lg .middle } **[tr](tr.md)**
+
+    ---
+
+    Ersetzt, verdichtet oder löscht Zeichen.
+
 </div>
 
 ## Befehle mit Pipes verbinden

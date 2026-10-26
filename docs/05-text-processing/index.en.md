@@ -48,6 +48,12 @@ configuration files and the output of other commands.
 
     Cut columns or characters out of each line.
 
+-   :material-swap-horizontal:{ .lg .middle } **[tr](tr.md)**
+
+    ---
+
+    Replace, squeeze or delete characters.
+
 </div>
 
 ## Combining commands with pipes
