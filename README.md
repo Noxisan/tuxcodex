@@ -56,7 +56,7 @@ Every command page has the same structure:
 | 08 | [Processes](https://noxisan.github.io/tuxcodex/08-processes/) | `ps`, `top`, `kill`, `nohup`, `nice`, … | ✅ 19 |
 | 09 | [systemd and services](https://noxisan.github.io/tuxcodex/09-systemd/) | `systemctl`, `journalctl`, `shutdown`, … | ✅ 9 |
 | 10 | [Packages](https://noxisan.github.io/tuxcodex/10-packages/) | `apt`, `dpkg`, `dnf`, `rpm`, `pacman`, … | ✅ 10 |
-| 11 | Network | | 🚧 planned |
+| 11 | [Network](https://noxisan.github.io/tuxcodex/11-network/) | `ip`, `ss`, `dig`, `curl`, `ufw`, `tcpdump`, … | ✅ 18 |
 | 12 | SSH | | 🚧 planned |
 | 13 | Disks and storage | | 🚧 planned |
 | 14 | Archives | | 🚧 planned |
