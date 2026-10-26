@@ -143,4 +143,4 @@ discarded it. The rich rule stays, because it was saved with `--permanent`.
 
 ## Related commands
 
-[ufw](ufw.md) · [nft](nft.md) · [ss](ss.md) · [nft](nft.md)
+[ufw](ufw.md) · [nft](nft.md) · [ss](ss.md)
