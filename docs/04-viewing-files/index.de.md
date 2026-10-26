@@ -24,6 +24,12 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
     Gibt Dateien aus und fügt sie zusammen.
 
+-   :material-sort-reverse-variant:{ .lg .middle } **[tac](tac.md)**
+
+    ---
+
+    Gibt eine Datei rückwärts aus, letzte Zeile zuerst.
+
 </div>
 
 ## Logs lesen

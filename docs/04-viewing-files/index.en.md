@@ -24,6 +24,12 @@ text files to compressed logs and binary files.
 
     Print files and join them together.
 
+-   :material-sort-reverse-variant:{ .lg .middle } **[tac](tac.md)**
+
+    ---
+
+    Print a file backwards, last line first.
+
 </div>
 
 ## Reading logs
