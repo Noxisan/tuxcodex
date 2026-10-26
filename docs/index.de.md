@@ -6,9 +6,9 @@ hide:
 
 <div class="tc-hero" markdown>
 
-![TuxCodex Logo](assets/logo.png){ width="320" }
+# TuxCodex { .tc-sr-only }
 
-# Willkommen bei <span class="tc-title-tux">Tux</span>Codex
+![TuxCodex Logo](assets/logo.png){ width="320" }
 
 <div class="tc-distros" markdown>
 <span class="tc-badge tc-badge--redhat" markdown="span">:simple-redhat: Red Hat</span>

@@ -373,3 +373,14 @@
 .md-typeset .tc-hero p strong {
   color: #ffffff;
 }
+
+/* Visually hidden, still read by screen readers */
+.md-typeset .tc-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  margin: 0;
+}
