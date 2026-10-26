@@ -29,7 +29,7 @@ in English and German. Compiled by Nox.
     Who am I, where am I, and what is going on on this machine?
     `whoami`, `id`, `hostname`, `uname`, `uptime`, `who`, `w`, `last`, `date`, `timedatectl`
 
--   :material-folder-outline:{ .lg .middle } **Navigation** · *coming soon*
+-   :material-folder-outline:{ .lg .middle } **[Navigation](02-navigation/index.md)**
 
     ---
 

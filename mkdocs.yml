@@ -55,6 +55,8 @@ nav:
       - last: 01-orientation/last.md
       - date: 01-orientation/date.md
       - timedatectl: 01-orientation/timedatectl.md
+  - Navigation:
+      - Overview: 02-navigation/index.md
 
 markdown_extensions:
   - admonition
