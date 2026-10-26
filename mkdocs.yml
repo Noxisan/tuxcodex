@@ -159,6 +159,7 @@ nav:
       - timeout: 08-processes/timeout.md
       - jobs: 08-processes/jobs.md
       - bg: 08-processes/bg.md
+      - fg: 08-processes/fg.md
 
 markdown_extensions:
   - admonition

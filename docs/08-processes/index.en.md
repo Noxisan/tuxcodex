@@ -120,6 +120,12 @@ controlling jobs and priorities.
 
     Continue a paused job in the background.
 
+-   :material-arrow-up-bold-box-outline:{ .lg .middle } **[fg](fg.md)**
+
+    ---
+
+    Bring a job back to the foreground.
+
 </div>
 
 ## Understanding processes

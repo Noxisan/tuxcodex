@@ -79,8 +79,8 @@ bash: bg: current: no such job
 
 !!! warning "Nichts für interaktive Programme"
     Programme, die auf eine Eingabe warten, wie `vim` oder eine Passwortabfrage, halten
-    im Hintergrund sofort wieder an. Hol sie mit `fg` in den Vordergrund zurück.
+    im Hintergrund sofort wieder an. Hol sie mit [`fg`](fg.md) in den Vordergrund zurück.
 
 ## Verwandte Befehle
 
-[jobs](jobs.md) · [kill](kill.md)
+[jobs](jobs.md) · [kill](kill.md) · [fg](fg.md)

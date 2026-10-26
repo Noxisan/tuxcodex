@@ -120,6 +120,12 @@ und Jobs und Prioritäten steuern.
 
     Einen angehaltenen Job im Hintergrund fortsetzen.
 
+-   :material-arrow-up-bold-box-outline:{ .lg .middle } **[fg](fg.md)**
+
+    ---
+
+    Einen Job in den Vordergrund zurückholen.
+
 </div>
 
 ## Prozesse verstehen

@@ -77,8 +77,8 @@ bash: bg: current: no such job
 
 !!! warning "Not for interactive programs"
     Programs that wait for input, like `vim` or a password prompt, stop again right away
-    in the background. Bring them back to the foreground with `fg`.
+    in the background. Bring them back to the foreground with [`fg`](fg.md).
 
 ## Related commands
 
-[jobs](jobs.md) · [kill](kill.md)
+[jobs](jobs.md) · [kill](kill.md) · [fg](fg.md)

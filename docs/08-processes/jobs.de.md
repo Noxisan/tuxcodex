@@ -92,7 +92,7 @@ jobs
 
 - Um herauszufinden, was im Hintergrund deiner Shell noch läuft
 - Vor dem Abmelden, um zu sehen, ob ein Job beendet würde
-- Um die Jobnummer für `fg`, `bg` oder `kill %1` zu bekommen
+- Um die Jobnummer für [`fg`](fg.md), [`bg`](bg.md) oder `kill %1` zu bekommen
 
 !!! tip "`kill` mit Jobnummern"
     In der Shell versteht [`kill`](kill.md) auch Jobnummern: `kill %1` beendet Job 1,
@@ -109,4 +109,4 @@ jobs
 
 ## Verwandte Befehle
 
-[kill](kill.md) · [ps](ps.md) · [bg](bg.md)
+[kill](kill.md) · [ps](ps.md) · [bg](bg.md) · [fg](fg.md)

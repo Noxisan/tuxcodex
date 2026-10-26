@@ -92,7 +92,7 @@ jobs
 
 - To find out what is still running in the background of your shell
 - Before logging out, to see whether a job would be ended
-- To get the job number for `fg`, `bg` or `kill %1`
+- To get the job number for [`fg`](fg.md), [`bg`](bg.md) or `kill %1`
 
 !!! tip "`kill` with job numbers"
     In the shell, [`kill`](kill.md) also understands job numbers: `kill %1` ends job 1
@@ -109,4 +109,4 @@ jobs
 
 ## Related commands
 
-[kill](kill.md) · [ps](ps.md) · [bg](bg.md)
+[kill](kill.md) · [ps](ps.md) · [bg](bg.md) · [fg](fg.md)
