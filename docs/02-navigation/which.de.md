@@ -2,6 +2,8 @@
 
 > Zeigt, welche Programmdatei ausgeführt wird, wenn du einen Befehl eingibst.
 
+![which output](../assets/screenshots/02-navigation/which.png)
+
 ## Syntax
 
 ```bash
@@ -79,8 +81,6 @@ ls is aliased to `ls --color=auto'
 
 `which` sucht nur nach Programmdateien. `cd` ist in die Shell eingebaut, deshalb findet
 `which` nichts. Das Shell-Builtin `type` kennt auch Builtins, Aliase und Funktionen.
-
-![which output](../assets/screenshots/02-navigation/which.png)
 
 ## Wann brauche ich das?
 

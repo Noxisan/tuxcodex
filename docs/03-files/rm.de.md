@@ -2,6 +2,8 @@
 
 > Löscht Dateien und Verzeichnisse endgültig, ohne Papierkorb.
 
+![rm output](../assets/screenshots/03-files/rm.png)
+
 ## Syntax
 
 ```bash
@@ -90,8 +92,6 @@ Try 'rm --help' for more information.
 ```
 
 Der erste Befehl scheitert, weil `rm` `-file.txt` als Optionen liest. Der zweite funktioniert.
-
-![rm output](../assets/screenshots/03-files/rm.png)
 
 ## Wann brauche ich das?
 

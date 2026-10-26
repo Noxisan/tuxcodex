@@ -2,6 +2,8 @@
 
 > Lists the contents of a directory, optionally with permissions, owner, size and date.
 
+![ls output](../assets/screenshots/02-navigation/ls.png)
+
 ## Syntax
 
 ```bash
@@ -122,8 +124,6 @@ ls -ld /etc
 ```text
 drwxr-xr-x 79 root root 4096 Oct 26 08:01 /etc
 ```
-
-![ls output](../assets/screenshots/02-navigation/ls.png)
 
 ## When do I need it?
 

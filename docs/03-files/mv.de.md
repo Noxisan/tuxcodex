@@ -2,6 +2,8 @@
 
 > Verschiebt Dateien und Verzeichnisse an einen anderen Ort oder benennt sie um.
 
+![mv output](../assets/screenshots/03-files/mv.png)
+
 ## Syntax
 
 ```bash
@@ -85,8 +87,6 @@ mv -i notes-old.txt notes.txt
 ```text
 mv: overwrite 'notes.txt'?
 ```
-
-![mv output](../assets/screenshots/03-files/mv.png)
 
 ## Wann brauche ich das?
 

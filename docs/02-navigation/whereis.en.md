@@ -2,6 +2,8 @@
 
 > Finds the program file, configuration and man pages of a command in the standard system directories.
 
+![whereis output](../assets/screenshots/02-navigation/whereis.png)
+
 ## Syntax
 
 ```bash
@@ -71,8 +73,6 @@ whereis nmap
 ```text
 nmap:
 ```
-
-![whereis output](../assets/screenshots/02-navigation/whereis.png)
 
 ## When do I need it?
 

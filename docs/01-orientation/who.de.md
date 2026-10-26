@@ -2,6 +2,8 @@
 
 > Zeigt, wer gerade am System angemeldet ist, an welchem Terminal und von wo.
 
+![who output](../assets/screenshots/01-orientation/who.png)
+
 ## Syntax
 
 ```bash
@@ -78,8 +80,6 @@ who -b
 ```text
          system boot  2026-10-14 07:37
 ```
-
-![who output](../assets/screenshots/01-orientation/who.png)
 
 ## Wann brauche ich das?
 

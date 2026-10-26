@@ -2,6 +2,8 @@
 
 > Durchsucht einen Verzeichnisbaum nach Dateien anhand von Name, Typ, Größe, Alter, Besitzer oder Rechten und kann Befehle auf die Treffer anwenden.
 
+![find output](../assets/screenshots/02-navigation/find.png)
+
 ## Syntax
 
 ```bash
@@ -95,8 +97,6 @@ total 8
 -rwxr-x--- 1 nox nox 1200 Oct 22 18:40 backup.sh
 -rwxr-x--- 1 nox nox  640 Oct 22 18:35 cleanup.sh
 ```
-
-![find output](../assets/screenshots/02-navigation/find.png)
 
 ## Wann brauche ich das?
 

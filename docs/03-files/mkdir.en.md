@@ -2,6 +2,8 @@
 
 > Creates new directories, including all missing parent directories if needed.
 
+![mkdir output](../assets/screenshots/03-files/mkdir.png)
+
 ## Syntax
 
 ```bash
@@ -78,8 +80,6 @@ mkdir projects
 ```text
 mkdir: cannot create directory ‘projects’: File exists
 ```
-
-![mkdir output](../assets/screenshots/03-files/mkdir.png)
 
 ## When do I need it?
 

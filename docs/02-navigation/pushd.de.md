@@ -2,6 +2,8 @@
 
 > Wechselt in ein Verzeichnis und merkt sich das bisherige auf einem Stapel, damit du später zurückspringen kannst.
 
+![pushd output](../assets/screenshots/02-navigation/pushd.png)
+
 ## Syntax
 
 ```bash
@@ -85,8 +87,6 @@ pushd -n /tmp
 ```text
 ~ /tmp /etc/nginx /var/log/nginx
 ```
-
-![pushd output](../assets/screenshots/02-navigation/pushd.png)
 
 ## Wann brauche ich das?
 

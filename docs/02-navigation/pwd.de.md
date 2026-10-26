@@ -2,6 +2,8 @@
 
 > Zeigt den vollständigen Pfad des Verzeichnisses, in dem du dich gerade befindest.
 
+![pwd output](../assets/screenshots/02-navigation/pwd.png)
+
 ## Syntax
 
 ```bash
@@ -63,8 +65,6 @@ echo "Backup of $(pwd)"
 ```text
 Backup of /home/nox
 ```
-
-![pwd output](../assets/screenshots/02-navigation/pwd.png)
 
 ## Wann brauche ich das?
 

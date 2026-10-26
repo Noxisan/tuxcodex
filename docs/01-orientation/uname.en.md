@@ -2,6 +2,8 @@
 
 > Shows information about the running kernel and the hardware architecture.
 
+![uname output](../assets/screenshots/01-orientation/uname.png)
+
 ## Syntax
 
 ```bash
@@ -76,8 +78,6 @@ ls /boot/vmlinuz-*
 ```
 
 The newest installed kernel (`6.12.48`) is not running yet, so the server needs a reboot.
-
-![uname output](../assets/screenshots/01-orientation/uname.png)
 
 ## When do I need it?
 

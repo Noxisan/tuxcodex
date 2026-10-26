@@ -2,6 +2,8 @@
 
 > Searches a directory tree for files by name, type, size, age, owner or permissions, and can run commands on the results.
 
+![find output](../assets/screenshots/02-navigation/find.png)
+
 ## Syntax
 
 ```bash
@@ -95,8 +97,6 @@ total 8
 -rwxr-x--- 1 nox nox 1200 Oct 22 18:40 backup.sh
 -rwxr-x--- 1 nox nox  640 Oct 22 18:35 cleanup.sh
 ```
-
-![find output](../assets/screenshots/02-navigation/find.png)
 
 ## When do I need it?
 

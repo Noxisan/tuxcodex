@@ -2,6 +2,8 @@
 
 > Findet Dateien anhand ihres Namens in Sekundenbruchteilen, über eine Datenbank aller Dateinamen statt einer Suche auf der Platte.
 
+![locate output](../assets/screenshots/02-navigation/locate.png)
+
 ## Syntax
 
 ```bash
@@ -88,8 +90,6 @@ locate report.pdf
 ```text
 /home/nox/report.pdf
 ```
-
-![locate output](../assets/screenshots/02-navigation/locate.png)
 
 ## Wann brauche ich das?
 

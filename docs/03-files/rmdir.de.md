@@ -2,6 +2,8 @@
 
 > Löscht leere Verzeichnisse und weigert sich, sobald ein Verzeichnis noch etwas enthält.
 
+![rmdir output](../assets/screenshots/03-files/rmdir.png)
+
 ## Syntax
 
 ```bash
@@ -63,8 +65,6 @@ echo $?
 ```text
 0
 ```
-
-![rmdir output](../assets/screenshots/03-files/rmdir.png)
 
 ## Wann brauche ich das?
 

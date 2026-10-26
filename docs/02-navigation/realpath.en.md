@@ -2,6 +2,8 @@
 
 > Shows the full, absolute path of a file or directory, with all symbolic links and `..` resolved.
 
+![realpath output](../assets/screenshots/02-navigation/realpath.png)
+
 ## Syntax
 
 ```bash
@@ -75,8 +77,6 @@ realpath --relative-to=/etc /etc/ssh/sshd_config
 ```text
 ssh/sshd_config
 ```
-
-![realpath output](../assets/screenshots/02-navigation/realpath.png)
 
 ## When do I need it?
 

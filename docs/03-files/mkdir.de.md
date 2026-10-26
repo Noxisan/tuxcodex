@@ -2,6 +2,8 @@
 
 > Legt neue Verzeichnisse an, bei Bedarf samt aller fehlenden übergeordneten Verzeichnisse.
 
+![mkdir output](../assets/screenshots/03-files/mkdir.png)
+
 ## Syntax
 
 ```bash
@@ -78,8 +80,6 @@ mkdir projects
 ```text
 mkdir: cannot create directory ‘projects’: File exists
 ```
-
-![mkdir output](../assets/screenshots/03-files/mkdir.png)
 
 ## Wann brauche ich das?
 

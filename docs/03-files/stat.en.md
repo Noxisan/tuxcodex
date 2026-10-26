@@ -2,6 +2,8 @@
 
 > Shows all metadata of a file: size, permissions, owner, inode and all timestamps.
 
+![stat output](../assets/screenshots/03-files/stat.png)
+
 ## Syntax
 
 ```bash
@@ -97,8 +99,6 @@ Block size: 4096       Fundamental block size: 4096
 Blocks: Total: 5127839    Free: 3912044    Available: 3647812
 Inodes: Total: 1310720    Free: 1201833
 ```
-
-![stat output](../assets/screenshots/03-files/stat.png)
 
 ## When do I need it?
 

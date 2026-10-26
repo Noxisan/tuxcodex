@@ -2,6 +2,8 @@
 
 > Legt eine leere Datei an oder aktualisiert die Zeitstempel einer vorhandenen Datei.
 
+![touch output](../assets/screenshots/03-files/touch.png)
+
 ## Syntax
 
 ```bash
@@ -79,8 +81,6 @@ ls missing.txt
 ```text
 ls: cannot access 'missing.txt': No such file or directory
 ```
-
-![touch output](../assets/screenshots/03-files/touch.png)
 
 ## Wann brauche ich das?
 

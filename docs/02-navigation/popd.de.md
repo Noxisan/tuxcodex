@@ -2,6 +2,8 @@
 
 > Nimmt das oberste Verzeichnis vom Stapel und wechselt zurück ins nächste.
 
+![popd output](../assets/screenshots/02-navigation/popd.png)
+
 ## Syntax
 
 ```bash
@@ -80,8 +82,6 @@ popd > /dev/null
 ```text
 Already up to date.
 ```
-
-![popd output](../assets/screenshots/02-navigation/popd.png)
 
 ## Wann brauche ich das?
 

@@ -2,6 +2,8 @@
 
 > Zeigt den Namen der Maschine an, auf der du gerade bist, oder setzt ihn vorübergehend.
 
+![hostname output](../assets/screenshots/01-orientation/hostname.png)
+
 ## Syntax
 
 ```bash
@@ -72,8 +74,6 @@ hostname
 ```text
 test-srv
 ```
-
-![hostname output](../assets/screenshots/01-orientation/hostname.png)
 
 ## Wann brauche ich das?
 

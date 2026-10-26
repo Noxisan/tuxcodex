@@ -2,6 +2,8 @@
 
 > Zeigt den Namen des Benutzers an, als der du gerade arbeitest (den effektiven Benutzer).
 
+![whoami output](../assets/screenshots/01-orientation/whoami.png)
+
 ## Syntax
 
 ```bash
@@ -62,8 +64,6 @@ fi
 ```text
 Please do not run this script as root.
 ```
-
-![whoami output](../assets/screenshots/01-orientation/whoami.png)
 
 ## Wann brauche ich das?
 

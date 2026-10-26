@@ -2,6 +2,8 @@
 
 > Removes the top directory from the stack and changes back to the next one.
 
+![popd output](../assets/screenshots/02-navigation/popd.png)
+
 ## Syntax
 
 ```bash
@@ -80,8 +82,6 @@ popd > /dev/null
 ```text
 Already up to date.
 ```
-
-![popd output](../assets/screenshots/02-navigation/popd.png)
 
 ## When do I need it?
 

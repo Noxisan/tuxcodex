@@ -2,6 +2,8 @@
 
 > Finds files by name in a moment, using a database of all file names instead of searching the disk.
 
+![locate output](../assets/screenshots/02-navigation/locate.png)
+
 ## Syntax
 
 ```bash
@@ -88,8 +90,6 @@ locate report.pdf
 ```text
 /home/nox/report.pdf
 ```
-
-![locate output](../assets/screenshots/02-navigation/locate.png)
 
 ## When do I need it?
 

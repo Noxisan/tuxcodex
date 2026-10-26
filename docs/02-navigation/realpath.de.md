@@ -2,6 +2,8 @@
 
 > Zeigt den vollständigen, absoluten Pfad einer Datei oder eines Verzeichnisses, mit aufgelösten symbolischen Links und `..`.
 
+![realpath output](../assets/screenshots/02-navigation/realpath.png)
+
 ## Syntax
 
 ```bash
@@ -75,8 +77,6 @@ realpath --relative-to=/etc /etc/ssh/sshd_config
 ```text
 ssh/sshd_config
 ```
-
-![realpath output](../assets/screenshots/02-navigation/realpath.png)
 
 ## Wann brauche ich das?
 

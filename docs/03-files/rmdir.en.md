@@ -2,6 +2,8 @@
 
 > Deletes empty directories, and refuses as soon as a directory still contains something.
 
+![rmdir output](../assets/screenshots/03-files/rmdir.png)
+
 ## Syntax
 
 ```bash
@@ -63,8 +65,6 @@ echo $?
 ```text
 0
 ```
-
-![rmdir output](../assets/screenshots/03-files/rmdir.png)
 
 ## When do I need it?
 

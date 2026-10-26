@@ -2,6 +2,8 @@
 
 > Wechselt das aktuelle Verzeichnis.
 
+![cd output](../assets/screenshots/02-navigation/cd.png)
+
 ## Syntax
 
 ```bash
@@ -85,8 +87,6 @@ cd /root
 ```text
 -bash: cd: /root: Permission denied
 ```
-
-![cd output](../assets/screenshots/02-navigation/cd.png)
 
 ## Wann brauche ich das?
 

@@ -2,6 +2,8 @@
 
 > Shows and sets the time zone and time synchronization (NTP) of the system.
 
+![timedatectl output](../assets/screenshots/01-orientation/timedatectl.png)
+
 ## Syntax
 
 ```bash
@@ -104,8 +106,6 @@ timedatectl show --property=Timezone --value
 ```text
 Europe/Berlin
 ```
-
-![timedatectl output](../assets/screenshots/01-orientation/timedatectl.png)
 
 ## When do I need it?
 

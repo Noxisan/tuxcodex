@@ -2,6 +2,8 @@
 
 > Shows the login history: who logged in when, from where and for how long, plus reboots.
 
+![last output](../assets/screenshots/01-orientation/last.png)
+
 ## Syntax
 
 ```bash
@@ -82,8 +84,6 @@ reboot   system boot  6.12.43+deb13-am Thu Oct  1 06:15 - 07:35 (13+01:20)
 
 wtmpdb begins Tue Sep  9 14:20:11 2025
 ```
-
-![last output](../assets/screenshots/01-orientation/last.png)
 
 ## When do I need it?
 

@@ -2,6 +2,8 @@
 
 > Zeigt Benutzer-ID, Gruppen-ID und alle Gruppenmitgliedschaften eines Benutzers an.
 
+![id output](../assets/screenshots/01-orientation/id.png)
+
 ## Syntax
 
 ```bash
@@ -69,8 +71,6 @@ id backup-user
 ```text
 id: ‘backup-user’: no such user
 ```
-
-![id output](../assets/screenshots/01-orientation/id.png)
 
 ## Wann brauche ich das?
 

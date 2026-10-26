@@ -2,6 +2,8 @@
 
 > Shows the current date and time in any format, and calculates other points in time.
 
+![date output](../assets/screenshots/01-orientation/date.png)
+
 ## Syntax
 
 ```bash
@@ -95,8 +97,6 @@ date -d @1793007737
 ```text
 Mon Oct 26 10:42:17 CET 2026
 ```
-
-![date output](../assets/screenshots/01-orientation/date.png)
 
 ## When do I need it?
 

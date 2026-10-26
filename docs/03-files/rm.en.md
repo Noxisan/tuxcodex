@@ -2,6 +2,8 @@
 
 > Deletes files and directories permanently, without a recycle bin.
 
+![rm output](../assets/screenshots/03-files/rm.png)
+
 ## Syntax
 
 ```bash
@@ -90,8 +92,6 @@ Try 'rm --help' for more information.
 ```
 
 The first command fails because `rm` reads `-file.txt` as options. The second one works.
-
-![rm output](../assets/screenshots/03-files/rm.png)
 
 ## When do I need it?
 

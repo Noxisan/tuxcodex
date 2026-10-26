@@ -2,6 +2,8 @@
 
 > Copies files and directories.
 
+![cp output](../assets/screenshots/03-files/cp.png)
+
 ## Syntax
 
 ```bash
@@ -96,8 +98,6 @@ cp: overwrite 'notes-copy.txt'?
 ```
 
 Answer with `y` to overwrite or `n` to cancel.
-
-![cp output](../assets/screenshots/03-files/cp.png)
 
 ## When do I need it?
 

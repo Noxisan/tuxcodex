@@ -2,6 +2,8 @@
 
 > Moves files and directories to another place, or renames them.
 
+![mv output](../assets/screenshots/03-files/mv.png)
+
 ## Syntax
 
 ```bash
@@ -85,8 +87,6 @@ mv -i notes-old.txt notes.txt
 ```text
 mv: overwrite 'notes.txt'?
 ```
-
-![mv output](../assets/screenshots/03-files/mv.png)
 
 ## When do I need it?
 

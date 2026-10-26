@@ -2,6 +2,8 @@
 
 > Zeigt, wer angemeldet ist und was gerade passiert, dazu Laufzeit und Systemlast.
 
+![w output](../assets/screenshots/01-orientation/w.png)
+
 ## Syntax
 
 ```bash
@@ -85,8 +87,6 @@ USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
 nox      pts/0    192.0.2.10       09:12    0.00s  0.06s  0.00s w nox
 nox      pts/1    198.51.100.23    10:30    5:12   0.03s  0.03s -bash
 ```
-
-![w output](../assets/screenshots/01-orientation/w.png)
 
 ## Wann brauche ich das?
 

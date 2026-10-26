@@ -2,6 +2,8 @@
 
 > Creates an empty file, or updates the timestamps of an existing file.
 
+![touch output](../assets/screenshots/03-files/touch.png)
+
 ## Syntax
 
 ```bash
@@ -79,8 +81,6 @@ ls missing.txt
 ```text
 ls: cannot access 'missing.txt': No such file or directory
 ```
-
-![touch output](../assets/screenshots/03-files/touch.png)
 
 ## When do I need it?
 

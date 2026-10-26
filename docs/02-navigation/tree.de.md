@@ -2,6 +2,8 @@
 
 > Zeigt den Inhalt eines Verzeichnisses und aller Unterverzeichnisse als Baum.
 
+![tree output](../assets/screenshots/02-navigation/tree.png)
+
 ## Syntax
 
 ```bash
@@ -109,8 +111,6 @@ tree -I '*.gz'
 
 2 directories, 3 files
 ```
-
-![tree output](../assets/screenshots/02-navigation/tree.png)
 
 ## Wann brauche ich das?
 

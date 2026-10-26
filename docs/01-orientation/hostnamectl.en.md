@@ -2,6 +2,8 @@
 
 > Shows the host name together with basic system information, and sets the host name permanently.
 
+![hostnamectl output](../assets/screenshots/01-orientation/hostnamectl.png)
+
 ## Syntax
 
 ```bash
@@ -67,8 +69,6 @@ hostnamectl | grep -E 'Static|Deployment'
  Static hostname: tuxcodex-srv
       Deployment: production
 ```
-
-![hostnamectl output](../assets/screenshots/01-orientation/hostnamectl.png)
 
 ## When do I need it?
 

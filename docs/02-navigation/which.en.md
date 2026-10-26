@@ -2,6 +2,8 @@
 
 > Shows which program file is run when you type a command.
 
+![which output](../assets/screenshots/02-navigation/which.png)
+
 ## Syntax
 
 ```bash
@@ -79,8 +81,6 @@ ls is aliased to `ls --color=auto'
 
 `which` only searches for program files. `cd` is built into the shell, so `which` finds
 nothing. The shell builtin `type` also knows builtins, aliases and functions.
-
-![which output](../assets/screenshots/02-navigation/which.png)
 
 ## When do I need it?
 

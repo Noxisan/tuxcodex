@@ -2,6 +2,8 @@
 
 > Creates links: symbolic links point to a path, hard links are a second name for the same file.
 
+![ln output](../assets/screenshots/03-files/ln.png)
+
 ## Syntax
 
 ```bash
@@ -88,8 +90,6 @@ cat: app.conf: No such file or directory
 ```
 
 The link exists, but its target `/etc/app.conf` does not.
-
-![ln output](../assets/screenshots/03-files/ln.png)
 
 ## When do I need it?
 

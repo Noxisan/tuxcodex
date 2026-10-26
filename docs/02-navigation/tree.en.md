@@ -2,6 +2,8 @@
 
 > Shows the contents of a directory and all its subdirectories as a tree.
 
+![tree output](../assets/screenshots/02-navigation/tree.png)
+
 ## Syntax
 
 ```bash
@@ -109,8 +111,6 @@ tree -I '*.gz'
 
 2 directories, 3 files
 ```
-
-![tree output](../assets/screenshots/02-navigation/tree.png)
 
 ## When do I need it?
 
