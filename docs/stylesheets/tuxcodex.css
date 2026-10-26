@@ -300,3 +300,15 @@
   transform: scaleX(1);
   opacity: 1;
 }
+
+/* Chapter overview pages: section headings with an accent bar on the left */
+.md-typeset .tc-hero--chapter ~ h2 {
+  margin-top: 2.2em;
+  padding: 0.3em 0 0.3em 0.75em;
+  font-weight: 600;
+  color: #ffffff;
+  border-bottom: none;
+  border-left: 4px solid var(--tc-accent);
+  border-radius: 0 0.3rem 0.3rem 0;
+  background: linear-gradient(90deg, rgba(122, 247, 185, 0.1), transparent 70%);
+}
