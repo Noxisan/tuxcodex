@@ -89,6 +89,12 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
     Findet Programm, Konfiguration und Manpages eines Befehls.
 
+-   :material-link-variant:{ .lg .middle } **[realpath](realpath.md)**
+
+    ---
+
+    Zeigt den vollständigen Pfad mit aufgelösten Links.
+
 </div>
 
 ## Die wichtigsten Verzeichnisse auf einem Debian-Server

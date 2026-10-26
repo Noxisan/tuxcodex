@@ -90,6 +90,12 @@ looking for?
 
     Find program, configuration and man pages of a command.
 
+-   :material-link-variant:{ .lg .middle } **[realpath](realpath.md)**
+
+    ---
+
+    Show the full path with all links resolved.
+
 </div>
 
 ## The most important directories on a Debian server
