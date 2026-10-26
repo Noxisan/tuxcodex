@@ -30,6 +30,12 @@ looking for?
 
     Change the current directory.
 
+-   :material-layers-plus:{ .lg .middle } **[pushd](pushd.md)**
+
+    ---
+
+    Change directory and remember the previous one on a stack.
+
 </div>
 
 ## What is in here?

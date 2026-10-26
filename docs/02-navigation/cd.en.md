@@ -114,4 +114,4 @@ cd /root
 
 ## Related commands
 
-[pwd](pwd.md) · [ls](ls.md)
+[pwd](pwd.md) · [ls](ls.md) · [pushd](pushd.md)

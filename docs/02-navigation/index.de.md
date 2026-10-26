@@ -29,6 +29,12 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
     Wechselt das aktuelle Verzeichnis.
 
+-   :material-layers-plus:{ .lg .middle } **[pushd](pushd.md)**
+
+    ---
+
+    Wechselt das Verzeichnis und merkt sich das vorherige auf einem Stapel.
+
 </div>
 
 ## Was liegt hier?

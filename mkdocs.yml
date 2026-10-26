@@ -61,6 +61,7 @@ nav:
       - cd: 02-navigation/cd.md
       - ls: 02-navigation/ls.md
       - tree: 02-navigation/tree.md
+      - pushd: 02-navigation/pushd.md
 
 markdown_extensions:
   - admonition
