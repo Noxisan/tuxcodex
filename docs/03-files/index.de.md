@@ -84,6 +84,12 @@ herausfinden, was eine Datei wirklich ist.
 
     Zeigt alle Metadaten: Größe, Rechte, Besitzer und Zeitstempel.
 
+-   :material-file-question-outline:{ .lg .middle } **[file](file.md)**
+
+    ---
+
+    Erkennt den Dateityp anhand des Inhalts.
+
 </div>
 
 ## Sicher arbeiten mit Dateien

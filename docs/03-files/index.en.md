@@ -84,6 +84,12 @@ what a file really is.
 
     Show all metadata: size, permissions, owner and timestamps.
 
+-   :material-file-question-outline:{ .lg .middle } **[file](file.md)**
+
+    ---
+
+    Detect the file type from its content.
+
 </div>
 
 ## Working safely with files

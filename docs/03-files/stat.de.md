@@ -120,4 +120,4 @@ Inodes: Total: 1310720    Free: 1201833
 
 ## Verwandte Befehle
 
-[ls](../02-navigation/ls.md) · [touch](touch.md)
+[ls](../02-navigation/ls.md) · [touch](touch.md) · [file](file.md)
