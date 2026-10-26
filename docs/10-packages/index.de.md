@@ -38,6 +38,12 @@ zu welchem Paket eine Datei gehört, und einen Server aktuell halten.
 
     Installierte Pakete, ihre Dateien und .deb-Dateien.
 
+-   :material-pin-outline:{ .lg .middle } **[apt-mark](apt-mark.md)**
+
+    ---
+
+    Pakete festhalten oder als manuell oder automatisch markieren.
+
 </div>
 
 ## RHEL

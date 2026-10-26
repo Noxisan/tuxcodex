@@ -38,6 +38,12 @@ package a file belongs to, and keeping a server up to date.
 
     Installed packages, their files and .deb files.
 
+-   :material-pin-outline:{ .lg .middle } **[apt-mark](apt-mark.md)**
+
+    ---
+
+    Hold packages or mark them manual or auto.
+
 </div>
 
 ## RHEL
