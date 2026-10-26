@@ -32,6 +32,18 @@ root rights through `sudo` and `su`.
 
 </div>
 
+## Manage users
+
+<div class="grid cards" markdown>
+
+-   :material-account-plus-outline:{ .lg .middle } **[adduser](adduser.md)**
+
+    ---
+
+    Create a new user step by step (Debian).
+
+</div>
+
 ## The important files
 
 | File | Contents |

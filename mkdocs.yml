@@ -128,6 +128,7 @@ nav:
       - Overview: 07-users-groups/index.md
       - groups: 07-users-groups/groups.md
       - getent: 07-users-groups/getent.md
+      - adduser: 07-users-groups/adduser.md
 
 markdown_extensions:
   - admonition

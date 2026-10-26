@@ -32,6 +32,18 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
 </div>
 
+## Benutzer verwalten
+
+<div class="grid cards" markdown>
+
+-   :material-account-plus-outline:{ .lg .middle } **[adduser](adduser.md)**
+
+    ---
+
+    Legt Schritt für Schritt einen neuen Benutzer an (Debian).
+
+</div>
+
 ## Die wichtigen Dateien
 
 | Datei | Inhalt |
