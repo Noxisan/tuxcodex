@@ -14,6 +14,18 @@ text files to compressed logs and binary files.
 
 </div>
 
+## Show the whole file
+
+<div class="grid cards" markdown>
+
+-   :material-text-box-outline:{ .lg .middle } **[cat](cat.md)**
+
+    ---
+
+    Print files and join them together.
+
+</div>
+
 ## Reading logs
 
 | Task | Command |

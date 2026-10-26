@@ -85,6 +85,7 @@ nav:
       - shred: 03-files/shred.md
   - Viewing files:
       - Overview: 04-viewing-files/index.md
+      - cat: 04-viewing-files/cat.md
 
 markdown_extensions:
   - admonition

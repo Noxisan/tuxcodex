@@ -14,6 +14,18 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
 </div>
 
+## Ganze Datei ausgeben
+
+<div class="grid cards" markdown>
+
+-   :material-text-box-outline:{ .lg .middle } **[cat](cat.md)**
+
+    ---
+
+    Gibt Dateien aus und fügt sie zusammen.
+
+</div>
+
 ## Logs lesen
 
 | Aufgabe | Befehl |
