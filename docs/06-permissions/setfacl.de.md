@@ -62,6 +62,7 @@ getfacl -c -d /srv/shared
 ```
 
 ```text
+getfacl: Removing leading '/' from absolute path names
 user::rwx
 group::r-x
 group:developers:rwx
@@ -79,6 +80,7 @@ getfacl -c /srv/app/public/index.html
 ```
 
 ```text
+getfacl: Removing leading '/' from absolute path names
 user::rw-
 user:www-data:r--
 group::r--

@@ -100,6 +100,7 @@ getfacl -c /srv/shared/new.txt
 ```
 
 ```text
+getfacl: Removing leading '/' from absolute path names
 user::rw-
 group::r-x      #effective:r--
 group:developers:rwx    #effective:rw-
