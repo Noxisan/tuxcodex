@@ -111,6 +111,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
 <div class="grid cards" markdown>
 
+-   :material-network-outline:{ .lg .middle } **[nmcli](nmcli.md)**
+
+    ---
+
+    NetworkManager unter RHEL, Rocky und Alma.
+
 </div>
 
 ## Firewall

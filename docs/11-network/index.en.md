@@ -111,6 +111,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
 <div class="grid cards" markdown>
 
+-   :material-network-outline:{ .lg .middle } **[nmcli](nmcli.md)**
+
+    ---
+
+    NetworkManager on RHEL, Rocky and Alma.
+
 </div>
 
 ## Firewall
