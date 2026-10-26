@@ -195,6 +195,7 @@ nav:
       - dpkg: 10-packages/dpkg.md
       - apt-mark: 10-packages/apt-mark.md
       - apt-file: 10-packages/apt-file.md
+      - dnf: 10-packages/dnf.md
 
 markdown_extensions:
   - admonition

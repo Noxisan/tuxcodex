@@ -56,6 +56,12 @@ package a file belongs to, and keeping a server up to date.
 
 <div class="grid cards" markdown>
 
+-   :material-hat-fedora:{ .lg .middle } **[dnf](dnf.md)**
+
+    ---
+
+    Package manager of RHEL, Rocky and Alma.
+
 </div>
 
 ## Arch
