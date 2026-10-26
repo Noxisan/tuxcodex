@@ -77,6 +77,12 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
     Findet Dateien blitzschnell über eine Datenbank.
 
+-   :material-console-line:{ .lg .middle } **[which](which.md)**
+
+    ---
+
+    Zeigt, welches Programm bei einem Befehl ausgeführt wird.
+
 </div>
 
 ## Die wichtigsten Verzeichnisse auf einem Debian-Server

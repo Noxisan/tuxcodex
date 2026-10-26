@@ -65,6 +65,7 @@ nav:
       - popd: 02-navigation/popd.md
       - find: 02-navigation/find.md
       - locate: 02-navigation/locate.md
+      - which: 02-navigation/which.md
 
 markdown_extensions:
   - admonition

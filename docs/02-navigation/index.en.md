@@ -78,6 +78,12 @@ looking for?
 
     Find files by name in a moment using a database.
 
+-   :material-console-line:{ .lg .middle } **[which](which.md)**
+
+    ---
+
+    Show which program runs when you type a command.
+
 </div>
 
 ## The most important directories on a Debian server
