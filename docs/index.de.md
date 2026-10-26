@@ -50,7 +50,7 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
 
     Text in Logs und Konfigurationsdateien suchen, filtern, sortieren und ändern.
 
--   :material-shield-lock-outline:{ .lg .middle } **Rechte** · *in Arbeit*
+-   :material-shield-lock-outline:{ .lg .middle } **[Rechte](06-permissions/index.md)**
 
     ---
 

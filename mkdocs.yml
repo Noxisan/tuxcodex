@@ -41,6 +41,7 @@ plugins:
             Files: Dateien
             Viewing files: Dateien anzeigen
             Text processing: Textverarbeitung
+            Permissions: Rechte
             Overview: Übersicht
 
 nav:
@@ -111,6 +112,8 @@ nav:
       - tee: 05-text-processing/tee.md
       - xargs: 05-text-processing/xargs.md
       - jq: 05-text-processing/jq.md
+  - Permissions:
+      - Overview: 06-permissions/index.md
 
 markdown_extensions:
   - admonition
