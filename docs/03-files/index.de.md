@@ -62,6 +62,18 @@ herausfinden, was eine Datei wirklich ist.
 
 </div>
 
+## Links
+
+<div class="grid cards" markdown>
+
+-   :material-link:{ .lg .middle } **[ln](ln.md)**
+
+    ---
+
+    Legt symbolische und harte Links an.
+
+</div>
+
 ## Sicher arbeiten mit Dateien
 
 Die meisten Fehler mit Dateien passieren in einer Sekunde und lassen sich nicht

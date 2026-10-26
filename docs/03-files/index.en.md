@@ -62,6 +62,18 @@ what a file really is.
 
 </div>
 
+## Links
+
+<div class="grid cards" markdown>
+
+-   :material-link:{ .lg .middle } **[ln](ln.md)**
+
+    ---
+
+    Create symbolic and hard links.
+
+</div>
+
 ## Working safely with files
 
 Most mistakes with files happen in a second and can't be undone. These habits protect
