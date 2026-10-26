@@ -1,19 +1,103 @@
+---
+hide:
+  - toc
+---
+
+<div class="tc-hero tc-hero--chapter" markdown>
+
+:material-compass-outline:{ .tc-hero-icon }
+
 # Orientierung
 
-> Wer bin ich, wo bin ich und was ist auf dieser Maschine gerade los?
+Wer bin ich, wo bin ich und was ist auf dieser Maschine gerade los? Das sind die ersten
+Befehle nach der Anmeldung an einem Server.
 
-Das sind die ersten Befehle nach der Anmeldung an einem Server. Sie zeigen dir, als
-welcher Benutzer du arbeitest, auf welcher Maschine du bist, welcher Kernel läuft, wie
-lange das System schon läuft und wer sonst noch angemeldet ist.
+</div>
 
-| Befehl | Beschreibung |
-|--------|--------------|
-| [whoami](whoami.md) | Zeigt den Benutzer, als der du arbeitest |
-| [id](id.md) | Zeigt Benutzer-ID, Gruppen-ID und Gruppenmitgliedschaften |
-| [hostname](hostname.md) | Zeigt den Hostnamen oder setzt ihn vorübergehend |
-| [hostnamectl](hostnamectl.md) | Zeigt Systeminformationen und setzt den Hostnamen dauerhaft |
-| [uname](uname.md) | Zeigt Kernel-Release und Architektur |
-| [uptime](uptime.md) | Zeigt Laufzeit, angemeldete Benutzer und Systemlast |
-| [who](who.md) | Zeigt, wer angemeldet ist und von wo |
-| [w](w.md) | Zeigt, wer angemeldet ist und was gerade läuft |
-| [last](last.md) | Zeigt die Anmelde- und Neustart-Historie |
+## Wer bin ich?
+
+<div class="grid cards" markdown>
+
+-   :material-account-outline:{ .lg .middle } **[whoami](whoami.md)**
+
+    ---
+
+    Zeigt den Benutzer, als der du arbeitest.
+
+-   :material-card-account-details-outline:{ .lg .middle } **[id](id.md)**
+
+    ---
+
+    Zeigt Benutzer-ID, Gruppen-ID und Gruppenmitgliedschaften.
+
+</div>
+
+## Auf welcher Maschine bin ich?
+
+<div class="grid cards" markdown>
+
+-   :material-tag-outline:{ .lg .middle } **[hostname](hostname.md)**
+
+    ---
+
+    Zeigt Hostnamen und IP-Adressen oder setzt den Namen vorübergehend.
+
+-   :material-cog-outline:{ .lg .middle } **[hostnamectl](hostnamectl.md)**
+
+    ---
+
+    Zeigt Systeminformationen und setzt den Hostnamen dauerhaft.
+
+-   :material-chip:{ .lg .middle } **[uname](uname.md)**
+
+    ---
+
+    Zeigt Kernel-Release und Architektur.
+
+</div>
+
+## Was ist gerade los?
+
+<div class="grid cards" markdown>
+
+-   :material-timer-outline:{ .lg .middle } **[uptime](uptime.md)**
+
+    ---
+
+    Zeigt Laufzeit, angemeldete Benutzer und Systemlast.
+
+-   :material-account-group-outline:{ .lg .middle } **[who](who.md)**
+
+    ---
+
+    Zeigt, wer angemeldet ist und von wo.
+
+-   :material-monitor-eye:{ .lg .middle } **[w](w.md)**
+
+    ---
+
+    Zeigt, wer angemeldet ist und was gerade läuft.
+
+-   :material-history:{ .lg .middle } **[last](last.md)**
+
+    ---
+
+    Zeigt die Anmelde- und Neustart-Historie.
+
+</div>
+
+## Die erste Minute auf einem neuen Server
+
+Fünf Befehle, die dir direkt nach der Anmeldung ein vollständiges Bild geben:
+
+```bash
+whoami        # bin ich der richtige Benutzer?
+hostnamectl   # welche Maschine, welches OS, welcher Kernel?
+uptime        # wie lange läuft sie schon, wie hoch ist die Last?
+w             # wer ist noch angemeldet, und was läuft gerade?
+last -n 5     # wer hat sich zuletzt angemeldet?
+```
+
+!!! tip "Lernpfad"
+    Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach
+    durch – spätere Seiten bauen auf den früheren auf.

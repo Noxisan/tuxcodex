@@ -122,3 +122,20 @@
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+/* Chapter overview pages */
+.tc-hero--chapter {
+  margin-bottom: 2rem;
+}
+
+.md-typeset .tc-hero-icon {
+  display: inline-block;
+  height: 3.5rem;
+  color: var(--tc-accent);
+}
+
+.md-typeset .tc-hero-icon svg {
+  width: 3.5rem;
+  height: 3.5rem;
+  max-height: none;
+}
