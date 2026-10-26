@@ -50,6 +50,7 @@ nav:
       - hostnamectl: 01-orientation/hostnamectl.md
       - uname: 01-orientation/uname.md
       - uptime: 01-orientation/uptime.md
+      - who: 01-orientation/who.md
 
 markdown_extensions:
   - admonition
