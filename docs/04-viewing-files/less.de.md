@@ -134,4 +134,4 @@ Desired=Unknown/Install/Remove/Purge/Hold
 
 ## Verwandte Befehle
 
-[cat](cat.md) · [tac](tac.md)
+[cat](cat.md) · [tac](tac.md) · [tail](tail.md)

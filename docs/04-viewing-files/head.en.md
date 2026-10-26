@@ -94,8 +94,8 @@ db-2026-10-20.sql.gz
 
 !!! warning "Not the newest log entries"
     Log files grow at the end. `head` shows the **oldest** entries. For the newest ones,
-    use `tail`.
+    use [`tail`](tail.md).
 
 ## Related commands
 
-[cat](cat.md) · [less](less.md)
+[cat](cat.md) · [less](less.md) · [tail](tail.md)

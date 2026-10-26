@@ -60,6 +60,12 @@ text files to compressed logs and binary files.
 
     Show the first lines of a file.
 
+-   :material-arrow-collapse-down:{ .lg .middle } **[tail](tail.md)**
+
+    ---
+
+    Show the last lines of a file and follow logs live.
+
 </div>
 
 ## Reading logs

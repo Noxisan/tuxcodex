@@ -60,6 +60,12 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 
     Zeigt die ersten Zeilen einer Datei.
 
+-   :material-arrow-collapse-down:{ .lg .middle } **[tail](tail.md)**
+
+    ---
+
+    Zeigt die letzten Zeilen einer Datei und verfolgt Logs live.
+
 </div>
 
 ## Logs lesen
