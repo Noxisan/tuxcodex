@@ -106,19 +106,14 @@ locate report.pdf
     files are still listed. Run `sudo updatedb` before searching for new files, or use
     `locate -e` to hide files that no longer exist.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| Package | `plocate` (not always installed) | `plocate` (not installed by default) |
-| Database | created during installation | created by the first `sudo updatedb` |
-| Daily update | timer active automatically | enable the timer yourself |
-
-Install on Debian:
-
-```bash
-sudo apt install plocate
-```
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Package | `plocate` | `plocate` | `mlocate` (RHEL 9), `plocate` (RHEL 10) | `plocate` |
+| Installed by default | not always | not always | not always | no |
+| Daily update | automatic | automatic | automatic | enable the timer yourself |
+| Install | `sudo apt install plocate` | `sudo apt install plocate` | `sudo dnf install plocate` | `sudo pacman -S plocate` |
 
 Enable the daily update on Arch:
 

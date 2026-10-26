@@ -124,12 +124,15 @@ Europe/Berlin
     with `sudo timedatectl set-ntp true`. With `n/a`, no NTP client is installed (see
     below). Also make sure the firewall allows outgoing UDP port 123.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| NTP client | separate package `systemd-timesyncd` (or `chrony`) | `systemd-timesyncd` is part of `systemd` |
-| Enabled | automatically, once installed | no, turn it on with `sudo timedatectl set-ntp true` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| NTP client | `systemd-timesyncd` (own package) | `chrony` from 25.10, `systemd-timesyncd` in 24.04 LTS | `chronyd` | `systemd-timesyncd` (part of `systemd`) |
+| Active after installation | yes | yes | yes | no, turn it on with `sudo timedatectl set-ntp true` |
+
+`timedatectl` works with all of them for time zone and `set-ntp`. `timesync-status`
+only works with `systemd-timesyncd`. With `chrony`, use `chronyc tracking` instead.
 
 If `timedatectl` shows `NTP service: n/a` on Debian, install the client:
 

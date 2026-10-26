@@ -115,9 +115,9 @@ Textdateien bis zu komprimierten Logs und Binärdateien.
 | Die neuesten Zeilen zuerst anzeigen | `tac /var/log/nginx/access.log | less` |
 
 !!! tip "Logs von systemd-Diensten"
-    Viele Dienste unter Debian schreiben keine eigenen Logdateien, sondern ins
-    systemd-Journal. Diese liest du mit `journalctl`, das im Kapitel über Logs
-    ausführlich behandelt wird.
+    Auf Distributionen mit systemd schreiben viele Dienste keine eigenen Logdateien,
+    sondern ins systemd-Journal. Diese liest du mit `journalctl`, das im Kapitel über
+    Logs ausführlich behandelt wird.
 
 !!! tip "Lernpfad"
     Die Befehle sind von einfach nach komplexer sortiert. Arbeite sie der Reihe nach

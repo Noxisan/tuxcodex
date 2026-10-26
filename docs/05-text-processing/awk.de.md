@@ -71,8 +71,8 @@ awk -F: '$3 >= 1000 && $3 < 65534 {print $1}' /etc/passwd
 nox
 ```
 
-Normale Benutzer beginnen unter Debian bei UID 1000. `nobody` hat die UID 65534 und wird
-ausgeschlossen.
+Auf allen gängigen Distributionen beginnen normale Benutzer bei UID 1000. `nobody` hat die
+UID 65534 und wird ausgeschlossen.
 
 **Eine Spalte aufsummieren:**
 
@@ -142,14 +142,15 @@ awk '$9 == 200 {n++; s += $10} END {print n, s/n}' /var/log/nginx/access.log
     doppelten Anführungszeichen ersetzt die Shell `$1` durch ihre eigene Variable, bevor
     `awk` startet, meist durch nichts.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-| | Debian | Arch |
-|---|--------|------|
-| Standard-`awk` | `mawk` (schnell, Grundfunktionen) | `gawk` (GNU awk, viele Extras) |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Standard-`awk` | `mawk` (schnell, Grundfunktionen) | `mawk` | `gawk` (GNU awk, viele Extras) | `gawk` |
 
 Alle Beispiele auf dieser Seite funktionieren mit beiden. GNU-spezifische Funktionen wie
-`gensub()`, `asort()` oder `PROCINFO` brauchen `gawk`. Unter Debian installierst du es mit:
+`gensub()`, `asort()` oder `PROCINFO` brauchen `gawk`. Unter Debian und Ubuntu
+installierst du es mit:
 
 ```bash
 sudo apt install gawk

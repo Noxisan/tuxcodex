@@ -124,11 +124,14 @@ tree -I '*.gz'
     keep the output readable.
 
 !!! warning "Not installed by default"
-    `tree` is not part of a minimal Debian installation. Install it with:
+    `tree` is not installed by default on most distributions. The package is called
+    `tree` everywhere, see the table below.
 
-    ```bash
-    sudo apt install tree
-    ```
+## Distribution differences
+
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Install | `sudo apt install tree` | `sudo apt install tree` | `sudo dnf install tree` | `sudo pacman -S tree` |
 
 ## Related commands
 

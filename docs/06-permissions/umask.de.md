@@ -23,7 +23,7 @@ Die `umask` nimmt davon Rechte weg:
 
 | umask | Neue Dateien | Neue Verzeichnisse | Verwendung |
 |-------|--------------|--------------------|------------|
-| `022` | `644` `rw-r--r--` | `755` `rwxr-xr-x` | Debian-Standard |
+| `022` | `644` `rw-r--r--` | `755` `rwxr-xr-x` | Standard auf den meisten Distributionen |
 | `027` | `640` `rw-r-----` | `750` `rwxr-x---` | Server: andere bekommen nichts |
 | `077` | `600` `rw-------` | `700` `rwx------` | Privat: nur der Besitzer |
 

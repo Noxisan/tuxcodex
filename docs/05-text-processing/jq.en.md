@@ -143,11 +143,14 @@ jq: parse error: Expected another key-value pair at line 1, column 8
     JSON. Run it before you restart a service that reads this file.
 
 !!! warning "Not installed by default"
-    `jq` is not part of a minimal Debian installation. Install it with:
+    `jq` is not installed by default on most distributions. The package is called `jq`
+    everywhere, see the table below.
 
-    ```bash
-    sudo apt install jq
-    ```
+## Distribution differences
+
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Install | `sudo apt install jq` | `sudo apt install jq` | `sudo dnf install jq` | `sudo pacman -S jq` |
 
 ## Related commands
 

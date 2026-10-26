@@ -71,7 +71,8 @@ awk -F: '$3 >= 1000 && $3 < 65534 {print $1}' /etc/passwd
 nox
 ```
 
-Normal users on Debian start at UID 1000. `nobody` has UID 65534 and is excluded.
+On all common distributions, normal users start at UID 1000. `nobody` has UID 65534 and
+is excluded.
 
 **Add up a column:**
 
@@ -139,14 +140,14 @@ awk '$9 == 200 {n++; s += $10} END {print n, s/n}' /var/log/nginx/access.log
     Always write the program in single quotes: `awk '{print $1}'`. In double quotes, the
     shell replaces `$1` with its own variable before `awk` runs, usually with nothing.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| Default `awk` | `mawk` (fast, basic features) | `gawk` (GNU awk, many extras) |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Default `awk` | `mawk` (fast, basic features) | `mawk` | `gawk` (GNU awk, many extras) | `gawk` |
 
 All examples on this page work with both. GNU-specific features like `gensub()`,
-`asort()` or `PROCINFO` need `gawk`. Install it on Debian with:
+`asort()` or `PROCINFO` need `gawk`. Install it on Debian and Ubuntu with:
 
 ```bash
 sudo apt install gawk

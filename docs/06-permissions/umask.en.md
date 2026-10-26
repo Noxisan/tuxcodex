@@ -23,7 +23,7 @@ The `umask` removes permissions from these:
 
 | umask | New files | New directories | Use |
 |-------|-----------|-----------------|-----|
-| `022` | `644` `rw-r--r--` | `755` `rwxr-xr-x` | Debian default |
+| `022` | `644` `rw-r--r--` | `755` `rwxr-xr-x` | Default on most distributions |
 | `027` | `640` `rw-r-----` | `750` `rwxr-x---` | Servers: others get nothing |
 | `077` | `600` `rw-------` | `700` `rwx------` | Private: only the owner |
 

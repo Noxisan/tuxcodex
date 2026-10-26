@@ -1,6 +1,6 @@
 # addgroup
 
-> Creates a new group on Debian, or adds an existing user to a group.
+> Creates a new group on Debian and Ubuntu, or adds an existing user to a group.
 
 ![addgroup output](../assets/screenshots/07-users-groups/addgroup.png)
 
@@ -80,7 +80,7 @@ fatal: The group `developers' already exists.
 
 - To create a team group for a shared directory, for example `developers` or `deploy`
 - To create a group for a service that several users or services share
-- To add a user to a group with the Debian tools
+- To add a user to a group with the Debian and Ubuntu tools
 
 !!! tip "Same as `adduser USER GROUP`"
     `addgroup alice developers` and `adduser alice developers` do exactly the same. Use
@@ -90,12 +90,12 @@ fatal: The group `developers' already exists.
     A user who was added to a group only gets the new rights in a new session. Log out
     and back in, or open a new SSH connection.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| `addgroup` | installed | not available |
-| Alternative | `groupadd` | `groupadd developers`, `gpasswd -a alice developers` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| `addgroup` | installed | installed | not available | not available |
+| Alternative | | | `groupadd developers`, `gpasswd -a alice developers` | `groupadd developers`, `gpasswd -a alice developers` |
 
 ## Related commands
 

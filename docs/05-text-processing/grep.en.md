@@ -183,9 +183,9 @@ user exists
     `zgrep ' 500 ' /var/log/nginx/access.log*` searches all rotated logs at once.
 
 !!! tip "Colour and context"
-    On Debian, `grep` is an alias for `grep --color=auto` in interactive shells, and the
-    match is highlighted. Combined with `-C 3`, you see each match together with its
-    surroundings.
+    On most distributions, `grep` is an alias for `grep --color=auto` in interactive
+    shells, and the match is highlighted. Combined with `-C 3`, you see each match
+    together with its surroundings.
 
 !!! warning "`-r` doesn't follow symbolic links"
     `grep -r` skips links inside the directory. In `/etc/nginx/sites-enabled/`, all sites

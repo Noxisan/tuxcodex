@@ -1,6 +1,6 @@
 # deluser
 
-> Löscht unter Debian einen Benutzer, auf Wunsch samt Home-Verzeichnis, oder entfernt einen Benutzer aus einer Gruppe.
+> Löscht unter Debian und Ubuntu einen Benutzer, auf Wunsch samt Home-Verzeichnis, oder entfernt einen Benutzer aus einer Gruppe.
 
 ![deluser output](../assets/screenshots/07-users-groups/deluser.png)
 
@@ -88,12 +88,12 @@ fatal: You may not remove the user from their primary group.
     `/tmp` erhalten. Sie gehören dann einer UID ohne Namen. Finde sie vor dem Löschen mit
     `find / -xdev -user alice`.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-| | Debian | Arch |
-|---|--------|------|
-| `deluser` | installiert | nicht vorhanden |
-| Alternative | `userdel`, `gpasswd -d` | `userdel -r alice`, `gpasswd -d alice docker` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| `deluser` | installiert | installiert | nicht vorhanden | nicht vorhanden |
+| Alternative | | | `userdel -r alice`, `gpasswd -d alice docker` | `userdel -r alice`, `gpasswd -d alice docker` |
 
 ## Verwandte Befehle
 

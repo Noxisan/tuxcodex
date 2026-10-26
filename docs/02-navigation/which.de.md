@@ -40,8 +40,8 @@ which -a ls
 /bin/ls
 ```
 
-Unter Debian ist `/bin` ein Link auf `/usr/bin`, und beide stehen in `$PATH`. Deshalb
-taucht dasselbe Programm zweimal auf.
+Auf allen aktuellen Distributionen ist `/bin` ein Link auf `/usr/bin`. Unter Debian und
+Ubuntu stehen beide in `$PATH`, deshalb taucht dasselbe Programm zweimal auf.
 
 **Mehrere Befehle auf einmal prüfen:**
 
@@ -104,13 +104,13 @@ ls is aliased to `ls --color=auto'
     Benutzer steht. `which` findet dann nichts, obwohl das Programm installiert ist.
     [`whereis`](whereis.md) findet es trotzdem.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-| | Debian | Arch |
-|---|--------|------|
-| Programm | `which` aus `debianutils` | GNU `which` (Paket `which`) |
-| Optionen | nur `-a` und `-s` | viele weitere, z. B. `--skip-alias`, `--read-functions` |
-| Nicht gefunden | keine Ausgabe, Exit-Status `1` | Meldung `which: no nmap in (...)` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Programm | `which` aus `debianutils` | `which` aus `debianutils` | GNU `which` | GNU `which` |
+| Optionen | nur `-a` und `-s` | nur `-a` und `-s` | viele weitere, z. B. `--skip-alias` | viele weitere, z. B. `--skip-alias` |
+| Nicht gefunden | keine Ausgabe, Exit-Status `1` | keine Ausgabe, Exit-Status `1` | Meldung `which: no nmap in (...)` | Meldung `which: no nmap in (...)` |
 
 ## Verwandte Befehle
 

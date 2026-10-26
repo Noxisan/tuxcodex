@@ -88,21 +88,22 @@ test-srv
     `hostname -I` ist der schnellste Weg zu den Adressen eines Servers, etwa wenn du an
     der Konsole sitzt und die IP für SSH brauchst.
 
-!!! warning "`-i` zeigt unter Debian `127.0.1.1`"
-    `hostname -i` löst nur den Hostnamen auf, und Debian trägt ihn in `/etc/hosts` mit
-    `127.0.1.1` ein. Für die echten Adressen nimm `hostname -I`.
+!!! warning "`-i` zeigt unter Debian und Ubuntu `127.0.1.1`"
+    `hostname -i` löst nur den Hostnamen auf. Debian und Ubuntu tragen ihn in
+    `/etc/hosts` mit `127.0.1.1` ein. Für die echten Adressen nimm `hostname -I`.
 
 !!! warning "Änderungen sind nicht dauerhaft"
     `hostname NAME` ändert den Namen nur bis zum nächsten Neustart. Dauerhaft änderst du
     ihn mit `hostnamectl hostname NAME` und passt zusätzlich den Eintrag in
     `/etc/hosts` an.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-| | Debian | Arch |
-|---|--------|------|
-| Paket | `hostname` (immer installiert) | `inetutils` (nicht immer installiert) |
-| `-I`, `-A` | vorhanden | nicht vorhanden |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Paket | `hostname` | `hostname` | `hostname` | `inetutils` |
+| Standardmäßig installiert | ja | ja | ja | nicht immer |
+| `-I`, `-A` | vorhanden | vorhanden | vorhanden | nicht vorhanden |
 
 Auf minimalen Arch-Systemen fehlt `hostname` unter Umständen. Nimm dann `hostnamectl`
 oder `cat /etc/hostname` und für die IP-Adressen `ip -brief address`.

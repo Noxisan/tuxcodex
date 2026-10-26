@@ -126,12 +126,15 @@ Europe/Berlin
     installiert (siehe unten). Prüfe außerdem, ob die Firewall ausgehend UDP-Port 123
     erlaubt.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-| | Debian | Arch |
-|---|--------|------|
-| NTP-Client | eigenes Paket `systemd-timesyncd` (oder `chrony`) | `systemd-timesyncd` gehört zu `systemd` |
-| Aktiviert | automatisch, sobald installiert | nein, einschalten mit `sudo timedatectl set-ntp true` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| NTP-Client | `systemd-timesyncd` (eigenes Paket) | `chrony` ab 25.10, `systemd-timesyncd` in 24.04 LTS | `chronyd` | `systemd-timesyncd` (gehört zu `systemd`) |
+| Nach der Installation aktiv | ja | ja | ja | nein, einschalten mit `sudo timedatectl set-ntp true` |
+
+Für Zeitzone und `set-ntp` funktioniert `timedatectl` mit allen. `timesync-status` geht
+nur mit `systemd-timesyncd`. Bei `chrony` nimmst du stattdessen `chronyc tracking`.
 
 Zeigt `timedatectl` unter Debian `NTP service: n/a`, installiere den Client:
 

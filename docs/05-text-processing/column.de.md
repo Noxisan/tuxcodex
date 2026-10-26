@@ -91,13 +91,14 @@ nox       1000  1000  /home/nox  /bin/bash
     geht verloren. Leite breite Tabellen in `less -S`, das lange Zeilen abschneidet statt
     sie umzubrechen.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-| | Debian | Arch |
-|---|--------|------|
-| Paket | `bsdextrautils` | `util-linux` (immer installiert) |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Paket | `bsdextrautils` | `bsdextrautils` | `util-linux` (immer installiert) | `util-linux` (immer installiert) |
 
-Fehlt `column` unter Debian, installierst du es mit `sudo apt install bsdextrautils`.
+Fehlt `column` unter Debian oder Ubuntu, installierst du es mit
+`sudo apt install bsdextrautils`.
 
 ## Verwandte Befehle
 

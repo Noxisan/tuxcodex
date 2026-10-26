@@ -91,8 +91,8 @@ The newest installed kernel (`6.12.48`) is not running yet, so the server needs 
   first question
 
 !!! tip "Distribution version"
-    `uname` only knows the kernel, not the distribution. For the Debian version use
-    `cat /etc/os-release` or [`hostnamectl`](hostnamectl.md).
+    `uname` only knows the kernel, not the distribution. For the distribution and its
+    version use `cat /etc/os-release` or [`hostnamectl`](hostnamectl.md).
 
 !!! tip "Good to know"
     `-p` (processor) and `-i` (hardware platform) usually only print `unknown` on Linux.

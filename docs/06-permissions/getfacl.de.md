@@ -124,8 +124,9 @@ other::---
     darin steht, zeigt nur `getfacl`.
 
 !!! warning "Paket `acl`"
-    `getfacl` und `setfacl` stecken im Paket `acl`. Fehlen die Befehle, installierst du es
-    mit `sudo apt install acl`.
+    `getfacl` und `setfacl` stecken im Paket `acl`, das unter RHEL und Arch und meist auch
+    unter Debian und Ubuntu installiert ist. Fehlen die Befehle, installierst du es mit
+    `sudo apt install acl`.
 
 ## Verwandte Befehle
 

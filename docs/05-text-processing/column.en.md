@@ -88,13 +88,13 @@ nox       1000  1000  /home/nox  /bin/bash
     If a table is wider than the terminal, every line wraps and the alignment is lost.
     Pipe wide tables into `less -S`, which cuts off long lines instead of wrapping them.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| Package | `bsdextrautils` | `util-linux` (always installed) |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Package | `bsdextrautils` | `bsdextrautils` | `util-linux` (always installed) | `util-linux` (always installed) |
 
-If `column` is missing on Debian, install it with `sudo apt install bsdextrautils`.
+If `column` is missing on Debian or Ubuntu, install it with `sudo apt install bsdextrautils`.
 
 ## Related commands
 

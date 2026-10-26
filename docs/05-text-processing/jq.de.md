@@ -144,11 +144,14 @@ jq: parse error: Expected another key-value pair at line 1, column 8
     liest.
 
 !!! warning "Nicht standardmäßig installiert"
-    `jq` gehört nicht zu einer minimalen Debian-Installation. Installiere es mit:
+    `jq` ist auf den meisten Distributionen nicht vorinstalliert. Das Paket heißt überall
+    `jq`, siehe die Tabelle unten.
 
-    ```bash
-    sudo apt install jq
-    ```
+## Unterschiede zwischen Distributionen
+
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Installieren | `sudo apt install jq` | `sudo apt install jq` | `sudo dnf install jq` | `sudo pacman -S jq` |
 
 ## Verwandte Befehle
 

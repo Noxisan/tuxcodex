@@ -98,7 +98,7 @@ looking for?
 
 </div>
 
-## The most important directories on a Debian server
+## The most important directories on a Linux server
 
 | Directory | Contents |
 |-----------|----------|
@@ -108,12 +108,12 @@ looking for?
 | `/root` | Home directory of the `root` user |
 | `/var/log` | Log files |
 | `/var/lib` | Data of programs and services (databases, Docker, package lists) |
-| `/var/www` | Web content (default for Apache and nginx on Debian) |
+| `/var/www` | Web content on Debian and Ubuntu (RHEL: `/var/www/html`, Arch: `/srv/http`) |
 | `/srv` | Data that the server provides (websites, FTP, Git repositories) |
 | `/opt` | Additional software that is not installed via `apt` |
 | `/usr/local` | Software and scripts you installed yourself |
 | `/usr/bin` | Programs (`/bin` is a link to it) |
-| `/tmp` | Temporary files; since Debian 13 kept in RAM and emptied on every reboot |
+| `/tmp` | Temporary files; on Debian 13 and Arch kept in RAM and emptied on every reboot |
 | `/boot` | Kernel and boot loader |
 | `/proc`, `/sys` | Virtual file systems with live information from the kernel |
 | `/dev` | Devices (disks, terminals) |

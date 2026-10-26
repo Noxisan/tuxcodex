@@ -93,18 +93,18 @@ Der `*` bedeutet: Die vorherige Zeile wiederholt sich bis Position `400` (1024 B
 
 !!! tip "Immer `-C` nehmen"
     Ohne Optionen zeigt `hexdump` die Bytes in 2-Byte-Gruppen in einer verwirrenden
-    Reihenfolge. `hexdump -C` ist das Format, das jeder erwartet. Unter Debian ist `hd`
-    eine Kurzform dafür.
+    Reihenfolge. `hexdump -C` ist das Format, das jeder erwartet. Unter Debian und Ubuntu
+    ist `hd` eine Kurzform dafür.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-| | Debian | Arch |
-|---|--------|------|
-| Paket | `bsdextrautils` | `util-linux` (immer installiert) |
-| Kurzform `hd` | vorhanden | nicht vorhanden |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Paket | `bsdextrautils` | `bsdextrautils` | `util-linux` (immer installiert) | `util-linux` (immer installiert) |
 
-Fehlt `hexdump` unter Debian, installierst du es mit `sudo apt install bsdextrautils`.
-Eine Alternative ist `xxd` aus dem gleichnamigen Paket.
+Fehlt `hexdump` unter Debian oder Ubuntu, installierst du es mit
+`sudo apt install bsdextrautils`. Eine Alternative ist `xxd` aus dem gleichnamigen Paket
+(unter RHEL Teil von `vim-common`).
 
 ## Verwandte Befehle
 

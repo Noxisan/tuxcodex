@@ -88,20 +88,21 @@ test-srv
     `hostname -I` is the fastest way to find out a server's addresses, for example
     when you are logged in on the console and need the IP for SSH.
 
-!!! warning "`-i` shows `127.0.1.1` on Debian"
-    `hostname -i` only resolves the host name, and Debian maps it to `127.0.1.1` in
-    `/etc/hosts`. Use `hostname -I` for the real addresses.
+!!! warning "`-i` shows `127.0.1.1` on Debian and Ubuntu"
+    `hostname -i` only resolves the host name. Debian and Ubuntu map it to `127.0.1.1`
+    in `/etc/hosts`. Use `hostname -I` for the real addresses.
 
 !!! warning "Changes are not permanent"
     `hostname NAME` changes the name only until the next reboot. To change it
     permanently, use `hostnamectl hostname NAME` and adjust the entry in `/etc/hosts`.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| Package | `hostname` (always installed) | `inetutils` (not always installed) |
-| `-I`, `-A` | available | not available |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Package | `hostname` | `hostname` | `hostname` | `inetutils` |
+| Installed by default | yes | yes | yes | not always |
+| `-I`, `-A` | available | available | available | not available |
 
 On Arch, `hostname` may be missing on minimal systems. Use `hostnamectl` or
 `cat /etc/hostname` instead, and `ip -brief address` for the IP addresses.

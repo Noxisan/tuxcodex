@@ -1,6 +1,6 @@
 # delgroup
 
-> Löscht unter Debian eine Gruppe oder entfernt einen Benutzer aus einer Gruppe.
+> Löscht unter Debian und Ubuntu eine Gruppe oder entfernt einen Benutzer aus einer Gruppe.
 
 ![delgroup output](../assets/screenshots/07-users-groups/delgroup.png)
 
@@ -69,7 +69,7 @@ echo $?
 
 - Um Team- oder Projektgruppen aufzuräumen, die nicht mehr gebraucht werden
 - Um Gruppen deinstallierter Dienste zu entfernen
-- Um einen Benutzer mit den Debian-Werkzeugen aus einer Gruppe zu entfernen
+- Um einen Benutzer mit den Werkzeugen von Debian und Ubuntu aus einer Gruppe zu entfernen
 
 !!! tip "`--only-if-empty` beim Aufräumen"
     In Aufräumskripten verhindert `--only-if-empty`, dass du eine Gruppe löschst, die noch
@@ -80,12 +80,12 @@ echo $?
     Zahl statt eines Namens. Finde sie vor dem Löschen mit
     `sudo find / -xdev -group developers`.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-| | Debian | Arch |
-|---|--------|------|
-| `delgroup` | installiert | nicht vorhanden |
-| Alternative | `groupdel` | `groupdel developers`, `gpasswd -d alice developers` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| `delgroup` | installiert | installiert | nicht vorhanden | nicht vorhanden |
+| Alternative | | | `groupdel developers`, `gpasswd -d alice developers` | `groupdel developers`, `gpasswd -d alice developers` |
 
 ## Verwandte Befehle
 

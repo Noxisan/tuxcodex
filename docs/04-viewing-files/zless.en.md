@@ -70,10 +70,10 @@ zless +G /var/log/nginx/access.log.2.gz
 - To browse compressed backups, dumps or exports page by page
 - When `zcat` would print too much at once
 
-!!! tip "On Debian, `less` can do this too"
-    Debian's default `~/.bashrc` sets up `lesspipe`. In an interactive shell, a plain
-    `less access.log.2.gz` shows the unpacked content as well. In scripts or other
-    shells, `zless` is the reliable way.
+!!! tip "`less` can often do this too"
+    Debian, Ubuntu and RHEL set up `lesspipe` for interactive shells. There, a plain
+    `less access.log.2.gz` shows the unpacked content as well. In scripts or on other
+    systems, `zless` is the reliable way.
 
 !!! warning "Large compressed files"
     `zless` unpacks the file on the fly. Jumping to the end (`G`) of a very large file

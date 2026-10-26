@@ -42,7 +42,9 @@ realpath /bin/sh
 /usr/bin/dash
 ```
 
-Unter Debian ist `/bin` ein Link auf `/usr/bin`, und `sh` ist ein Link auf `dash`.
+`/bin` ist auf allen aktuellen Distributionen ein Link auf `/usr/bin`. Unter Debian und
+Ubuntu ist `sh` ein Link auf `dash`, unter RHEL und Arch auf `bash`. `realpath` folgt der
+ganzen Kette.
 `realpath` folgt der ganzen Kette.
 
 **Einen Pfad mit `..` bereinigen:**

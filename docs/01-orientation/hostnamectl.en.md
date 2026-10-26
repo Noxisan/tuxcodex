@@ -86,7 +86,7 @@ hostnamectl | grep -E 'Static|Deployment'
     after you log in again.
 
 !!! warning "Update `/etc/hosts` as well"
-    On Debian, the host name is also listed in `/etc/hosts` next to `127.0.1.1`.
+    On Debian and Ubuntu, the host name is also listed in `/etc/hosts` next to `127.0.1.1`.
     `hostnamectl` does not change that line. If you forget it, `sudo` will complain with
     `unable to resolve host`:
 

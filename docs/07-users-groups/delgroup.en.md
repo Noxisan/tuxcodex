@@ -1,6 +1,6 @@
 # delgroup
 
-> Deletes a group on Debian, or removes a user from a group.
+> Deletes a group on Debian and Ubuntu, or removes a user from a group.
 
 ![delgroup output](../assets/screenshots/07-users-groups/delgroup.png)
 
@@ -69,7 +69,7 @@ echo $?
 
 - To clean up team or project groups that are no longer needed
 - To remove groups of uninstalled services
-- To remove a user from a group with the Debian tools
+- To remove a user from a group with the Debian and Ubuntu tools
 
 !!! tip "Use `--only-if-empty` for cleanups"
     In cleanup scripts, `--only-if-empty` prevents you from deleting a group that is
@@ -79,12 +79,12 @@ echo $?
     Files that belonged to the deleted group keep its GID. `ls -l` then shows a number
     instead of a name. Find them before deleting with `sudo find / -xdev -group developers`.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| `delgroup` | installed | not available |
-| Alternative | `groupdel` | `groupdel developers`, `gpasswd -d alice developers` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| `delgroup` | installed | installed | not available | not available |
+| Alternative | | | `groupdel developers`, `gpasswd -d alice developers` | `groupdel developers`, `gpasswd -d alice developers` |
 
 ## Related commands
 

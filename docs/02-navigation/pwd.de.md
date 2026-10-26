@@ -53,8 +53,8 @@ pwd -P
 /run
 ```
 
-Unter Debian ist `/var/run` nur ein Link auf `/run`. `pwd` zeigt den Pfad, über den du
-gekommen bist, `pwd -P` zeigt, wo du wirklich bist.
+Auf aktuellen Linux-Distributionen ist `/var/run` nur ein Link auf `/run`. `pwd` zeigt den
+Pfad, über den du gekommen bist, `pwd -P` zeigt, wo du wirklich bist.
 
 **Das aktuelle Verzeichnis in einem Befehl verwenden:**
 

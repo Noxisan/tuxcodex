@@ -83,12 +83,14 @@ strings -t x /usr/local/bin/backup-tool | head -n 2
     was du suchst: Pfade (`'^/'`), URLs (`http`) oder Wörter wie `version` oder `error`.
 
 !!! warning "Nicht standardmäßig installiert"
-    `strings` gehört zum Paket `binutils`, das auf einem minimalen Debian-System nicht
-    installiert ist. Installiere es mit:
+    `strings` gehört zum Paket `binutils`, das auf minimalen Server-Installationen oft
+    fehlt. Die Installationsbefehle stehen in der Tabelle unten.
 
-    ```bash
-    sudo apt install binutils
-    ```
+## Unterschiede zwischen Distributionen
+
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Installieren | `sudo apt install binutils` | `sudo apt install binutils` | `sudo dnf install binutils` | `sudo pacman -S binutils` |
 
 ## Verwandte Befehle
 

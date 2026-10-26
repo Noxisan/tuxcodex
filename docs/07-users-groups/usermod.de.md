@@ -106,15 +106,15 @@ Umbenennen oder die UID ändern geht nur, wenn der Benutzer keine laufenden Proz
 - Um die Shell von Dienstbenutzern auf `/usr/sbin/nologin` zu setzen
 - Um ein Konto umzubenennen oder sein Home-Verzeichnis zu verschieben
 
-!!! danger "`-G` ohne `-a` entfernt Gruppen"
-    `usermod -G docker alice` entfernt `alice` aus **allen** anderen zusätzlichen Gruppen,
-    auch aus `sudo`. War das dein eigenes Admin-Konto, verlierst du `sudo`. Schreib immer
-    `-aG`.
-
 !!! warning "`-L` sperrt keine SSH-Schlüssel"
     `usermod -L` sperrt nur das Passwort. Anmeldungen mit SSH-Schlüssel funktionieren
     weiter. Um ein Konto ganz zu sperren, nimm zusätzlich `usermod -e 1` (Konto
     abgelaufen) oder `usermod -s /usr/sbin/nologin`.
+
+!!! danger "`-G` ohne `-a` entfernt Gruppen"
+    `usermod -G docker alice` entfernt `alice` aus **allen** anderen zusätzlichen Gruppen,
+    auch aus `sudo`. War das dein eigenes Admin-Konto, verlierst du `sudo`. Schreib immer
+    `-aG`.
 
 ## Verwandte Befehle
 

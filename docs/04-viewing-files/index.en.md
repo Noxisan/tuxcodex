@@ -115,8 +115,9 @@ text files to compressed logs and binary files.
 | Show the newest lines first | `tac /var/log/nginx/access.log | less` |
 
 !!! tip "Logs of systemd services"
-    Many services on Debian don't write their own log files, but log to the systemd
-    journal. You read those with `journalctl`, which is covered in the chapter on logs.
+    On distributions with systemd, many services don't write their own log files, but
+    log to the systemd journal. You read those with `journalctl`, which is covered in the
+    chapter on logs.
 
 !!! tip "Learning path"
     The commands are sorted from simple to more complex. Work through them in order,

@@ -138,10 +138,17 @@ eines Befehls an `diff`, als wäre sie eine Datei.
     und `2` bei einem Fehler. Skripte können das nutzen:
     `diff -q a b > /dev/null || echo "changed"`.
 
-!!! tip "`.dpkg-dist` nach Updates"
+!!! tip "Neue Konfigurationsdateien nach Updates"
     Hast du eine Konfiguration geändert und ein Paket-Update bringt eine neue Version mit,
-    behält Debian die neue Datei als `DATEI.dpkg-dist` oder `DATEI.ucf-dist`. Vergleiche
-    sie mit `diff -u`, um zu sehen, was das Update geändert hätte.
+    legt der Paketmanager die neue Datei neben deine (siehe Tabelle unten). Vergleiche sie
+    mit `diff -u`, um zu sehen, was das Update geändert hätte.
+
+## Unterschiede zwischen Distributionen
+
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Neue Version einer geänderten Konfiguration | `DATEI.dpkg-dist`, `DATEI.ucf-dist` | `DATEI.dpkg-dist`, `DATEI.ucf-dist` | `DATEI.rpmnew` | `DATEI.pacnew` |
+| Deine alte Version nach dem Ersetzen | `DATEI.dpkg-old` | `DATEI.dpkg-old` | `DATEI.rpmsave` | `DATEI.pacsave` |
 
 ## Verwandte Befehle
 

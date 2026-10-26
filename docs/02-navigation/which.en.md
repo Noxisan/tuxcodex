@@ -40,8 +40,8 @@ which -a ls
 /bin/ls
 ```
 
-On Debian, `/bin` is a link to `/usr/bin`, and both are in `$PATH`. That's why the same
-program is listed twice.
+On all current distributions, `/bin` is a link to `/usr/bin`. On Debian and Ubuntu, both
+are in `$PATH`, so the same program is listed twice.
 
 **Check several commands at once:**
 
@@ -104,13 +104,13 @@ nothing. The shell builtin `type` also knows builtins, aliases and functions.
     `which` then finds nothing, although the program is installed. [`whereis`](whereis.md)
     finds it anyway.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| Program | `which` from `debianutils` | GNU `which` (package `which`) |
-| Options | only `-a` and `-s` | many more, e.g. `--skip-alias`, `--read-functions` |
-| Not found | no output, exit status `1` | message `which: no nmap in (...)` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Program | `which` from `debianutils` | `which` from `debianutils` | GNU `which` | GNU `which` |
+| Options | only `-a` and `-s` | only `-a` and `-s` | many more, e.g. `--skip-alias` | many more, e.g. `--skip-alias` |
+| Not found | no output, exit status `1` | no output, exit status `1` | message `which: no nmap in (...)` | message `which: no nmap in (...)` |
 
 ## Related commands
 

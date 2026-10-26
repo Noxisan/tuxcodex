@@ -96,30 +96,29 @@ wtmpdb begins Tue Sep  9 14:20:11 2025
     `last` only records **successful** logins. Failed login attempts over SSH can be
     found in the journal: `journalctl -u ssh`.
 
-!!! warning "`last: command not found` on Debian 13"
-    Since Debian 13, `last` is no longer part of `util-linux` (see below). If the
-    command is missing, install `wtmpdb`. Logins from before the installation are not
-    recorded.
+!!! warning "`last: command not found`"
+    On Debian 13 and Ubuntu 25.04 or newer, `last` is no longer part of `util-linux`
+    (see below). If the command is missing, install `wtmpdb`. Logins from before the
+    installation are not recorded.
 
-## Debian vs. Arch
+## Distribution differences
 
-Since Debian 13 "trixie", the old `/var/log/wtmp` file has been replaced, because its
+Debian and newer Ubuntu releases have replaced the old file `/var/log/wtmp`, because its
 format can no longer store dates after 2038.
 
-| | Debian 13 | Arch |
-|---|-----------|------|
-| Package | `wtmpdb` + `libpam-wtmpdb` (install if missing) | `util-linux` (preinstalled) |
-| Data file | `/var/log/wtmp.db` (SQLite database) | `/var/log/wtmp` |
-| Last line of the output | `wtmpdb begins …` | `wtmp begins …` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Package | `wtmpdb` (install if missing) | `wtmpdb` from 25.04, `util-linux` in 24.04 LTS | `util-linux` | `util-linux` |
+| Data file | `/var/log/wtmp.db` | `/var/log/wtmp.db` or `/var/log/wtmp` | `/var/log/wtmp` | `/var/log/wtmp` |
+| Last line of the output | `wtmpdb begins …` | depends on the version | `wtmp begins …` | `wtmp begins …` |
 
-Install on Debian:
+Install on Debian and Ubuntu:
 
 ```bash
 sudo apt install wtmpdb libpam-wtmpdb
 ```
 
-After that, `last` works as usual. The options in the table above work with both
-variants.
+The options in the table at the top of the page work with both variants.
 
 ## Related commands
 

@@ -1,6 +1,6 @@
 # adduser
 
-> Creates a new user on Debian step by step: home directory, group, password and contact details in one go.
+> Creates a new user on Debian and Ubuntu step by step: home directory, group, password and contact details in one go.
 
 ![adduser output](../assets/screenshots/07-users-groups/adduser.png)
 
@@ -110,7 +110,7 @@ fatal: The user `alice' already exists.
 - To create a system user for your own service, so it doesn't run as `root`
 - To add a user to a group, for example `sudo` or `docker`
 
-!!! tip "`adduser` instead of `useradd` on Debian"
+!!! tip "`adduser` instead of `useradd` on Debian and Ubuntu"
     `adduser` creates the home directory, copies `/etc/skel` and sets a password by
     default. With `useradd`, you have to think of all that yourself. For scripts on
     several distributions, [`useradd`](useradd.md) is the portable choice.
@@ -118,12 +118,12 @@ fatal: The user `alice' already exists.
 !!! warning "New groups need a new login"
     After `adduser alice sudo`, the new group only applies to new sessions of `alice`.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| `adduser` | installed, recommended way | not available |
-| Alternative | `useradd` | `useradd -m -G wheel alice` and then `passwd alice` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| `adduser` | interactive tool from this page | same as Debian | only another name for `useradd`, asks nothing | not available |
+| Alternative | | | `useradd -m alice` and `passwd alice` | `useradd -m -G wheel alice` and `passwd alice` |
 
 ## Related commands
 

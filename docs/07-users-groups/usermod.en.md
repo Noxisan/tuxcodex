@@ -104,15 +104,15 @@ Renaming or changing the UID only works when the user has no running processes.
 - To change the shell of service users to `/usr/sbin/nologin`
 - To rename an account or move its home directory
 
-!!! danger "`-G` without `-a` removes groups"
-    `usermod -G docker alice` removes `alice` from **all** other additional groups,
-    including `sudo`. If that was your own admin account, you lose `sudo`. Always write
-    `-aG`.
-
 !!! warning "`-L` doesn't block SSH keys"
     `usermod -L` only locks the password. Logins with an SSH key keep working. To lock
     an account completely, also use `usermod -e 1` (account expired) or
     `usermod -s /usr/sbin/nologin`.
+
+!!! danger "`-G` without `-a` removes groups"
+    `usermod -G docker alice` removes `alice` from **all** other additional groups,
+    including `sudo`. If that was your own admin account, you lose `sudo`. Always write
+    `-aG`.
 
 ## Related commands
 

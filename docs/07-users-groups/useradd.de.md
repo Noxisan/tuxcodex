@@ -51,8 +51,8 @@ carol:x:1004:1004::/home/carol:/bin/sh
 ls: cannot access '/home/carol': No such file or directory
 ```
 
-Unter Debian legt `useradd` standardmäßig kein Home-Verzeichnis an und nutzt `/bin/sh`
-als Shell.
+Unter Debian und Ubuntu legt `useradd` standardmäßig kein Home-Verzeichnis an und nutzt
+`/bin/sh` als Shell.
 
 **Einen Benutzer mit zusätzlichen Gruppen anlegen:**
 
@@ -89,8 +89,8 @@ useradd: user 'bob' already exists
 ## Wann brauche ich das?
 
 - In Skripten, Ansible-Rollen oder Dockerfiles, weil `useradd` nie nachfragt
-- Auf Distributionen ohne `adduser`, etwa Arch, RHEL oder Alpine (dort als `adduser` aus
-  BusyBox mit anderen Optionen)
+- Auf Distributionen, auf denen `adduser` fehlt oder anders funktioniert, etwa Arch,
+  RHEL (dort ist `adduser` nur ein anderer Name für `useradd`) oder Alpine
 - Um Systembenutzer für Dienste mit genauer UID, Home-Verzeichnis und Shell anzulegen
 
 !!! tip "Danach ein Passwort setzen"
@@ -102,13 +102,14 @@ useradd: user 'bob' already exists
     Ohne `-m` hat der Benutzer kein Home-Verzeichnis. Anmeldungen landen dann mit einer
     Warnung in `/`, und Programme können keine Einstellungen speichern.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-| | Debian | Arch |
-|---|--------|------|
-| Standard-Shell (`useradd -D`) | `/bin/sh` | `/bin/bash` |
-| Admin-Gruppe | `sudo` | `wheel` |
-| Empfohlenes Werkzeug | `adduser` | `useradd` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Home-Verzeichnis ohne `-m` | wird nicht angelegt | wird nicht angelegt | wird angelegt | wird nicht angelegt |
+| Standard-Shell (`useradd -D`) | `/bin/sh` | `/bin/sh` | `/bin/bash` | `/bin/bash` |
+| Admin-Gruppe | `sudo` | `sudo` | `wheel` | `wheel` |
+| Empfohlenes Werkzeug | `adduser` | `adduser` | `useradd` | `useradd` |
 
 ## Verwandte Befehle
 

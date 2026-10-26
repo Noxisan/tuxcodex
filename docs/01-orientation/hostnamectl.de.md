@@ -87,7 +87,7 @@ hostnamectl | grep -E 'Static|Deployment'
     neuen Namen aber erst nach einer neuen Anmeldung.
 
 !!! warning "Auch `/etc/hosts` anpassen"
-    Unter Debian steht der Hostname zusätzlich in `/etc/hosts` neben `127.0.1.1`.
+    Unter Debian und Ubuntu steht der Hostname zusätzlich in `/etc/hosts` neben `127.0.1.1`.
     Diese Zeile ändert `hostnamectl` nicht. Vergisst du sie, beschwert sich `sudo` mit
     `unable to resolve host`:
 

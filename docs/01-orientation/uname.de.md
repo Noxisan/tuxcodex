@@ -90,8 +90,8 @@ Der neueste installierte Kernel (`6.12.48`) läuft noch nicht. Der Server brauch
 - Für Bug-Reports und Hilfeanfragen, denn die Kernel-Version ist meist die erste Frage
 
 !!! tip "Version der Distribution"
-    `uname` kennt nur den Kernel, nicht die Distribution. Die Debian-Version bekommst du
-    mit `cat /etc/os-release` oder [`hostnamectl`](hostnamectl.md).
+    `uname` kennt nur den Kernel, nicht die Distribution. Distribution und Version
+    bekommst du mit `cat /etc/os-release` oder [`hostnamectl`](hostnamectl.md).
 
 !!! tip "Gut zu wissen"
     `-p` (Prozessor) und `-i` (Hardware-Plattform) liefern unter Linux meist nur

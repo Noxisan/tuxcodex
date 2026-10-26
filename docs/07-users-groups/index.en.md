@@ -40,7 +40,7 @@ root rights through `sudo` and `su`.
 
     ---
 
-    Create a new user step by step (Debian).
+    Create a new user step by step (Debian, Ubuntu).
 
 -   :material-account-plus:{ .lg .middle } **[useradd](useradd.md)**
 
@@ -70,7 +70,7 @@ root rights through `sudo` and `su`.
 
     ---
 
-    Delete a user or remove it from a group (Debian).
+    Delete a user or remove it from a group (Debian, Ubuntu).
 
 -   :material-account-remove-outline:{ .lg .middle } **[userdel](userdel.md)**
 
@@ -88,7 +88,7 @@ root rights through `sudo` and `su`.
 
     ---
 
-    Create a group or add a user to it (Debian).
+    Create a group or add a user to it (Debian, Ubuntu).
 
 -   :material-account-multiple-plus:{ .lg .middle } **[groupadd](groupadd.md)**
 
@@ -106,7 +106,7 @@ root rights through `sudo` and `su`.
 
     ---
 
-    Delete a group or remove a user from it (Debian).
+    Delete a group or remove a user from it (Debian, Ubuntu).
 
 </div>
 
@@ -122,7 +122,7 @@ root rights through `sudo` and `su`.
 | `/etc/sudoers.d/` | Additional `sudo` rules as separate files |
 | `/etc/skel/` | Template files that are copied into every new home directory |
 | `/etc/login.defs` | Defaults: UID ranges, password ageing, `umask` |
-| `/etc/adduser.conf` | Defaults for `adduser` and `addgroup` on Debian |
+| `/etc/adduser.conf` | Defaults for `adduser` and `addgroup` on Debian and Ubuntu |
 
 A line in `/etc/passwd`, field by field:
 
@@ -141,7 +141,7 @@ nox:x:1000:1000:Nox,,,:/home/nox:/bin/bash
 |-----------|---------|
 | `0` | `root` |
 | `1` to `999` | System users for services, like `www-data` (33) or `sshd` |
-| `1000` to `59999` | Normal users, created with `adduser` |
+| `1000` and above | Normal users (up to `59999` on Debian and Ubuntu, `60000` on RHEL and Arch) |
 | `65534` | `nobody`, a user without any rights |
 
 !!! tip "Never edit the files directly"

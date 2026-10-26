@@ -40,7 +40,7 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     ---
 
-    Legt Schritt für Schritt einen neuen Benutzer an (Debian).
+    Legt Schritt für Schritt einen neuen Benutzer an (Debian, Ubuntu).
 
 -   :material-account-plus:{ .lg .middle } **[useradd](useradd.md)**
 
@@ -70,7 +70,7 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     ---
 
-    Löscht einen Benutzer oder entfernt ihn aus einer Gruppe (Debian).
+    Löscht einen Benutzer oder entfernt ihn aus einer Gruppe (Debian, Ubuntu).
 
 -   :material-account-remove-outline:{ .lg .middle } **[userdel](userdel.md)**
 
@@ -88,7 +88,7 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     ---
 
-    Legt eine Gruppe an oder fügt ihr einen Benutzer hinzu (Debian).
+    Legt eine Gruppe an oder fügt ihr einen Benutzer hinzu (Debian, Ubuntu).
 
 -   :material-account-multiple-plus:{ .lg .middle } **[groupadd](groupadd.md)**
 
@@ -106,7 +106,7 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     ---
 
-    Löscht eine Gruppe oder entfernt einen Benutzer daraus (Debian).
+    Löscht eine Gruppe oder entfernt einen Benutzer daraus (Debian, Ubuntu).
 
 </div>
 
@@ -122,7 +122,7 @@ Root-Rechten über `sudo` und `su` arbeiten.
 | `/etc/sudoers.d/` | Zusätzliche `sudo`-Regeln als eigene Dateien |
 | `/etc/skel/` | Vorlagen, die in jedes neue Home-Verzeichnis kopiert werden |
 | `/etc/login.defs` | Standardwerte: UID-Bereiche, Passwort-Ablauf, `umask` |
-| `/etc/adduser.conf` | Standardwerte für `adduser` und `addgroup` unter Debian |
+| `/etc/adduser.conf` | Standardwerte für `adduser` und `addgroup` unter Debian und Ubuntu |
 
 Eine Zeile aus `/etc/passwd`, Feld für Feld:
 
@@ -141,7 +141,7 @@ nox:x:1000:1000:Nox,,,:/home/nox:/bin/bash
 |-------------|-----------|
 | `0` | `root` |
 | `1` bis `999` | Systembenutzer für Dienste, wie `www-data` (33) oder `sshd` |
-| `1000` bis `59999` | Normale Benutzer, angelegt mit `adduser` |
+| ab `1000` | Normale Benutzer (bis `59999` unter Debian und Ubuntu, `60000` unter RHEL und Arch) |
 | `65534` | `nobody`, ein Benutzer ganz ohne Rechte |
 
 !!! tip "Die Dateien nie direkt bearbeiten"

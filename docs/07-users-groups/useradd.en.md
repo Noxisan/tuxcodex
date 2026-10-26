@@ -51,7 +51,7 @@ carol:x:1004:1004::/home/carol:/bin/sh
 ls: cannot access '/home/carol': No such file or directory
 ```
 
-On Debian, `useradd` creates no home directory by default and uses `/bin/sh` as shell.
+On Debian and Ubuntu, `useradd` creates no home directory by default and uses `/bin/sh` as shell.
 
 **Create a user with additional groups:**
 
@@ -88,8 +88,8 @@ useradd: user 'bob' already exists
 ## When do I need it?
 
 - In scripts, Ansible roles or Dockerfiles, because `useradd` never asks questions
-- On distributions without `adduser`, for example Arch, RHEL or Alpine (there as
-  `adduser` from BusyBox with other options)
+- On distributions where `adduser` is missing or works differently, for example Arch,
+  RHEL (there `adduser` is just another name for `useradd`) or Alpine
 - To create system users for services with exact UID, home directory and shell
 
 !!! tip "Set a password afterwards"
@@ -100,13 +100,14 @@ useradd: user 'bob' already exists
     Without `-m`, the user has no home directory. Logins then end up in `/` with a
     warning, and programs can't save settings.
 
-## Debian vs. Arch
+## Distribution differences
 
-| | Debian | Arch |
-|---|--------|------|
-| Default shell (`useradd -D`) | `/bin/sh` | `/bin/bash` |
-| Admin group | `sudo` | `wheel` |
-| Recommended tool | `adduser` | `useradd` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Home directory without `-m` | not created | not created | created | not created |
+| Default shell (`useradd -D`) | `/bin/sh` | `/bin/sh` | `/bin/bash` | `/bin/bash` |
+| Admin group | `sudo` | `sudo` | `wheel` | `wheel` |
+| Recommended tool | `adduser` | `adduser` | `useradd` | `useradd` |
 
 ## Related commands
 

@@ -136,10 +136,17 @@ command to `diff` as if it were a file.
     `diff` returns `0` if the files are identical, `1` if they differ and `2` on an
     error. Scripts can use this: `diff -q a b > /dev/null || echo "changed"`.
 
-!!! tip "`.dpkg-dist` after updates"
-    If you changed a configuration and a package update brings a new version, Debian
-    keeps the new file as `FILE.dpkg-dist` or `FILE.ucf-dist`. Compare it with `diff -u`
-    to see what the update would have changed.
+!!! tip "New configuration files after updates"
+    If you changed a configuration and a package update brings a new version, the package
+    manager keeps the new file next to yours (see the table below). Compare it with
+    `diff -u` to see what the update would have changed.
+
+## Distribution differences
+
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| New version of a changed config | `FILE.dpkg-dist`, `FILE.ucf-dist` | `FILE.dpkg-dist`, `FILE.ucf-dist` | `FILE.rpmnew` | `FILE.pacnew` |
+| Your old version after replacing | `FILE.dpkg-old` | `FILE.dpkg-old` | `FILE.rpmsave` | `FILE.pacsave` |
 
 ## Related commands
 

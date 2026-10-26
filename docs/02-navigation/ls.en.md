@@ -134,9 +134,9 @@ drwxr-xr-x 79 root root 4096 Oct 26 08:01 /etc
 - To spot hidden configuration files such as `.htaccess` or `.env` (`ls -la`)
 
 !!! tip "Shortcuts with aliases"
-    Debian's default `.bashrc` already contains aliases like `ll` for `ls -l`, but they
-    are commented out. Remove the `#` in front of `alias ll='ls -l'` in `~/.bashrc` and
-    open a new shell to use them.
+    Ubuntu (`ll` = `ls -alF`) and RHEL (`ll` = `ls -l`) already have an alias `ll`. On
+    Debian, the aliases in `~/.bashrc` are commented out: remove the `#` in front of
+    `alias ll='ls -l'` and open a new shell to use them.
 
 !!! warning "Don't use `ls` output in scripts"
     File names can contain spaces and special characters that break the output of `ls`.

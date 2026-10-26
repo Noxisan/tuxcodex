@@ -10,6 +10,13 @@ hide:
 
 # Welcome to TuxCodex
 
+<div class="tc-distros" markdown>
+<span class="tc-badge tc-badge--redhat" markdown="span">:simple-redhat: Red Hat</span>
+<span class="tc-badge tc-badge--debian" markdown="span">:simple-debian: Debian</span>
+<span class="tc-badge tc-badge--ubuntu" markdown="span">:simple-ubuntu: Ubuntu</span>
+<span class="tc-badge tc-badge--arch" markdown="span">:simple-archlinux: Arch</span>
+</div>
+
 The hands-on reference for **Linux administration and DevOps**.
 Every command with syntax, real examples and tips from everyday server work,
 in English and German. Compiled by Nox.
@@ -96,11 +103,11 @@ in English and German. Compiled by Nox.
 
     When you need the command on a server, plus tips and pitfalls.
 
--   :material-swap-horizontal:{ .lg .middle } **Debian vs. Arch**
+-   :material-swap-horizontal:{ .lg .middle } **Distribution differences**
 
     ---
 
-    Differences between the two systems, where there are any.
+    Where Debian, Ubuntu, RHEL and Arch differ: packages, defaults and tools.
 
 </div>
 

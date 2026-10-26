@@ -97,30 +97,29 @@ wtmpdb begins Tue Sep  9 14:20:11 2025
     `last` erfasst nur **erfolgreiche** Anmeldungen. Fehlgeschlagene SSH-Anmeldeversuche
     findest du im Journal: `journalctl -u ssh`.
 
-!!! warning "`last: command not found` unter Debian 13"
-    Seit Debian 13 gehört `last` nicht mehr zu `util-linux` (siehe unten). Fehlt der
-    Befehl, installiere `wtmpdb`. Anmeldungen von vor der Installation werden nicht
-    erfasst.
+!!! warning "`last: command not found`"
+    Unter Debian 13 und Ubuntu ab 25.04 gehört `last` nicht mehr zu `util-linux` (siehe
+    unten). Fehlt der Befehl, installiere `wtmpdb`. Anmeldungen von vor der Installation
+    werden nicht erfasst.
 
-## Debian vs. Arch
+## Unterschiede zwischen Distributionen
 
-Seit Debian 13 „trixie“ ist die alte Datei `/var/log/wtmp` ersetzt, weil ihr Format
-keine Zeitangaben nach 2038 speichern kann.
+Debian und neuere Ubuntu-Versionen haben die alte Datei `/var/log/wtmp` ersetzt, weil ihr
+Format keine Zeitangaben nach 2038 speichern kann.
 
-| | Debian 13 | Arch |
-|---|-----------|------|
-| Paket | `wtmpdb` + `libpam-wtmpdb` (bei Bedarf installieren) | `util-linux` (vorinstalliert) |
-| Datendatei | `/var/log/wtmp.db` (SQLite-Datenbank) | `/var/log/wtmp` |
-| Letzte Zeile der Ausgabe | `wtmpdb begins …` | `wtmp begins …` |
+| | Debian | Ubuntu | RHEL | Arch |
+|---|--------|--------|------|------|
+| Paket | `wtmpdb` (bei Bedarf installieren) | `wtmpdb` ab 25.04, `util-linux` in 24.04 LTS | `util-linux` | `util-linux` |
+| Datendatei | `/var/log/wtmp.db` | `/var/log/wtmp.db` oder `/var/log/wtmp` | `/var/log/wtmp` | `/var/log/wtmp` |
+| Letzte Zeile der Ausgabe | `wtmpdb begins …` | je nach Version | `wtmp begins …` | `wtmp begins …` |
 
-Installation unter Debian:
+Installation unter Debian und Ubuntu:
 
 ```bash
 sudo apt install wtmpdb libpam-wtmpdb
 ```
 
-Danach funktioniert `last` wie gewohnt. Die Optionen aus der Tabelle oben gelten für
-beide Varianten.
+Die Optionen aus der Tabelle oben auf der Seite gelten für beide Varianten.
 
 ## Verwandte Befehle
 
