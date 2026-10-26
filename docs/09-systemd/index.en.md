@@ -80,4 +80,10 @@ restarting or shutting down the server cleanly.
 
 <div class="grid cards" markdown>
 
+-   :material-account-multiple-check-outline:{ .lg .middle } **[loginctl](loginctl.md)**
+
+    ---
+
+    Show and end login sessions.
+
 </div>

@@ -80,4 +80,10 @@ den Server sauber neu starten oder herunterfahren.
 
 <div class="grid cards" markdown>
 
+-   :material-account-multiple-check-outline:{ .lg .middle } **[loginctl](loginctl.md)**
+
+    ---
+
+    Anmeldesitzungen anzeigen und beenden.
+
 </div>
