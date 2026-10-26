@@ -96,7 +96,7 @@ q8ZkT3vNw1LpXa7RcY0m
 - To split lists like `$PATH` into lines, or to join lines into a list (`tr '\n' ','`)
 - To clean up output with multiple spaces before passing it to `cut`
 
-!!! tip "Variables in one line"
+!!! tip "One entry per line"
     `echo "$PATH" | tr ':' '\n'` shows every directory in your search path on its own
     line. That makes it much easier to read.
 

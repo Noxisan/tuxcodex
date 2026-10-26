@@ -103,6 +103,7 @@ nav:
       - uniq: 05-text-processing/uniq.md
       - cut: 05-text-processing/cut.md
       - tr: 05-text-processing/tr.md
+      - column: 05-text-processing/column.md
 
 markdown_extensions:
   - admonition

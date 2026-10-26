@@ -113,4 +113,4 @@ du -sh /srv/* | cut -f2
 
 ## Related commands
 
-[sort](sort.md) · [uniq](uniq.md) · [tr](tr.md)
+[sort](sort.md) · [uniq](uniq.md) · [tr](tr.md) · [column](column.md)

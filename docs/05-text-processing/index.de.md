@@ -54,6 +54,12 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
     Ersetzt, verdichtet oder löscht Zeichen.
 
+-   :material-table-large:{ .lg .middle } **[column](column.md)**
+
+    ---
+
+    Formatiert Text in ausgerichtete Spalten.
+
 </div>
 
 ## Befehle mit Pipes verbinden

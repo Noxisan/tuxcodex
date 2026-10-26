@@ -54,6 +54,12 @@ configuration files and the output of other commands.
 
     Replace, squeeze or delete characters.
 
+-   :material-table-large:{ .lg .middle } **[column](column.md)**
+
+    ---
+
+    Format text into aligned columns.
+
 </div>
 
 ## Combining commands with pipes

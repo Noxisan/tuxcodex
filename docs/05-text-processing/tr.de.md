@@ -98,7 +98,7 @@ q8ZkT3vNw1LpXa7RcY0m
   (`tr '\n' ','`)
 - Um Ausgaben mit mehreren Leerzeichen aufzuräumen, bevor sie an `cut` gehen
 
-!!! tip "Variablen zeilenweise anzeigen"
+!!! tip "Ein Eintrag pro Zeile"
     `echo "$PATH" | tr ':' '\n'` zeigt jedes Verzeichnis deines Suchpfads in einer eigenen
     Zeile. Das ist viel leichter zu lesen.
 
