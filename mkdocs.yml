@@ -81,6 +81,7 @@ nav:
       - stat: 03-files/stat.md
       - file: 03-files/file.md
       - truncate: 03-files/truncate.md
+      - shred: 03-files/shred.md
 
 markdown_extensions:
   - admonition

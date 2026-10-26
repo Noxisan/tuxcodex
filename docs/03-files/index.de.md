@@ -60,6 +60,12 @@ herausfinden, was eine Datei wirklich ist.
 
     Löscht leere Verzeichnisse sicher.
 
+-   :material-shredder:{ .lg .middle } **[shred](shred.md)**
+
+    ---
+
+    Überschreibt Dateien sicher, bevor sie gelöscht werden.
+
 </div>
 
 ## Links

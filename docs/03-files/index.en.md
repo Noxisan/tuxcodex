@@ -60,6 +60,12 @@ what a file really is.
 
     Delete empty directories safely.
 
+-   :material-shredder:{ .lg .middle } **[shred](shred.md)**
+
+    ---
+
+    Overwrite files securely before deleting them.
+
 </div>
 
 ## Links
