@@ -126,4 +126,4 @@ passwd: password unchanged
 
 ## Verwandte Befehle
 
-[usermod](usermod.md) · [adduser](adduser.md)
+[usermod](usermod.md) · [adduser](adduser.md) · [chage](chage.md)

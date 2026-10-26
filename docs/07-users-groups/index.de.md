@@ -60,6 +60,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Setzt, sperrt, entsperrt oder erneuert ein Passwort.
 
+-   :material-calendar-clock-outline:{ .lg .middle } **[chage](chage.md)**
+
+    ---
+
+    Legt Passwort- und Kontoablauf fest.
+
 </div>
 
 ## Die wichtigen Dateien

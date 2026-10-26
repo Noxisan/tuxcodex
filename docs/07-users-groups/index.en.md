@@ -60,6 +60,12 @@ root rights through `sudo` and `su`.
 
     Set, lock, unlock or expire a password.
 
+-   :material-calendar-clock-outline:{ .lg .middle } **[chage](chage.md)**
+
+    ---
+
+    Set password ageing and account expiry.
+
 </div>
 
 ## The important files

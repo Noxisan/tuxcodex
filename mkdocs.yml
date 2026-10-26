@@ -132,6 +132,7 @@ nav:
       - useradd: 07-users-groups/useradd.md
       - usermod: 07-users-groups/usermod.md
       - passwd: 07-users-groups/passwd.md
+      - chage: 07-users-groups/chage.md
 
 markdown_extensions:
   - admonition
