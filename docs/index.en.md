@@ -77,6 +77,17 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Finding, watching and stopping running programs.
 
+-   :material-cog-sync-outline:{ .lg .middle } **[systemd and services](09-systemd/index.md)**
+
+    ---
+
+    Managing services, reading their logs and restarting the server cleanly.
+
+-   :material-package-variant-closed:{ .lg .middle } **Packages** · *coming soon*
+
+    ---
+
+    Installing, updating and removing software with `apt`, `dnf` and `pacman`.
 </div>
 
 ## All commands

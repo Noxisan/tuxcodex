@@ -44,6 +44,7 @@ plugins:
             Permissions: Rechte
             Users and groups: Benutzer und Gruppen
             Processes: Prozesse
+            systemd and services: systemd und Dienste
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -173,6 +174,9 @@ nav:
       - nice: 08-processes/nice.md
       - renice: 08-processes/renice.md
       - watch: 08-processes/watch.md
+  - systemd and services:
+      - Overview: 09-systemd/index.md
+      - Basics: 09-systemd/basics.md
 
 markdown_extensions:
   - admonition

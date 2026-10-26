@@ -77,6 +77,17 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Laufende Programme finden, beobachten und beenden.
 
+-   :material-cog-sync-outline:{ .lg .middle } **[systemd und Dienste](09-systemd/index.md)**
+
+    ---
+
+    Dienste verwalten, ihre Logs lesen und den Server sauber neu starten.
+
+-   :material-package-variant-closed:{ .lg .middle } **Pakete** · *in Arbeit*
+
+    ---
+
+    Software mit `apt`, `dnf` und `pacman` installieren, aktualisieren und entfernen.
 </div>
 
 ## Alle Befehle
