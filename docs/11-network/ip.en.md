@@ -136,4 +136,4 @@ ens18            UP             192.0.2.10/24 192.0.2.11/24 2001:db8::10/64 fe80
 
 ## Related commands
 
-[hostname](../01-orientation/hostname.md)
+[hostname](../01-orientation/hostname.md) · [ping](ping.md)

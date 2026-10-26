@@ -33,6 +33,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
 <div class="grid cards" markdown>
 
+-   :material-radar:{ .lg .middle } **[ping](ping.md)**
+
+    ---
+
+    Test whether a host answers.
+
 </div>
 
 ## DNS

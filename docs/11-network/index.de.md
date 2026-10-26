@@ -33,6 +33,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
 <div class="grid cards" markdown>
 
+-   :material-radar:{ .lg .middle } **[ping](ping.md)**
+
+    ---
+
+    Testen, ob ein Host antwortet.
+
 </div>
 
 ## DNS
