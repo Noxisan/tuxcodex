@@ -45,6 +45,7 @@ nav:
   - Orientation:
       - Overview: 01-orientation/index.md
       - whoami: 01-orientation/whoami.md
+      - id: 01-orientation/id.md
 
 markdown_extensions:
   - admonition

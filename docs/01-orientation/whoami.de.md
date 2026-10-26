@@ -83,4 +83,4 @@ Please do not run this script as root.
 
 ## Verwandte Befehle
 
-`id` · `hostname`
+[id](id.md) · `hostname`

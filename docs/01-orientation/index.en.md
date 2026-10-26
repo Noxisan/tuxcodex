@@ -9,3 +9,4 @@ been up and who else is logged in.
 | Command | Description |
 |---------|-------------|
 | [whoami](whoami.md) | Show the user you are working as |
+| [id](id.md) | Show user ID, group ID and group memberships |

@@ -9,3 +9,4 @@ lange das System schon läuft und wer sonst noch angemeldet ist.
 | Befehl | Beschreibung |
 |--------|--------------|
 | [whoami](whoami.md) | Zeigt den Benutzer, als der du arbeitest |
+| [id](id.md) | Zeigt Benutzer-ID, Gruppen-ID und Gruppenmitgliedschaften |
