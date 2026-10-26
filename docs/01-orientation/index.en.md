@@ -10,3 +10,4 @@ been up and who else is logged in.
 |---------|-------------|
 | [whoami](whoami.md) | Show the user you are working as |
 | [id](id.md) | Show user ID, group ID and group memberships |
+| [hostname](hostname.md) | Show or temporarily set the host name |

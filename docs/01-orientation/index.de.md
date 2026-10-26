@@ -10,3 +10,4 @@ lange das System schon läuft und wer sonst noch angemeldet ist.
 |--------|--------------|
 | [whoami](whoami.md) | Zeigt den Benutzer, als der du arbeitest |
 | [id](id.md) | Zeigt Benutzer-ID, Gruppen-ID und Gruppenmitgliedschaften |
+| [hostname](hostname.md) | Zeigt den Hostnamen oder setzt ihn vorübergehend |
