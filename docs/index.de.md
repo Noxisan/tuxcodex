@@ -50,6 +50,18 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
     Dateien und Logs lesen, auch komprimierte und binäre Dateien.
     `cat`, `tac`, `nl`, `less`, `head`, `tail`, `zcat`, `zless`, `hexdump`, `strings`
 
+-   :material-text-search:{ .lg .middle } **[Textverarbeitung](05-text-processing/index.md)**
+
+    ---
+
+    Text in Logs und Konfigurationsdateien suchen, filtern, sortieren und ändern.
+
+-   :material-shield-lock-outline:{ .lg .middle } **Rechte** · *in Arbeit*
+
+    ---
+
+    Besitzer, Gruppen und Zugriffsrechte, und wie man sie korrigiert.
+
 </div>
 
 ## Was jede Befehlsseite enthält

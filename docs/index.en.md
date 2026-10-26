@@ -50,6 +50,18 @@ in English and German. Compiled by Nox.
     Reading files and logs, also compressed and binary files.
     `cat`, `tac`, `nl`, `less`, `head`, `tail`, `zcat`, `zless`, `hexdump`, `strings`
 
+-   :material-text-search:{ .lg .middle } **[Text processing](05-text-processing/index.md)**
+
+    ---
+
+    Searching, filtering, sorting and changing text in logs and configuration files.
+
+-   :material-shield-lock-outline:{ .lg .middle } **Permissions** · *coming soon*
+
+    ---
+
+    Owners, groups and access rights, and how to fix them.
+
 </div>
 
 ## What every command page contains

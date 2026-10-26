@@ -40,6 +40,7 @@ plugins:
             Navigation: Navigation
             Files: Dateien
             Viewing files: Dateien anzeigen
+            Text processing: Textverarbeitung
             Overview: Übersicht
 
 nav:
@@ -95,6 +96,8 @@ nav:
       - zless: 04-viewing-files/zless.md
       - hexdump: 04-viewing-files/hexdump.md
       - strings: 04-viewing-files/strings.md
+  - Text processing:
+      - Overview: 05-text-processing/index.md
 
 markdown_extensions:
   - admonition
