@@ -46,7 +46,7 @@ restarting or shutting down the server cleanly.
 
 </div>
 
-## Run and schedule
+## Run commands
 
 <div class="grid cards" markdown>
 

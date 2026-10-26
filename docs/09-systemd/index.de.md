@@ -46,7 +46,7 @@ den Server sauber neu starten oder herunterfahren.
 
 </div>
 
-## Starten und planen
+## Befehle ausführen
 
 <div class="grid cards" markdown>
 
