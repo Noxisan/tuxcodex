@@ -8,7 +8,7 @@ hide:
 
 ![TuxCodex Logo](assets/logo.png){ width="320" }
 
-# Willkommen bei TuxCodex
+# Willkommen bei <span class="tc-title-tux">Tux</span>Codex
 
 <div class="tc-distros" markdown>
 <span class="tc-badge tc-badge--redhat" markdown="span">:simple-redhat: Red Hat</span>
@@ -17,9 +17,11 @@ hide:
 <span class="tc-badge tc-badge--arch" markdown="span">:simple-archlinux: Arch</span>
 </div>
 
-Das praxisnahe Nachschlagewerk für **Linux-Administration und DevOps**.
-Jeder Befehl mit Syntax, echten Beispielen und Tipps aus dem Server-Alltag,
-auf Deutsch und Englisch. Zusammengestellt von Nox.
+Das praxisnahe Nachschlagewerk für **Linux-Administration und DevOps**: jeder Befehl mit
+Syntax, echten Beispielen und Tipps aus dem Server-Alltag. Für Debian, Ubuntu, RHEL und
+Arch, auf Deutsch und Englisch.
+
+Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 </div>
 

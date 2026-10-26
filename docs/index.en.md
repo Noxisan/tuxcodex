@@ -8,7 +8,7 @@ hide:
 
 ![TuxCodex Logo](assets/logo.png){ width="320" }
 
-# Welcome to TuxCodex
+# Welcome to <span class="tc-title-tux">Tux</span>Codex
 
 <div class="tc-distros" markdown>
 <span class="tc-badge tc-badge--redhat" markdown="span">:simple-redhat: Red Hat</span>
@@ -17,9 +17,11 @@ hide:
 <span class="tc-badge tc-badge--arch" markdown="span">:simple-archlinux: Arch</span>
 </div>
 
-The hands-on reference for **Linux administration and DevOps**.
-Every command with syntax, real examples and tips from everyday server work,
-in English and German. Compiled by Nox.
+The hands-on reference for **Linux administration and DevOps**: every command with
+syntax, real examples and tips from everyday server work. For Debian, Ubuntu, RHEL and
+Arch, in English and German.
+
+Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 </div>
 

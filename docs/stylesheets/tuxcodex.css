@@ -352,3 +352,16 @@
 .md-typeset .tc-hero h1 .headerlink {
   display: none;
 }
+
+/* Home page: author link to GitHub */
+.md-typeset .tc-author {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-weight: 600;
+}
+
+.md-typeset .tc-author .twemoji svg {
+  width: 0.9rem;
+  height: 0.9rem;
+}
