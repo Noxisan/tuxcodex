@@ -129,6 +129,7 @@ nav:
       - groups: 07-users-groups/groups.md
       - getent: 07-users-groups/getent.md
       - adduser: 07-users-groups/adduser.md
+      - useradd: 07-users-groups/useradd.md
 
 markdown_extensions:
   - admonition

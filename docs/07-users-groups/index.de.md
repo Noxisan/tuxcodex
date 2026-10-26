@@ -42,6 +42,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Legt Schritt für Schritt einen neuen Benutzer an (Debian).
 
+-   :material-account-plus:{ .lg .middle } **[useradd](useradd.md)**
+
+    ---
+
+    Legt einen Benutzer in einem Befehl an, für Skripte und jede Distribution.
+
 </div>
 
 ## Die wichtigen Dateien

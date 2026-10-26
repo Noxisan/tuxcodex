@@ -115,7 +115,7 @@ fatal: The user `alice' already exists.
 !!! tip "`adduser` statt `useradd` unter Debian"
     `adduser` legt standardmäßig das Home-Verzeichnis an, kopiert `/etc/skel` und setzt
     ein Passwort. Bei `useradd` musst du an all das selbst denken. Für Skripte, die auf
-    mehreren Distributionen laufen, ist `useradd` die portable Wahl.
+    mehreren Distributionen laufen, ist [`useradd`](useradd.md) die portable Wahl.
 
 !!! warning "Neue Gruppen brauchen eine neue Anmeldung"
     Nach `adduser alice sudo` gilt die neue Gruppe erst in neuen Sitzungen von `alice`.
@@ -129,4 +129,4 @@ fatal: The user `alice' already exists.
 
 ## Verwandte Befehle
 
-[groups](groups.md) · [getent](getent.md)
+[groups](groups.md) · [getent](getent.md) · [useradd](useradd.md)

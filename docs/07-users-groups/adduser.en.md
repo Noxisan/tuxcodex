@@ -113,7 +113,7 @@ fatal: The user `alice' already exists.
 !!! tip "`adduser` instead of `useradd` on Debian"
     `adduser` creates the home directory, copies `/etc/skel` and sets a password by
     default. With `useradd`, you have to think of all that yourself. For scripts on
-    several distributions, `useradd` is the portable choice.
+    several distributions, [`useradd`](useradd.md) is the portable choice.
 
 !!! warning "New groups need a new login"
     After `adduser alice sudo`, the new group only applies to new sessions of `alice`.
@@ -127,4 +127,4 @@ fatal: The user `alice' already exists.
 
 ## Related commands
 
-[groups](groups.md) · [getent](getent.md)
+[groups](groups.md) · [getent](getent.md) · [useradd](useradd.md)

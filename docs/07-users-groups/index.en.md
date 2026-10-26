@@ -42,6 +42,12 @@ root rights through `sudo` and `su`.
 
     Create a new user step by step (Debian).
 
+-   :material-account-plus:{ .lg .middle } **[useradd](useradd.md)**
+
+    ---
+
+    Create a user in one command, for scripts and every distribution.
+
 </div>
 
 ## The important files
