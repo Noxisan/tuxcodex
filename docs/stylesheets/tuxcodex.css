@@ -397,3 +397,45 @@
   white-space: nowrap;
   margin: 0;
 }
+
+/* Link to the chapter basics, below the chapter hero */
+.md-typeset a.tc-basics {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  max-width: 36rem;
+  margin: 0 auto 2rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--tc-border);
+  border-left: 3px solid var(--tc-accent);
+  border-radius: 0.2rem;
+  background: linear-gradient(90deg, rgba(122, 247, 185, 0.08), var(--tc-surface) 60%);
+  color: var(--tc-text);
+  transition: border-color 0.15s;
+}
+
+.md-typeset a.tc-basics:hover {
+  border-color: var(--tc-accent);
+  color: var(--tc-text);
+}
+
+.md-typeset a.tc-basics strong {
+  flex-shrink: 0;
+  white-space: nowrap;
+  color: var(--tc-accent);
+}
+
+.md-typeset a.tc-basics .tc-basics-icon,
+.md-typeset a.tc-basics .tc-basics-arrow {
+  flex-shrink: 0;
+  color: var(--tc-accent);
+}
+
+.md-typeset a.tc-basics .tc-basics-arrow {
+  margin-left: auto;
+  transition: transform 0.15s;
+}
+
+.md-typeset a.tc-basics:hover .tc-basics-arrow {
+  transform: translateX(0.2rem);
+}

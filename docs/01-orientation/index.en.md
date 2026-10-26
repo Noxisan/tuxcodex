@@ -14,6 +14,8 @@ commands to run after logging in to a server.
 
 </div>
 
+[:material-school-outline:{ .tc-basics-icon } **Basics:** The first minute on a new server, as a command sequence :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
 ## Who am I?
 
 <div class="grid cards" markdown>
@@ -103,16 +105,3 @@ commands to run after logging in to a server.
     Show and set time zone and time synchronization.
 
 </div>
-
-## The first minute on a new server
-
-Six commands that give you a complete picture right after logging in:
-
-```bash
-whoami        # am I the right user?
-hostnamectl   # which machine, OS and kernel?
-timedatectl   # right time zone, is the clock synchronized?
-uptime        # how long has it been running, how high is the load?
-w             # who else is logged in, and what is running?
-last -n 5     # who logged in recently?
-```

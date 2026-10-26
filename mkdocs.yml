@@ -45,11 +45,13 @@ plugins:
             Users and groups: Benutzer und Gruppen
             Processes: Prozesse
             Overview: Übersicht
+            Basics: Grundlagen
 
 nav:
   - Home: index.md
   - Orientation:
       - Overview: 01-orientation/index.md
+      - Basics: 01-orientation/basics.md
       - whoami: 01-orientation/whoami.md
       - id: 01-orientation/id.md
       - hostname: 01-orientation/hostname.md
@@ -63,6 +65,7 @@ nav:
       - timedatectl: 01-orientation/timedatectl.md
   - Navigation:
       - Overview: 02-navigation/index.md
+      - Basics: 02-navigation/basics.md
       - pwd: 02-navigation/pwd.md
       - cd: 02-navigation/cd.md
       - ls: 02-navigation/ls.md
@@ -76,6 +79,7 @@ nav:
       - realpath: 02-navigation/realpath.md
   - Files:
       - Overview: 03-files/index.md
+      - Basics: 03-files/basics.md
       - touch: 03-files/touch.md
       - mkdir: 03-files/mkdir.md
       - cp: 03-files/cp.md
@@ -89,6 +93,7 @@ nav:
       - shred: 03-files/shred.md
   - Viewing files:
       - Overview: 04-viewing-files/index.md
+      - Basics: 04-viewing-files/basics.md
       - cat: 04-viewing-files/cat.md
       - tac: 04-viewing-files/tac.md
       - nl: 04-viewing-files/nl.md
@@ -101,6 +106,7 @@ nav:
       - strings: 04-viewing-files/strings.md
   - Text processing:
       - Overview: 05-text-processing/index.md
+      - Basics: 05-text-processing/basics.md
       - wc: 05-text-processing/wc.md
       - sort: 05-text-processing/sort.md
       - uniq: 05-text-processing/uniq.md
@@ -116,6 +122,7 @@ nav:
       - jq: 05-text-processing/jq.md
   - Permissions:
       - Overview: 06-permissions/index.md
+      - Basics: 06-permissions/basics.md
       - chmod: 06-permissions/chmod.md
       - chown: 06-permissions/chown.md
       - chgrp: 06-permissions/chgrp.md
@@ -127,6 +134,7 @@ nav:
       - chattr: 06-permissions/chattr.md
   - Users and groups:
       - Overview: 07-users-groups/index.md
+      - Basics: 07-users-groups/basics.md
       - groups: 07-users-groups/groups.md
       - getent: 07-users-groups/getent.md
       - adduser: 07-users-groups/adduser.md
@@ -145,6 +153,7 @@ nav:
       - visudo: 07-users-groups/visudo.md
   - Processes:
       - Overview: 08-processes/index.md
+      - Basics: 08-processes/basics.md
       - ps: 08-processes/ps.md
       - pgrep: 08-processes/pgrep.md
       - pidof: 08-processes/pidof.md

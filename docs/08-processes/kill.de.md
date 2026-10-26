@@ -49,7 +49,7 @@ kill -l
 ```
 
 Für den Alltag reichen die ersten Zeilen. Die Übersicht dieses Kapitels erklärt die
-[wichtigsten Signale](index.md#prozesse-verstehen).
+[wichtigsten Signale](basics.md).
 
 **Prüfen, ob ein Prozess noch läuft:**
 

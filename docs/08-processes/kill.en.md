@@ -49,7 +49,7 @@ kill -l
 ```
 
 The first lines are enough for everyday use. The overview of this chapter explains the
-[most important signals](index.md#understanding-processes).
+[most important signals](basics.md).
 
 **Check whether a process is still running:**
 

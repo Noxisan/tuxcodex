@@ -14,6 +14,8 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
 </div>
 
+[:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Befehle mit Pipes verbinden :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
 ## Zählen und sortieren
 
 <div class="grid cards" markdown>
@@ -127,32 +129,3 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
     Liest, filtert und formatiert JSON-Daten.
 
 </div>
-
-## Befehle mit Pipes verbinden
-
-Ihre eigentliche Stärke zeigen diese Werkzeuge erst in Kombination. Jeder Befehl erledigt
-eine Aufgabe, und du verbindest sie zu einer Kette:
-
-| Zeichen | Bedeutung | Beispiel |
-|---------|-----------|----------|
-| `|` | Ausgabe eines Befehls an den nächsten weitergeben | `grep 404 access.log | wc -l` |
-| `>` | Ausgabe in eine Datei schreiben und sie überschreiben | `sort names.txt > sorted.txt` |
-| `>>` | Ausgabe an eine Datei anhängen | `date >> run.log` |
-| `2>` | Fehlermeldungen in eine Datei schreiben | `find / -name x 2> errors.txt` |
-| `2>&1` | Fehlermeldungen dorthin schicken, wo auch die Ausgabe landet | `./backup.sh > backup.log 2>&1` |
-
-Ein Klassiker aus dem Admin-Alltag, die IP-Adressen mit den meisten Anfragen:
-
-```bash
-awk '{print $1}' /var/log/nginx/access.log | sort | uniq -c | sort -rn | head
-```
-
-```text
-      4 198.51.100.23
-      2 192.0.2.77
-      2 192.0.2.10
-      1 192.0.2.55
-```
-
-`awk` nimmt die erste Spalte (die IP), `sort` gruppiert gleiche Adressen, `uniq -c` zählt
-sie, `sort -rn` setzt die höchste Zahl nach oben, und `head` behält die Top 10.

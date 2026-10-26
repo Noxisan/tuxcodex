@@ -16,7 +16,7 @@ def on_page_markdown(markdown, page, config, files):
     commands = sorted(
         ((path.name.split(".")[0], path.parent.name)
          for path in docs.glob("[0-9][0-9]-*/*.en.md")
-         if not path.name.startswith("index.")),
+         if not path.name.startswith(("index.", "basics."))),
         key=lambda item: item[0].lower(),
     )
     items = "\n".join(f"- [`{name}`]({chapter}/{name}.md)" for name, chapter in commands)
