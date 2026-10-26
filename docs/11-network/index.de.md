@@ -147,6 +147,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     firewalld unter RHEL, Rocky und Alma.
 
+-   :material-filter-outline:{ .lg .middle } **[nft](nft.md)**
+
+    ---
+
+    Der Paketfilter im Kernel.
+
 </div>
 
 ## Datenverkehr mitschneiden

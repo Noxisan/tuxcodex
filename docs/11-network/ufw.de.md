@@ -132,4 +132,4 @@ jedem Löschen neu, sie verschieben sich.
 
 ## Verwandte Befehle
 
-[ss](ss.md) · [nc](nc.md) · [firewall-cmd](firewall-cmd.md)
+[ss](ss.md) · [nc](nc.md) · [firewall-cmd](firewall-cmd.md) · [nft](nft.md)

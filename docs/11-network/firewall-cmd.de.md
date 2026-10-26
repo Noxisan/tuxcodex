@@ -144,4 +144,4 @@ ihn verworfen. Die Rich Rule bleibt, weil sie mit `--permanent` gespeichert wurd
 
 ## Verwandte Befehle
 
-[ufw](ufw.md) · [nft](nft.md) · [ss](ss.md)
+[ufw](ufw.md) · [nft](nft.md) · [ss](ss.md) · [nft](nft.md)

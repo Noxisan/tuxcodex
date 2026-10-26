@@ -220,6 +220,7 @@ nav:
       - ifup: 11-network/ifup.md
       - ufw: 11-network/ufw.md
       - firewall-cmd: 11-network/firewall-cmd.md
+      - nft: 11-network/nft.md
 
 markdown_extensions:
   - admonition

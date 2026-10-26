@@ -147,6 +147,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     firewalld on RHEL, Rocky and Alma.
 
+-   :material-filter-outline:{ .lg .middle } **[nft](nft.md)**
+
+    ---
+
+    The packet filter in the kernel.
+
 </div>
 
 ## Capture traffic
