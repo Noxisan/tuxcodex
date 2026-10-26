@@ -14,6 +14,18 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
 </div>
 
+## Zählen und sortieren
+
+<div class="grid cards" markdown>
+
+-   :material-counter:{ .lg .middle } **[wc](wc.md)**
+
+    ---
+
+    Zählt Zeilen, Wörter und Bytes.
+
+</div>
+
 ## Befehle mit Pipes verbinden
 
 Ihre eigentliche Stärke zeigen diese Werkzeuge erst in Kombination. Jeder Befehl erledigt

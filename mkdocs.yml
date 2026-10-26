@@ -98,6 +98,7 @@ nav:
       - strings: 04-viewing-files/strings.md
   - Text processing:
       - Overview: 05-text-processing/index.md
+      - wc: 05-text-processing/wc.md
 
 markdown_extensions:
   - admonition

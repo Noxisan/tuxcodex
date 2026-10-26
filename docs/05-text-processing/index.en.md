@@ -14,6 +14,18 @@ configuration files and the output of other commands.
 
 </div>
 
+## Count and sort
+
+<div class="grid cards" markdown>
+
+-   :material-counter:{ .lg .middle } **[wc](wc.md)**
+
+    ---
+
+    Count lines, words and bytes.
+
+</div>
+
 ## Combining commands with pipes
 
 The real strength of these tools comes from combining them. Each command does one thing,
