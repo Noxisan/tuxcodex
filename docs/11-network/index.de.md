@@ -45,6 +45,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     Den Weg zu einem Host zeigen, Sprung für Sprung.
 
+-   :material-chart-timeline-variant:{ .lg .middle } **[mtr](mtr.md)**
+
+    ---
+
+    Verlust und Laufzeit pro Sprung messen.
+
 </div>
 
 ## DNS

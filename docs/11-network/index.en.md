@@ -45,6 +45,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     Show the route to a host, hop by hop.
 
+-   :material-chart-timeline-variant:{ .lg .middle } **[mtr](mtr.md)**
+
+    ---
+
+    Measure loss and latency per hop.
+
 </div>
 
 ## DNS

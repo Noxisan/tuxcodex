@@ -207,6 +207,7 @@ nav:
       - ip: 11-network/ip.md
       - ping: 11-network/ping.md
       - traceroute: 11-network/traceroute.md
+      - mtr: 11-network/mtr.md
 
 markdown_extensions:
   - admonition
