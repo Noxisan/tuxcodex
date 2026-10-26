@@ -38,10 +38,12 @@ plugins:
             Home: Startseite
             Orientation: Orientierung
             Navigation: Navigation
+            Overview: Übersicht
 
 nav:
   - Home: index.md
   - Orientation:
+      - Overview: 01-orientation/index.md
       - whoami: 01-orientation/whoami.md
 
 markdown_extensions:

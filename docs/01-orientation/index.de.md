@@ -1,0 +1,11 @@
+# Orientierung
+
+> Wer bin ich, wo bin ich und was ist auf dieser Maschine gerade los?
+
+Das sind die ersten Befehle nach der Anmeldung an einem Server. Sie zeigen dir, als
+welcher Benutzer du arbeitest, auf welcher Maschine du bist, welcher Kernel läuft, wie
+lange das System schon läuft und wer sonst noch angemeldet ist.
+
+| Befehl | Beschreibung |
+|--------|--------------|
+| [whoami](whoami.md) | Zeigt den Benutzer, als der du arbeitest |
