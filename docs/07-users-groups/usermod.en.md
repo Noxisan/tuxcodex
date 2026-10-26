@@ -116,4 +116,4 @@ Renaming or changing the UID only works when the user has no running processes.
 
 ## Related commands
 
-[useradd](useradd.md) · [groups](groups.md) · [passwd](passwd.md)
+[useradd](useradd.md) · [groups](groups.md) · [passwd](passwd.md) · [gpasswd](gpasswd.md)

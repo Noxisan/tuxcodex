@@ -91,4 +91,4 @@ echo $?
 
 ## Related commands
 
-[addgroup](addgroup.md) · [getent](getent.md)
+[addgroup](addgroup.md) · [getent](getent.md) · [gpasswd](gpasswd.md)

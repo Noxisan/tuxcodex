@@ -96,6 +96,12 @@ root rights through `sudo` and `su`.
 
     Create a group on every distribution.
 
+-   :material-account-cog-outline:{ .lg .middle } **[gpasswd](gpasswd.md)**
+
+    ---
+
+    Add or remove group members.
+
 </div>
 
 ## The important files

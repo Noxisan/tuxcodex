@@ -96,6 +96,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Legt eine Gruppe auf jeder Distribution an.
 
+-   :material-account-cog-outline:{ .lg .middle } **[gpasswd](gpasswd.md)**
+
+    ---
+
+    Fügt Gruppenmitglieder hinzu oder entfernt sie.
+
 </div>
 
 ## Die wichtigen Dateien
