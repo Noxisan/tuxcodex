@@ -48,6 +48,12 @@ what a file really is.
 
     Move or rename files and directories.
 
+-   :material-delete-outline:{ .lg .middle } **[rm](rm.md)**
+
+    ---
+
+    Delete files and directories permanently.
+
 </div>
 
 ## Working safely with files

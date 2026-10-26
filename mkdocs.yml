@@ -75,6 +75,7 @@ nav:
       - mkdir: 03-files/mkdir.md
       - cp: 03-files/cp.md
       - mv: 03-files/mv.md
+      - rm: 03-files/rm.md
 
 markdown_extensions:
   - admonition

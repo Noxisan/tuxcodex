@@ -110,4 +110,4 @@ mv: overwrite 'notes.txt'?
 
 ## Related commands
 
-[cp](cp.md) · [mkdir](mkdir.md)
+[cp](cp.md) · [mkdir](mkdir.md) · [rm](rm.md)

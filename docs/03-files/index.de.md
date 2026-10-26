@@ -48,6 +48,12 @@ herausfinden, was eine Datei wirklich ist.
 
     Verschiebt oder benennt Dateien und Verzeichnisse um.
 
+-   :material-delete-outline:{ .lg .middle } **[rm](rm.md)**
+
+    ---
+
+    Löscht Dateien und Verzeichnisse endgültig.
+
 </div>
 
 ## Sicher arbeiten mit Dateien
