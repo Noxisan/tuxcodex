@@ -20,6 +20,12 @@ zu welchem Paket eine Datei gehört, und einen Server aktuell halten.
 
 <div class="grid cards" markdown>
 
+-   :material-package-down:{ .lg .middle } **[apt](apt.md)**
+
+    ---
+
+    Pakete installieren, aktualisieren und entfernen.
+
 </div>
 
 ## RHEL

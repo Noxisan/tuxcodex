@@ -20,6 +20,12 @@ package a file belongs to, and keeping a server up to date.
 
 <div class="grid cards" markdown>
 
+-   :material-package-down:{ .lg .middle } **[apt](apt.md)**
+
+    ---
+
+    Install, update and remove packages.
+
 </div>
 
 ## RHEL

@@ -190,6 +190,7 @@ nav:
   - Packages:
       - 10-packages/index.md
       - Basics: 10-packages/basics.md
+      - apt: 10-packages/apt.md
 
 markdown_extensions:
   - admonition
