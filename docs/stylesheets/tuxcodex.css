@@ -355,10 +355,13 @@
 
 /* Home page: author link to GitHub */
 .md-typeset .tc-author {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.25rem;
   font-weight: 600;
+  white-space: nowrap;
+}
+
+.md-typeset .tc-author .twemoji {
+  vertical-align: -0.15em;
+  margin-right: 0.15rem;
 }
 
 .md-typeset .tc-author .twemoji svg {
