@@ -43,7 +43,7 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
     Dateien und Verzeichnisse anlegen, kopieren, verschieben und löschen.
     `touch`, `mkdir`, `cp`, `mv`, `rm`, `rmdir`, `ln`, `stat`, `file`, `truncate`, `shred`
 
--   :material-text-box-search-outline:{ .lg .middle } **Dateien anzeigen** · *in Arbeit*
+-   :material-text-box-search-outline:{ .lg .middle } **[Dateien anzeigen](04-viewing-files/index.md)**
 
     ---
 

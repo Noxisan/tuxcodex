@@ -43,7 +43,7 @@ in English and German. Compiled by Nox.
     Creating, copying, moving and deleting files and directories.
     `touch`, `mkdir`, `cp`, `mv`, `rm`, `rmdir`, `ln`, `stat`, `file`, `truncate`, `shred`
 
--   :material-text-box-search-outline:{ .lg .middle } **Viewing files** · *coming soon*
+-   :material-text-box-search-outline:{ .lg .middle } **[Viewing files](04-viewing-files/index.md)**
 
     ---
 

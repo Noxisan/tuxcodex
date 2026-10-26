@@ -39,6 +39,7 @@ plugins:
             Orientation: Orientierung
             Navigation: Navigation
             Files: Dateien
+            Viewing files: Dateien anzeigen
             Overview: Übersicht
 
 nav:
@@ -82,6 +83,8 @@ nav:
       - file: 03-files/file.md
       - truncate: 03-files/truncate.md
       - shred: 03-files/shred.md
+  - Viewing files:
+      - Overview: 04-viewing-files/index.md
 
 markdown_extensions:
   - admonition
