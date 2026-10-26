@@ -66,6 +66,12 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
     Legt Passwort- und Kontoablauf fest.
 
+-   :material-account-minus-outline:{ .lg .middle } **[deluser](deluser.md)**
+
+    ---
+
+    Löscht einen Benutzer oder entfernt ihn aus einer Gruppe (Debian).
+
 </div>
 
 ## Die wichtigen Dateien

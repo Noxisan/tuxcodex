@@ -66,6 +66,12 @@ root rights through `sudo` and `su`.
 
     Set password ageing and account expiry.
 
+-   :material-account-minus-outline:{ .lg .middle } **[deluser](deluser.md)**
+
+    ---
+
+    Delete a user or remove it from a group (Debian).
+
 </div>
 
 ## The important files

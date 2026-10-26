@@ -129,4 +129,4 @@ fatal: The user `alice' already exists.
 
 ## Verwandte Befehle
 
-[groups](groups.md) · [getent](getent.md) · [useradd](useradd.md)
+[groups](groups.md) · [getent](getent.md) · [useradd](useradd.md) · [deluser](deluser.md)
