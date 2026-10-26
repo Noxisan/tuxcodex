@@ -90,6 +90,12 @@ herausfinden, was eine Datei wirklich ist.
 
     Erkennt den Dateityp anhand des Inhalts.
 
+-   :material-content-cut:{ .lg .middle } **[truncate](truncate.md)**
+
+    ---
+
+    Leert, kürzt oder vergrößert eine Datei auf eine exakte Größe.
+
 </div>
 
 ## Sicher arbeiten mit Dateien

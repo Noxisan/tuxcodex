@@ -90,6 +90,12 @@ what a file really is.
 
     Detect the file type from its content.
 
+-   :material-content-cut:{ .lg .middle } **[truncate](truncate.md)**
+
+    ---
+
+    Empty, shorten or enlarge a file to an exact size.
+
 </div>
 
 ## Working safely with files

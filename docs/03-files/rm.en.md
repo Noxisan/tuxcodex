@@ -120,4 +120,4 @@ The first command fails because `rm` reads `-file.txt` as options. The second on
 
 ## Related commands
 
-[mv](mv.md) · [find](../02-navigation/find.md) · [rmdir](rmdir.md)
+[mv](mv.md) · [find](../02-navigation/find.md) · [rmdir](rmdir.md) · [truncate](truncate.md)
