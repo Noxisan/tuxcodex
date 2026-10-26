@@ -155,6 +155,7 @@ nav:
       - lsof: 08-processes/lsof.md
       - kill: 08-processes/kill.md
       - pkill: 08-processes/pkill.md
+      - killall: 08-processes/killall.md
 
 markdown_extensions:
   - admonition

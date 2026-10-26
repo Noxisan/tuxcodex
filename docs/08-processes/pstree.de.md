@@ -96,4 +96,4 @@ Das Skript wurde von Hand in einer SSH-Sitzung gestartet, nicht von cron oder sy
 
 ## Verwandte Befehle
 
-[ps](ps.md) · [pgrep](pgrep.md)
+[ps](ps.md) · [pgrep](pgrep.md) · [killall](killall.md)

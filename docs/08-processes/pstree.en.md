@@ -94,4 +94,4 @@ The script was started by hand in an SSH session, not by cron or systemd.
 
 ## Related commands
 
-[ps](ps.md) · [pgrep](pgrep.md)
+[ps](ps.md) · [pgrep](pgrep.md) · [killall](killall.md)

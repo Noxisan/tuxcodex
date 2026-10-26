@@ -106,4 +106,4 @@ Exit-Code `1` bedeutet: Kein Prozess hat gepasst.
 
 ## Verwandte Befehle
 
-[pgrep](pgrep.md) · [kill](kill.md) · [ps](ps.md)
+[pgrep](pgrep.md) · [kill](kill.md) · [ps](ps.md) · [killall](killall.md)

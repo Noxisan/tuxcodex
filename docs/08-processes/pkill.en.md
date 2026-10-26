@@ -105,4 +105,4 @@ Exit code `1` means: no process matched.
 
 ## Related commands
 
-[pgrep](pgrep.md) · [kill](kill.md) · [ps](ps.md)
+[pgrep](pgrep.md) · [kill](kill.md) · [ps](ps.md) · [killall](killall.md)

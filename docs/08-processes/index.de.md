@@ -90,6 +90,12 @@ und Jobs und Prioritäten steuern.
 
     Prozessen per Name ein Signal senden.
 
+-   :material-skull-crossbones-outline:{ .lg .middle } **[killall](killall.md)**
+
+    ---
+
+    Allen Prozessen mit exaktem Namen ein Signal senden.
+
 </div>
 
 ## Prozesse verstehen

@@ -90,6 +90,12 @@ controlling jobs and priorities.
 
     Send a signal to processes by name.
 
+-   :material-skull-crossbones-outline:{ .lg .middle } **[killall](killall.md)**
+
+    ---
+
+    Signal all processes with an exact name.
+
 </div>
 
 ## Understanding processes
