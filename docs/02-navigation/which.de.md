@@ -102,6 +102,7 @@ ls is aliased to `ls --color=auto'
     `which` sucht nur in den Verzeichnissen aus deinem `$PATH`. Admin-Programme wie
     `nginx` oder `sshd` liegen in `/usr/sbin`, das nicht immer im `$PATH` normaler
     Benutzer steht. `which` findet dann nichts, obwohl das Programm installiert ist.
+    [`whereis`](whereis.md) findet es trotzdem.
 
 ## Debian vs. Arch
 
@@ -113,4 +114,4 @@ ls is aliased to `ls --color=auto'
 
 ## Verwandte Befehle
 
-[find](find.md) · [locate](locate.md)
+[find](find.md) · [locate](locate.md) · [whereis](whereis.md)

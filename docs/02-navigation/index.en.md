@@ -84,6 +84,12 @@ looking for?
 
     Show which program runs when you type a command.
 
+-   :material-map-marker-path:{ .lg .middle } **[whereis](whereis.md)**
+
+    ---
+
+    Find program, configuration and man pages of a command.
+
 </div>
 
 ## The most important directories on a Debian server

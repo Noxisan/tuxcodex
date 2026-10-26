@@ -101,7 +101,8 @@ nothing. The shell builtin `type` also knows builtins, aliases and functions.
 !!! warning "Commands in `/usr/sbin`"
     `which` only searches the directories in your `$PATH`. Admin programs like `nginx`
     or `sshd` are in `/usr/sbin`, which is not always in the `$PATH` of normal users.
-    `which` then finds nothing, although the program is installed.
+    `which` then finds nothing, although the program is installed. [`whereis`](whereis.md)
+    finds it anyway.
 
 ## Debian vs. Arch
 
@@ -113,4 +114,4 @@ nothing. The shell builtin `type` also knows builtins, aliases and functions.
 
 ## Related commands
 
-[find](find.md) · [locate](locate.md)
+[find](find.md) · [locate](locate.md) · [whereis](whereis.md)

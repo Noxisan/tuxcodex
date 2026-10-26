@@ -83,6 +83,12 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
     Zeigt, welches Programm bei einem Befehl ausgeführt wird.
 
+-   :material-map-marker-path:{ .lg .middle } **[whereis](whereis.md)**
+
+    ---
+
+    Findet Programm, Konfiguration und Manpages eines Befehls.
+
 </div>
 
 ## Die wichtigsten Verzeichnisse auf einem Debian-Server
