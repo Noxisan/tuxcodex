@@ -110,6 +110,18 @@ root rights through `sudo` and `su`.
 
 </div>
 
+## Root rights
+
+<div class="grid cards" markdown>
+
+-   :material-account-switch-outline:{ .lg .middle } **[su](su.md)**
+
+    ---
+
+    Switch to another user, by default root.
+
+</div>
+
 ## The important files
 
 | File | Contents |

@@ -110,6 +110,18 @@ Root-Rechten über `sudo` und `su` arbeiten.
 
 </div>
 
+## Root-Rechte
+
+<div class="grid cards" markdown>
+
+-   :material-account-switch-outline:{ .lg .middle } **[su](su.md)**
+
+    ---
+
+    Wechselt zu einem anderen Benutzer, standardmäßig zu root.
+
+</div>
+
 ## Die wichtigen Dateien
 
 | Datei | Inhalt |
