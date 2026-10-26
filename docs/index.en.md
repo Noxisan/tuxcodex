@@ -26,7 +26,7 @@ Everything I learn – commands, configurations, troubleshooting – ends up her
     ---
 
     Who am I, where am I, and what is going on on this machine?
-    `whoami`, `id`, `hostname`, `uname`, `uptime`, `who`, `w`, `last`, `date`
+    `whoami`, `id`, `hostname`, `uname`, `uptime`, `who`, `w`, `last`, `date`, `timedatectl`
 
 -   :material-folder-outline:{ .lg .middle } **Navigation** · *coming soon*
 

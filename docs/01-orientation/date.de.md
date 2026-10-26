@@ -117,8 +117,8 @@ Mon Oct 26 10:42:17 CET 2026
 
 !!! warning "Die Zeit nicht mit `date -s` setzen"
     Auf Servern hält NTP die Uhrzeit korrekt. Zeitzone und Synchronisation stellst du mit
-    `timedatectl` ein, statt die Uhr von Hand zu verstellen.
+    [`timedatectl`](timedatectl.md) ein, statt die Uhr von Hand zu verstellen.
 
 ## Verwandte Befehle
 
-[uptime](uptime.md)
+[timedatectl](timedatectl.md) · [uptime](uptime.md)

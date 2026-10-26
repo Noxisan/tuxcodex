@@ -116,9 +116,9 @@ Mon Oct 26 10:42:17 CET 2026
     `tar -czf /backup/etc-$(date +\%F).tar.gz /etc`
 
 !!! warning "Don't set the time with `date -s`"
-    On servers, the time is kept correct by NTP. Use `timedatectl`
+    On servers, the time is kept correct by NTP. Use [`timedatectl`](timedatectl.md)
     to set time zone and synchronization instead of changing the clock by hand.
 
 ## Related commands
 
-[uptime](uptime.md)
+[timedatectl](timedatectl.md) · [uptime](uptime.md)
