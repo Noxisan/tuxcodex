@@ -32,6 +32,12 @@ den Server sauber neu starten oder herunterfahren.
 
 <div class="grid cards" markdown>
 
+-   :material-text-box-search-outline:{ .lg .middle } **[journalctl](journalctl.md)**
+
+    ---
+
+    Logs von Diensten und System lesen und filtern.
+
 </div>
 
 ## Starten und planen

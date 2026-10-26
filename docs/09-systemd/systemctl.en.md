@@ -106,7 +106,7 @@ Legend: LOAD   → Reflects whether the unit definition was properly loaded.
 1 loaded units listed.
 ```
 
-Find out why with `systemctl status backup` and `journalctl -u backup`.
+Find out why with `systemctl status backup` and [`journalctl -u backup`](journalctl.md).
 
 **List all running services:**
 
@@ -169,4 +169,4 @@ enabled
 
 ## Related commands
 
-[kill](../08-processes/kill.md) · [ps](../08-processes/ps.md)
+[kill](../08-processes/kill.md) · [ps](../08-processes/ps.md) · [journalctl](journalctl.md)

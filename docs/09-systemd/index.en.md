@@ -32,6 +32,12 @@ restarting or shutting down the server cleanly.
 
 <div class="grid cards" markdown>
 
+-   :material-text-box-search-outline:{ .lg .middle } **[journalctl](journalctl.md)**
+
+    ---
+
+    Read and filter the logs of services and the system.
+
 </div>
 
 ## Run and schedule
