@@ -8,21 +8,17 @@ hide:
 
 ![TuxCodex Logo](assets/logo.png){ width="320" }
 
+<form class="tc-search" role="search" onsubmit="return false">
+  <input type="search" id="tc-search-input" placeholder="Befehle, Optionen, Beispiele suchen …" aria-label="Suche" autocomplete="off">
+</form>
+
 # Willkommen bei TuxCodex
 
 Das praxisnahe Nachschlagewerk für **Linux-Administration und DevOps**.
 Jeder Befehl mit Syntax, echten Beispielen und Tipps aus dem Server-Alltag,
 auf Deutsch und Englisch. Zusammengestellt von Nox.
 
-<form class="tc-search" role="search" onsubmit="return false">
-  <input type="search" id="tc-search-input" placeholder="Befehle, Optionen, Beispiele suchen …" aria-label="Suche" autocomplete="off">
-</form>
-
 </div>
-
-## Alle Befehle
-
-<!-- COMMAND_INDEX -->
 
 ## Kapitel
 
@@ -65,6 +61,10 @@ auf Deutsch und Englisch. Zusammengestellt von Nox.
     Besitzer, Gruppen und Zugriffsrechte, und wie man sie korrigiert.
 
 </div>
+
+## Alle Befehle
+
+<!-- COMMAND_INDEX -->
 
 ## Was jede Befehlsseite enthält
 

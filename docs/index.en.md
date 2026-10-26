@@ -8,21 +8,17 @@ hide:
 
 ![TuxCodex Logo](assets/logo.png){ width="320" }
 
+<form class="tc-search" role="search" onsubmit="return false">
+  <input type="search" id="tc-search-input" placeholder="Search commands, options, examples …" aria-label="Search" autocomplete="off">
+</form>
+
 # Welcome to TuxCodex
 
 The hands-on reference for **Linux administration and DevOps**.
 Every command with syntax, real examples and tips from everyday server work,
 in English and German. Compiled by Nox.
 
-<form class="tc-search" role="search" onsubmit="return false">
-  <input type="search" id="tc-search-input" placeholder="Search commands, options, examples …" aria-label="Search" autocomplete="off">
-</form>
-
 </div>
-
-## All commands
-
-<!-- COMMAND_INDEX -->
 
 ## Chapters
 
@@ -65,6 +61,10 @@ in English and German. Compiled by Nox.
     Owners, groups and access rights, and how to fix them.
 
 </div>
+
+## All commands
+
+<!-- COMMAND_INDEX -->
 
 ## What every command page contains
 
