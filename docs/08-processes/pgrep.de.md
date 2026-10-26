@@ -109,4 +109,4 @@ nginx is running
 
 ## Verwandte Befehle
 
-[ps](ps.md) · [grep](../05-text-processing/grep.md) · [pidof](pidof.md) · [kill](kill.md)
+[ps](ps.md) · [grep](../05-text-processing/grep.md) · [pidof](pidof.md) · [kill](kill.md) · [pkill](pkill.md)

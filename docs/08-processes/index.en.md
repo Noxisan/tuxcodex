@@ -84,6 +84,12 @@ controlling jobs and priorities.
 
     Send a signal to a process by PID.
 
+-   :material-close-circle-multiple-outline:{ .lg .middle } **[pkill](pkill.md)**
+
+    ---
+
+    Send a signal to processes by name.
+
 </div>
 
 ## Understanding processes

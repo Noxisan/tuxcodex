@@ -84,6 +84,12 @@ und Jobs und Prioritäten steuern.
 
     Einem Prozess per PID ein Signal senden.
 
+-   :material-close-circle-multiple-outline:{ .lg .middle } **[pkill](pkill.md)**
+
+    ---
+
+    Prozessen per Name ein Signal senden.
+
 </div>
 
 ## Prozesse verstehen

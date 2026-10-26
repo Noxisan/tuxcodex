@@ -154,6 +154,7 @@ nav:
       - free: 08-processes/free.md
       - lsof: 08-processes/lsof.md
       - kill: 08-processes/kill.md
+      - pkill: 08-processes/pkill.md
 
 markdown_extensions:
   - admonition

@@ -104,4 +104,4 @@ The message appears when the process was started from your shell as a job.
 
 ## Related commands
 
-[ps](ps.md) · [pgrep](pgrep.md) · [pidof](pidof.md) · [top](top.md)
+[ps](ps.md) · [pgrep](pgrep.md) · [pidof](pidof.md) · [top](top.md) · [pkill](pkill.md)

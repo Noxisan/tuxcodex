@@ -107,4 +107,4 @@ Die Meldung erscheint, wenn der Prozess aus deiner Shell als Job gestartet wurde
 
 ## Verwandte Befehle
 
-[ps](ps.md) · [pgrep](pgrep.md) · [pidof](pidof.md) · [top](top.md)
+[ps](ps.md) · [pgrep](pgrep.md) · [pidof](pidof.md) · [top](top.md) · [pkill](pkill.md)
