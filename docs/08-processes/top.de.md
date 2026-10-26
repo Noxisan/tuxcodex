@@ -103,7 +103,7 @@ MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   2547.3 avail Mem
 - Wenn ein Server langsam ist: Welcher Prozess braucht die CPU, wartet sie auf die
   Platte (`wa`)?
 - Um Arbeitsspeicher und Swap während eines Backups, Imports oder Deployments zu beobachten
-- Um durchgehende Prozesse zu finden und sie direkt mit ++k++ zu beenden
+- Um außer Kontrolle geratene Prozesse zu finden und direkt mit ++k++ zu beenden
 
 !!! tip "Ein hoher `wa`-Wert"
     `wa` ist die Zeit, in der die CPU auf Festplatte oder Netzwerkspeicher wartet. Bleibt
@@ -116,4 +116,4 @@ MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   2547.3 avail Mem
 
 ## Verwandte Befehle
 
-[ps](ps.md) · [uptime](../01-orientation/uptime.md)
+[ps](ps.md) · [uptime](../01-orientation/uptime.md) · [htop](htop.md)

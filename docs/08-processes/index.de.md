@@ -54,6 +54,12 @@ und Jobs und Prioritäten steuern.
 
     Zeigt CPU, Speicher und die aktivsten Prozesse live.
 
+-   :material-monitor-dashboard:{ .lg .middle } **[htop](htop.md)**
+
+    ---
+
+    Komfortable Live-Ansicht mit Suche, Filter und Baum.
+
 </div>
 
 ## Prozesse verstehen

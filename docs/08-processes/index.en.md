@@ -54,6 +54,12 @@ controlling jobs and priorities.
 
     Watch CPU, memory and the busiest processes live.
 
+-   :material-monitor-dashboard:{ .lg .middle } **[htop](htop.md)**
+
+    ---
+
+    Comfortable live view with search, filter and tree.
+
 </div>
 
 ## Understanding processes
