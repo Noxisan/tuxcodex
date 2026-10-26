@@ -58,6 +58,7 @@ nav:
   - Navigation:
       - Overview: 02-navigation/index.md
       - pwd: 02-navigation/pwd.md
+      - cd: 02-navigation/cd.md
 
 markdown_extensions:
   - admonition
@@ -72,6 +73,7 @@ markdown_extensions:
   - pymdownx.highlight:
       pygments_lang_class: true
   - pymdownx.inlinehilite
+  - pymdownx.keys
   - toc:
       permalink: true
 

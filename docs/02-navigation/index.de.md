@@ -23,6 +23,12 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
     Zeigt das Verzeichnis, in dem du gerade bist.
 
+-   :material-folder-arrow-right-outline:{ .lg .middle } **[cd](cd.md)**
+
+    ---
+
+    Wechselt das aktuelle Verzeichnis.
+
 </div>
 
 ## Die wichtigsten Verzeichnisse auf einem Debian-Server

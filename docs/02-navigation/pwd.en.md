@@ -84,4 +84,4 @@ Backup of /home/nox
 
 ## Related commands
 
-[whoami](../01-orientation/whoami.md)
+[whoami](../01-orientation/whoami.md) · [cd](cd.md)

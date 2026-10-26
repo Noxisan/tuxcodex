@@ -24,6 +24,12 @@ looking for?
 
     Show the directory you are currently in.
 
+-   :material-folder-arrow-right-outline:{ .lg .middle } **[cd](cd.md)**
+
+    ---
+
+    Change the current directory.
+
 </div>
 
 ## The most important directories on a Debian server
