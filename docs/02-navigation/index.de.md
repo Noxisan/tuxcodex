@@ -31,6 +31,18 @@ Im Dateisystem bewegen: Wo bin ich, was liegt hier, und wo ist die Datei, die ic
 
 </div>
 
+## Was liegt hier?
+
+<div class="grid cards" markdown>
+
+-   :material-view-list-outline:{ .lg .middle } **[ls](ls.md)**
+
+    ---
+
+    Listet Verzeichnisinhalte mit Rechten, Besitzer, Größe und Datum.
+
+</div>
+
 ## Die wichtigsten Verzeichnisse auf einem Debian-Server
 
 | Verzeichnis | Inhalt |

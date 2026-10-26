@@ -59,6 +59,7 @@ nav:
       - Overview: 02-navigation/index.md
       - pwd: 02-navigation/pwd.md
       - cd: 02-navigation/cd.md
+      - ls: 02-navigation/ls.md
 
 markdown_extensions:
   - admonition

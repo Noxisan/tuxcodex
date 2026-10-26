@@ -32,6 +32,18 @@ looking for?
 
 </div>
 
+## What is in here?
+
+<div class="grid cards" markdown>
+
+-   :material-view-list-outline:{ .lg .middle } **[ls](ls.md)**
+
+    ---
+
+    List directory contents with permissions, owner, size and date.
+
+</div>
+
 ## The most important directories on a Debian server
 
 | Directory | Contents |
