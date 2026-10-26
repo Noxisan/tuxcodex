@@ -11,9 +11,9 @@ hide:
 ![TuxCodex Logo](assets/logo-hero.png){ width="300" }
 
 <div class="tc-distros" markdown>
-<span class="tc-badge tc-badge--redhat" markdown="span">:simple-redhat: Red Hat</span>
 <span class="tc-badge tc-badge--debian" markdown="span">:simple-debian: Debian</span>
 <span class="tc-badge tc-badge--ubuntu" markdown="span">:simple-ubuntu: Ubuntu</span>
+<span class="tc-badge tc-badge--redhat" markdown="span">:simple-redhat: RHEL</span>
 <span class="tc-badge tc-badge--arch" markdown="span">:simple-archlinux: Arch</span>
 </div>
 
