@@ -66,6 +66,12 @@ Attribute, und wie du herausfindest, warum etwas „Permission denied“ meldet.
 
     Zeigt zusätzliche Rechte für einzelne Benutzer und Gruppen.
 
+-   :material-playlist-edit:{ .lg .middle } **[setfacl](setfacl.md)**
+
+    ---
+
+    Gibt einzelnen Benutzern oder Gruppen zusätzliche Rechte.
+
 </div>
 
 ## Rechte verstehen

@@ -66,6 +66,12 @@ attributes, and how to find out why something says "Permission denied".
 
     Show additional permissions for single users and groups.
 
+-   :material-playlist-edit:{ .lg .middle } **[setfacl](setfacl.md)**
+
+    ---
+
+    Give single users or groups additional permissions.
+
 </div>
 
 ## Understanding permissions

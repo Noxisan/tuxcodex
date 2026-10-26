@@ -66,7 +66,7 @@ mask::r--
 other::---
 ```
 
-`alice` darf die Datei lesen, obwohl sie weder Besitzerin ist noch in der Gruppe.
+`alice` darf die Datei lesen, ohne Besitzer oder Mitglied der Gruppe zu sein.
 
 **Die ACL eines Verzeichnisses mit vererbten Rechten anzeigen:**
 
@@ -128,4 +128,4 @@ other::---
 
 ## Verwandte Befehle
 
-[chmod](chmod.md) · [ls](../02-navigation/ls.md)
+[chmod](chmod.md) · [ls](../02-navigation/ls.md) · [setfacl](setfacl.md)

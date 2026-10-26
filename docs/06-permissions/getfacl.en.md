@@ -66,7 +66,7 @@ mask::r--
 other::---
 ```
 
-`alice` may read the file, although she is neither the owner nor in the group.
+`alice` may read the file without being the owner or a member of the group.
 
 **Show the ACL of a directory with inherited permissions:**
 
@@ -127,4 +127,4 @@ other::---
 
 ## Related commands
 
-[chmod](chmod.md) · [ls](../02-navigation/ls.md)
+[chmod](chmod.md) · [ls](../02-navigation/ls.md) · [setfacl](setfacl.md)

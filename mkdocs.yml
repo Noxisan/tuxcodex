@@ -120,6 +120,7 @@ nav:
       - umask: 06-permissions/umask.md
       - namei: 06-permissions/namei.md
       - getfacl: 06-permissions/getfacl.md
+      - setfacl: 06-permissions/setfacl.md
 
 markdown_extensions:
   - admonition
