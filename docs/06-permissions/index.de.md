@@ -36,6 +36,12 @@ Attribute, und wie du herausfindest, warum etwas „Permission denied“ meldet.
 
     Ändert nur die Gruppe von Dateien.
 
+-   :material-shield-account-outline:{ .lg .middle } **[umask](umask.md)**
+
+    ---
+
+    Legt die Standardrechte für neue Dateien fest.
+
 </div>
 
 ## Rechte verstehen

@@ -36,6 +36,12 @@ attributes, and how to find out why something says "Permission denied".
 
     Change only the group of files.
 
+-   :material-shield-account-outline:{ .lg .middle } **[umask](umask.md)**
+
+    ---
+
+    Set the default permissions for new files.
+
 </div>
 
 ## Understanding permissions
