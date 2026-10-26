@@ -60,6 +60,12 @@ und Jobs und Prioritäten steuern.
 
     Komfortable Live-Ansicht mit Suche, Filter und Baum.
 
+-   :material-memory:{ .lg .middle } **[free](free.md)**
+
+    ---
+
+    Belegter, freier und verfügbarer Speicher und Swap.
+
 </div>
 
 ## Prozesse verstehen

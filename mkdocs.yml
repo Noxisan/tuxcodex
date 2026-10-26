@@ -151,6 +151,7 @@ nav:
       - pstree: 08-processes/pstree.md
       - top: 08-processes/top.md
       - htop: 08-processes/htop.md
+      - free: 08-processes/free.md
 
 markdown_extensions:
   - admonition

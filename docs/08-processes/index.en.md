@@ -60,6 +60,12 @@ controlling jobs and priorities.
 
     Comfortable live view with search, filter and tree.
 
+-   :material-memory:{ .lg .middle } **[free](free.md)**
+
+    ---
+
+    Used, free and available memory and swap.
+
 </div>
 
 ## Understanding processes
