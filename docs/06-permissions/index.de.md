@@ -44,6 +44,18 @@ Attribute, und wie du herausfindest, warum etwas „Permission denied“ meldet.
 
 </div>
 
+## Fehlersuche
+
+<div class="grid cards" markdown>
+
+-   :material-folder-search-outline:{ .lg .middle } **[namei](namei.md)**
+
+    ---
+
+    Zeigt die Rechte jedes Verzeichnisses entlang eines Pfads.
+
+</div>
+
 ## Rechte verstehen
 
 Jede Datei hat einen Besitzer, eine Gruppe und drei Sätze von Rechten. `ls -l` zeigt sie:

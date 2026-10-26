@@ -118,6 +118,7 @@ nav:
       - chown: 06-permissions/chown.md
       - chgrp: 06-permissions/chgrp.md
       - umask: 06-permissions/umask.md
+      - namei: 06-permissions/namei.md
 
 markdown_extensions:
   - admonition

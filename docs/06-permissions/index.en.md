@@ -44,6 +44,18 @@ attributes, and how to find out why something says "Permission denied".
 
 </div>
 
+## Troubleshooting
+
+<div class="grid cards" markdown>
+
+-   :material-folder-search-outline:{ .lg .middle } **[namei](namei.md)**
+
+    ---
+
+    Show the permissions of every directory along a path.
+
+</div>
+
 ## Understanding permissions
 
 Every file has an owner, a group and three sets of permissions. `ls -l` shows them:
