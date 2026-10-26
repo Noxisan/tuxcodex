@@ -133,4 +133,4 @@ warum.
 
 ## Verwandte Befehle
 
-[ssh-keygen](ssh-keygen.md) · [ssh-copy-id](ssh-copy-id.md) · [scp](scp.md) · [sshd](sshd.md) · [ssh-keygen](ssh-keygen.md)
+[ssh-keygen](ssh-keygen.md) · [ssh-copy-id](ssh-copy-id.md) · [scp](scp.md) · [sshd](sshd.md) · [ssh-keygen](ssh-keygen.md) · [ssh-copy-id](ssh-copy-id.md)

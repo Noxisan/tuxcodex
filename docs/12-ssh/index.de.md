@@ -39,6 +39,12 @@ Verbindungen tunneln und den SSH-Server gegen Angriffe schützen.
 
     SSH-Schlüssel erzeugen und verwalten.
 
+-   :material-key-arrow-right:{ .lg .middle } **[ssh-copy-id](ssh-copy-id.md)**
+
+    ---
+
+    Den öffentlichen Schlüssel auf einen Server bringen.
+
 </div>
 
 ## Dateien übertragen

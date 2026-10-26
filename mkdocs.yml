@@ -227,6 +227,7 @@ nav:
       - Basics: 12-ssh/basics.md
       - ssh: 12-ssh/ssh.md
       - ssh-keygen: 12-ssh/ssh-keygen.md
+      - ssh-copy-id: 12-ssh/ssh-copy-id.md
 
 markdown_extensions:
   - admonition

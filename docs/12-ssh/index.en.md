@@ -39,6 +39,12 @@ tunnelling connections and protecting the SSH server against attacks.
 
     Create and manage SSH keys.
 
+-   :material-key-arrow-right:{ .lg .middle } **[ssh-copy-id](ssh-copy-id.md)**
+
+    ---
+
+    Put your public key on a server.
+
 </div>
 
 ## Transfer files
