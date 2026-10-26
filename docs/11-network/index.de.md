@@ -51,6 +51,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     Verlust und Laufzeit pro Sprung messen.
 
+-   :material-lan-connect:{ .lg .middle } **[ss](ss.md)**
+
+    ---
+
+    Lauschende Ports und offene Verbindungen.
+
 </div>
 
 ## DNS

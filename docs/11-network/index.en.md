@@ -51,6 +51,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     Measure loss and latency per hop.
 
+-   :material-lan-connect:{ .lg .middle } **[ss](ss.md)**
+
+    ---
+
+    Listening ports and open connections.
+
 </div>
 
 ## DNS

@@ -208,6 +208,7 @@ nav:
       - ping: 11-network/ping.md
       - traceroute: 11-network/traceroute.md
       - mtr: 11-network/mtr.md
+      - ss: 11-network/ss.md
 
 markdown_extensions:
   - admonition
