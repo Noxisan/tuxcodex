@@ -45,6 +45,12 @@ tunnelling connections and protecting the SSH server against attacks.
 
     Put your public key on a server.
 
+-   :material-account-key-outline:{ .lg .middle } **[ssh-agent](ssh-agent.md)**
+
+    ---
+
+    Keep unlocked keys in memory.
+
 </div>
 
 ## Transfer files

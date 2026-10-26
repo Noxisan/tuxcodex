@@ -45,6 +45,12 @@ Verbindungen tunneln und den SSH-Server gegen Angriffe schützen.
 
     Den öffentlichen Schlüssel auf einen Server bringen.
 
+-   :material-account-key-outline:{ .lg .middle } **[ssh-agent](ssh-agent.md)**
+
+    ---
+
+    Entsperrte Schlüssel im Speicher halten.
+
 </div>
 
 ## Dateien übertragen
