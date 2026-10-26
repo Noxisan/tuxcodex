@@ -62,6 +62,18 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
 </div>
 
+## Suchen und ersetzen
+
+<div class="grid cards" markdown>
+
+-   :material-text-box-search-outline:{ .lg .middle } **[grep](grep.md)**
+
+    ---
+
+    Sucht und filtert Zeilen mit Mustern und regulären Ausdrücken.
+
+</div>
+
 ## Befehle mit Pipes verbinden
 
 Ihre eigentliche Stärke zeigen diese Werkzeuge erst in Kombination. Jeder Befehl erledigt

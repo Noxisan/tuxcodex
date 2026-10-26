@@ -93,4 +93,4 @@ wc -l < users.csv
 
 ## Related commands
 
-[cat](../04-viewing-files/cat.md) · [sort](sort.md)
+[cat](../04-viewing-files/cat.md) · [sort](sort.md) · [grep](grep.md)

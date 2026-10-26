@@ -62,6 +62,18 @@ configuration files and the output of other commands.
 
 </div>
 
+## Search and replace
+
+<div class="grid cards" markdown>
+
+-   :material-text-box-search-outline:{ .lg .middle } **[grep](grep.md)**
+
+    ---
+
+    Search and filter lines with patterns and regular expressions.
+
+</div>
+
 ## Combining commands with pipes
 
 The real strength of these tools comes from combining them. Each command does one thing,
