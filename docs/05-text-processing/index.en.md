@@ -24,6 +24,12 @@ configuration files and the output of other commands.
 
     Count lines, words and bytes.
 
+-   :material-sort-alphabetical-ascending:{ .lg .middle } **[sort](sort.md)**
+
+    ---
+
+    Sort lines alphabetically, numerically or by column.
+
 </div>
 
 ## Combining commands with pipes

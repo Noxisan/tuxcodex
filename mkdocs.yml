@@ -99,6 +99,7 @@ nav:
   - Text processing:
       - Overview: 05-text-processing/index.md
       - wc: 05-text-processing/wc.md
+      - sort: 05-text-processing/sort.md
 
 markdown_extensions:
   - admonition

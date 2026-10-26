@@ -24,6 +24,12 @@ Konfigurationsdateien und die Ausgaben anderer Befehle.
 
     Zählt Zeilen, Wörter und Bytes.
 
+-   :material-sort-alphabetical-ascending:{ .lg .middle } **[sort](sort.md)**
+
+    ---
+
+    Sortiert Zeilen alphabetisch, numerisch oder nach Spalte.
+
 </div>
 
 ## Befehle mit Pipes verbinden
