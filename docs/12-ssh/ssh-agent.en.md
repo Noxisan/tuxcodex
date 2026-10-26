@@ -90,4 +90,4 @@ Agent pid 4365 killed
 
 ## Related commands
 
-[ssh-add](ssh-add.md) · [ssh](ssh.md) · [ssh-keygen](ssh-keygen.md)
+[ssh-add](ssh-add.md) · [ssh](ssh.md) · [ssh-keygen](ssh-keygen.md) · [ssh-add](ssh-add.md)

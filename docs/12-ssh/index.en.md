@@ -51,6 +51,12 @@ tunnelling connections and protecting the SSH server against attacks.
 
     Keep unlocked keys in memory.
 
+-   :material-key-chain-variant:{ .lg .middle } **[ssh-add](ssh-add.md)**
+
+    ---
+
+    Load keys into the agent.
+
 </div>
 
 ## Transfer files

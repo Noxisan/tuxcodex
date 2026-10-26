@@ -229,6 +229,7 @@ nav:
       - ssh-keygen: 12-ssh/ssh-keygen.md
       - ssh-copy-id: 12-ssh/ssh-copy-id.md
       - ssh-agent: 12-ssh/ssh-agent.md
+      - ssh-add: 12-ssh/ssh-add.md
 
 markdown_extensions:
   - admonition

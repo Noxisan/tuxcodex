@@ -51,6 +51,12 @@ Verbindungen tunneln und den SSH-Server gegen Angriffe schützen.
 
     Entsperrte Schlüssel im Speicher halten.
 
+-   :material-key-chain-variant:{ .lg .middle } **[ssh-add](ssh-add.md)**
+
+    ---
+
+    Schlüssel in den Agenten laden.
+
 </div>
 
 ## Dateien übertragen
