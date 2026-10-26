@@ -72,6 +72,12 @@ controlling jobs and priorities.
 
     Open files, ports and who holds them.
 
+-   :material-eye-refresh-outline:{ .lg .middle } **[watch](watch.md)**
+
+    ---
+
+    Run a command repeatedly and watch it change.
+
 </div>
 
 ## Stop processes

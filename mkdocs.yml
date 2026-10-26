@@ -163,6 +163,7 @@ nav:
       - nohup: 08-processes/nohup.md
       - nice: 08-processes/nice.md
       - renice: 08-processes/renice.md
+      - watch: 08-processes/watch.md
 
 markdown_extensions:
   - admonition

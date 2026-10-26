@@ -72,6 +72,12 @@ und Jobs und Prioritäten steuern.
 
     Offene Dateien, Ports und wer sie hält.
 
+-   :material-eye-refresh-outline:{ .lg .middle } **[watch](watch.md)**
+
+    ---
+
+    Einen Befehl wiederholt ausführen und Änderungen sehen.
+
 </div>
 
 ## Prozesse beenden

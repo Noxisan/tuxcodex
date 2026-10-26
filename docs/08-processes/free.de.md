@@ -104,4 +104,4 @@ Swap:          1.0Gi          0B       1.0Gi
 
 ## Verwandte Befehle
 
-[top](top.md) · [htop](htop.md) · [ps](ps.md)
+[top](top.md) · [htop](htop.md) · [ps](ps.md) · [watch](watch.md)

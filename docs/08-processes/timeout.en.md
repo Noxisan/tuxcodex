@@ -98,4 +98,4 @@ The output and the exit code are those of the command itself.
 
 ## Related commands
 
-[kill](kill.md) · [pkill](pkill.md) · [killall](killall.md) · [nice](nice.md)
+[kill](kill.md) · [pkill](pkill.md) · [killall](killall.md) · [nice](nice.md) · [watch](watch.md)
