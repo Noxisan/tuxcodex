@@ -123,6 +123,12 @@ configuring interfaces and the firewall, and looking at the traffic itself.
 
     Network configuration on Ubuntu.
 
+-   :material-ethernet:{ .lg .middle } **[ifup](ifup.md)**
+
+    ---
+
+    Bring interfaces up and down on Debian.
+
 </div>
 
 ## Firewall

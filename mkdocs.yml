@@ -217,6 +217,7 @@ nav:
       - wget: 11-network/wget.md
       - nmcli: 11-network/nmcli.md
       - netplan: 11-network/netplan.md
+      - ifup: 11-network/ifup.md
 
 markdown_extensions:
   - admonition

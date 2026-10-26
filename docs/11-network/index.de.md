@@ -123,6 +123,12 @@ Schnittstellen und Firewall konfigurieren und den Datenverkehr selbst ansehen.
 
     Netzwerkkonfiguration unter Ubuntu.
 
+-   :material-ethernet:{ .lg .middle } **[ifup](ifup.md)**
+
+    ---
+
+    Schnittstellen unter Debian hoch- und herunterfahren.
+
 </div>
 
 ## Firewall
