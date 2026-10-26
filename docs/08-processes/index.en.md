@@ -44,6 +44,18 @@ controlling jobs and priorities.
 
 </div>
 
+## Watch the system
+
+<div class="grid cards" markdown>
+
+-   :material-chart-line:{ .lg .middle } **[top](top.md)**
+
+    ---
+
+    Watch CPU, memory and the busiest processes live.
+
+</div>
+
 ## Understanding processes
 
 Every running program is a process with a number, the **PID**. Every process (except

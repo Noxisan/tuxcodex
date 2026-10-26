@@ -44,6 +44,18 @@ und Jobs und Prioritäten steuern.
 
 </div>
 
+## System beobachten
+
+<div class="grid cards" markdown>
+
+-   :material-chart-line:{ .lg .middle } **[top](top.md)**
+
+    ---
+
+    Zeigt CPU, Speicher und die aktivsten Prozesse live.
+
+</div>
+
 ## Prozesse verstehen
 
 Jedes laufende Programm ist ein Prozess mit einer Nummer, der **PID**. Jeder Prozess

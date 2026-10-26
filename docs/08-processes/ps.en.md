@@ -35,7 +35,7 @@ ps aux | head -n 5
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
 root           1  0.0  0.3  24312 13460 ?        Ss   Oct14   0:21 /sbin/init
 root         640  0.0  0.2  15444  9220 ?        Ss   Oct14   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
-root         812  0.0  0.1  11360  1820 ?        Ss   Oct14   0:00 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+root         812  0.0  0.0  11360  1820 ?        Ss   Oct14   0:00 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
 www-data     813  0.0  0.1  12968  5876 ?        S    Oct14   0:03 nginx: worker process
 ```
 
@@ -72,7 +72,7 @@ ps -eo pid,user,%mem,%cpu,comm --sort=-%mem | head -n 4
     PID USER     %MEM %CPU COMMAND
     905 postgres  4.1  0.2 postgres
    1310 www-data  2.3  0.5 php-fpm8.4
-    812 root      0.1  0.0 nginx
+    812 root      0.0  0.0 nginx
 ```
 
 **Show how long a process has been running:**
@@ -117,4 +117,4 @@ The zombie `4021` waits for its parent `4010`. Only the parent can clean it up.
 
 ## Related commands
 
-[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md) · [pgrep](pgrep.md) · [pstree](pstree.md)
+[uptime](../01-orientation/uptime.md) · [grep](../05-text-processing/grep.md) · [pgrep](pgrep.md) · [pstree](pstree.md) · [top](top.md)
