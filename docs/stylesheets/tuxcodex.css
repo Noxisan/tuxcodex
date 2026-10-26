@@ -325,21 +325,26 @@
 .md-typeset .tc-badge {
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
-  padding: 0.25rem 0.7rem;
+  gap: 0.3rem;
+  padding: 0.15rem 0.55rem;
   border-radius: 1rem;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   font-weight: 600;
   color: #ffffff;
 }
 
 .md-typeset .tc-badge .twemoji svg {
   fill: #ffffff;
-  width: 0.9rem;
-  height: 0.9rem;
+  width: 0.75rem;
+  height: 0.75rem;
 }
 
 .tc-badge--redhat { background-color: #ee0000; }
 .tc-badge--debian { background-color: #a81d33; }
 .tc-badge--ubuntu { background-color: #e95420; }
 .tc-badge--arch { background-color: #1793d1; }
+
+/* Centered hero titles: hide the permalink, which would push the title to the left */
+.md-typeset .tc-hero h1 .headerlink {
+  display: none;
+}
