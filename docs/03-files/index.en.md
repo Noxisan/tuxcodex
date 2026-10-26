@@ -32,6 +32,18 @@ what a file really is.
 
 </div>
 
+## Copy, move, delete
+
+<div class="grid cards" markdown>
+
+-   :material-content-copy:{ .lg .middle } **[cp](cp.md)**
+
+    ---
+
+    Copy files and directories.
+
+</div>
+
 ## Working safely with files
 
 Most mistakes with files happen in a second and can't be undone. These habits protect

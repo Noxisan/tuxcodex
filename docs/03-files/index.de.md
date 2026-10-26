@@ -32,6 +32,18 @@ herausfinden, was eine Datei wirklich ist.
 
 </div>
 
+## Kopieren, verschieben, löschen
+
+<div class="grid cards" markdown>
+
+-   :material-content-copy:{ .lg .middle } **[cp](cp.md)**
+
+    ---
+
+    Kopiert Dateien und Verzeichnisse.
+
+</div>
+
 ## Sicher arbeiten mit Dateien
 
 Die meisten Fehler mit Dateien passieren in einer Sekunde und lassen sich nicht

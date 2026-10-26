@@ -73,6 +73,7 @@ nav:
       - Overview: 03-files/index.md
       - touch: 03-files/touch.md
       - mkdir: 03-files/mkdir.md
+      - cp: 03-files/cp.md
 
 markdown_extensions:
   - admonition
