@@ -81,4 +81,10 @@ hardening, rootkits and malware, changed system files and vulnerable container i
 
     Report changed system files.
 
+-   :material-package-variant-closed-check:{ .lg .middle } **[debsums](debsums.md)**
+
+    ---
+
+    Compare files with their packages.
+
 </div>

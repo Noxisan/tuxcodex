@@ -418,6 +418,7 @@ nav:
       - chkrootkit: 23-security-scanning/chkrootkit.md
       - clamscan: 23-security-scanning/clamscan.md
       - aide: 23-security-scanning/aide.md
+      - debsums: 23-security-scanning/debsums.md
 
 markdown_extensions:
   - admonition

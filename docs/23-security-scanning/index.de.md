@@ -81,4 +81,10 @@ Rootkits und Schadsoftware, veränderte Systemdateien und verwundbare Container-
 
     Veränderte Systemdateien melden.
 
+-   :material-package-variant-closed-check:{ .lg .middle } **[debsums](debsums.md)**
+
+    ---
+
+    Dateien mit ihren Paketen vergleichen.
+
 </div>
