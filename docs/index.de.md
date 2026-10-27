@@ -25,7 +25,7 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
 </div>
 
-## Kapitel
+## Linux-Grundlagen
 
 <div class="grid cards" markdown>
 
@@ -125,17 +125,59 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Jobs regelmäßig ausführen mit cron, `at` und systemd-Timern.
 
--   :material-script-text-outline:{ .lg .middle } **Bash-Skripte** · *in Arbeit*
+</div>
+
+## Automatisierung & DevOps
+
+<div class="grid cards" markdown>
+
+-   :material-script-text-outline:{ .lg .middle } **[Bash-Skripte](17-bash-scripting/index.md)**
 
     ---
 
     Variablen, Bedingungen, Schleifen und Funktionen für eigene Admin-Skripte.
 
--   :material-rocket-launch:{ .lg .middle } **DevOps** · *in Arbeit*
+-   :material-git:{ .lg .middle } **Git** · *in Arbeit*
 
     ---
 
-    Git, Docker, Ansible und CI/CD für Server.
+    Konfigurationen und Skripte versionieren, Branches und Remotes.
+
+-   :material-docker:{ .lg .middle } **Docker** · *in Arbeit*
+
+    ---
+
+    Dienste in Containern betreiben, Images, Volumes und Compose.
+
+-   :material-ansible:{ .lg .middle } **Ansible** · *in Arbeit*
+
+    ---
+
+    Viele Server auf einmal mit Playbooks konfigurieren.
+
+-   :material-infinity:{ .lg .middle } **CI/CD** · *in Arbeit*
+
+    ---
+
+    Automatisch testen und ausliefern mit Pipelines.
+
+</div>
+
+## Sicherheit
+
+<div class="grid cards" markdown>
+
+-   :material-radar:{ .lg .middle } **Netzwerk-Scans** · *in Arbeit*
+
+    ---
+
+    Offene Ports und Dienste finden mit `nmap` und Co.
+
+-   :material-certificate-outline:{ .lg .middle } **Zertifikate und Verschlüsselung** · *in Arbeit*
+
+    ---
+
+    TLS-Zertifikate, `openssl`, `gpg` und Let's Encrypt.
 
 </div>
 

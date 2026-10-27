@@ -25,7 +25,7 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 </div>
 
-## Chapters
+## Linux basics
 
 <div class="grid cards" markdown>
 
@@ -125,17 +125,59 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Running jobs regularly with cron, `at` and systemd timers.
 
--   :material-script-text-outline:{ .lg .middle } **Bash scripting** · *coming soon*
+</div>
+
+## Automation & DevOps
+
+<div class="grid cards" markdown>
+
+-   :material-script-text-outline:{ .lg .middle } **[Bash scripting](17-bash-scripting/index.md)**
 
     ---
 
     Variables, conditions, loops and functions for your own admin scripts.
 
--   :material-rocket-launch:{ .lg .middle } **DevOps** · *coming soon*
+-   :material-git:{ .lg .middle } **Git** · *coming soon*
 
     ---
 
-    Git, Docker, Ansible and CI/CD for servers.
+    Versioning configurations and scripts, branches and remotes.
+
+-   :material-docker:{ .lg .middle } **Docker** · *coming soon*
+
+    ---
+
+    Running services in containers, images, volumes and Compose.
+
+-   :material-ansible:{ .lg .middle } **Ansible** · *coming soon*
+
+    ---
+
+    Configuring many servers at once with playbooks.
+
+-   :material-infinity:{ .lg .middle } **CI/CD** · *coming soon*
+
+    ---
+
+    Testing and deploying automatically with pipelines.
+
+</div>
+
+## Security
+
+<div class="grid cards" markdown>
+
+-   :material-radar:{ .lg .middle } **Network scanning** · *coming soon*
+
+    ---
+
+    Finding open ports and services with `nmap` and friends.
+
+-   :material-certificate-outline:{ .lg .middle } **Certificates and encryption** · *coming soon*
+
+    ---
+
+    TLS certificates, `openssl`, `gpg` and Let's Encrypt.
 
 </div>
 

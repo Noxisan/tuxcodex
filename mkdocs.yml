@@ -50,6 +50,7 @@ plugins:
             Disks and storage: Festplatten und Speicher
             Archives: Archive
             Scheduling: Zeitgesteuerte Aufgaben
+            Bash scripting: Bash-Skripte
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -298,6 +299,9 @@ nav:
       - atrm: 16-scheduling/atrm.md
       - batch: 16-scheduling/batch.md
       - flock: 16-scheduling/flock.md
+  - Bash scripting:
+      - 17-bash-scripting/index.md
+      - Basics: 17-bash-scripting/basics.md
 
 markdown_extensions:
   - admonition
