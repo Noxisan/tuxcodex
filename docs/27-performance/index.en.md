@@ -63,4 +63,10 @@ the kernel with sysctl, limits and modules.
 
     Limits such as open files.
 
+-   :material-puzzle-outline:{ .lg .middle } **[lsmod](lsmod.md)**
+
+    ---
+
+    Loaded kernel modules.
+
 </div>

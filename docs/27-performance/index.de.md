@@ -63,4 +63,10 @@ Zeit, und den Kernel mit sysctl, Limits und Modulen einstellen.
 
     Grenzen wie offene Dateien.
 
+-   :material-puzzle-outline:{ .lg .middle } **[lsmod](lsmod.md)**
+
+    ---
+
+    Geladene Kernelmodule.
+
 </div>
