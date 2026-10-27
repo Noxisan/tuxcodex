@@ -57,4 +57,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     Output of the containers in a pod.
 
+-   :material-bell-outline:{ .lg .middle } **[kubectl events](kubectl-events.md)**
+
+    ---
+
+    What happened in the cluster.
+
 </div>

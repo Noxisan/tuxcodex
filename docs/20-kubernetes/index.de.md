@@ -57,4 +57,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Ausgabe der Container eines Pods.
 
+-   :material-bell-outline:{ .lg .middle } **[kubectl events](kubectl-events.md)**
+
+    ---
+
+    Was im Cluster passiert ist.
+
 </div>
