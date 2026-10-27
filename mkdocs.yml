@@ -446,6 +446,9 @@ nav:
       - audit2allow: 25-selinux-apparmor/audit2allow.md
       - aa-status: 25-selinux-apparmor/aa-status.md
       - aa-complain: 25-selinux-apparmor/aa-complain.md
+  - VPN with WireGuard:
+      - 26-wireguard/index.md
+      - Basics: 26-wireguard/basics.md
 
 markdown_extensions:
   - admonition
