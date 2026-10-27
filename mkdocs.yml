@@ -318,6 +318,9 @@ nav:
       - trap: 17-bash-scripting/trap.md
       - getopts: 17-bash-scripting/getopts.md
       - shellcheck: 17-bash-scripting/shellcheck.md
+  - Git:
+      - 18-git/index.md
+      - Basics: 18-git/basics.md
 
 markdown_extensions:
   - admonition
