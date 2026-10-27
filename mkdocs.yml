@@ -270,6 +270,7 @@ nav:
       - zip: 14-archives/zip.md
       - unzip: 14-archives/unzip.md
       - gzip: 14-archives/gzip.md
+      - bzip2: 14-archives/bzip2.md
 
 markdown_extensions:
   - admonition

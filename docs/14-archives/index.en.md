@@ -51,6 +51,12 @@ compression method and checking that a file arrived intact.
 
     Fast, compatible everywhere.
 
+-   :material-arrow-collapse-vertical:{ .lg .middle } **[bzip2](bzip2.md)**
+
+    ---
+
+    Stronger than gzip, but slow.
+
 </div>
 
 ## Verify

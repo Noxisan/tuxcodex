@@ -51,6 +51,12 @@ Kompressionsverfahren wählen und prüfen, ob eine Datei unbeschädigt angekomme
 
     Schnell, überall kompatibel.
 
+-   :material-arrow-collapse-vertical:{ .lg .middle } **[bzip2](bzip2.md)**
+
+    ---
+
+    Stärker als gzip, aber langsam.
+
 </div>
 
 ## Prüfen
