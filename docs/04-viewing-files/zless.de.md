@@ -82,4 +82,4 @@ zless +G /var/log/nginx/access.log.2.gz
 
 ## Verwandte Befehle
 
-[less](less.md) · [zcat](zcat.md)
+[less](less.md) · [zcat](zcat.md) · [gzip](../14-archives/gzip.md)

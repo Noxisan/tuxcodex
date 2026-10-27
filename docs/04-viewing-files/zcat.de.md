@@ -95,4 +95,4 @@ OK
 
 ## Verwandte Befehle
 
-[cat](cat.md) · [less](less.md) · [zless](zless.md)
+[cat](cat.md) · [less](less.md) · [zless](zless.md) · [gzip](../14-archives/gzip.md)
