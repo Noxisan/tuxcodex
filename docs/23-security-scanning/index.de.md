@@ -88,3 +88,15 @@ Rootkits und Schadsoftware, veränderte Systemdateien und verwundbare Container-
     Dateien mit ihren Paketen vergleichen.
 
 </div>
+
+## Container
+
+<div class="grid cards" markdown>
+
+-   :material-docker:{ .lg .middle } **[trivy](trivy.md)**
+
+    ---
+
+    Schwachstellen in Images.
+
+</div>

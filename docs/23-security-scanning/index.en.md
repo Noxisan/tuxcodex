@@ -88,3 +88,15 @@ hardening, rootkits and malware, changed system files and vulnerable container i
     Compare files with their packages.
 
 </div>
+
+## Containers
+
+<div class="grid cards" markdown>
+
+-   :material-docker:{ .lg .middle } **[trivy](trivy.md)**
+
+    ---
+
+    Vulnerabilities in images.
+
+</div>
