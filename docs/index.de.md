@@ -149,7 +149,7 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Dienste in Containern betreiben, Images, Volumes und Compose.
 
--   :material-kubernetes:{ .lg .middle } **Kubernetes** · *in Arbeit*
+-   :material-kubernetes:{ .lg .middle } **[Kubernetes](20-kubernetes/index.md)**
 
     ---
 

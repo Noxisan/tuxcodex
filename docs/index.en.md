@@ -149,7 +149,7 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Running services in containers, images, volumes and Compose.
 
--   :material-kubernetes:{ .lg .middle } **Kubernetes** · *coming soon*
+-   :material-kubernetes:{ .lg .middle } **[Kubernetes](20-kubernetes/index.md)**
 
     ---
 
