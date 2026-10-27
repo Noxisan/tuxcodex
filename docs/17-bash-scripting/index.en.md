@@ -45,6 +45,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
 <div class="grid cards" markdown>
 
+-   :material-export-variant:{ .lg .middle } **[export](export.md)**
+
+    ---
+
+    Pass variables on to child processes.
+
 </div>
 
 ## Conditions

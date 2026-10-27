@@ -45,6 +45,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
 <div class="grid cards" markdown>
 
+-   :material-export-variant:{ .lg .middle } **[export](export.md)**
+
+    ---
+
+    Variablen an Kindprozesse weitergeben.
+
 </div>
 
 ## Bedingungen
