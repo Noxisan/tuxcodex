@@ -33,4 +33,10 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
 
     Zwischen enforcing und permissive umschalten.
 
+-   :material-information-outline:{ .lg .middle } **[sestatus](sestatus.md)**
+
+    ---
+
+    Der vollständige SELinux-Status.
+
 </div>

@@ -33,4 +33,10 @@ permissions are right, and how to fix it properly instead of switching the prote
 
     Switch between enforcing and permissive.
 
+-   :material-information-outline:{ .lg .middle } **[sestatus](sestatus.md)**
+
+    ---
+
+    The full SELinux status.
+
 </div>
