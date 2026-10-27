@@ -141,4 +141,10 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Read options like `-v` and `-t`.
 
+-   :material-check-decagram-outline:{ .lg .middle } **[shellcheck](shellcheck.md)**
+
+    ---
+
+    Find mistakes before the script runs.
+
 </div>

@@ -90,4 +90,4 @@ round 3
 
 ## Verwandte Befehle
 
-[while](while.md) · [if](if.md) · [find](../02-navigation/find.md) · [xargs](../05-text-processing/xargs.md)
+[while](while.md) · [if](if.md) · [find](../02-navigation/find.md) · [xargs](../05-text-processing/xargs.md) · [shellcheck](shellcheck.md)

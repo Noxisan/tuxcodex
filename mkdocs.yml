@@ -317,6 +317,7 @@ nav:
       - set: 17-bash-scripting/set.md
       - trap: 17-bash-scripting/trap.md
       - getopts: 17-bash-scripting/getopts.md
+      - shellcheck: 17-bash-scripting/shellcheck.md
 
 markdown_extensions:
   - admonition

@@ -141,4 +141,10 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Optionen wie `-v` und `-t` lesen.
 
+-   :material-check-decagram-outline:{ .lg .middle } **[shellcheck](shellcheck.md)**
+
+    ---
+
+    Fehler finden, bevor das Skript läuft.
+
 </div>

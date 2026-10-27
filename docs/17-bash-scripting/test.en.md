@@ -102,4 +102,4 @@ happen.
 
 ## Related commands
 
-[if](if.md) · [case](case.md) · [while](while.md)
+[if](if.md) · [case](case.md) · [while](while.md) · [shellcheck](shellcheck.md)
