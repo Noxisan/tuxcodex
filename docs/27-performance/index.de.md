@@ -33,4 +33,10 @@ Zeit, und den Kernel mit sysctl, Limits und Modulen einstellen.
 
     Wie ausgelastet die Platten sind.
 
+-   :material-harddisk-plus:{ .lg .middle } **[iotop](iotop.md)**
+
+    ---
+
+    Welcher Prozess Platten-I/O verursacht.
+
 </div>
