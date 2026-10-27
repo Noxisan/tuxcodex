@@ -57,4 +57,10 @@ Rootkits und Schadsoftware, veränderte Systemdateien und verwundbare Container-
 
     Nach Rootkits und Hintertüren suchen.
 
+-   :material-bug-check-outline:{ .lg .middle } **[chkrootkit](chkrootkit.md)**
+
+    ---
+
+    Zweite Meinung zu Rootkits.
+
 </div>

@@ -57,4 +57,10 @@ hardening, rootkits and malware, changed system files and vulnerable container i
 
     Search for rootkits and backdoors.
 
+-   :material-bug-check-outline:{ .lg .middle } **[chkrootkit](chkrootkit.md)**
+
+    ---
+
+    Second opinion on rootkits.
+
 </div>
