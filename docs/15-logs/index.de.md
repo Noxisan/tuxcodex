@@ -75,6 +75,12 @@ Logdateien klein halten, fehlgeschlagene Anmeldungen und Audit-Ereignisse verfol
 
     Das Audit-Log durchsuchen.
 
+-   :material-file-chart-outline:{ .lg .middle } **[aureport](aureport.md)**
+
+    ---
+
+    Zusammenfassungen des Audit-Logs.
+
 </div>
 
 ## Auswerten

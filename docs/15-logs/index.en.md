@@ -75,6 +75,12 @@ keeping log files small, tracking failed logins and audit events, and analysing 
 
     Search the audit log.
 
+-   :material-file-chart-outline:{ .lg .middle } **[aureport](aureport.md)**
+
+    ---
+
+    Summaries of the audit log.
+
 </div>
 
 ## Analyse

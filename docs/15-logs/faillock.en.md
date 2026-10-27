@@ -87,4 +87,4 @@ Three failed attempts within 15 minutes lock the account for 10 minutes.
 
 ## Related commands
 
-[passwd](../07-users-groups/passwd.md) · [fail2ban-client](../12-ssh/fail2ban-client.md) · [last](../01-orientation/last.md) · [ausearch](ausearch.md)
+[passwd](../07-users-groups/passwd.md) · [fail2ban-client](../12-ssh/fail2ban-client.md) · [last](../01-orientation/last.md) · [ausearch](ausearch.md) · [aureport](aureport.md)
