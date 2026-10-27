@@ -51,6 +51,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Variablen an Kindprozesse weitergeben.
 
+-   :material-file-import-outline:{ .lg .middle } **[source](source.md)**
+
+    ---
+
+    Eine Datei in die aktuelle Shell laden.
+
 </div>
 
 ## Bedingungen

@@ -51,6 +51,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Pass variables on to child processes.
 
+-   :material-file-import-outline:{ .lg .middle } **[source](source.md)**
+
+    ---
+
+    Load a file into the current shell.
+
 </div>
 
 ## Conditions

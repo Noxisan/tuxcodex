@@ -306,6 +306,7 @@ nav:
       - printf: 17-bash-scripting/printf.md
       - read: 17-bash-scripting/read.md
       - export: 17-bash-scripting/export.md
+      - source: 17-bash-scripting/source.md
 
 markdown_extensions:
   - admonition
