@@ -53,6 +53,7 @@ plugins:
             Scheduling: Zeitgesteuerte Aufgaben
             Bash scripting: Bash-Skripte
             Security scanning: Sicherheitsprüfung
+            Certificates and encryption: Zertifikate und Verschlüsselung
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -420,6 +421,9 @@ nav:
       - aide: 23-security-scanning/aide.md
       - debsums: 23-security-scanning/debsums.md
       - trivy: 23-security-scanning/trivy.md
+  - Certificates and encryption:
+      - 24-certificates/index.md
+      - Basics: 24-certificates/basics.md
 
 markdown_extensions:
   - admonition
