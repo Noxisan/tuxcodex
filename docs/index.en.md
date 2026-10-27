@@ -119,7 +119,7 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Kernel messages, log rotation, failed logins, audit and log analysis.
 
--   :material-calendar-clock:{ .lg .middle } **Scheduling** · *coming soon*
+-   :material-calendar-clock:{ .lg .middle } **[Scheduling](16-scheduling/index.md)**
 
     ---
 

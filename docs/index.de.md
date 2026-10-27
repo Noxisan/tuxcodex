@@ -119,7 +119,7 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Kernelmeldungen, Logrotation, fehlgeschlagene Anmeldungen, Audit und Log-Auswertung.
 
--   :material-calendar-clock:{ .lg .middle } **Zeitgesteuerte Aufgaben** · *in Arbeit*
+-   :material-calendar-clock:{ .lg .middle } **[Zeitgesteuerte Aufgaben](16-scheduling/index.md)**
 
     ---
 

@@ -49,6 +49,7 @@ plugins:
             Network: Netzwerk
             Disks and storage: Festplatten und Speicher
             Archives: Archive
+            Scheduling: Zeitgesteuerte Aufgaben
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -286,6 +287,9 @@ nav:
       - aureport: 15-logs/aureport.md
       - lnav: 15-logs/lnav.md
       - goaccess: 15-logs/goaccess.md
+  - Scheduling:
+      - 16-scheduling/index.md
+      - Basics: 16-scheduling/basics.md
 
 markdown_extensions:
   - admonition
