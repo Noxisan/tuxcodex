@@ -81,6 +81,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Create a file system.
 
+-   :material-swap-horizontal-bold:{ .lg .middle } **[mkswap](mkswap.md)**
+
+    ---
+
+    Prepare swap space.
+
 </div>
 
 ## Mount

@@ -249,6 +249,7 @@ nav:
       - fdisk: 13-disks-storage/fdisk.md
       - parted: 13-disks-storage/parted.md
       - mkfs: 13-disks-storage/mkfs.md
+      - mkswap: 13-disks-storage/mkswap.md
 
 markdown_extensions:
   - admonition

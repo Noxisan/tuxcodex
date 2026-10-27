@@ -81,6 +81,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Ein Dateisystem anlegen.
 
+-   :material-swap-horizontal-bold:{ .lg .middle } **[mkswap](mkswap.md)**
+
+    ---
+
+    Swap vorbereiten.
+
 </div>
 
 ## Einhängen
