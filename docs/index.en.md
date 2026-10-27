@@ -101,7 +101,7 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Logging in securely, keys, tunnels and copying files between servers.
 
--   :material-harddisk:{ .lg .middle } **Disks and storage** · *coming soon*
+-   :material-harddisk:{ .lg .middle } **[Disks and storage](13-disks-storage/index.md)**
 
     ---
 

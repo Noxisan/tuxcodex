@@ -101,7 +101,7 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Sicher anmelden, Schlüssel, Tunnel und Dateien zwischen Servern kopieren.
 
--   :material-harddisk:{ .lg .middle } **Festplatten und Speicher** · *in Arbeit*
+-   :material-harddisk:{ .lg .middle } **[Festplatten und Speicher](13-disks-storage/index.md)**
 
     ---
 

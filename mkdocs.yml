@@ -47,6 +47,7 @@ plugins:
             systemd and services: systemd und Dienste
             Packages: Pakete
             Network: Netzwerk
+            Disks and storage: Festplatten und Speicher
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -236,6 +237,9 @@ nav:
       - sshd: 12-ssh/sshd.md
       - ssh-keyscan: 12-ssh/ssh-keyscan.md
       - fail2ban-client: 12-ssh/fail2ban-client.md
+  - Disks and storage:
+      - 13-disks-storage/index.md
+      - Basics: 13-disks-storage/basics.md
 
 markdown_extensions:
   - admonition
