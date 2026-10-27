@@ -297,6 +297,7 @@ nav:
       - atq: 16-scheduling/atq.md
       - atrm: 16-scheduling/atrm.md
       - batch: 16-scheduling/batch.md
+      - flock: 16-scheduling/flock.md
 
 markdown_extensions:
   - admonition

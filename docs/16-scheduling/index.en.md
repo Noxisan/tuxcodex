@@ -75,6 +75,12 @@ on missed jobs and making sure a job never runs twice at the same time.
 
 <div class="grid cards" markdown>
 
+-   :material-lock-outline:{ .lg .middle } **[flock](flock.md)**
+
+    ---
+
+    Never run a job twice at the same time.
+
 </div>
 
 ## From other chapters

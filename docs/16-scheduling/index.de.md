@@ -75,6 +75,12 @@ verpasste Jobs nachholen und dafür sorgen, dass ein Job nie doppelt gleichzeiti
 
 <div class="grid cards" markdown>
 
+-   :material-lock-outline:{ .lg .middle } **[flock](flock.md)**
+
+    ---
+
+    Einen Job nie doppelt gleichzeitig laufen lassen.
+
 </div>
 
 ## Aus anderen Kapiteln
