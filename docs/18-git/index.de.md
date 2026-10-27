@@ -76,3 +76,15 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
     Änderungen verwerfen, Dateien aus dem Staging nehmen.
 
 </div>
+
+## Verlauf
+
+<div class="grid cards" markdown>
+
+-   :material-history:{ .lg .middle } **[git log](git-log.md)**
+
+    ---
+
+    Wer was wann geändert hat.
+
+</div>

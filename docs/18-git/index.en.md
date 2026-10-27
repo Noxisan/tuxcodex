@@ -76,3 +76,15 @@ the history, working with branches and sharing a repository with a Git server.
     Discard changes, unstage files.
 
 </div>
+
+## History
+
+<div class="grid cards" markdown>
+
+-   :material-history:{ .lg .middle } **[git log](git-log.md)**
+
+    ---
+
+    Who changed what and when.
+
+</div>

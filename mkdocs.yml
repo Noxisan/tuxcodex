@@ -329,6 +329,7 @@ nav:
       - git commit: 18-git/git-commit.md
       - git diff: 18-git/git-diff.md
       - git restore: 18-git/git-restore.md
+      - git log: 18-git/git-log.md
 
 markdown_extensions:
   - admonition
