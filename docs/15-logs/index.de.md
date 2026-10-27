@@ -27,6 +27,12 @@ Logdateien klein halten, fehlgeschlagene Anmeldungen und Audit-Ereignisse verfol
 
     Kernelmeldungen: Hardware, Treiber, OOM-Killer.
 
+-   :material-pencil-plus-outline:{ .lg .middle } **[logger](logger.md)**
+
+    ---
+
+    Eigene Meldungen ins Log schreiben.
+
 </div>
 
 ## Logdateien verwalten

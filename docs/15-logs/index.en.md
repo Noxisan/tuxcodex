@@ -27,6 +27,12 @@ keeping log files small, tracking failed logins and audit events, and analysing 
 
     Kernel messages: hardware, drivers, OOM killer.
 
+-   :material-pencil-plus-outline:{ .lg .middle } **[logger](logger.md)**
+
+    ---
+
+    Write your own messages into the log.
+
 </div>
 
 ## Manage log files
