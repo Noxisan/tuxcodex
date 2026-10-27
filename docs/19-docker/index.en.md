@@ -99,4 +99,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     Download an image.
 
+-   :material-hammer-wrench:{ .lg .middle } **[docker build](docker-build.md)**
+
+    ---
+
+    Build an image from a Dockerfile.
+
 </div>

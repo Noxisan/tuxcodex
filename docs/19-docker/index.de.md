@@ -99,4 +99,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Ein Image herunterladen.
 
+-   :material-hammer-wrench:{ .lg .middle } **[docker build](docker-build.md)**
+
+    ---
+
+    Ein Image aus einem Dockerfile bauen.
+
 </div>

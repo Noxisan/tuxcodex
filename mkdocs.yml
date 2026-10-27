@@ -354,6 +354,7 @@ nav:
       - docker stats: 19-docker/docker-stats.md
       - docker images: 19-docker/docker-images.md
       - docker pull: 19-docker/docker-pull.md
+      - docker build: 19-docker/docker-build.md
 
 markdown_extensions:
   - admonition
