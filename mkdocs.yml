@@ -43,19 +43,16 @@ plugins:
             Viewing files: Dateien anzeigen
             Text processing: Textverarbeitung
             Permissions: Rechte
-            Users and groups: Benutzer und Gruppen
+            Users & groups: Benutzer & Gruppen
             Processes: Prozesse
-            systemd and services: systemd und Dienste
             Packages: Pakete
             Network: Netzwerk
-            Disks and storage: Festplatten und Speicher
+            Storage: Datenträger
             Archives: Archive
-            Scheduling: Zeitgesteuerte Aufgaben
+            Scheduling: Zeitsteuerung
             Bash scripting: Bash-Skripte
             Security scanning: Sicherheitsprüfung
-            Certificates and encryption: Zertifikate und Verschlüsselung
-            SELinux and AppArmor: SELinux und AppArmor
-            VPN with WireGuard: VPN mit WireGuard
+            Certificates: Zertifikate
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -144,7 +141,7 @@ nav:
       - setfacl: 06-permissions/setfacl.md
       - lsattr: 06-permissions/lsattr.md
       - chattr: 06-permissions/chattr.md
-  - Users and groups:
+  - Users & groups:
       - 07-users-groups/index.md
       - Basics: 07-users-groups/basics.md
       - groups: 07-users-groups/groups.md
@@ -185,7 +182,7 @@ nav:
       - nice: 08-processes/nice.md
       - renice: 08-processes/renice.md
       - watch: 08-processes/watch.md
-  - systemd and services:
+  - systemd:
       - 09-systemd/index.md
       - Basics: 09-systemd/basics.md
       - systemctl: 09-systemd/systemctl.md
@@ -245,7 +242,7 @@ nav:
       - sshd: 12-ssh/sshd.md
       - ssh-keyscan: 12-ssh/ssh-keyscan.md
       - fail2ban-client: 12-ssh/fail2ban-client.md
-  - Disks and storage:
+  - Storage:
       - 13-disks-storage/index.md
       - Basics: 13-disks-storage/basics.md
       - lsblk: 13-disks-storage/lsblk.md
@@ -423,7 +420,7 @@ nav:
       - aide: 23-security-scanning/aide.md
       - debsums: 23-security-scanning/debsums.md
       - trivy: 23-security-scanning/trivy.md
-  - Certificates and encryption:
+  - Certificates:
       - 24-certificates/index.md
       - Basics: 24-certificates/basics.md
       - openssl s_client: 24-certificates/openssl-s_client.md
@@ -434,7 +431,7 @@ nav:
       - certbot: 24-certificates/certbot.md
       - gpg: 24-certificates/gpg.md
       - age: 24-certificates/age.md
-  - SELinux and AppArmor:
+  - SELinux & AppArmor:
       - 25-selinux-apparmor/index.md
       - Basics: 25-selinux-apparmor/basics.md
       - getenforce: 25-selinux-apparmor/getenforce.md
@@ -446,7 +443,7 @@ nav:
       - audit2allow: 25-selinux-apparmor/audit2allow.md
       - aa-status: 25-selinux-apparmor/aa-status.md
       - aa-complain: 25-selinux-apparmor/aa-complain.md
-  - VPN with WireGuard:
+  - WireGuard:
       - 26-wireguard/index.md
       - Basics: 26-wireguard/basics.md
       - wg: 26-wireguard/wg.md
