@@ -306,6 +306,7 @@ nav:
       - 27-performance/index.md
       - Basics: 27-performance/basics.md
       - vmstat: 27-performance/vmstat.md
+      - iostat: 27-performance/iostat.md
   - Backup:
       - 28-backup/index.md
       - Basics: 28-backup/basics.md

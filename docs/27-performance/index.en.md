@@ -27,4 +27,10 @@ the kernel with sysctl, limits and modules.
 
     CPU, memory, swap and I/O at a glance.
 
+-   :material-harddisk:{ .lg .middle } **[iostat](iostat.md)**
+
+    ---
+
+    How busy the disks are.
+
 </div>

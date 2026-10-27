@@ -27,4 +27,10 @@ Zeit, und den Kernel mit sysctl, Limits und Modulen einstellen.
 
     CPU, Speicher, Swap und I/O auf einen Blick.
 
+-   :material-harddisk:{ .lg .middle } **[iostat](iostat.md)**
+
+    ---
+
+    Wie ausgelastet die Platten sind.
+
 </div>
