@@ -51,4 +51,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     What has changed, what is staged.
 
+-   :material-plus-box-outline:{ .lg .middle } **[git add](git-add.md)**
+
+    ---
+
+    Mark changes for the next commit.
+
 </div>

@@ -51,4 +51,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Was sich geändert hat, was vorgemerkt ist.
 
+-   :material-plus-box-outline:{ .lg .middle } **[git add](git-add.md)**
+
+    ---
+
+    Änderungen für den nächsten Commit vormerken.
+
 </div>
