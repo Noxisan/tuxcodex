@@ -62,8 +62,15 @@ Every command page has the same structure:
 | 14 | [Archives](https://noxisan.github.io/tuxcodex/14-archives/) | `tar`, `zip`, `gzip`, `zstd`, `sha256sum`, … | ✅ 8 |
 | 15 | [Logs](https://noxisan.github.io/tuxcodex/15-logs/) | `dmesg`, `logger`, `logrotate`, `ausearch`, `lnav`, … | ✅ 9 |
 | 16 | [Scheduling](https://noxisan.github.io/tuxcodex/16-scheduling/) | `crontab`, `at`, `anacron`, `flock`, … | ✅ 8 |
-| 17 | Bash scripting | | 🚧 planned |
-| 18 | DevOps | Git, Docker, Ansible, CI/CD | 🚧 planned |
+| 17 | [Bash scripting](https://noxisan.github.io/tuxcodex/17-bash-scripting/) | `if`, `for`, `case`, `set`, `trap`, `shellcheck`, … | ✅ 16 |
+| 18 | Git | | 🚧 planned |
+| 19 | Docker | | 🚧 planned |
+| 20 | Ansible | | 🚧 planned |
+| 21 | CI/CD | | 🚧 planned |
+| 22 | Network scanning | `nmap`, … | 🚧 planned |
+| 23 | Certificates and encryption | `openssl`, `gpg`, `certbot` | 🚧 planned |
+
+Chapters 01 to 16 cover the Linux basics, 17 to 21 automation and DevOps, 22 and 23 security.
 
 ## Run it locally
 
