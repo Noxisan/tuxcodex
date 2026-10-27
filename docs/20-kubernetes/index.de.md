@@ -147,4 +147,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Paketmanager für Kubernetes.
 
+-   :material-monitor-dashboard:{ .lg .middle } **[k9s](k9s.md)**
+
+    ---
+
+    Terminal-Oberfläche für den Cluster.
+
 </div>

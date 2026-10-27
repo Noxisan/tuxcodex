@@ -147,4 +147,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     Package manager for Kubernetes.
 
+-   :material-monitor-dashboard:{ .lg .middle } **[k9s](k9s.md)**
+
+    ---
+
+    Terminal interface for the cluster.
+
 </div>
