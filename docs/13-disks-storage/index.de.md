@@ -141,6 +141,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
 <div class="grid cards" markdown>
 
+-   :material-harddisk:{ .lg .middle } **[pvs](pvs.md)**
+
+    ---
+
+    Physische Volumes von LVM.
+
 </div>
 
 ## Gesundheit

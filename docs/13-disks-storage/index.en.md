@@ -141,6 +141,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
 <div class="grid cards" markdown>
 
+-   :material-harddisk:{ .lg .middle } **[pvs](pvs.md)**
+
+    ---
+
+    Physical volumes of LVM.
+
 </div>
 
 ## Health
