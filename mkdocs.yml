@@ -362,6 +362,9 @@ nav:
       - docker compose: 19-docker/docker-compose.md
       - docker system: 19-docker/docker-system.md
       - podman: 19-docker/podman.md
+  - Kubernetes:
+      - 20-kubernetes/index.md
+      - Basics: 20-kubernetes/basics.md
 
 markdown_extensions:
   - admonition

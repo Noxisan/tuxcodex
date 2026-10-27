@@ -1,0 +1,18 @@
+---
+icon: material/kubernetes
+hide:
+  - toc
+---
+
+<div class="tc-hero tc-hero--chapter" markdown>
+
+:material-kubernetes:{ .tc-hero-icon }
+
+# Kubernetes
+
+Running containers in a cluster: setting up k3s, rolling out and scaling applications,
+finding errors, maintaining nodes and installing software with Helm.
+
+</div>
+
+[:material-school-outline:{ .tc-basics-icon } **Basics:** What you need to install, pods, deployments and services, manifests and kubeconfig :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
