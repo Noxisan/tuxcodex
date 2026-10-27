@@ -51,4 +51,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Details und Events eines Objekts.
 
+-   :material-text-box-outline:{ .lg .middle } **[kubectl logs](kubectl-logs.md)**
+
+    ---
+
+    Ausgabe der Container eines Pods.
+
 </div>

@@ -369,6 +369,7 @@ nav:
       - kubectl config: 20-kubernetes/kubectl-config.md
       - kubectl get: 20-kubernetes/kubectl-get.md
       - kubectl describe: 20-kubernetes/kubectl-describe.md
+      - kubectl logs: 20-kubernetes/kubectl-logs.md
 
 markdown_extensions:
   - admonition
