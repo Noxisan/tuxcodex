@@ -57,4 +57,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Mark changes for the next commit.
 
+-   :material-source-commit:{ .lg .middle } **[git commit](git-commit.md)**
+
+    ---
+
+    Save changes in the history.
+
 </div>

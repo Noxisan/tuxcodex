@@ -57,4 +57,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Änderungen für den nächsten Commit vormerken.
 
+-   :material-source-commit:{ .lg .middle } **[git commit](git-commit.md)**
+
+    ---
+
+    Änderungen im Verlauf speichern.
+
 </div>
