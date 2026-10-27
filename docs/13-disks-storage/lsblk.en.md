@@ -100,4 +100,4 @@ No partitions, no mount point: the disk is empty and ready for [`fdisk`](fdisk.m
 
 ## Related commands
 
-[blkid](blkid.md) · [df](df.md) · [findmnt](findmnt.md)
+[blkid](blkid.md) · [df](df.md) · [findmnt](findmnt.md) · [fdisk](fdisk.md)

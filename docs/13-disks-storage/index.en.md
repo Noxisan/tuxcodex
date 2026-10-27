@@ -63,6 +63,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
 <div class="grid cards" markdown>
 
+-   :material-table-large:{ .lg .middle } **[fdisk](fdisk.md)**
+
+    ---
+
+    Show and edit partition tables.
+
 </div>
 
 ## Mount

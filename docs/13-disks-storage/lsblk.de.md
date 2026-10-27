@@ -100,4 +100,4 @@ Keine Partitionen, kein Einhängepunkt: Die Platte ist leer und bereit für [`fd
 
 ## Verwandte Befehle
 
-[blkid](blkid.md) · [df](df.md) · [findmnt](findmnt.md)
+[blkid](blkid.md) · [df](df.md) · [findmnt](findmnt.md) · [fdisk](fdisk.md)

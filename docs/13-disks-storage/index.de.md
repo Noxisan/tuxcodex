@@ -63,6 +63,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
 <div class="grid cards" markdown>
 
+-   :material-table-large:{ .lg .middle } **[fdisk](fdisk.md)**
+
+    ---
+
+    Partitionstabellen anzeigen und bearbeiten.
+
 </div>
 
 ## Einhängen
