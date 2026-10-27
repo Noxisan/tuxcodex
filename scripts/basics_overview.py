@@ -26,7 +26,7 @@ LABEL = {"en": "**Basics:**", "de": "**Grundlagen:**"}
 for lang in ("en", "de"):
     title, intro = HEAD[lang]
     out = ["---", "icon: material/school-outline", "hide:", "  - toc", "---", "",
-           '<div class="tc-hero tc-hero--chapter" markdown>', "", ":material-school-outline:{ .tc-hero-icon }", "",
+           '<div class="tc-hero tc-hero--chapter tc-hero--basics" markdown>', "", ":material-school-outline:{ .tc-hero-icon }", "",
            f"# {title}", "", intro, "", "</div>", ""]
     for i, (area, nums) in enumerate(AREAS[lang]):
         nums = AREAS["en"][i][1]

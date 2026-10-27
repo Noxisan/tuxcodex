@@ -722,6 +722,20 @@ html[lang="de"] .md-nav--primary #__nav_27 + .md-nav__link::before {
   background-color: rgba(247, 220, 122, 0.1);
 }
 
-.md-typeset .grid.cards.tc-basics-cards > ul > li:hover {
+.md-typeset .grid.cards.tc-basics-cards > ul > li:has(> p:first-child a):hover {
   border-color: var(--tc-basics);
+}
+
+.md-typeset .grid.cards.tc-basics-cards > ul > li > p:first-child a:hover {
+  color: #fbe9a8;
+}
+
+/* Basics overview page: section headings in the yellow of the basics boxes */
+.md-typeset .tc-hero--basics ~ h2 {
+  border-left-color: var(--tc-basics);
+  background: linear-gradient(90deg, rgba(247, 220, 122, 0.1), transparent 70%);
+}
+
+.md-typeset .tc-hero--basics .tc-hero-icon {
+  color: var(--tc-basics);
 }

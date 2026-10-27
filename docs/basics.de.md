@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-<div class="tc-hero tc-hero--chapter" markdown>
+<div class="tc-hero tc-hero--chapter tc-hero--basics" markdown>
 
 :material-school-outline:{ .tc-hero-icon }
 
