@@ -16,3 +16,15 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Wie SELinux und AppArmor arbeiten, welche Distribution was nutzt, und der Weg von der Ablehnung zur Lösung :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## SELinux: Status und Modus
+
+<div class="grid cards" markdown>
+
+-   :material-shield-half-full:{ .lg .middle } **[getenforce](getenforce.md)**
+
+    ---
+
+    Den SELinux-Modus zeigen.
+
+</div>

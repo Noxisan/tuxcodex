@@ -437,6 +437,7 @@ nav:
   - SELinux and AppArmor:
       - 25-selinux-apparmor/index.md
       - Basics: 25-selinux-apparmor/basics.md
+      - getenforce: 25-selinux-apparmor/getenforce.md
 
 markdown_extensions:
   - admonition
