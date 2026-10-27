@@ -16,3 +16,15 @@ Zeit, und den Kernel mit sysctl, Limits und Modulen einstellen.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Die vier Ressourcen, Last richtig lesen, wo der Engpass liegt und was du installieren musst :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Den Engpass finden
+
+<div class="grid cards" markdown>
+
+-   :material-gauge:{ .lg .middle } **[vmstat](vmstat.md)**
+
+    ---
+
+    CPU, Speicher, Swap und I/O auf einen Blick.
+
+</div>

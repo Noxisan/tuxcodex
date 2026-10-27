@@ -16,3 +16,15 @@ the kernel with sysctl, limits and modules.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Basics:** The four resources, reading load, where the bottleneck is, and what to install :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Finding the bottleneck
+
+<div class="grid cards" markdown>
+
+-   :material-gauge:{ .lg .middle } **[vmstat](vmstat.md)**
+
+    ---
+
+    CPU, memory, swap and I/O at a glance.
+
+</div>
