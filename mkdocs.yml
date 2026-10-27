@@ -303,6 +303,7 @@ nav:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
       - echo: 17-bash-scripting/echo.md
+      - printf: 17-bash-scripting/printf.md
 
 markdown_extensions:
   - admonition

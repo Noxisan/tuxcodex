@@ -27,6 +27,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Print text and variables.
 
+-   :material-format-align-left:{ .lg .middle } **[printf](printf.md)**
+
+    ---
+
+    Formatted output: columns, numbers.
+
 </div>
 
 ## Variables and environment

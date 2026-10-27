@@ -27,6 +27,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Text und Variablen ausgeben.
 
+-   :material-format-align-left:{ .lg .middle } **[printf](printf.md)**
+
+    ---
+
+    Formatierte Ausgabe: Spalten, Zahlen.
+
 </div>
 
 ## Variablen und Umgebung
