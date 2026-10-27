@@ -274,6 +274,9 @@ nav:
       - xz: 14-archives/xz.md
       - zstd: 14-archives/zstd.md
       - sha256sum: 14-archives/sha256sum.md
+  - Logs:
+      - 15-logs/index.md
+      - Basics: 15-logs/basics.md
 
 markdown_extensions:
   - admonition

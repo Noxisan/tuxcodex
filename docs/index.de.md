@@ -113,6 +113,18 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Packen und komprimieren mit `tar`, `gzip`, `zstd` und `zip`.
 
+-   :material-text-box-multiple-outline:{ .lg .middle } **[Logs](15-logs/index.md)**
+
+    ---
+
+    Kernelmeldungen, Logrotation, fehlgeschlagene Anmeldungen, Audit und Log-Auswertung.
+
+-   :material-calendar-clock:{ .lg .middle } **Zeitgesteuerte Aufgaben** · *in Arbeit*
+
+    ---
+
+    Jobs regelmäßig ausführen mit cron, `at` und systemd-Timern.
+
 </div>
 
 ## Alle Befehle

@@ -113,6 +113,18 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Packing and compressing with `tar`, `gzip`, `zstd` and `zip`.
 
+-   :material-text-box-multiple-outline:{ .lg .middle } **[Logs](15-logs/index.md)**
+
+    ---
+
+    Kernel messages, log rotation, failed logins, audit and log analysis.
+
+-   :material-calendar-clock:{ .lg .middle } **Scheduling** · *coming soon*
+
+    ---
+
+    Running jobs regularly with cron, `at` and systemd timers.
+
 </div>
 
 ## All commands
