@@ -399,6 +399,7 @@ nav:
       - 22-ci-cd/index.md
       - Basics: 22-ci-cd/basics.md
       - gh run: 22-ci-cd/gh-run.md
+      - gh workflow: 22-ci-cd/gh-workflow.md
 
 markdown_extensions:
   - admonition

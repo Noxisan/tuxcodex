@@ -28,4 +28,10 @@ are pushed.
 
     List, watch and rerun workflow runs.
 
+-   :material-sitemap-outline:{ .lg .middle } **[gh workflow](gh-workflow.md)**
+
+    ---
+
+    Start, enable and disable workflows.
+
 </div>

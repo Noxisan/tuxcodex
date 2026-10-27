@@ -28,4 +28,10 @@ gepusht werden.
 
     Workflow-Läufe auflisten, verfolgen, neu starten.
 
+-   :material-sitemap-outline:{ .lg .middle } **[gh workflow](gh-workflow.md)**
+
+    ---
+
+    Workflows starten, ein- und ausschalten.
+
 </div>
