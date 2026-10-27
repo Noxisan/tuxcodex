@@ -76,3 +76,39 @@ Zeit, und den Kernel mit sysctl, Limits und Modulen einstellen.
     Module laden und sperren.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-monitor-dashboard:{ .lg .middle } **[top](../08-processes/top.md)**
+
+    ---
+
+    Die aktivsten Prozesse live. Behandelt im Kapitel Prozesse.
+
+-   :material-memory:{ .lg .middle } **[free](../08-processes/free.md)**
+
+    ---
+
+    Speicher und Swap auf einen Blick. Behandelt im Kapitel Prozesse.
+
+-   :material-timer-outline:{ .lg .middle } **[uptime](../01-orientation/uptime.md)**
+
+    ---
+
+    Die Last der letzten 1, 5 und 15 Minuten. Behandelt im Kapitel Orientierung.
+
+-   :material-file-search-outline:{ .lg .middle } **[lsof](../08-processes/lsof.md)**
+
+    ---
+
+    Welcher Prozess welche Dateien offen hält, bei `Too many open files`. Behandelt im Kapitel Prozesse.
+
+-   :material-chip:{ .lg .middle } **[dmesg](../15-logs/dmesg.md)**
+
+    ---
+
+    Kernelmeldungen wie OOM-Killer oder Plattenfehler. Behandelt im Kapitel Logs.
+
+</div>

@@ -130,6 +130,18 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Jobs regelmäßig ausführen mit cron, `at` und systemd-Timern.
 
+-   :material-speedometer:{ .lg .middle } **[Leistung und Kernel](27-performance/index.md)**
+
+    ---
+
+    Herausfinden, warum ein Server langsam ist, und Kernel-Parameter und Limits einstellen.
+
+-   :material-backup-restore:{ .lg .middle } **[Backup](28-backup/index.md)**
+
+    ---
+
+    Datenbank-Dumps, verschlüsselte Backups mit restic und borg und die Wiederherstellung testen.
+
 </div>
 
 ## Automatisierung & DevOps

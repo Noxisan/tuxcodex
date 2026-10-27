@@ -52,3 +52,33 @@ restic and borg, retention and, above all, testing the restore.
     Deduplicated archives over SSH.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-folder-zip-outline:{ .lg .middle } **[tar](../14-archives/tar.md)**
+
+    ---
+
+    Simple archives for one-off copies. Covered in the chapter Archives.
+
+-   :material-folder-sync-outline:{ .lg .middle } **[rsync](../12-ssh/rsync.md)**
+
+    ---
+
+    Mirror directories to another server. Covered in the chapter SSH.
+
+-   :material-calendar-clock:{ .lg .middle } **[crontab](../16-scheduling/crontab.md)**
+
+    ---
+
+    Run the backup every night. Covered in the chapter Scheduling.
+
+-   :material-file-lock-outline:{ .lg .middle } **[age](../24-certificates/age.md)**
+
+    ---
+
+    Encrypt single backup files. Covered in the chapter Certificates and encryption.
+
+</div>

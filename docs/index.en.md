@@ -130,6 +130,18 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Running jobs regularly with cron, `at` and systemd timers.
 
+-   :material-speedometer:{ .lg .middle } **[Performance and kernel](27-performance/index.md)**
+
+    ---
+
+    Finding out why a server is slow, and tuning kernel parameters and limits.
+
+-   :material-backup-restore:{ .lg .middle } **[Backup](28-backup/index.md)**
+
+    ---
+
+    Database dumps, encrypted backups with restic and borg, and testing the restore.
+
 </div>
 
 ## Automation & DevOps

@@ -76,3 +76,39 @@ the kernel with sysctl, limits and modules.
     Load and block modules.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-monitor-dashboard:{ .lg .middle } **[top](../08-processes/top.md)**
+
+    ---
+
+    The busiest processes live. Covered in the chapter Processes.
+
+-   :material-memory:{ .lg .middle } **[free](../08-processes/free.md)**
+
+    ---
+
+    Memory and swap at a glance. Covered in the chapter Processes.
+
+-   :material-timer-outline:{ .lg .middle } **[uptime](../01-orientation/uptime.md)**
+
+    ---
+
+    The load average of the last 1, 5 and 15 minutes. Covered in the chapter Orientation.
+
+-   :material-file-search-outline:{ .lg .middle } **[lsof](../08-processes/lsof.md)**
+
+    ---
+
+    Which process holds which files open, for `Too many open files`. Covered in the chapter Processes.
+
+-   :material-chip:{ .lg .middle } **[dmesg](../15-logs/dmesg.md)**
+
+    ---
+
+    Kernel messages such as the OOM killer or disk errors. Covered in the chapter Logs.
+
+</div>
