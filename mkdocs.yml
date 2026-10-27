@@ -315,6 +315,7 @@ nav:
       - function: 17-bash-scripting/function.md
       - exit: 17-bash-scripting/exit.md
       - set: 17-bash-scripting/set.md
+      - trap: 17-bash-scripting/trap.md
 
 markdown_extensions:
   - admonition

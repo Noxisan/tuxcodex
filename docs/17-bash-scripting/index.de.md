@@ -129,4 +129,10 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Bei Fehlern abbrechen, Skripte untersuchen.
 
+-   :material-shield-refresh-outline:{ .lg .middle } **[trap](trap.md)**
+
+    ---
+
+    Beim Ende und bei Signalen aufräumen.
+
 </div>

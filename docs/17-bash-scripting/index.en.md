@@ -129,4 +129,10 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Stop on errors, debug scripts.
 
+-   :material-shield-refresh-outline:{ .lg .middle } **[trap](trap.md)**
+
+    ---
+
+    Clean up on exit and signals.
+
 </div>
