@@ -406,6 +406,7 @@ nav:
       - glab ci: 22-ci-cd/glab-ci.md
       - actionlint: 22-ci-cd/actionlint.md
       - yamllint: 22-ci-cd/yamllint.md
+      - pre-commit: 22-ci-cd/pre-commit.md
 
 markdown_extensions:
   - admonition

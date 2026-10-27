@@ -82,4 +82,10 @@ are pushed.
 
     Check any YAML file.
 
+-   :material-source-commit-start:{ .lg .middle } **[pre-commit](pre-commit.md)**
+
+    ---
+
+    Checks before every commit.
+
 </div>

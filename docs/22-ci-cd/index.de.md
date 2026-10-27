@@ -82,4 +82,10 @@ gepusht werden.
 
     Jede YAML-Datei prüfen.
 
+-   :material-source-commit-start:{ .lg .middle } **[pre-commit](pre-commit.md)**
+
+    ---
+
+    Prüfungen vor jedem Commit.
+
 </div>
