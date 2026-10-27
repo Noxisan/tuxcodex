@@ -82,3 +82,15 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
     CPU- und Speicherauslastung live.
 
 </div>
+
+## Images
+
+<div class="grid cards" markdown>
+
+-   :material-layers-outline:{ .lg .middle } **[docker images](docker-images.md)**
+
+    ---
+
+    Die Images auf dem Host auflisten.
+
+</div>

@@ -82,3 +82,15 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
     CPU and memory usage live.
 
 </div>
+
+## Images
+
+<div class="grid cards" markdown>
+
+-   :material-layers-outline:{ .lg .middle } **[docker images](docker-images.md)**
+
+    ---
+
+    List the images on the host.
+
+</div>
