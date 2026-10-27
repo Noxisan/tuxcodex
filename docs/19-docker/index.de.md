@@ -63,4 +63,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Die Ausgabe eines Containers zeigen.
 
+-   :material-console:{ .lg .middle } **[docker exec](docker-exec.md)**
+
+    ---
+
+    Einen Befehl oder eine Shell im Container ausführen.
+
 </div>

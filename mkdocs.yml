@@ -349,6 +349,7 @@ nav:
       - docker stop: 19-docker/docker-stop.md
       - docker rm: 19-docker/docker-rm.md
       - docker logs: 19-docker/docker-logs.md
+      - docker exec: 19-docker/docker-exec.md
 
 markdown_extensions:
   - admonition

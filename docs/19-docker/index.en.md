@@ -63,4 +63,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     Show the output of a container.
 
+-   :material-console:{ .lg .middle } **[docker exec](docker-exec.md)**
+
+    ---
+
+    Run a command or shell in a container.
+
 </div>
