@@ -330,6 +330,7 @@ nav:
       - git diff: 18-git/git-diff.md
       - git restore: 18-git/git-restore.md
       - git log: 18-git/git-log.md
+      - git tag: 18-git/git-tag.md
 
 markdown_extensions:
   - admonition

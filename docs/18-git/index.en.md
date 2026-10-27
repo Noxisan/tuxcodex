@@ -87,4 +87,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Who changed what and when.
 
+-   :material-tag-outline:{ .lg .middle } **[git tag](git-tag.md)**
+
+    ---
+
+    Mark versions like v1.0.
+
 </div>

@@ -87,4 +87,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Wer was wann geändert hat.
 
+-   :material-tag-outline:{ .lg .middle } **[git tag](git-tag.md)**
+
+    ---
+
+    Versionen wie v1.0 markieren.
+
 </div>
