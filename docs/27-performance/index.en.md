@@ -57,4 +57,10 @@ the kernel with sysctl, limits and modules.
 
     Kernel parameters at runtime.
 
+-   :material-account-lock-outline:{ .lg .middle } **[ulimit](ulimit.md)**
+
+    ---
+
+    Limits such as open files.
+
 </div>

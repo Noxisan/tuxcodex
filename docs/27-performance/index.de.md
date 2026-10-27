@@ -57,4 +57,10 @@ Zeit, und den Kernel mit sysctl, Limits und Modulen einstellen.
 
     Kernel-Parameter im laufenden Betrieb.
 
+-   :material-account-lock-outline:{ .lg .middle } **[ulimit](ulimit.md)**
+
+    ---
+
+    Grenzen wie offene Dateien.
+
 </div>

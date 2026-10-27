@@ -310,6 +310,7 @@ nav:
       - iotop: 27-performance/iotop.md
       - sar: 27-performance/sar.md
       - sysctl: 27-performance/sysctl.md
+      - ulimit: 27-performance/ulimit.md
   - Backup:
       - 28-backup/index.md
       - Basics: 28-backup/basics.md
