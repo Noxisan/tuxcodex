@@ -45,6 +45,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Used and free space per file system.
 
+-   :material-folder-information-outline:{ .lg .middle } **[du](du.md)**
+
+    ---
+
+    Find out what takes up the space.
+
 </div>
 
 ## Partition and format

@@ -244,6 +244,7 @@ nav:
       - blkid: 13-disks-storage/blkid.md
       - findmnt: 13-disks-storage/findmnt.md
       - df: 13-disks-storage/df.md
+      - du: 13-disks-storage/du.md
 
 markdown_extensions:
   - admonition

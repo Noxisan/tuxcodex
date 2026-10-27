@@ -45,6 +45,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Belegter und freier Platz pro Dateisystem.
 
+-   :material-folder-information-outline:{ .lg .middle } **[du](du.md)**
+
+    ---
+
+    Herausfinden, was den Platz belegt.
+
 </div>
 
 ## Partitionieren und formatieren
