@@ -47,3 +47,15 @@ gepusht werden.
     Workflows lokal in Docker ausführen.
 
 </div>
+
+## GitLab CI
+
+<div class="grid cards" markdown>
+
+-   :material-server-outline:{ .lg .middle } **[gitlab-runner](gitlab-runner.md)**
+
+    ---
+
+    GitLab-Jobs auf dem eigenen Server ausführen.
+
+</div>

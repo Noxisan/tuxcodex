@@ -47,3 +47,15 @@ are pushed.
     Run workflows locally in Docker.
 
 </div>
+
+## GitLab CI
+
+<div class="grid cards" markdown>
+
+-   :material-server-outline:{ .lg .middle } **[gitlab-runner](gitlab-runner.md)**
+
+    ---
+
+    Run GitLab jobs on your own server.
+
+</div>
