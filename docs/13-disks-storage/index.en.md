@@ -117,6 +117,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
 <div class="grid cards" markdown>
 
+-   :material-stethoscope:{ .lg .middle } **[fsck](fsck.md)**
+
+    ---
+
+    Check and repair file systems.
+
 </div>
 
 ## LVM

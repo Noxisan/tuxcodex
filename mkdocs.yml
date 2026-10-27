@@ -253,6 +253,7 @@ nav:
       - swapon: 13-disks-storage/swapon.md
       - mount: 13-disks-storage/mount.md
       - umount: 13-disks-storage/umount.md
+      - fsck: 13-disks-storage/fsck.md
 
 markdown_extensions:
   - admonition

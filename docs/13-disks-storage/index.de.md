@@ -117,6 +117,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
 <div class="grid cards" markdown>
 
+-   :material-stethoscope:{ .lg .middle } **[fsck](fsck.md)**
+
+    ---
+
+    Dateisysteme prüfen und reparieren.
+
 </div>
 
 ## LVM
