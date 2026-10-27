@@ -43,6 +43,12 @@ PAD_Y = 16 * SCALE
 TITLE_H = 34 * SCALE
 MIN_COLS = 72
 
+# Working directory the first example runs in, if not the home directory
+START_DIR = {
+    "18-git": "/home/nox/scripts",
+}
+START_IN_HOME = {"git-config", "git-init", "git-clone"}
+
 PLACEHOLDER = re.compile(r"<!-- SCREENSHOT: assets/screenshots/(?P<path>[^ ]+\.png) -->")
 EMBED = re.compile(r"!\[[^\]]*\]\(\.\./assets/screenshots/(?P<path>[^)]+\.png)\)")
 BLOCK = re.compile(r"```bash\n(?P<cmd>.*?)```\s*```text\n(?P<out>.*?)```", re.S)
@@ -130,8 +136,10 @@ OPENERS = re.compile(r"(\bthen|\bdo|\{|\bin)\s*$")
 CLOSERS = re.compile(r"^\s*(?:(?:fi|done|esac)\b|\})")
 
 
-def render(commands, output, target, fonts):
+def render(commands, output, target, fonts, cwd=None):
     shell = Shell()
+    if cwd:
+        shell.cwd = shell.oldpwd = cwd
     lines = []
     depth = 0  # open if/for/while/case/function blocks: such lines get the "> " prompt
     for cmd in commands:
@@ -205,7 +213,8 @@ def main():
             if not match or "## Examples" not in text:
                 continue
             commands, output = first_example(page)
-            render(commands, output, DOCS / "assets/screenshots" / match["path"], fonts)
+            cwd = None if page.name.split(".")[0] in START_IN_HOME else START_DIR.get(chapter.name)
+            render(commands, output, DOCS / "assets/screenshots" / match["path"], fonts, cwd)
             embed(page, match["path"])
             print(f"rendered {match['path']}")
 
