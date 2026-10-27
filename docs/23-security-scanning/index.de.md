@@ -34,3 +34,15 @@ Rootkits und Schadsoftware, veränderte Systemdateien und verwundbare Container-
     Bekannte Probleme eines Webservers.
 
 </div>
+
+## Härtung prüfen
+
+<div class="grid cards" markdown>
+
+-   :material-shield-check-outline:{ .lg .middle } **[lynis](lynis.md)**
+
+    ---
+
+    Sicherheitsaudit mit Vorschlägen.
+
+</div>

@@ -34,3 +34,15 @@ hardening, rootkits and malware, changed system files and vulnerable container i
     Known problems of a web server.
 
 </div>
+
+## Checking the hardening
+
+<div class="grid cards" markdown>
+
+-   :material-shield-check-outline:{ .lg .middle } **[lynis](lynis.md)**
+
+    ---
+
+    Security audit with suggestions.
+
+</div>

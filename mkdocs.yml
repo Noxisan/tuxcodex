@@ -413,6 +413,7 @@ nav:
       - Basics: 23-security-scanning/basics.md
       - nmap: 23-security-scanning/nmap.md
       - nikto: 23-security-scanning/nikto.md
+      - lynis: 23-security-scanning/lynis.md
 
 markdown_extensions:
   - admonition
