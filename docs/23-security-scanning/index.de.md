@@ -46,3 +46,15 @@ Rootkits und Schadsoftware, veränderte Systemdateien und verwundbare Container-
     Sicherheitsaudit mit Vorschlägen.
 
 </div>
+
+## Einbrüche und Schadsoftware
+
+<div class="grid cards" markdown>
+
+-   :material-bug-outline:{ .lg .middle } **[rkhunter](rkhunter.md)**
+
+    ---
+
+    Nach Rootkits und Hintertüren suchen.
+
+</div>

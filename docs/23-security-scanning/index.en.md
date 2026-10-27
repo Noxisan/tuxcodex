@@ -46,3 +46,15 @@ hardening, rootkits and malware, changed system files and vulnerable container i
     Security audit with suggestions.
 
 </div>
+
+## Intrusions and malware
+
+<div class="grid cards" markdown>
+
+-   :material-bug-outline:{ .lg .middle } **[rkhunter](rkhunter.md)**
+
+    ---
+
+    Search for rootkits and backdoors.
+
+</div>
