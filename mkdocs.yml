@@ -316,6 +316,7 @@ nav:
   - Backup:
       - 28-backup/index.md
       - Basics: 28-backup/basics.md
+      - pg_dump: 28-backup/pg_dump.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
