@@ -9,9 +9,6 @@ theme:
   name: material
   logo: assets/logo-small.png
   favicon: assets/favicon.png
-  font:
-    text: Poppins
-    code: JetBrains Mono
   palette:
     scheme: slate
     primary: custom
