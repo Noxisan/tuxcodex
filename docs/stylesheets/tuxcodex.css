@@ -131,20 +131,14 @@
   color: var(--tc-accent);
 }
 
-@media screen and (min-width: 45em) {
-  .md-typeset .grid.cards {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-/* Chapter overview pages: compact command tiles. Icon in a tinted square on the left,
-   command in monospace, description below. The home page keeps the normal cards. */
-.md-typeset .tc-hero--chapter ~ .grid.cards {
+/* Cards as compact tiles: icon in a tinted square on the left, title and description
+   next to it. On chapter overviews the title (the command) is set in monospace. */
+.md-typeset .grid.cards {
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 13.5rem), 1fr));
   gap: 0.6rem;
 }
 
-.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li {
+.md-typeset .grid.cards > ul > li {
   position: relative;
   min-height: 3.6rem;
   padding: 0.65rem 0.8rem 0.65rem 3.4rem;
@@ -152,36 +146,50 @@
   transition: border-color 0.15s, background-color 0.15s;
 }
 
-.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li:hover {
+.md-typeset .grid.cards > ul > li:hover {
   background-color: #1a1f27;
 }
 
-.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li > hr {
+.md-typeset .grid.cards > ul > li > hr {
   display: none;
 }
 
-.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li > p {
+.md-typeset .grid.cards > ul > li > p {
   margin: 0;
 }
 
-.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li > p:first-child {
-  font-family: var(--md-code-font-family);
+.md-typeset .grid.cards > ul > li > p:first-child {
   font-size: 0.78rem;
   line-height: 1.4;
 }
 
-.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li > p:first-child strong {
+.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li > p:first-child {
+  font-family: var(--md-code-font-family);
+}
+
+/* Chapters that are not written yet: dimmed, with a small "coming soon" */
+.md-typeset .grid.cards > ul > li:has(> p:first-child > em) {
+  opacity: 0.55;
+}
+
+.md-typeset .grid.cards > ul > li > p:first-child > em {
+  font-size: 0.65rem;
+  font-weight: 400;
+  color: var(--tc-muted);
+}
+
+.md-typeset .grid.cards > ul > li > p:first-child strong {
   font-weight: 600;
 }
 
-.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li > p:last-child {
+.md-typeset .grid.cards > ul > li > p:last-child {
   margin-top: 0.15rem;
   font-size: 0.68rem;
   line-height: 1.45;
   color: var(--tc-muted);
 }
 
-.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li > p:first-child > .twemoji {
+.md-typeset .grid.cards > ul > li > p:first-child > .twemoji {
   position: absolute;
   top: 0.65rem;
   left: 0.75rem;
@@ -195,7 +203,7 @@
   background-color: rgba(122, 247, 185, 0.1);
 }
 
-.md-typeset .tc-hero--chapter ~ .grid.cards > ul > li > p:first-child > .twemoji svg {
+.md-typeset .grid.cards > ul > li > p:first-child > .twemoji svg {
   width: 1.1rem;
   height: 1.1rem;
 }
