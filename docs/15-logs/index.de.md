@@ -87,6 +87,12 @@ Logdateien klein halten, fehlgeschlagene Anmeldungen und Audit-Ereignisse verfol
 
 <div class="grid cards" markdown>
 
+-   :material-text-search-variant:{ .lg .middle } **[lnav](lnav.md)**
+
+    ---
+
+    Mehrere Logs auf einmal durchsuchen und filtern.
+
 </div>
 
 ## Aus anderen Kapiteln

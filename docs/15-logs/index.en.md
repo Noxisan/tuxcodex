@@ -87,6 +87,12 @@ keeping log files small, tracking failed logins and audit events, and analysing 
 
 <div class="grid cards" markdown>
 
+-   :material-text-search-variant:{ .lg .middle } **[lnav](lnav.md)**
+
+    ---
+
+    Navigate and filter several logs at once.
+
 </div>
 
 ## From other chapters

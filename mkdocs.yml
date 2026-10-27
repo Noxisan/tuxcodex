@@ -284,6 +284,7 @@ nav:
       - faillock: 15-logs/faillock.md
       - ausearch: 15-logs/ausearch.md
       - aureport: 15-logs/aureport.md
+      - lnav: 15-logs/lnav.md
 
 markdown_extensions:
   - admonition
