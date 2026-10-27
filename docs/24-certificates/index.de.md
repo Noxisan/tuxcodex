@@ -59,3 +59,15 @@ für Backups und Übertragungen verschlüsseln.
     Zertifikatsanfragen und selbstsignierte Zertifikate.
 
 </div>
+
+## Let's Encrypt
+
+<div class="grid cards" markdown>
+
+-   :material-certificate-outline:{ .lg .middle } **[certbot](certbot.md)**
+
+    ---
+
+    Kostenlose Zertifikate, automatisch erneuert.
+
+</div>

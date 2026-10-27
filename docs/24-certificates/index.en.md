@@ -59,3 +59,15 @@ for backups and transfers.
     Certificate requests and self-signed certificates.
 
 </div>
+
+## Let's Encrypt
+
+<div class="grid cards" markdown>
+
+-   :material-certificate-outline:{ .lg .middle } **[certbot](certbot.md)**
+
+    ---
+
+    Free certificates, renewed automatically.
+
+</div>
