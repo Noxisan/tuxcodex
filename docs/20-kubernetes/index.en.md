@@ -124,3 +124,15 @@ finding errors, maintaining nodes and installing software with Helm.
     Reach a pod or service locally.
 
 </div>
+
+## Maintenance
+
+<div class="grid cards" markdown>
+
+-   :material-wrench-outline:{ .lg .middle } **[kubectl drain](kubectl-drain.md)**
+
+    ---
+
+    Empty a node before maintenance.
+
+</div>

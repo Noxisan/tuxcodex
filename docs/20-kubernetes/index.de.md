@@ -124,3 +124,15 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
     Einen Pod oder Service lokal erreichen.
 
 </div>
+
+## Wartung
+
+<div class="grid cards" markdown>
+
+-   :material-wrench-outline:{ .lg .middle } **[kubectl drain](kubectl-drain.md)**
+
+    ---
+
+    Einen Node vor der Wartung leeren.
+
+</div>

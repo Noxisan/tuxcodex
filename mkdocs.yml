@@ -379,6 +379,7 @@ nav:
       - kubectl rollout: 20-kubernetes/kubectl-rollout.md
       - kubectl exec: 20-kubernetes/kubectl-exec.md
       - kubectl port-forward: 20-kubernetes/kubectl-port-forward.md
+      - kubectl drain: 20-kubernetes/kubectl-drain.md
 
 markdown_extensions:
   - admonition
