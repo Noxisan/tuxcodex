@@ -34,3 +34,15 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
     Cluster, Kontexte und Standard-Namespace.
 
 </div>
+
+## Ressourcen ansehen
+
+<div class="grid cards" markdown>
+
+-   :material-format-list-bulleted:{ .lg .middle } **[kubectl get](kubectl-get.md)**
+
+    ---
+
+    Pods, Deployments und mehr auflisten.
+
+</div>

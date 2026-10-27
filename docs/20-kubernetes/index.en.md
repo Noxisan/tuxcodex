@@ -34,3 +34,15 @@ finding errors, maintaining nodes and installing software with Helm.
     Clusters, contexts and the default namespace.
 
 </div>
+
+## Looking at resources
+
+<div class="grid cards" markdown>
+
+-   :material-format-list-bulleted:{ .lg .middle } **[kubectl get](kubectl-get.md)**
+
+    ---
+
+    List pods, deployments and more.
+
+</div>

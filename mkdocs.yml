@@ -367,6 +367,7 @@ nav:
       - Basics: 20-kubernetes/basics.md
       - k3s: 20-kubernetes/k3s.md
       - kubectl config: 20-kubernetes/kubectl-config.md
+      - kubectl get: 20-kubernetes/kubectl-get.md
 
 markdown_extensions:
   - admonition
