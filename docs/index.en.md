@@ -10,6 +10,12 @@ hide:
 
 ![TuxCodex Logo](assets/logo-hero.png){ width="350" }
 
+Linux commands. Real-world examples. No guesswork.
+{ .tc-tagline }
+
+A practical reference for **Linux administration, server operations, and DevOps** with
+command syntax, working examples, and tips for real-world scenarios.
+
 <div class="tc-distros" markdown>
 <span class="tc-badge tc-badge--debian" markdown="span">:simple-debian: Debian</span>
 <span class="tc-badge tc-badge--ubuntu" markdown="span">:simple-ubuntu: Ubuntu</span>
@@ -17,11 +23,10 @@ hide:
 <span class="tc-badge tc-badge--arch" markdown="span">:simple-archlinux: Arch</span>
 </div>
 
-The hands-on reference for **Linux administration and DevOps**: every command with
-syntax, real examples and tips from everyday server work. For Debian, Ubuntu, RHEL and
-Arch, in English and German.
+English · German
+{ .tc-languages }
 
-Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
+Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 </div>
 

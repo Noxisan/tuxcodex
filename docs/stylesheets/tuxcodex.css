@@ -444,7 +444,7 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 4px;
-  margin: -0.35rem 0 0.5rem;
+  margin: 0.9rem 0 0.6rem;
 }
 
 .md-typeset .tc-distros + p {
@@ -502,6 +502,22 @@
 .md-typeset .tc-author .twemoji svg {
   width: 0.9rem;
   height: 0.9rem;
+}
+
+/* Home page: tagline under the logo in the accent colour */
+.md-typeset .tc-hero p.tc-tagline {
+  max-width: none;
+  margin: 0.4rem auto 0.6rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--tc-accent);
+}
+
+.md-typeset .tc-hero p.tc-languages {
+  margin: 0 auto 0.4rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
 }
 
 /* Home page: highlight the subject in the introduction */

@@ -10,6 +10,12 @@ hide:
 
 ![TuxCodex Logo](assets/logo-hero.png){ width="350" }
 
+Linux-Befehle. Echte Beispiele. Kein Rätselraten.
+{ .tc-tagline }
+
+Ein praxisnahes Nachschlagewerk für **Linux-Administration, Serverbetrieb und DevOps** mit
+Befehlssyntax, funktionierenden Beispielen und Tipps für reale Einsatzszenarien.
+
 <div class="tc-distros" markdown>
 <span class="tc-badge tc-badge--debian" markdown="span">:simple-debian: Debian</span>
 <span class="tc-badge tc-badge--ubuntu" markdown="span">:simple-ubuntu: Ubuntu</span>
@@ -17,11 +23,10 @@ hide:
 <span class="tc-badge tc-badge--arch" markdown="span">:simple-archlinux: Arch</span>
 </div>
 
-Das praxisnahe Nachschlagewerk für **Linux-Administration und DevOps**: jeder Befehl mit
-Syntax, echten Beispielen und Tipps aus dem Server-Alltag. Für Debian, Ubuntu, RHEL und
-Arch, auf Deutsch und Englisch.
+Englisch · Deutsch
+{ .tc-languages }
 
-Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
+Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 </div>
 
