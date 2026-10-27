@@ -105,4 +105,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Branches auflisten, anlegen und löschen.
 
+-   :material-swap-horizontal:{ .lg .middle } **[git switch](git-switch.md)**
+
+    ---
+
+    Zu einem anderen Branch wechseln.
+
 </div>

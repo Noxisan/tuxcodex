@@ -105,4 +105,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     List, create and delete branches.
 
+-   :material-swap-horizontal:{ .lg .middle } **[git switch](git-switch.md)**
+
+    ---
+
+    Switch to another branch.
+
 </div>
