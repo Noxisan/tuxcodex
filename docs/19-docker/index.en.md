@@ -52,3 +52,15 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
     Delete containers.
 
 </div>
+
+## Looking inside containers
+
+<div class="grid cards" markdown>
+
+-   :material-text-box-outline:{ .lg .middle } **[docker logs](docker-logs.md)**
+
+    ---
+
+    Show the output of a container.
+
+</div>

@@ -52,3 +52,15 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
     Container löschen.
 
 </div>
+
+## In Container hineinschauen
+
+<div class="grid cards" markdown>
+
+-   :material-text-box-outline:{ .lg .middle } **[docker logs](docker-logs.md)**
+
+    ---
+
+    Die Ausgabe eines Containers zeigen.
+
+</div>
