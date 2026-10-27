@@ -51,4 +51,10 @@ permissions are right, and how to fix it properly instead of switching the prote
 
     File labels, ports and booleans permanently.
 
+-   :material-label-outline:{ .lg .middle } **[restorecon](restorecon.md)**
+
+    ---
+
+    Reset file labels.
+
 </div>

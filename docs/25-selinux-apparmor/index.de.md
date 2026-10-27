@@ -51,4 +51,10 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
 
     Datei-Labels, Ports und Booleans dauerhaft.
 
+-   :material-label-outline:{ .lg .middle } **[restorecon](restorecon.md)**
+
+    ---
+
+    Datei-Labels zurücksetzen.
+
 </div>
