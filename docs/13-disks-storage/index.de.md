@@ -165,6 +165,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Ein logisches Volume anlegen.
 
+-   :material-arrow-expand-vertical:{ .lg .middle } **[lvextend](lvextend.md)**
+
+    ---
+
+    Ein Volume samt Dateisystem vergrößern.
+
 </div>
 
 ## Gesundheit

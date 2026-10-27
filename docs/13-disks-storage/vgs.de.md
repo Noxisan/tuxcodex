@@ -69,4 +69,4 @@ sudo vgcreate vg_backup /dev/sde
 
 ## Verwandte Befehle
 
-[pvs](pvs.md) · [lvs](lvs.md) · [lvcreate](lvcreate.md)
+[pvs](pvs.md) · [lvs](lvs.md) · [lvcreate](lvcreate.md) · [lvextend](lvextend.md)

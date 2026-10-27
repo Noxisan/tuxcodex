@@ -165,6 +165,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Create a logical volume.
 
+-   :material-arrow-expand-vertical:{ .lg .middle } **[lvextend](lvextend.md)**
+
+    ---
+
+    Grow a volume and its file system.
+
 </div>
 
 ## Health
