@@ -351,6 +351,7 @@ nav:
       - docker logs: 19-docker/docker-logs.md
       - docker exec: 19-docker/docker-exec.md
       - docker inspect: 19-docker/docker-inspect.md
+      - docker stats: 19-docker/docker-stats.md
 
 markdown_extensions:
   - admonition

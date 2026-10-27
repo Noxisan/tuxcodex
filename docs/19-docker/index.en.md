@@ -75,4 +75,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     All details as JSON.
 
+-   :material-chart-line:{ .lg .middle } **[docker stats](docker-stats.md)**
+
+    ---
+
+    CPU and memory usage live.
+
 </div>

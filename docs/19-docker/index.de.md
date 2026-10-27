@@ -75,4 +75,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Alle Details als JSON.
 
+-   :material-chart-line:{ .lg .middle } **[docker stats](docker-stats.md)**
+
+    ---
+
+    CPU- und Speicherauslastung live.
+
 </div>
