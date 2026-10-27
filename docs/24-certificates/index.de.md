@@ -41,3 +41,15 @@ für Backups und Übertragungen verschlüsseln.
     Vollständige TLS-Prüfung mit Note.
 
 </div>
+
+## Schlüssel und Zertifikate erstellen
+
+<div class="grid cards" markdown>
+
+-   :material-key-plus:{ .lg .middle } **[openssl genpkey](openssl-genpkey.md)**
+
+    ---
+
+    Private Schlüssel erstellen.
+
+</div>

@@ -41,3 +41,15 @@ for backups and transfers.
     Full TLS check with a grade.
 
 </div>
+
+## Creating keys and certificates
+
+<div class="grid cards" markdown>
+
+-   :material-key-plus:{ .lg .middle } **[openssl genpkey](openssl-genpkey.md)**
+
+    ---
+
+    Create private keys.
+
+</div>

@@ -427,6 +427,7 @@ nav:
       - openssl s_client: 24-certificates/openssl-s_client.md
       - openssl x509: 24-certificates/openssl-x509.md
       - testssl.sh: 24-certificates/testssl.md
+      - openssl genpkey: 24-certificates/openssl-genpkey.md
 
 markdown_extensions:
   - admonition
