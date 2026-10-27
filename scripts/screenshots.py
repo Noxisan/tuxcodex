@@ -126,11 +126,22 @@ class Shell:
                 (self.display(), ACCENT, False), ("$ ", TEXT, False)]
 
 
+OPENERS = re.compile(r"(\bthen|\bdo|\{|\bin)\s*$")
+CLOSERS = re.compile(r"^\s*(?:(?:fi|done|esac)\b|\})")
+
+
 def render(commands, output, target, fonts):
     shell = Shell()
     lines = []
+    depth = 0  # open if/for/while/case/function blocks: such lines get the "> " prompt
     for cmd in commands:
-        lines.append(shell.prompt() + [(cmd, TEXT, False)])
+        continued = depth > 0 or (lines and lines[-1][-1][0].endswith("\\"))
+        if CLOSERS.match(cmd):
+            depth = max(depth - 1, 0)
+        prompt = [("> ", TEXT, False)] if continued else shell.prompt()
+        lines.append(prompt + [(cmd, TEXT, False)])
+        if OPENERS.search(cmd) and not CLOSERS.match(cmd) and not cmd.lstrip().startswith("elif"):
+            depth += 1
         shell.run(cmd)
     lines += [[(line, TEXT, False)] for line in output]
     prompt = shell.prompt()
