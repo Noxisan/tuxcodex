@@ -16,3 +16,15 @@ Rootkits und Schadsoftware, veränderte Systemdateien und verwundbare Container-
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Angriffsfläche, was welches Werkzeug findet, was du installieren musst, und die Regeln fürs Scannen :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Von außen
+
+<div class="grid cards" markdown>
+
+-   :material-radar:{ .lg .middle } **[nmap](nmap.md)**
+
+    ---
+
+    Offene Ports, Dienste und Versionen.
+
+</div>

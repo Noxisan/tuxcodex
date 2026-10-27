@@ -411,6 +411,7 @@ nav:
   - Security scanning:
       - 23-security-scanning/index.md
       - Basics: 23-security-scanning/basics.md
+      - nmap: 23-security-scanning/nmap.md
 
 markdown_extensions:
   - admonition

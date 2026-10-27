@@ -16,3 +16,15 @@ hardening, rootkits and malware, changed system files and vulnerable container i
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Basics:** Attack surface, what each tool finds, what to install, and the rules for scanning :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## From outside
+
+<div class="grid cards" markdown>
+
+-   :material-radar:{ .lg .middle } **[nmap](nmap.md)**
+
+    ---
+
+    Open ports, services and versions.
+
+</div>
