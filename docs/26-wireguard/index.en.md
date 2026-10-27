@@ -27,4 +27,10 @@ setting up a server and clients, and reaching admin services only through the VP
 
     Keys, tunnel state and peers.
 
+-   :material-tunnel-outline:{ .lg .middle } **[wg-quick](wg-quick.md)**
+
+    ---
+
+    Bring tunnels up and down, start at boot.
+
 </div>

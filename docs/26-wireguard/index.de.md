@@ -27,4 +27,10 @@ Server und Clients einrichten und Admin-Dienste nur noch über das VPN erreichba
 
     Schlüssel, Tunnelzustand und Peers.
 
+-   :material-tunnel-outline:{ .lg .middle } **[wg-quick](wg-quick.md)**
+
+    ---
+
+    Tunnel auf- und abbauen, beim Start hochfahren.
+
 </div>
