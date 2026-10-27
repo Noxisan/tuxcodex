@@ -141,4 +141,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Download new commits, change nothing.
 
+-   :material-download:{ .lg .middle } **[git pull](git-pull.md)**
+
+    ---
+
+    Fetch and merge in one step.
+
 </div>

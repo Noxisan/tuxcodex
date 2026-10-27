@@ -141,4 +141,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Neue Commits holen, nichts ändern.
 
+-   :material-download:{ .lg .middle } **[git pull](git-pull.md)**
+
+    ---
+
+    Holen und zusammenführen in einem Schritt.
+
 </div>
