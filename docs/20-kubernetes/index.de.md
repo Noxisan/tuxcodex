@@ -63,4 +63,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Was im Cluster passiert ist.
 
+-   :material-chart-line:{ .lg .middle } **[kubectl top](kubectl-top.md)**
+
+    ---
+
+    CPU und Speicher von Nodes und Pods.
+
 </div>

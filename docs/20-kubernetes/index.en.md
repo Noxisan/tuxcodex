@@ -63,4 +63,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     What happened in the cluster.
 
+-   :material-chart-line:{ .lg .middle } **[kubectl top](kubectl-top.md)**
+
+    ---
+
+    CPU and memory of nodes and pods.
+
 </div>
