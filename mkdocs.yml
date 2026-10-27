@@ -280,6 +280,7 @@ nav:
       - dmesg: 15-logs/dmesg.md
       - logger: 15-logs/logger.md
       - systemd-cat: 15-logs/systemd-cat.md
+      - logrotate: 15-logs/logrotate.md
 
 markdown_extensions:
   - admonition

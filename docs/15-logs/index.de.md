@@ -45,6 +45,12 @@ Logdateien klein halten, fehlgeschlagene Anmeldungen und Audit-Ereignisse verfol
 
 <div class="grid cards" markdown>
 
+-   :material-rotate-right:{ .lg .middle } **[logrotate](logrotate.md)**
+
+    ---
+
+    Alte Logs rotieren, komprimieren und löschen.
+
 </div>
 
 ## Anmeldungen

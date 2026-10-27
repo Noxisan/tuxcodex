@@ -45,6 +45,12 @@ keeping log files small, tracking failed logins and audit events, and analysing 
 
 <div class="grid cards" markdown>
 
+-   :material-rotate-right:{ .lg .middle } **[logrotate](logrotate.md)**
+
+    ---
+
+    Rotate, compress and delete old logs.
+
 </div>
 
 ## Logins
