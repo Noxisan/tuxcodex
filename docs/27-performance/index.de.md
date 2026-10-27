@@ -69,4 +69,10 @@ Zeit, und den Kernel mit sysctl, Limits und Modulen einstellen.
 
     Geladene Kernelmodule.
 
+-   :material-puzzle-plus-outline:{ .lg .middle } **[modprobe](modprobe.md)**
+
+    ---
+
+    Module laden und sperren.
+
 </div>

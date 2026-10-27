@@ -312,6 +312,7 @@ nav:
       - sysctl: 27-performance/sysctl.md
       - ulimit: 27-performance/ulimit.md
       - lsmod: 27-performance/lsmod.md
+      - modprobe: 27-performance/modprobe.md
   - Backup:
       - 28-backup/index.md
       - Basics: 28-backup/basics.md

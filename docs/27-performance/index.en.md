@@ -69,4 +69,10 @@ the kernel with sysctl, limits and modules.
 
     Loaded kernel modules.
 
+-   :material-puzzle-plus-outline:{ .lg .middle } **[modprobe](modprobe.md)**
+
+    ---
+
+    Load and block modules.
+
 </div>
