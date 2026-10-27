@@ -69,4 +69,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Änderungen Zeile für Zeile zeigen.
 
+-   :material-undo-variant:{ .lg .middle } **[git restore](git-restore.md)**
+
+    ---
+
+    Änderungen verwerfen, Dateien aus dem Staging nehmen.
+
 </div>

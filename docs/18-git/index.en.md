@@ -69,4 +69,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Show changes line by line.
 
+-   :material-undo-variant:{ .lg .middle } **[git restore](git-restore.md)**
+
+    ---
+
+    Discard changes, unstage files.
+
 </div>
