@@ -106,3 +106,15 @@ finding errors, maintaining nodes and installing software with Helm.
     Watch, restart and undo updates.
 
 </div>
+
+## Troubleshooting
+
+<div class="grid cards" markdown>
+
+-   :material-console:{ .lg .middle } **[kubectl exec](kubectl-exec.md)**
+
+    ---
+
+    Run a command or shell in a pod.
+
+</div>

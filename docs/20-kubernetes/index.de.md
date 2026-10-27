@@ -106,3 +106,15 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
     Updates beobachten, neu starten, zurücknehmen.
 
 </div>
+
+## Fehlersuche
+
+<div class="grid cards" markdown>
+
+-   :material-console:{ .lg .middle } **[kubectl exec](kubectl-exec.md)**
+
+    ---
+
+    Einen Befehl oder eine Shell im Pod ausführen.
+
+</div>
