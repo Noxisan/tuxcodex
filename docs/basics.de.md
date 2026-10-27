@@ -16,7 +16,7 @@ in der Reihenfolge des Handbuchs.
 
 </div>
 
-## Linux-Grundlagen
+## Linux-Administration
 
 <div class="grid cards tc-basics-cards" markdown>
 

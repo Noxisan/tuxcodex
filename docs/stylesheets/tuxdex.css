@@ -675,7 +675,7 @@
 }
 
 .md-nav--primary #__nav_3 + .md-nav__link::before {
-  content: "Linux basics";
+  content: "Linux administration";
 }
 
 .md-nav--primary #__nav_21 + .md-nav__link::before {
@@ -687,7 +687,7 @@
 }
 
 html[lang="de"] .md-nav--primary #__nav_3 + .md-nav__link::before {
-  content: "Linux-Grundlagen";
+  content: "Linux-Administration";
 }
 
 html[lang="de"] .md-nav--primary #__nav_21 + .md-nav__link::before {

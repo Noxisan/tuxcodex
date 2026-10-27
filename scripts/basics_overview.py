@@ -12,10 +12,10 @@ nav = (ROOT / "mkdocs.yml").read_text()
 order = re.findall(r"^      - (\d\d-[a-z0-9-]+)/index\.md$", nav, re.M)
 
 AREAS = {
-    "en": [("Linux basics", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "27", "28"]),
+    "en": [("Linux administration", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "27", "28"]),
            ("Automation & DevOps", ["17", "18", "19", "20", "21", "22"]),
            ("Security", ["23", "24", "25", "26"])],
-    "de": [("Linux-Grundlagen", None), ("Automatisierung & DevOps", None), ("Sicherheit", None)],
+    "de": [("Linux-Administration", None), ("Automatisierung & DevOps", None), ("Sicherheit", None)],
 }
 HEAD = {
     "en": ("Basics overview", "Every chapter starts with a basics page: the concepts, tables and workflows you need\nbefore the individual commands make sense. Here they are all in one place, in the order of\nthe handbook."),

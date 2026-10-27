@@ -30,7 +30,7 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 </div>
 
-## Linux-Grundlagen
+## Linux-Administration
 
 <div class="grid cards" markdown>
 

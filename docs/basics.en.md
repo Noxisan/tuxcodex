@@ -16,7 +16,7 @@ the handbook.
 
 </div>
 
-## Linux basics
+## Linux administration
 
 <div class="grid cards tc-basics-cards" markdown>
 
