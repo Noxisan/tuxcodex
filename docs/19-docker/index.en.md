@@ -69,4 +69,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     Run a command or shell in a container.
 
+-   :material-magnify:{ .lg .middle } **[docker inspect](docker-inspect.md)**
+
+    ---
+
+    All details as JSON.
+
 </div>

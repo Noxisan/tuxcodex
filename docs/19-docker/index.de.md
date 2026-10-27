@@ -69,4 +69,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Einen Befehl oder eine Shell im Container ausführen.
 
+-   :material-magnify:{ .lg .middle } **[docker inspect](docker-inspect.md)**
+
+    ---
+
+    Alle Details als JSON.
+
 </div>
