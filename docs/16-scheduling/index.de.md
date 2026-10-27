@@ -27,6 +27,12 @@ verpasste Jobs nachholen und dafür sorgen, dass ein Job nie doppelt gleichzeiti
 
     Die Cronjobs eines Benutzers zeigen und bearbeiten.
 
+-   :material-folder-play-outline:{ .lg .middle } **[run-parts](run-parts.md)**
+
+    ---
+
+    Alle Skripte in einem Verzeichnis ausführen.
+
 </div>
 
 ## Einmalige Jobs

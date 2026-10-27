@@ -27,6 +27,12 @@ on missed jobs and making sure a job never runs twice at the same time.
 
     Show and edit the cron jobs of a user.
 
+-   :material-folder-play-outline:{ .lg .middle } **[run-parts](run-parts.md)**
+
+    ---
+
+    Run all scripts in a directory.
+
 </div>
 
 ## One-time jobs
