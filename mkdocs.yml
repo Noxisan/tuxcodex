@@ -431,6 +431,7 @@ nav:
       - openssl req: 24-certificates/openssl-req.md
       - certbot: 24-certificates/certbot.md
       - gpg: 24-certificates/gpg.md
+      - age: 24-certificates/age.md
 
 markdown_extensions:
   - admonition

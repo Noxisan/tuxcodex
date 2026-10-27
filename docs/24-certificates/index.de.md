@@ -82,4 +82,10 @@ für Backups und Übertragungen verschlüsseln.
 
     Verschlüsseln, signieren und prüfen.
 
+-   :material-file-lock-outline:{ .lg .middle } **[age](age.md)**
+
+    ---
+
+    Einfache Dateiverschlüsselung.
+
 </div>

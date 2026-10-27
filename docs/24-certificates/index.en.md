@@ -82,4 +82,10 @@ for backups and transfers.
 
     Encrypt, sign and verify.
 
+-   :material-file-lock-outline:{ .lg .middle } **[age](age.md)**
+
+    ---
+
+    Simple file encryption.
+
 </div>
