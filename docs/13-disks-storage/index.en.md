@@ -123,6 +123,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Check and repair file systems.
 
+-   :material-arrow-expand-horizontal:{ .lg .middle } **[resize2fs](resize2fs.md)**
+
+    ---
+
+    Grow or shrink ext4.
+
 </div>
 
 ## LVM

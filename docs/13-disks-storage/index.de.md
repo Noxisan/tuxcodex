@@ -123,6 +123,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Dateisysteme prüfen und reparieren.
 
+-   :material-arrow-expand-horizontal:{ .lg .middle } **[resize2fs](resize2fs.md)**
+
+    ---
+
+    ext4 vergrößern oder verkleinern.
+
 </div>
 
 ## LVM
