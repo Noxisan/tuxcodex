@@ -285,6 +285,7 @@ nav:
       - ausearch: 15-logs/ausearch.md
       - aureport: 15-logs/aureport.md
       - lnav: 15-logs/lnav.md
+      - goaccess: 15-logs/goaccess.md
 
 markdown_extensions:
   - admonition

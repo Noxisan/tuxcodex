@@ -93,6 +93,12 @@ keeping log files small, tracking failed logins and audit events, and analysing 
 
     Navigate and filter several logs at once.
 
+-   :material-chart-bar:{ .lg .middle } **[goaccess](goaccess.md)**
+
+    ---
+
+    Analyse web server logs.
+
 </div>
 
 ## From other chapters

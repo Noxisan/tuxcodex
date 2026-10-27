@@ -93,6 +93,12 @@ Logdateien klein halten, fehlgeschlagene Anmeldungen und Audit-Ereignisse verfol
 
     Mehrere Logs auf einmal durchsuchen und filtern.
 
+-   :material-chart-bar:{ .lg .middle } **[goaccess](goaccess.md)**
+
+    ---
+
+    Webserver-Logs auswerten.
+
 </div>
 
 ## Aus anderen Kapiteln
