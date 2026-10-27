@@ -63,6 +63,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
 <div class="grid cards" markdown>
 
+-   :material-help-rhombus-outline:{ .lg .middle } **[test](test.md)**
+
+    ---
+
+    Check files, strings and numbers.
+
 </div>
 
 ## Loops

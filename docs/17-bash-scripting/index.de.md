@@ -63,6 +63,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
 <div class="grid cards" markdown>
 
+-   :material-help-rhombus-outline:{ .lg .middle } **[test](test.md)**
+
+    ---
+
+    Dateien, Zeichenketten und Zahlen prüfen.
+
 </div>
 
 ## Schleifen
