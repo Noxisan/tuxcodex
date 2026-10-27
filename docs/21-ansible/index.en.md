@@ -87,4 +87,10 @@ commands on whole groups of servers, keeping passwords safe and reusing roles.
 
     Encrypt passwords and keys.
 
+-   :material-check-decagram-outline:{ .lg .middle } **[ansible-lint](ansible-lint.md)**
+
+    ---
+
+    Find errors and bad practices.
+
 </div>

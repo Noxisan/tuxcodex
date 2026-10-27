@@ -88,4 +88,10 @@ wiederverwenden.
 
     Passwörter und Schlüssel verschlüsseln.
 
+-   :material-check-decagram-outline:{ .lg .middle } **[ansible-lint](ansible-lint.md)**
+
+    ---
+
+    Fehler und schlechte Praktiken finden.
+
 </div>
