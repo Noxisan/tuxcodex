@@ -398,6 +398,7 @@ nav:
   - CI/CD:
       - 22-ci-cd/index.md
       - Basics: 22-ci-cd/basics.md
+      - gh run: 22-ci-cd/gh-run.md
 
 markdown_extensions:
   - admonition

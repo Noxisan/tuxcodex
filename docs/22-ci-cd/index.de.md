@@ -17,3 +17,15 @@ gepusht werden.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Pipelines, Jobs und Runner, was du installieren musst, ein Workflow für GitHub und einer für GitLab :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## GitHub Actions
+
+<div class="grid cards" markdown>
+
+-   :material-play-circle-outline:{ .lg .middle } **[gh run](gh-run.md)**
+
+    ---
+
+    Workflow-Läufe auflisten, verfolgen, neu starten.
+
+</div>

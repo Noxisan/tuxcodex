@@ -17,3 +17,15 @@ are pushed.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Basics:** Pipelines, jobs and runners, what to install, a workflow for GitHub and one for GitLab :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## GitHub Actions
+
+<div class="grid cards" markdown>
+
+-   :material-play-circle-outline:{ .lg .middle } **[gh run](gh-run.md)**
+
+    ---
+
+    List, watch and rerun workflow runs.
+
+</div>
