@@ -46,3 +46,15 @@ the kernel with sysctl, limits and modules.
     Statistics for any time of the day.
 
 </div>
+
+## Tuning the kernel
+
+<div class="grid cards" markdown>
+
+-   :material-tune-variant:{ .lg .middle } **[sysctl](sysctl.md)**
+
+    ---
+
+    Kernel parameters at runtime.
+
+</div>

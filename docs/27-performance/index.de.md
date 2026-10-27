@@ -46,3 +46,15 @@ Zeit, und den Kernel mit sysctl, Limits und Modulen einstellen.
     Statistik für jede Uhrzeit des Tages.
 
 </div>
+
+## Den Kernel einstellen
+
+<div class="grid cards" markdown>
+
+-   :material-tune-variant:{ .lg .middle } **[sysctl](sysctl.md)**
+
+    ---
+
+    Kernel-Parameter im laufenden Betrieb.
+
+</div>
