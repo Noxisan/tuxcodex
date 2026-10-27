@@ -31,7 +31,7 @@ hostname
 ```
 
 ```text
-tuxcodex-srv
+tuxdex-srv
 ```
 
 **Show the fully qualified domain name:**
@@ -41,7 +41,7 @@ hostname -f
 ```
 
 ```text
-tuxcodex-srv.example.com
+tuxdex-srv.example.com
 ```
 
 **Show all IP addresses of the server:**

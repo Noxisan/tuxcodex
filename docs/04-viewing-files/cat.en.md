@@ -30,7 +30,7 @@ cat /etc/hostname
 ```
 
 ```text
-tuxcodex-srv
+tuxdex-srv
 ```
 
 **Show a file with line numbers:**
@@ -41,7 +41,7 @@ cat -n /etc/hosts
 
 ```text
      1  127.0.0.1       localhost
-     2  127.0.1.1       tuxcodex-srv.example.com        tuxcodex-srv
+     2  127.0.1.1       tuxdex-srv.example.com        tuxdex-srv
      3
      4  # The following lines are desirable for IPv6 capable hosts
      5  ::1     localhost ip6-localhost ip6-loopback
@@ -85,7 +85,7 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 ```text
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIExampleKeyOnlyForThisHandbook0123456789ab nox@tuxcodex-srv
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIExampleKeyOnlyForThisHandbook0123456789ab nox@tuxdex-srv
 ```
 
 ## When do I need it?

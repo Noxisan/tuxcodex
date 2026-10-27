@@ -32,7 +32,7 @@ ssh-add
 
 ```text
 Enter passphrase for /home/nox/.ssh/id_ed25519:
-Identity added: /home/nox/.ssh/id_ed25519 (nox@tuxcodex-srv)
+Identity added: /home/nox/.ssh/id_ed25519 (nox@tuxdex-srv)
 ```
 
 From now on, `ssh` uses the key without asking for the passphrase again.
@@ -45,7 +45,7 @@ ssh-add -t 1h
 
 ```text
 Enter passphrase for /home/nox/.ssh/id_ed25519:
-Identity added: /home/nox/.ssh/id_ed25519 (nox@tuxcodex-srv)
+Identity added: /home/nox/.ssh/id_ed25519 (nox@tuxdex-srv)
 Lifetime set to 3600 seconds
 ```
 
@@ -56,7 +56,7 @@ ssh-add -l
 ```
 
 ```text
-256 SHA256:MH9iiNBiK1fYLz4X57tGWkD2uYd7TpgABke1SUynK1k nox@tuxcodex-srv (ED25519)
+256 SHA256:MH9iiNBiK1fYLz4X57tGWkD2uYd7TpgABke1SUynK1k nox@tuxdex-srv (ED25519)
 ```
 
 **Show the public key of a loaded key:**
@@ -66,7 +66,7 @@ ssh-add -L
 ```
 
 ```text
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAWZDtTcIe235G0EzeAQj/BESDJnWT39gRghXyiMZZal nox@tuxcodex-srv
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAWZDtTcIe235G0EzeAQj/BESDJnWT39gRghXyiMZZal nox@tuxdex-srv
 ```
 
 **Remove a key:**
@@ -76,7 +76,7 @@ ssh-add -d ~/.ssh/id_ed25519
 ```
 
 ```text
-Identity removed: /home/nox/.ssh/id_ed25519 ED25519 (nox@tuxcodex-srv)
+Identity removed: /home/nox/.ssh/id_ed25519 ED25519 (nox@tuxdex-srv)
 ```
 
 **The agent is empty:**

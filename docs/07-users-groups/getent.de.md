@@ -73,11 +73,11 @@ echo $?
 **Einen Hostnamen so auflösen wie das System:**
 
 ```bash
-getent hosts tuxcodex-srv
+getent hosts tuxdex-srv
 ```
 
 ```text
-127.0.1.1       tuxcodex-srv.example.com tuxcodex-srv
+127.0.1.1       tuxdex-srv.example.com tuxdex-srv
 ```
 
 **Den Port eines Dienstes finden:**

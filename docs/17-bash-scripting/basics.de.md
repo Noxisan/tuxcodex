@@ -29,9 +29,9 @@ gehören nach `/usr/local/bin/`, dann lassen sie sich über ihren Namen aufrufen
 ## Variablen
 
 ```text
-$ name="tuxcodex-srv"
+$ name="tuxdex-srv"
 $ echo "Host: $name"
-Host: tuxcodex-srv
+Host: tuxdex-srv
 ```
 
 Keine Leerzeichen um `=`. Lies eine Variable mit `$name` oder `${name}`, und speichere die
@@ -41,7 +41,7 @@ Ausgabe eines Befehls mit `$(befehl)`: `heute=$(date +%F)`.
 
 | Anführungszeichen | Wirkung | Beispiel | Ergebnis |
 |-------------------|---------|----------|----------|
-| `"…"` | Variablen werden ersetzt, Leerzeichen bleiben zusammen | `"Host: $name"` | `Host: tuxcodex-srv` |
+| `"…"` | Variablen werden ersetzt, Leerzeichen bleiben zusammen | `"Host: $name"` | `Host: tuxdex-srv` |
 | `'…'` | Alles bleibt wörtlich | `'Host: $name'` | `Host: $name` |
 | keine | Wörter werden an Leerzeichen getrennt | `ls $file` mit `file="old backup.tar.gz"` | `ls` bekommt zwei Argumente |
 

@@ -64,7 +64,7 @@ Forwarding from [::1]:38615 -> 80
 - Um bei der Fehlersuche einen Pod direkt mit anderen zu vergleichen
 
 !!! tip "Über einen SSH-Tunnel"
-    Vom eigenen Rechner aus: `ssh -L 8080:localhost:8080 nox@tuxcodex-srv`, und auf dem
+    Vom eigenen Rechner aus: `ssh -L 8080:localhost:8080 nox@tuxdex-srv`, und auf dem
     Server `kubectl port-forward` starten. Dann funktioniert `http://localhost:8080` lokal.
 
 ## Verwandte Befehle

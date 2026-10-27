@@ -33,7 +33,7 @@ mtr -r example.com
 
 ```text
 Start: 2026-10-26T10:42:17+0100
-HOST: tuxcodex-srv                Loss%   Snt   Last   Avg  Best  Wrst StDev
+HOST: tuxdex-srv                  Loss%   Snt   Last   Avg  Best  Wrst StDev
   1.|-- _gateway                   0.0%    10    0.3   0.3   0.3   0.4   0.0
   2.|-- core1.isp.example.net      0.0%    10    1.1   1.1   1.0   1.2   0.0
   3.|-- ???                       100.0    10    0.0   0.0   0.0   0.0   0.0
@@ -61,7 +61,7 @@ mtr -r -n -c 10 example.com
 
 ```text
 Start: 2026-10-26T10:42:17+0100
-HOST: tuxcodex-srv                Loss%   Snt   Last   Avg  Best  Wrst StDev
+HOST: tuxdex-srv                  Loss%   Snt   Last   Avg  Best  Wrst StDev
   1.|-- 192.0.2.1                  0.0%    10    0.3   0.3   0.3   0.4   0.0
   2.|-- 198.51.100.1               0.0%    10    1.1   1.1   1.0   1.2   0.0
   3.|-- ???                       100.0    10    0.0   0.0   0.0   0.0   0.0
@@ -78,7 +78,7 @@ sudo mtr -r -T -P 443 example.com
 
 ```text
 Start: 2026-10-26T10:42:17+0100
-HOST: tuxcodex-srv                Loss%   Snt   Last   Avg  Best  Wrst StDev
+HOST: tuxdex-srv                  Loss%   Snt   Last   Avg  Best  Wrst StDev
   1.|-- _gateway                   0.0%    10    0.3   0.3   0.3   0.4   0.0
   2.|-- core1.isp.example.net      0.0%    10    1.1   1.1   1.0   1.2   0.0
   3.|-- ???                       100.0    10    0.0   0.0   0.0   0.0   0.0

@@ -1,4 +1,4 @@
-/* TuxCodex dark theme: neutral dark grey with a soft mint accent */
+/* TuxDex dark theme: neutral dark grey with a soft mint accent */
 [data-md-color-scheme="slate"] {
   --tc-bg: #0f1115;
   --tc-surface: #161a21;
@@ -310,12 +310,12 @@
   order: 4;
 }
 
-/* Header: "Tux" white, "Codex" in the accent colour */
+/* Header: "Tux" white, "Dex" in the accent colour */
 .tc-title-tux {
   color: #ffffff;
 }
 
-.tc-title-codex {
+.tc-title-dex {
   color: var(--tc-accent);
 }
 

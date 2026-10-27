@@ -30,12 +30,12 @@ sudo reboot
 ```
 
 ```text
-Broadcast message from root@tuxcodex-srv on pts/0 (Mon 2026-10-26 10:42:17 CET):
+Broadcast message from root@tuxdex-srv on pts/0 (Mon 2026-10-26 10:42:17 CET):
 
 The system will reboot now!
 
-Connection to tuxcodex-srv closed by remote host.
-Connection to tuxcodex-srv closed.
+Connection to tuxdex-srv closed by remote host.
+Connection to tuxdex-srv closed.
 ```
 
 Die SSH-Verbindung endet. Nach ein bis zwei Minuten kannst du dich wieder anmelden.

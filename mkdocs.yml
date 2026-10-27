@@ -1,9 +1,9 @@
-site_name: TuxCodex
+site_name: TuxDex
 site_description: Linux Administration & DevOps a handbook by Nox
 site_author: Nox
-site_url: https://noxisan.github.io/tuxcodex/
-repo_url: https://github.com/noxisan/tuxcodex
-repo_name: tuxcodex
+site_url: https://noxisan.github.io/tuxdex/
+repo_url: https://github.com/Noxisan/tuxdex
+repo_name: tuxdex
 
 theme:
   name: material
@@ -451,7 +451,7 @@ markdown_extensions:
       permalink: true
 
 extra_css:
-  - stylesheets/tuxcodex.css
+  - stylesheets/tuxdex.css
 
 extra_javascript:
   - javascripts/header.js

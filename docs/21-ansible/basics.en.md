@@ -7,7 +7,7 @@ that state. It doesn't need an agent on the servers: SSH access and Python are e
 ## Control node and managed servers
 
 ```text
-          tuxcodex-srv (control node)
+          tuxdex-srv (control node)
           ansible, playbooks, inventory
                  │  SSH
         ┌────────┴────────┐

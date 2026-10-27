@@ -30,7 +30,7 @@ journalctl -t backup -n 1
 ```
 
 ```text
-Oct 26 10:42:17 tuxcodex-srv backup[4421]: Backup of /srv/www finished, 48 MiB
+Oct 26 10:42:17 tuxdex-srv backup[4421]: Backup of /srv/www finished, 48 MiB
 ```
 
 **Einen Fehler protokollieren:**
@@ -41,7 +41,7 @@ journalctl -t backup -p err -n 1
 ```
 
 ```text
-Oct 26 10:42:19 tuxcodex-srv backup[4425]: Backup failed: no space left on /mnt/backup
+Oct 26 10:42:19 tuxdex-srv backup[4425]: Backup failed: no space left on /mnt/backup
 ```
 
 **Den Inhalt einer Datei protokollieren:**
@@ -52,8 +52,8 @@ journalctl -t deploy -n 2
 ```
 
 ```text
-Oct 26 10:42:21 tuxcodex-srv deploy[4433]: Deployment of version 2.4.1 started
-Oct 26 10:42:21 tuxcodex-srv deploy[4433]: Deployment of version 2.4.1 finished
+Oct 26 10:42:21 tuxdex-srv deploy[4433]: Deployment of version 2.4.1 started
+Oct 26 10:42:21 tuxdex-srv deploy[4433]: Deployment of version 2.4.1 finished
 ```
 
 Jede Zeile der Datei wird ein eigener Eintrag im Journal.

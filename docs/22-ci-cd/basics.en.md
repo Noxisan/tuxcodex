@@ -2,7 +2,7 @@
 
 **CI** (continuous integration) means: every push is checked automatically, by linters,
 tests and a build. **CD** (continuous delivery or deployment) goes one step further and
-rolls out what passed the checks, for example to `tuxcodex-srv`. Instead of "I'll deploy
+rolls out what passed the checks, for example to `tuxdex-srv`. Instead of "I'll deploy
 it later by hand", every change takes the same tested route.
 
 ```text
@@ -84,7 +84,7 @@ A deploy job logs in to the server over SSH with a key that is stored as a secre
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy to tuxcodex-srv
+      - name: Deploy to tuxdex-srv
         env:
           SSH_KEY: ${{ secrets.DEPLOY_KEY }}
           KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}

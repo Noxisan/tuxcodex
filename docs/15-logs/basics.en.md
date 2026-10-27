@@ -54,9 +54,9 @@ journal shows failed SSH logins:
 
 ```text
 $ journalctl -u ssh --since today | grep "Failed password"
-Oct 26 09:58:02 tuxcodex-srv sshd-session[2187]: Failed password for nox from 192.0.2.45 port 51720 ssh2
-Oct 26 10:31:02 tuxcodex-srv sshd-session[3301]: Failed password for invalid user admin from 198.51.100.66 port 40218 ssh2
-Oct 26 10:31:05 tuxcodex-srv sshd-session[3301]: Failed password for invalid user admin from 198.51.100.66 port 40218 ssh2
+Oct 26 09:58:02 tuxdex-srv sshd-session[2187]: Failed password for nox from 192.0.2.45 port 51720 ssh2
+Oct 26 10:31:02 tuxdex-srv sshd-session[3301]: Failed password for invalid user admin from 198.51.100.66 port 40218 ssh2
+Oct 26 10:31:05 tuxdex-srv sshd-session[3301]: Failed password for invalid user admin from 198.51.100.66 port 40218 ssh2
 ```
 
 `invalid user` means: the account doesn't exist, typical for automated attacks. Tools

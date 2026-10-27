@@ -99,7 +99,7 @@ Starting Nmap 7.95 ( https://nmap.org ) at 2026-10-26 10:42 CET
 Nmap scan report for gateway (192.0.2.1)
 Host is up (0.00029s latency).
 MAC Address: 52:54:00:12:35:02 (QEMU virtual NIC)
-Nmap scan report for tuxcodex-srv (192.0.2.10)
+Nmap scan report for tuxdex-srv (192.0.2.10)
 Host is up.
 Nmap scan report for web01 (192.0.2.21)
 Host is up (0.00031s latency).

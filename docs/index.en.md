@@ -6,9 +6,9 @@ hide:
 
 <div class="tc-hero" markdown>
 
-# TuxCodex { .tc-sr-only }
+# TuxDex { .tc-sr-only }
 
-![TuxCodex Logo](assets/logo-hero.png){ width="350" }
+![TuxDex Logo](assets/logo-hero.png){ width="350" }
 
 Linux commands. Real-world examples. No guesswork.
 { .tc-tagline }

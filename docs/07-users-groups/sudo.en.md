@@ -44,10 +44,10 @@ sudo -l
 ```
 
 ```text
-Matching Defaults entries for nox on tuxcodex-srv:
+Matching Defaults entries for nox on tuxdex-srv:
     env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin, use_pty
 
-User nox may run the following commands on tuxcodex-srv:
+User nox may run the following commands on tuxdex-srv:
     (ALL : ALL) ALL
 ```
 

@@ -42,7 +42,7 @@ host 192.0.2.10
 ```
 
 ```text
-10.2.0.192.in-addr.arpa domain name pointer tuxcodex-srv.example.com.
+10.2.0.192.in-addr.arpa domain name pointer tuxdex-srv.example.com.
 ```
 
 **Die TXT-Einträge anzeigen, etwa für SPF:**

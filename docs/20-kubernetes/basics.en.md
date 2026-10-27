@@ -14,14 +14,14 @@ stays that way, even when a container crashes or a server fails.
 | [`helm`](helm.md) | Package manager for ready-made applications (charts) | Where you run `kubectl` |
 | [`k9s`](k9s.md) | Terminal interface for browsing and managing the cluster | Optional, where you run `kubectl` |
 
-The example server `tuxcodex-srv` runs a single-node cluster with k3s. That's all you need
+The example server `tuxdex-srv` runs a single-node cluster with k3s. That's all you need
 to practise; `kubectl` comes with it.
 
 ```text
 $ curl -sfL https://get.k3s.io | sh -
 $ sudo kubectl get nodes
 NAME           STATUS   ROLES           AGE   VERSION
-tuxcodex-srv   Ready    control-plane   42s   v1.34.1+k3s1
+tuxdex-srv     Ready    control-plane   42s   v1.34.1+k3s1
 ```
 
 Installation of the tools on the different distributions:

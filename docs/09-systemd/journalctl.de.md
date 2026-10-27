@@ -35,12 +35,12 @@ journalctl -u backup -n 6
 ```
 
 ```text
-Oct 26 03:00:01 tuxcodex-srv systemd[1]: Starting backup.service - Nightly backup...
-Oct 26 03:00:01 tuxcodex-srv backup.sh[4102]: dumping database shop
-Oct 26 03:00:02 tuxcodex-srv backup.sh[4102]: tar: /mnt/backup/www.tar.gz: Cannot open: No space left on device
-Oct 26 03:00:02 tuxcodex-srv systemd[1]: backup.service: Main process exited, code=exited, status=2/INVALIDARGUMENT
-Oct 26 03:00:02 tuxcodex-srv systemd[1]: backup.service: Failed with result 'exit-code'.
-Oct 26 03:00:02 tuxcodex-srv systemd[1]: Failed to start backup.service - Nightly backup.
+Oct 26 03:00:01 tuxdex-srv systemd[1]: Starting backup.service - Nightly backup...
+Oct 26 03:00:01 tuxdex-srv backup.sh[4102]: dumping database shop
+Oct 26 03:00:02 tuxdex-srv backup.sh[4102]: tar: /mnt/backup/www.tar.gz: Cannot open: No space left on device
+Oct 26 03:00:02 tuxdex-srv systemd[1]: backup.service: Main process exited, code=exited, status=2/INVALIDARGUMENT
+Oct 26 03:00:02 tuxdex-srv systemd[1]: backup.service: Failed with result 'exit-code'.
+Oct 26 03:00:02 tuxdex-srv systemd[1]: Failed to start backup.service - Nightly backup.
 ```
 
 Die dritte Zeile zeigt die Ursache: Die Backup-Platte ist voll.
@@ -52,8 +52,8 @@ journalctl -u nginx -f
 ```
 
 ```text
-Oct 26 10:42:17 tuxcodex-srv systemd[1]: Reloading nginx.service - A high performance web server and a reverse proxy server...
-Oct 26 10:42:17 tuxcodex-srv systemd[1]: Reloaded nginx.service - A high performance web server and a reverse proxy server.
+Oct 26 10:42:17 tuxdex-srv systemd[1]: Reloading nginx.service - A high performance web server and a reverse proxy server...
+Oct 26 10:42:17 tuxdex-srv systemd[1]: Reloaded nginx.service - A high performance web server and a reverse proxy server.
 ```
 
 Neue Zeilen erscheinen, sobald sie geschrieben werden. Beenden mit ++ctrl+c++.
@@ -65,8 +65,8 @@ journalctl -p err -b
 ```
 
 ```text
-Oct 14 07:37:09 tuxcodex-srv kernel: ACPI Error: AE_NOT_FOUND, While resolving a named reference package element (20240827/dspkginit-438)
-Oct 26 03:00:02 tuxcodex-srv systemd[1]: Failed to start backup.service - Nightly backup.
+Oct 14 07:37:09 tuxdex-srv kernel: ACPI Error: AE_NOT_FOUND, While resolving a named reference package element (20240827/dspkginit-438)
+Oct 26 03:00:02 tuxdex-srv systemd[1]: Failed to start backup.service - Nightly backup.
 ```
 
 **Meldungen der letzten Stunde:**
@@ -76,8 +76,8 @@ journalctl --since "1 hour ago" -u ssh
 ```
 
 ```text
-Oct 26 09:58:31 tuxcodex-srv sshd-session[2190]: Accepted publickey for nox from 192.0.2.45 port 51732 ssh2: ED25519 SHA256:3qN8vY1oZkT6cW2xLr5bJ9dF0hG4mA7sE1uK8pQ2iVw
-Oct 26 09:58:31 tuxcodex-srv sshd-session[2190]: pam_unix(sshd:session): session opened for user nox(uid=1000) by nox(uid=0)
+Oct 26 09:58:31 tuxdex-srv sshd-session[2190]: Accepted publickey for nox from 192.0.2.45 port 51732 ssh2: ED25519 SHA256:3qN8vY1oZkT6cW2xLr5bJ9dF0hG4mA7sE1uK8pQ2iVw
+Oct 26 09:58:31 tuxdex-srv sshd-session[2190]: pam_unix(sshd:session): session opened for user nox(uid=1000) by nox(uid=0)
 ```
 
 **Die aufgezeichneten Bootvorgänge auflisten:**

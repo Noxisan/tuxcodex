@@ -63,7 +63,7 @@ less -N /etc/hosts
 
 ```text
       1 127.0.0.1       localhost
-      2 127.0.1.1       tuxcodex-srv.example.com        tuxcodex-srv
+      2 127.0.1.1       tuxdex-srv.example.com        tuxdex-srv
       3
       4 # The following lines are desirable for IPv6 capable hosts
       5 ::1     localhost ip6-localhost ip6-loopback

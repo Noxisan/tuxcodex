@@ -8,7 +8,7 @@ reichen.
 ## Steuerrechner und verwaltete Server
 
 ```text
-          tuxcodex-srv (Steuerrechner)
+          tuxdex-srv (Steuerrechner)
           ansible, Playbooks, Inventar
                  │  SSH
         ┌────────┴────────┐

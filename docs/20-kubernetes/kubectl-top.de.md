@@ -32,7 +32,7 @@ kubectl top nodes
 
 ```text
 NAME           CPU(cores)   CPU(%)   MEMORY(bytes)   MEMORY(%)
-tuxcodex-srv   231m         11%      721Mi           18%
+tuxdex-srv     231m         11%      721Mi           18%
 ```
 
 **Die Pods mit dem meisten Speicher zuerst:**

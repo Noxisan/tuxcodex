@@ -31,7 +31,7 @@ watch free -h
 ```
 
 ```text
-Every 2.0s: free -h                       tuxcodex-srv: Mon Oct 26 10:42:17 2026
+Every 2.0s: free -h                         tuxdex-srv: Mon Oct 26 10:42:17 2026
 
                total        used        free      shared  buff/cache   available
 Mem:           3.8Gi       1.2Gi       812Mi        18Mi       1.9Gi       2.5Gi
@@ -47,7 +47,7 @@ watch -n 10 -d ls -l /mnt/backup
 ```
 
 ```text
-Every 10.0s: ls -l /mnt/backup            tuxcodex-srv: Mon Oct 26 10:42:17 2026
+Every 10.0s: ls -l /mnt/backup              tuxdex-srv: Mon Oct 26 10:42:17 2026
 
 total 1849352
 -rw-r--r-- 1 nox nox  412318720 Oct 26 10:42 db.sql.gz
@@ -63,7 +63,7 @@ watch -n 5 'pgrep -c php-fpm8.4'
 ```
 
 ```text
-Every 5.0s: pgrep -c php-fpm8.4           tuxcodex-srv: Mon Oct 26 10:42:17 2026
+Every 5.0s: pgrep -c php-fpm8.4             tuxdex-srv: Mon Oct 26 10:42:17 2026
 
 6
 ```

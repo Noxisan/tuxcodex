@@ -2,7 +2,7 @@
 
 **CI** (Continuous Integration) heißt: Jeder Push wird automatisch geprüft, durch Linter,
 Tests und einen Build. **CD** (Continuous Delivery oder Deployment) geht einen Schritt weiter
-und rollt aus, was die Prüfungen bestanden hat, etwa auf `tuxcodex-srv`. Statt „das spiele
+und rollt aus, was die Prüfungen bestanden hat, etwa auf `tuxdex-srv`. Statt „das spiele
 ich später von Hand ein“ nimmt jede Änderung denselben geprüften Weg.
 
 ```text
@@ -85,7 +85,7 @@ hinterlegt ist:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy to tuxcodex-srv
+      - name: Deploy to tuxdex-srv
         env:
           SSH_KEY: ${{ secrets.DEPLOY_KEY }}
           KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}

@@ -19,7 +19,7 @@ weg, was er geschrieben hat, außer dem, was in einem Volume liegt.
 ## Installation
 
 Die Pakete der Distributionen sind oft älter und heißen anders. Auf Servern ist das
-offizielle Repository von Docker die übliche Wahl. Der Beispielserver `tuxcodex-srv` nutzt
+offizielle Repository von Docker die übliche Wahl. Der Beispielserver `tuxdex-srv` nutzt
 Docker CE von dort, siehe [docs.docker.com/engine/install](https://docs.docker.com/engine/install/).
 
 ```text

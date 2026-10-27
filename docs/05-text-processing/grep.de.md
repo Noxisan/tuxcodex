@@ -126,7 +126,7 @@ grep -vE '^\s*(#|$)' /etc/hosts
 
 ```text
 127.0.0.1       localhost
-127.0.1.1       tuxcodex-srv.example.com        tuxcodex-srv
+127.0.1.1       tuxdex-srv.example.com        tuxdex-srv
 ::1     localhost ip6-localhost ip6-loopback
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters

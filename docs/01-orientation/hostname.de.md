@@ -31,7 +31,7 @@ hostname
 ```
 
 ```text
-tuxcodex-srv
+tuxdex-srv
 ```
 
 **Den vollständigen Domainnamen anzeigen:**
@@ -41,7 +41,7 @@ hostname -f
 ```
 
 ```text
-tuxcodex-srv.example.com
+tuxdex-srv.example.com
 ```
 
 **Alle IP-Adressen des Servers anzeigen:**

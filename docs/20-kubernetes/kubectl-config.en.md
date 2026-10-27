@@ -79,13 +79,13 @@ web-9bc5f7f5b-m8l96   1/1     Running   0          2h
 **Give the context a clear name:**
 
 ```bash
-kubectl config rename-context default tuxcodex-srv
+kubectl config rename-context default tuxdex-srv
 kubectl config current-context
 ```
 
 ```text
-Context "default" renamed to "tuxcodex-srv".
-tuxcodex-srv
+Context "default" renamed to "tuxdex-srv".
+tuxdex-srv
 ```
 
 ## When do I need it?
@@ -100,7 +100,7 @@ tuxcodex-srv
 
 !!! warning "Know where you are"
     A command meant for the test cluster can hit production if the wrong context is
-    active. Give contexts clear names (`rename-context default tuxcodex-srv`) and check with
+    active. Give contexts clear names (`rename-context default tuxdex-srv`) and check with
     `kubectl config current-context`.
 
 ## Distribution differences

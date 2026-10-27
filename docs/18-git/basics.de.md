@@ -62,9 +62,9 @@ Schlüssel in deinem Konto: bei GitHub unter *Settings › SSH and GPG keys*, be
 *Preferences › SSH Keys*.
 
 ```text
-$ ssh-keygen -t ed25519 -C "nox@tuxcodex-srv"
+$ ssh-keygen -t ed25519 -C "nox@tuxdex-srv"
 $ cat ~/.ssh/id_ed25519.pub
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK3vYf2mPqT8wZr5nB7dXc1hL0sQe9uJgN4aRtVy6oMp nox@tuxcodex-srv
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK3vYf2mPqT8wZr5nB7dXc1hL0sQe9uJgN4aRtVy6oMp nox@tuxdex-srv
 $ ssh -T git@github.com
 Hi nox! You've successfully authenticated, but GitHub does not provide shell access.
 ```

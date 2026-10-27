@@ -33,7 +33,7 @@ LAST SEEN   TYPE     REASON              OBJECT                     MESSAGE
 21s         Normal   ScalingReplicaSet   Deployment/web             Scaled up replica set web-9bc5f7f5b from 0 to 2
 21s         Normal   SuccessfulCreate    ReplicaSet/web-9bc5f7f5b   Created pod: web-9bc5f7f5b-8ptw2
 21s         Normal   SuccessfulCreate    ReplicaSet/web-9bc5f7f5b   Created pod: web-9bc5f7f5b-m8l96
-20s         Normal   Scheduled           Pod/web-9bc5f7f5b-8ptw2    Successfully assigned status/web-9bc5f7f5b-8ptw2 to tuxcodex-srv
+20s         Normal   Scheduled           Pod/web-9bc5f7f5b-8ptw2    Successfully assigned status/web-9bc5f7f5b-8ptw2 to tuxdex-srv
 20s         Normal   Pulling             Pod/web-9bc5f7f5b-8ptw2    Pulling image "nginx:1.28"
 15s         Normal   Pulled              Pod/web-9bc5f7f5b-8ptw2    Successfully pulled image "nginx:1.28" in 5.754s (5.754s including waiting). Image size: 62916597 bytes.
 15s         Normal   Created             Pod/web-9bc5f7f5b-8ptw2    Created container: nginx

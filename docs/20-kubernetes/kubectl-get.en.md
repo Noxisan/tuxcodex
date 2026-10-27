@@ -72,8 +72,8 @@ kubectl get pods -n status -o wide
 
 ```text
 NAME                  READY   STATUS    RESTARTS   AGE   IP           NODE           NOMINATED NODE   READINESS GATES
-web-9bc5f7f5b-8ptw2   1/1     Running   0          2h    10.42.0.9    tuxcodex-srv   <none>           <none>
-web-9bc5f7f5b-m8l96   1/1     Running   0          2h    10.42.0.10   tuxcodex-srv   <none>           <none>
+web-9bc5f7f5b-8ptw2   1/1     Running   0          2h    10.42.0.9    tuxdex-srv     <none>           <none>
+web-9bc5f7f5b-m8l96   1/1     Running   0          2h    10.42.0.10   tuxdex-srv     <none>           <none>
 ```
 
 **The ingress with its host name:**

@@ -39,7 +39,7 @@ This key is not known by any other names.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 Warning: Permanently added '192.0.2.10' (ED25519) to the list of known hosts.
 nox@192.0.2.10's password:
-Linux tuxcodex-srv 6.12.48+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.48-1 (2025-09-20) x86_64
+Linux tuxdex-srv 6.12.48+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.48-1 (2025-09-20) x86_64
 
 Last login: Mon Oct 26 09:12:44 2026 from 192.0.2.45
 ```
@@ -81,7 +81,7 @@ ssh -J nox@192.0.2.10 nox@192.0.2.20 hostname
 ```
 
 ```text
-tuxcodex-db
+tuxdex-db
 ```
 
 The database server `192.0.2.20` isn't reachable from outside. `-J` connects through

@@ -34,7 +34,7 @@ sudo shutdown -r +5 "Kernel update, back in 2 minutes"
 ```text
 Reboot scheduled for Mon 2026-10-26 10:47:17 CET, use 'shutdown -c' to cancel.
 
-Broadcast message from root@tuxcodex-srv on pts/0 (Mon 2026-10-26 10:42:17 CET):
+Broadcast message from root@tuxdex-srv on pts/0 (Mon 2026-10-26 10:42:17 CET):
 
 Kernel update, back in 2 minutes
 The system will reboot at Mon 2026-10-26 10:47:17 CET!
@@ -61,7 +61,7 @@ shutdown --show
 ```
 
 ```text
-Broadcast message from root@tuxcodex-srv on pts/0 (Mon 2026-10-26 10:43:02 CET):
+Broadcast message from root@tuxdex-srv on pts/0 (Mon 2026-10-26 10:43:02 CET):
 
 System shutdown has been cancelled
 
@@ -77,7 +77,7 @@ sudo shutdown -h 22:00 "Hardware maintenance"
 ```text
 Shutdown scheduled for Mon 2026-10-26 22:00:00 CET, use 'shutdown -c' to cancel.
 
-Broadcast message from root@tuxcodex-srv on pts/0 (Mon 2026-10-26 10:42:17 CET):
+Broadcast message from root@tuxdex-srv on pts/0 (Mon 2026-10-26 10:42:17 CET):
 
 Hardware maintenance
 The system will power off at Mon 2026-10-26 22:00:00 CET!

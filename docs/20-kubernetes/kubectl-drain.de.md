@@ -28,11 +28,11 @@ kubectl cordon | uncordon NODE
 **Einen Node vor der Wartung leeren:**
 
 ```bash
-kubectl drain tuxcodex-srv --ignore-daemonsets --delete-emptydir-data
+kubectl drain tuxdex-srv --ignore-daemonsets --delete-emptydir-data
 ```
 
 ```text
-node/tuxcodex-srv cordoned
+node/tuxdex-srv cordoned
 Warning: ignoring DaemonSet-managed Pods: kube-system/svclb-traefik-db512acc-cmznz
 evicting pod status/web-9bc5f7f5b-8ptw2
 evicting pod status/web-9bc5f7f5b-m8l96
@@ -46,7 +46,7 @@ pod/local-path-provisioner-578895bd58-x8h47 evicted
 pod/coredns-7896679cc-2dcm2 evicted
 pod/metrics-server-7b9c9c4b9c-m8shl evicted
 pod/traefik-6f986b958c-v9bwd evicted
-node/tuxcodex-srv drained
+node/tuxdex-srv drained
 ```
 
 **Der Node ist für neue Pods gesperrt:**
@@ -57,31 +57,31 @@ kubectl get nodes
 
 ```text
 NAME           STATUS                     ROLES           AGE   VERSION
-tuxcodex-srv   Ready,SchedulingDisabled   control-plane   3d    v1.34.1+k3s1
+tuxdex-srv     Ready,SchedulingDisabled   control-plane   3d    v1.34.1+k3s1
 ```
 
 **Ein Pod ohne Controller blockiert den Drain:**
 
 ```bash
-kubectl drain tuxcodex-srv --ignore-daemonsets
+kubectl drain tuxdex-srv --ignore-daemonsets
 ```
 
 ```text
-node/tuxcodex-srv already cordoned
-error: unable to drain node "tuxcodex-srv" due to error: cannot delete cannot delete Pods that declare no controller (use --force to override): status/broken, continuing command...
+node/tuxdex-srv already cordoned
+error: unable to drain node "tuxdex-srv" due to error: cannot delete cannot delete Pods that declare no controller (use --force to override): status/broken, continuing command...
 There are pending nodes to be drained:
- tuxcodex-srv
+ tuxdex-srv
 cannot delete cannot delete Pods that declare no controller (use --force to override): status/broken
 ```
 
 **Den Node nach der Wartung freigeben:**
 
 ```bash
-kubectl uncordon tuxcodex-srv
+kubectl uncordon tuxdex-srv
 ```
 
 ```text
-node/tuxcodex-srv uncordoned
+node/tuxdex-srv uncordoned
 ```
 
 ## Wann brauche ich das?
@@ -97,7 +97,7 @@ node/tuxcodex-srv uncordoned
 
 !!! warning "Ein Node: drain heißt Ausfall"
     Mit nur einem Node gibt es keinen Ort, an den die Pods umziehen können. Sie stehen bis
-    zum `kubectl uncordon`, auf `tuxcodex-srv` ist drain also ein geplanter Ausfall.
+    zum `kubectl uncordon`, auf `tuxdex-srv` ist drain also ein geplanter Ausfall.
 
 ## Verwandte Befehle
 

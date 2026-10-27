@@ -49,7 +49,7 @@ ssh nox@192.0.2.10 hostname
 
 ```text
 Enter passphrase for key '/home/nox/.ssh/id_ed25519':
-tuxcodex-srv
+tuxdex-srv
 ```
 
 **The key is already on the server:**
@@ -77,7 +77,7 @@ ssh-copy-id -n nox@192.0.2.10
 =-=-=-=-=-=-=-=
 Would have added the following key(s):
 
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAWZDtTcIe235G0EzeAQj/BESDJnWT39gRghXyiMZZal nox@tuxcodex-srv
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAWZDtTcIe235G0EzeAQj/BESDJnWT39gRghXyiMZZal nox@tuxdex-srv
 =-=-=-=-=-=-=-=
 ```
 
@@ -88,7 +88,7 @@ ssh nox@192.0.2.10 cat .ssh/authorized_keys
 ```
 
 ```text
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAWZDtTcIe235G0EzeAQj/BESDJnWT39gRghXyiMZZal nox@tuxcodex-srv
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAWZDtTcIe235G0EzeAQj/BESDJnWT39gRghXyiMZZal nox@tuxdex-srv
 ```
 
 ## When do I need it?

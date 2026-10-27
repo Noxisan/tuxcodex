@@ -43,7 +43,7 @@ jq . status.json
 
 ```text
 {
-  "server": "tuxcodex-srv",
+  "server": "tuxdex-srv",
   "uptime_days": 12,
   "services": [
     {
@@ -72,10 +72,10 @@ jq -r '.server' status.json
 ```
 
 ```text
-tuxcodex-srv
+tuxdex-srv
 ```
 
-Without `-r`, the result would be `"tuxcodex-srv"` with quotes.
+Without `-r`, the result would be `"tuxdex-srv"` with quotes.
 
 **Get a value from every element of a list:**
 

@@ -74,7 +74,7 @@ Repository has not changed, quitting: ...
 **Das Playbook im Repository:**
 
 ```bash
-cat ~/.ansible/pull/tuxcodex-srv/local.yml
+cat ~/.ansible/pull/tuxdex-srv/local.yml
 ```
 
 ```text

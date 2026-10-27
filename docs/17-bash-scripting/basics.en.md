@@ -28,9 +28,9 @@ in `/usr/local/bin/`, then they can be called by name.
 ## Variables
 
 ```text
-$ name="tuxcodex-srv"
+$ name="tuxdex-srv"
 $ echo "Host: $name"
-Host: tuxcodex-srv
+Host: tuxdex-srv
 ```
 
 No spaces around `=`. Read a variable with `$name` or `${name}`, and save the output of a
@@ -40,7 +40,7 @@ command with `$(command)`: `today=$(date +%F)`.
 
 | Quotes | Effect | Example | Result |
 |--------|--------|---------|--------|
-| `"…"` | Variables are expanded, spaces stay together | `"Host: $name"` | `Host: tuxcodex-srv` |
+| `"…"` | Variables are expanded, spaces stay together | `"Host: $name"` | `Host: tuxdex-srv` |
 | `'…'` | Everything stays literal | `'Host: $name'` | `Host: $name` |
 | none | Words are split at spaces | `ls $file` with `file="old backup.tar.gz"` | `ls` gets two arguments |
 

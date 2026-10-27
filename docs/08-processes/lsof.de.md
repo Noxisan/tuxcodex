@@ -35,7 +35,7 @@ COMMAND PID     USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
 nginx   812     root    6u  IPv4  21843      0t0  TCP *:http (LISTEN)
 nginx   812     root    7u  IPv6  21844      0t0  TCP *:http (LISTEN)
 nginx   813 www-data    6u  IPv4  21843      0t0  TCP *:http (LISTEN)
-nginx   813 www-data   12u  IPv4  48211      0t0  TCP tuxcodex-srv:http->192.0.2.45:51732 (ESTABLISHED)
+nginx   813 www-data   12u  IPv4  48211      0t0  TCP tuxdex-srv:http->192.0.2.45:51732 (ESTABLISHED)
 ```
 
 | Spalte | Bedeutung |

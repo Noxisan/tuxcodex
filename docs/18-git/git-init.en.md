@@ -72,7 +72,7 @@ sudo chown -R nox: /srv/git/scripts.git
 Initialized empty Git repository in /srv/git/scripts.git/
 ```
 
-Others clone it over SSH with `git clone nox@tuxcodex-srv:/srv/git/scripts.git`.
+Others clone it over SSH with `git clone nox@tuxdex-srv:/srv/git/scripts.git`.
 
 ## When do I need it?
 

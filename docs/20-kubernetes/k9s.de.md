@@ -76,8 +76,8 @@ CPU:     11%                                                  <s>      Shell    
 MEM:     18%
 ┌──────────────────────────────────── Pods(status)[2] ────────────────────────────────────┐
 │ NAME↑                  PF  READY  STATUS    RESTARTS  CPU  MEM  IP          NODE         │
-│ web-9bc5f7f5b-8ptw2    ●   1/1    Running          0    3   12  10.42.0.9   tuxcodex-srv │
-│ web-9bc5f7f5b-m8l96    ●   1/1    Running          0    3   12  10.42.0.10  tuxcodex-srv │
+│ web-9bc5f7f5b-8ptw2    ●   1/1    Running          0    3   12  10.42.0.9   tuxdex-srv │
+│ web-9bc5f7f5b-m8l96    ●   1/1    Running          0    3   12  10.42.0.10  tuxdex-srv │
 │                                                                                         │
 └─────────────────────────────────────────────────────────────────────────────────────────┘
   <pod>

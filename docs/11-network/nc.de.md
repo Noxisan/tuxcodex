@@ -82,11 +82,11 @@ nc -l 9000
 ```
 
 ```text
-hello from tuxcodex-srv
+hello from tuxdex-srv
 ```
 
 Auf dem ersten Server wartet `nc -l 9000` auf eine Verbindung. Auf dem zweiten schickt
-`echo "hello from tuxcodex-srv" | nc -N 192.0.2.10 9000` eine Zeile. Kommt sie an, ist der
+`echo "hello from tuxdex-srv" | nc -N 192.0.2.10 9000` eine Zeile. Kommt sie an, ist der
 Weg zwischen den Servern offen, samt aller Firewalls.
 
 ## Wann brauche ich das?

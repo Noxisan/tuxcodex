@@ -56,7 +56,7 @@ sudo lvdisplay vg_data/lv_srv
   VG Name                vg_data
   LV UUID                9ciwx5-BCQV-RnST-pBr7-eGxZ-SLBE-Jaz9dm
   LV Write Access        read/write
-  LV Creation host, time tuxcodex-srv, 2026-09-18 09:41:22 +0200
+  LV Creation host, time tuxdex-srv, 2026-09-18 09:41:22 +0200
   LV Status              available
   # open                 1
   LV Size                30.00 GiB

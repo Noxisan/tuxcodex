@@ -16,7 +16,7 @@ Linux shows every disk as a file in `/dev`:
 | `/dev/sda1`, `/dev/nvme0n1p1` | The first partition on that disk |
 | `/dev/mapper/vg_data-lv_srv` | A logical volume of LVM |
 
-On the example server `tuxcodex-srv`, the system disk `sda` has three partitions, the
+On the example server `tuxdex-srv`, the system disk `sda` has three partitions, the
 backup disk `sdb` one, and the disk `sdc` belongs to LVM.
 
 ## Partition tables

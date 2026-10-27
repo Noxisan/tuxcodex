@@ -16,7 +16,7 @@ Linux zeigt jede Platte als Datei in `/dev`:
 | `/dev/sda1`, `/dev/nvme0n1p1` | Die erste Partition auf dieser Platte |
 | `/dev/mapper/vg_data-lv_srv` | Ein logisches Volume von LVM |
 
-Auf dem Beispielserver `tuxcodex-srv` hat die Systemplatte `sda` drei Partitionen, die
+Auf dem Beispielserver `tuxdex-srv` hat die Systemplatte `sda` drei Partitionen, die
 Backup-Platte `sdb` eine, und die Platte `sdc` gehört zu LVM.
 
 ## Partitionstabellen

@@ -32,7 +32,7 @@ docker logs --tail 4 web
 2026/10/26 09:41:52 [notice] 1#1: start worker process 29
 2026/10/26 09:41:52 [notice] 1#1: start worker process 30
 198.51.100.23 - - [26/Oct/2026:09:42:10 +0000] "GET / HTTP/1.1" 200 615 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" "-"
-198.51.100.23 - - [26/Oct/2026:09:42:10 +0000] "GET /favicon.ico HTTP/1.1" 404 153 "http://tuxcodex-srv:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" "-"
+198.51.100.23 - - [26/Oct/2026:09:42:10 +0000] "GET /favicon.ico HTTP/1.1" 404 153 "http://tuxdex-srv:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" "-"
 ```
 
 **Neue Zeilen live verfolgen:**

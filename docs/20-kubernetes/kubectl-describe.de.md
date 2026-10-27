@@ -14,7 +14,7 @@ kubectl describe TYP NAME [-n NAMESPACE]
 
 | Option | Beschreibung |
 |--------|--------------|
-| `TYP NAME` | Etwa `pod web-9bc5f7f5b-8ptw2`, `deploy web` oder `node tuxcodex-srv` |
+| `TYP NAME` | Etwa `pod web-9bc5f7f5b-8ptw2`, `deploy web` oder `node tuxdex-srv` |
 | `TYP/NAME` | Dasselbe in einem Wort geschrieben |
 | `-n NAMESPACE` | Namespace des Objekts |
 | `-l LABEL=WERT` | Alle Objekte mit diesem Label beschreiben |
@@ -30,7 +30,7 @@ kubectl describe pod broken -n status | tail -7
 ```text
   Type     Reason     Age   From               Message
   ----     ------     ----  ----               -------
-  Normal   Scheduled  15s   default-scheduler  Successfully assigned status/broken to tuxcodex-srv
+  Normal   Scheduled  15s   default-scheduler  Successfully assigned status/broken to tuxdex-srv
   Normal   Pulling    14s   kubelet            Pulling image "nginx:9.99"
   Warning  Failed     14s   kubelet            Failed to pull image "nginx:9.99": rpc error: code = NotFound desc = failed to pull and unpack image "docker.io/library/nginx:9.99": failed to resolve reference "docker.io/library/nginx:9.99": docker.io/library/nginx:9.99: not found
   Warning  Failed     14s   kubelet            Error: ErrImagePull
@@ -48,7 +48,7 @@ Name:             web-9bc5f7f5b-8ptw2
 Namespace:        status
 Priority:         0
 Service Account:  default
-Node:             tuxcodex-srv/192.0.2.10
+Node:             tuxdex-srv/192.0.2.10
 Start Time:       Mon, 26 Oct 2026 08:41:13 +0100
 Labels:           app=web
                   pod-template-hash=9bc5f7f5b
@@ -82,7 +82,7 @@ Containers:
 **Reservierte Ressourcen eines Nodes:**
 
 ```bash
-kubectl describe node tuxcodex-srv | grep -A 7 'Allocated resources'
+kubectl describe node tuxdex-srv | grep -A 7 'Allocated resources'
 ```
 
 ```text

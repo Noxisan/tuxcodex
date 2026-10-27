@@ -61,7 +61,7 @@ sudo kubectl get nodes -o wide
 
 ```text
 NAME           STATUS   ROLES           AGE   VERSION        INTERNAL-IP   EXTERNAL-IP   OS-IMAGE                       KERNEL-VERSION        CONTAINER-RUNTIME
-tuxcodex-srv   Ready    control-plane   2m    v1.34.1+k3s1   192.0.2.10    <none>        Debian GNU/Linux 13 (trixie)   6.12.48+deb13-amd64   containerd://2.1.4-k3s2
+tuxdex-srv     Ready    control-plane   2m    v1.34.1+k3s1   192.0.2.10    <none>        Debian GNU/Linux 13 (trixie)   6.12.48+deb13-amd64   containerd://2.1.4-k3s2
 ```
 
 **Der Dienst und die Version:**

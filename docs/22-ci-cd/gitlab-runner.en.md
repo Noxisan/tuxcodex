@@ -32,7 +32,7 @@ The runner itself runs as the systemd service `gitlab-runner`. Its configuration
 ```bash
 sudo gitlab-runner register --non-interactive \
   --url https://gitlab.example.com --token glrt-t3_Xq7mP2vKzR9wLc4N8aYb \
-  --executor docker --docker-image debian:trixie --description tuxcodex-srv
+  --executor docker --docker-image debian:trixie --description tuxdex-srv
 ```
 
 ```text
@@ -54,7 +54,7 @@ sudo gitlab-runner list
 ```text
 Runtime platform                                    arch=amd64 os=linux pid=24901 revision=f411f264 version=19.5.1
 Listing configured runners                          ConfigFile=/etc/gitlab-runner/config.toml
-tuxcodex-srv                                        Executor=docker Token=glrt-t3_Xq7mP2vKzR9wLc4N8aYb URL=https://gitlab.example.com
+tuxdex-srv                                          Executor=docker Token=glrt-t3_Xq7mP2vKzR9wLc4N8aYb URL=https://gitlab.example.com
 ```
 
 **Check that the runner still reaches GitLab:**

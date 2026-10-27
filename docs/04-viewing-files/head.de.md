@@ -53,7 +53,7 @@ head -n 1 /etc/hostname /etc/os-release
 
 ```text
 ==> /etc/hostname <==
-tuxcodex-srv
+tuxdex-srv
 
 ==> /etc/os-release <==
 PRETTY_NAME="Debian GNU/Linux 13 (trixie)"

@@ -15,14 +15,14 @@ ein Server ausfällt.
 | [`helm`](helm.md) | Paketmanager für fertige Anwendungen (Charts) | Dort, wo du `kubectl` nutzt |
 | [`k9s`](k9s.md) | Oberfläche im Terminal, um den Cluster zu durchsuchen und zu verwalten | Optional, dort, wo du `kubectl` nutzt |
 
-Auf dem Beispielserver `tuxcodex-srv` läuft ein Cluster mit einem einzigen Node auf Basis
+Auf dem Beispielserver `tuxdex-srv` läuft ein Cluster mit einem einzigen Node auf Basis
 von k3s. Mehr brauchst du zum Üben nicht, `kubectl` ist schon dabei.
 
 ```text
 $ curl -sfL https://get.k3s.io | sh -
 $ sudo kubectl get nodes
 NAME           STATUS   ROLES           AGE   VERSION
-tuxcodex-srv   Ready    control-plane   42s   v1.34.1+k3s1
+tuxdex-srv     Ready    control-plane   42s   v1.34.1+k3s1
 ```
 
 So installierst du die Werkzeuge auf den einzelnen Distributionen:

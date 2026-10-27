@@ -24,9 +24,9 @@ from PIL import Image, ImageDraw, ImageFont
 DOCS = Path(__file__).resolve().parent.parent / "docs"
 
 USER = "nox"
-HOST = "tuxcodex-srv"
+HOST = "tuxdex-srv"
 
-# Colours match docs/stylesheets/tuxcodex.css
+# Colours match docs/stylesheets/tuxdex.css
 BG = "#161a21"
 TITLE_BG = "#1f242d"
 BORDER = "#262b35"

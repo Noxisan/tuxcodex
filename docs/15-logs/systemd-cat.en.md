@@ -30,9 +30,9 @@ journalctl -t backup --since "5 min ago"
 ```
 
 ```text
-Oct 26 10:42:17 tuxcodex-srv backup[4430]: dumping database shop
-Oct 26 10:42:51 tuxcodex-srv backup[4430]: compressing /srv/www
-Oct 26 10:43:02 tuxcodex-srv backup[4430]: tar: /mnt/backup/www.tar.gz: Cannot open: No space left on device
+Oct 26 10:42:17 tuxdex-srv backup[4430]: dumping database shop
+Oct 26 10:42:51 tuxdex-srv backup[4430]: compressing /srv/www
+Oct 26 10:43:02 tuxdex-srv backup[4430]: tar: /mnt/backup/www.tar.gz: Cannot open: No space left on device
 ```
 
 **Only the errors of the run:**
@@ -42,7 +42,7 @@ journalctl -t backup -p err --since "5 min ago"
 ```
 
 ```text
-Oct 26 10:43:02 tuxcodex-srv backup[4430]: tar: /mnt/backup/www.tar.gz: Cannot open: No space left on device
+Oct 26 10:43:02 tuxdex-srv backup[4430]: tar: /mnt/backup/www.tar.gz: Cannot open: No space left on device
 ```
 
 **Send the output of a pipe to the journal:**
@@ -53,8 +53,8 @@ journalctl -t diskcheck -n 2
 ```
 
 ```text
-Oct 26 10:43:10 tuxcodex-srv diskcheck[4442]: Filesystem      Size  Used Avail Use% Mounted on
-Oct 26 10:43:10 tuxcodex-srv diskcheck[4442]: /dev/sdb1        98G   98G     0 100% /mnt/backup
+Oct 26 10:43:10 tuxdex-srv diskcheck[4442]: Filesystem      Size  Used Avail Use% Mounted on
+Oct 26 10:43:10 tuxdex-srv diskcheck[4442]: /dev/sdb1        98G   98G     0 100% /mnt/backup
 ```
 
 ## When do I need it?

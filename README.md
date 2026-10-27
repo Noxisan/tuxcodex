@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="docs/assets/logo-hero.png" alt="TuxCodex logo" width="58%">
+<img src="docs/assets/logo-hero.png" alt="TuxDex logo" width="58%">
 
-[![Deploy](https://github.com/Noxisan/tuxcodex/actions/workflows/deploy.yml/badge.svg)](https://github.com/Noxisan/tuxcodex/actions/workflows/deploy.yml)
-[![Website](https://img.shields.io/badge/read-noxisan.github.io%2Ftuxcodex-7af7b9?labelColor=161a21)](https://noxisan.github.io/tuxcodex/)
+[![Deploy](https://github.com/Noxisan/tuxdex/actions/workflows/deploy.yml/badge.svg)](https://github.com/Noxisan/tuxdex/actions/workflows/deploy.yml)
+[![Website](https://img.shields.io/badge/read-noxisan.github.io%2Ftuxdex-7af7b9?labelColor=161a21)](https://noxisan.github.io/tuxdex/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-7af7b9?labelColor=161a21)](LICENSE)
 
 ### Linux commands. Real-world examples. No guesswork.
@@ -20,15 +20,15 @@ English · German
 
 Built by [Nox](https://github.com/Noxisan)
 
-### [🇬🇧 Read TuxCodex](https://noxisan.github.io/tuxcodex/) &nbsp;&nbsp;·&nbsp;&nbsp; [🇩🇪 TuxCodex lesen](https://noxisan.github.io/tuxcodex/de/)
+### [🇬🇧 Read TuxDex](https://noxisan.github.io/tuxdex/) &nbsp;&nbsp;·&nbsp;&nbsp; [🇩🇪 TuxDex lesen](https://noxisan.github.io/tuxdex/de/)
 
 </div>
 
 ---
 
-## What is TuxCodex?
+## What is TuxDex?
 
-TuxCodex is a reference for everyone who works on Linux servers: one page per command,
+TuxDex is a reference for everyone who works on Linux servers: one page per command,
 built from what you actually need when you are logged in via SSH and something has to
 work. It covers Debian, Ubuntu, RHEL (including Rocky and Alma) and Arch, and shows
 where they differ.

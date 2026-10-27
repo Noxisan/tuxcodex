@@ -27,7 +27,7 @@ ssh-keygen [OPTION]...
 **Ein neues Schlüsselpaar erzeugen:**
 
 ```bash
-ssh-keygen -t ed25519 -C "nox@tuxcodex-srv"
+ssh-keygen -t ed25519 -C "nox@tuxdex-srv"
 ```
 
 ```text
@@ -39,7 +39,7 @@ Enter same passphrase again:
 Your identification has been saved in /home/nox/.ssh/id_ed25519
 Your public key has been saved in /home/nox/.ssh/id_ed25519.pub
 The key fingerprint is:
-SHA256:MH9iiNBiK1fYLz4X57tGWkD2uYd7TpgABke1SUynK1k nox@tuxcodex-srv
+SHA256:MH9iiNBiK1fYLz4X57tGWkD2uYd7TpgABke1SUynK1k nox@tuxdex-srv
 The key's randomart image is:
 +--[ED25519 256]--+
 |  ..o++ .        |
@@ -79,7 +79,7 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 ```text
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAWZDtTcIe235G0EzeAQj/BESDJnWT39gRghXyiMZZal nox@tuxcodex-srv
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAWZDtTcIe235G0EzeAQj/BESDJnWT39gRghXyiMZZal nox@tuxdex-srv
 ```
 
 **Den Fingerprint eines Schlüssels anzeigen:**
@@ -89,7 +89,7 @@ ssh-keygen -lf ~/.ssh/id_ed25519.pub
 ```
 
 ```text
-256 SHA256:MH9iiNBiK1fYLz4X57tGWkD2uYd7TpgABke1SUynK1k nox@tuxcodex-srv (ED25519)
+256 SHA256:MH9iiNBiK1fYLz4X57tGWkD2uYd7TpgABke1SUynK1k nox@tuxdex-srv (ED25519)
 ```
 
 **Die Passphrase ändern:**
@@ -100,7 +100,7 @@ ssh-keygen -p -f ~/.ssh/id_ed25519
 
 ```text
 Enter old passphrase:
-Key has comment 'nox@tuxcodex-srv'
+Key has comment 'nox@tuxdex-srv'
 Enter new passphrase (empty for no passphrase):
 Enter same passphrase again:
 Your identification has been saved with the new passphrase.

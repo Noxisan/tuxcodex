@@ -34,7 +34,7 @@ hostnamectl
 ```
 
 ```text
- Static hostname: tuxcodex-srv
+ Static hostname: tuxdex-srv
        Icon name: computer-vm
          Chassis: vm 🖴
       Machine ID: 0123456789abcdef0123456789abcdef
@@ -50,12 +50,12 @@ Operating System: Debian GNU/Linux 13 (trixie)
 **Set the host name permanently and check it:**
 
 ```bash
-sudo hostnamectl hostname tuxcodex-srv
+sudo hostnamectl hostname tuxdex-srv
 hostnamectl hostname
 ```
 
 ```text
-tuxcodex-srv
+tuxdex-srv
 ```
 
 **Label the server as a production system:**
@@ -66,7 +66,7 @@ hostnamectl | grep -E 'Static|Deployment'
 ```
 
 ```text
- Static hostname: tuxcodex-srv
+ Static hostname: tuxdex-srv
       Deployment: production
 ```
 
@@ -91,7 +91,7 @@ hostnamectl | grep -E 'Static|Deployment'
     `unable to resolve host`:
 
     ```text
-    127.0.1.1   tuxcodex-srv.example.com tuxcodex-srv
+    127.0.1.1   tuxdex-srv.example.com tuxdex-srv
     ```
 
 ## Related commands

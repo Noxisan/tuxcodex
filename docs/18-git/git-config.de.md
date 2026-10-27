@@ -98,7 +98,7 @@ Run
 to set your account's default identity.
 Omit --global to set the identity only in this repository.
 
-fatal: unable to auto-detect email address (got 'nox@tuxcodex-srv.(none)')
+fatal: unable to auto-detect email address (got 'nox@tuxdex-srv.(none)')
 ```
 
 ## Wann brauche ich das?

@@ -81,11 +81,11 @@ nc -l 9000
 ```
 
 ```text
-hello from tuxcodex-srv
+hello from tuxdex-srv
 ```
 
 On the first server, `nc -l 9000` waits for a connection. On the second,
-`echo "hello from tuxcodex-srv" | nc -N 192.0.2.10 9000` sends a line. If it arrives,
+`echo "hello from tuxdex-srv" | nc -N 192.0.2.10 9000` sends a line. If it arrives,
 the way between the servers is open, including all firewalls.
 
 ## When do I need it?

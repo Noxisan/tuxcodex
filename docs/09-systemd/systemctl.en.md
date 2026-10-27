@@ -53,8 +53,8 @@ systemctl status nginx
              ├─813 "nginx: worker process"
              └─814 "nginx: worker process"
 
-Oct 14 07:37:21 tuxcodex-srv systemd[1]: Starting nginx.service - A high performance web server and a reverse proxy server...
-Oct 14 07:37:21 tuxcodex-srv systemd[1]: Started nginx.service - A high performance web server and a reverse proxy server.
+Oct 14 07:37:21 tuxdex-srv systemd[1]: Starting nginx.service - A high performance web server and a reverse proxy server...
+Oct 14 07:37:21 tuxdex-srv systemd[1]: Started nginx.service - A high performance web server and a reverse proxy server.
 ```
 
 | Line | Meaning |
