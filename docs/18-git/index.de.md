@@ -124,3 +124,15 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
     Commits auf einen anderen Branch versetzen.
 
 </div>
+
+## Zusammenarbeit über einen Server
+
+<div class="grid cards" markdown>
+
+-   :material-server-network:{ .lg .middle } **[git remote](git-remote.md)**
+
+    ---
+
+    Verbindungen zu Git-Servern verwalten.
+
+</div>

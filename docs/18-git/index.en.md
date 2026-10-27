@@ -124,3 +124,15 @@ the history, working with branches and sharing a repository with a Git server.
     Move commits onto another branch.
 
 </div>
+
+## Working with a server
+
+<div class="grid cards" markdown>
+
+-   :material-server-network:{ .lg .middle } **[git remote](git-remote.md)**
+
+    ---
+
+    Manage connections to Git servers.
+
+</div>
