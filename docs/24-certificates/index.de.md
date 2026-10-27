@@ -34,4 +34,10 @@ für Backups und Übertragungen verschlüsseln.
 
     Namen, Gültigkeit und Fingerabdrücke.
 
+-   :material-shield-search:{ .lg .middle } **[testssl.sh](testssl.md)**
+
+    ---
+
+    Vollständige TLS-Prüfung mit Note.
+
 </div>

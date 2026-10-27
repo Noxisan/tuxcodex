@@ -34,4 +34,10 @@ for backups and transfers.
 
     Names, validity and fingerprints.
 
+-   :material-shield-search:{ .lg .middle } **[testssl.sh](testssl.md)**
+
+    ---
+
+    Full TLS check with a grade.
+
 </div>
