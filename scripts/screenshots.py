@@ -42,11 +42,13 @@ PAD_X = 20 * SCALE
 PAD_Y = 16 * SCALE
 TITLE_H = 34 * SCALE
 MIN_COLS = 72
+EMOJI_SIZE = 109
 
 # Working directory the first example runs in, if not the home directory
 START_DIR = {
     "18-git": "/home/nox/scripts",
     "21-ansible": "/home/nox/ansible",
+    "22-ci-cd": "/home/nox/status-page",
 }
 START_IN_HOME = {"git-config", "git-init", "git-clone", "ansible-pull"}
 
@@ -69,15 +71,37 @@ class Fonts:
         self.bold = ImageFont.truetype(font_file("monospace:style=Bold"), FONT_SIZE)
         self.cell = self.regular.getlength("M")
         self.fallbacks = {}
+        self.emoji = set()
 
     def for_char(self, ch, bold=False):
         base = self.bold if bold else self.regular
         if ord(ch) < 0x2500:
             return base
         if ch not in self.fallbacks:
-            path = font_file(f":charset={ord(ch):x}")
-            self.fallbacks[ch] = ImageFont.truetype(path, FONT_SIZE) if path else base
+            # Characters that terminals draw as colour emoji (act uses ⭐, ✅ and ❌)
+            prefix = "emoji" if ord(ch) >= 0x1F000 or ch in "⭐✅❌⏳⚡" else ""
+            path = font_file(f"{prefix}:charset={ord(ch):x}")
+            try:
+                self.fallbacks[ch] = ImageFont.truetype(path, FONT_SIZE) if path else base
+            except OSError:
+                # Colour emoji fonts are bitmap fonts with a single fixed size
+                self.fallbacks[ch] = ImageFont.truetype(path, EMOJI_SIZE)
+                self.emoji.add(ch)
         return self.fallbacks[ch]
+
+    def width(self, text):
+        """Terminal cells a text takes: colour emoji are two cells wide."""
+        for ch in text:
+            self.for_char(ch)
+        return sum(2 if ch in self.emoji else 1 for ch in text)
+
+    def draw_emoji(self, img, ch, x, y):
+        glyph = Image.new("RGBA", (EMOJI_SIZE * 2, EMOJI_SIZE * 2))
+        ImageDraw.Draw(glyph).text((0, 0), ch, font=self.fallbacks[ch], embedded_color=True)
+        glyph = glyph.crop(glyph.getbbox())
+        size = int(FONT_SIZE * 1.05)
+        glyph = glyph.resize((size, size), Image.LANCZOS)
+        img.paste(glyph, (int(x + (2 * self.cell - size) / 2), int(y + 2 * SCALE)), glyph)
 
 
 def first_example(page):
@@ -156,7 +180,7 @@ def render(commands, output, target, fonts, cwd=None):
     prompt = shell.prompt()
     lines.append(prompt)
 
-    cols = max(MIN_COLS, *(sum(len(t) for t, _, _ in line) for line in lines))
+    cols = max(MIN_COLS, *(sum(fonts.width(t) for t, _, _ in line) for line in lines))
     width = int(cols * fonts.cell) + 2 * PAD_X
     height = TITLE_H + 2 * PAD_Y + len(lines) * LINE_HEIGHT
 
@@ -177,8 +201,12 @@ def render(commands, output, target, fonts, cwd=None):
         col = 0
         for segment, colour, bold in line:
             for ch in segment:
-                draw.text((PAD_X + col * fonts.cell, y), ch,
-                          font=fonts.for_char(ch, bold), fill=colour)
+                font = fonts.for_char(ch, bold)
+                if ch in fonts.emoji:
+                    fonts.draw_emoji(img, ch, PAD_X + col * fonts.cell, y)
+                    col += 2
+                    continue
+                draw.text((PAD_X + col * fonts.cell, y), ch, font=font, fill=colour)
                 col += 1
         y += LINE_HEIGHT
     # Cursor after the final prompt
