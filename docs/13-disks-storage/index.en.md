@@ -69,6 +69,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Show and edit partition tables.
 
+-   :material-view-split-vertical:{ .lg .middle } **[parted](parted.md)**
+
+    ---
+
+    Partition in one command line.
+
 </div>
 
 ## Mount

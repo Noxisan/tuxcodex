@@ -247,6 +247,7 @@ nav:
       - du: 13-disks-storage/du.md
       - ncdu: 13-disks-storage/ncdu.md
       - fdisk: 13-disks-storage/fdisk.md
+      - parted: 13-disks-storage/parted.md
 
 markdown_extensions:
   - admonition

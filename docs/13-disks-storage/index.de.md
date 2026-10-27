@@ -69,6 +69,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Partitionstabellen anzeigen und bearbeiten.
 
+-   :material-view-split-vertical:{ .lg .middle } **[parted](parted.md)**
+
+    ---
+
+    In einer Befehlszeile partitionieren.
+
 </div>
 
 ## Einhängen
