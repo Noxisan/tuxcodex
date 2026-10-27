@@ -123,4 +123,10 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
 <div class="grid cards" markdown>
 
+-   :material-cog-outline:{ .lg .middle } **[set](set.md)**
+
+    ---
+
+    Bei Fehlern abbrechen, Skripte untersuchen.
+
 </div>

@@ -123,4 +123,10 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
 <div class="grid cards" markdown>
 
+-   :material-cog-outline:{ .lg .middle } **[set](set.md)**
+
+    ---
+
+    Stop on errors, debug scripts.
+
 </div>
