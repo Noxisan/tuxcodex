@@ -57,4 +57,10 @@ permissions are right, and how to fix it properly instead of switching the prote
 
     Reset file labels.
 
+-   :material-toggle-switch-off-outline:{ .lg .middle } **[setsebool](setsebool.md)**
+
+    ---
+
+    Switch ready-made exceptions.
+
 </div>

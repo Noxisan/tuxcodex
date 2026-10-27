@@ -442,6 +442,7 @@ nav:
       - sestatus: 25-selinux-apparmor/sestatus.md
       - semanage: 25-selinux-apparmor/semanage.md
       - restorecon: 25-selinux-apparmor/restorecon.md
+      - setsebool: 25-selinux-apparmor/setsebool.md
 
 markdown_extensions:
   - admonition

@@ -57,4 +57,10 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
 
     Datei-Labels zurücksetzen.
 
+-   :material-toggle-switch-off-outline:{ .lg .middle } **[setsebool](setsebool.md)**
+
+    ---
+
+    Fertige Ausnahmen schalten.
+
 </div>
