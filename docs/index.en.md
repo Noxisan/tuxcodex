@@ -196,6 +196,12 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Fixing "Permission denied" properly instead of switching the protection off.
 
+-   :material-vpn:{ .lg .middle } **[VPN with WireGuard](26-wireguard/index.md)**
+
+    ---
+
+    Encrypted tunnels between servers and admin machines, SSH only through the VPN.
+
 </div>
 
 ## All commands

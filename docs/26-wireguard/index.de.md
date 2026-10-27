@@ -34,3 +34,33 @@ Server und Clients einrichten und Admin-Dienste nur noch über das VPN erreichba
     Tunnel auf- und abbauen, beim Start hochfahren.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-lan:{ .lg .middle } **[ip](../11-network/ip.md)**
+
+    ---
+
+    `ip address show wg0` und `ip route` zeigen das Tunnel-Interface und seine Routen. Behandelt im Kapitel Netzwerk.
+
+-   :material-wall-fire:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    UDP-Port 51820 öffnen und SSH nur über `wg0` erlauben. Behandelt im Kapitel Netzwerk.
+
+-   :material-console-network:{ .lg .middle } **[ssh](../12-ssh/ssh.md)**
+
+    ---
+
+    Über den Tunnel zu `10.8.0.1` verbinden, sobald SSH zum Internet geschlossen ist. Behandelt im Kapitel SSH.
+
+-   :material-dns-outline:{ .lg .middle } **[resolvectl](../11-network/resolvectl.md)**
+
+    ---
+
+    Prüfen, welcher DNS-Server gilt, während der Tunnel steht. Behandelt im Kapitel Netzwerk.
+
+</div>

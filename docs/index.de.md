@@ -196,6 +196,12 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     „Permission denied“ richtig beheben, statt den Schutz abzuschalten.
 
+-   :material-vpn:{ .lg .middle } **[VPN mit WireGuard](26-wireguard/index.md)**
+
+    ---
+
+    Verschlüsselte Tunnel zwischen Servern und Admin-Rechnern, SSH nur über das VPN.
+
 </div>
 
 ## Alle Befehle
