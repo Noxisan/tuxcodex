@@ -63,4 +63,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Save changes in the history.
 
+-   :material-file-compare:{ .lg .middle } **[git diff](git-diff.md)**
+
+    ---
+
+    Show changes line by line.
+
 </div>

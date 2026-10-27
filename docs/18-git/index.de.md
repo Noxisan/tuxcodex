@@ -63,4 +63,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Änderungen im Verlauf speichern.
 
+-   :material-file-compare:{ .lg .middle } **[git diff](git-diff.md)**
+
+    ---
+
+    Änderungen Zeile für Zeile zeigen.
+
 </div>
