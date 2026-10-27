@@ -27,4 +27,10 @@ Rootkits und Schadsoftware, veränderte Systemdateien und verwundbare Container-
 
     Offene Ports, Dienste und Versionen.
 
+-   :material-web:{ .lg .middle } **[nikto](nikto.md)**
+
+    ---
+
+    Bekannte Probleme eines Webservers.
+
 </div>

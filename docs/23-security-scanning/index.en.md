@@ -27,4 +27,10 @@ hardening, rootkits and malware, changed system files and vulnerable container i
 
     Open ports, services and versions.
 
+-   :material-web:{ .lg .middle } **[nikto](nikto.md)**
+
+    ---
+
+    Known problems of a web server.
+
 </div>
