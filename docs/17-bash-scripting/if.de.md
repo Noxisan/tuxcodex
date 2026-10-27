@@ -87,4 +87,4 @@ fi
 
 ## Verwandte Befehle
 
-[test](test.md) · [case](case.md) · [exit](exit.md) · [for](for.md)
+[test](test.md) · [case](case.md) · [exit](exit.md) · [for](for.md) · [function](function.md)

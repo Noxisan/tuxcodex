@@ -105,6 +105,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
 <div class="grid cards" markdown>
 
+-   :material-function-variant:{ .lg .middle } **[function](function.md)**
+
+    ---
+
+    Benannte Befehlsblöcke.
+
 </div>
 
 ## Robuste Skripte

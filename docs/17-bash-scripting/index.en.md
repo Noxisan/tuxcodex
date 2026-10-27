@@ -105,6 +105,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
 <div class="grid cards" markdown>
 
+-   :material-function-variant:{ .lg .middle } **[function](function.md)**
+
+    ---
+
+    Named blocks of commands.
+
 </div>
 
 ## Robust scripts
