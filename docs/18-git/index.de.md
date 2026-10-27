@@ -94,3 +94,15 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
     Versionen wie v1.0 markieren.
 
 </div>
+
+## Branches
+
+<div class="grid cards" markdown>
+
+-   :material-source-branch:{ .lg .middle } **[git branch](git-branch.md)**
+
+    ---
+
+    Branches auflisten, anlegen und löschen.
+
+</div>

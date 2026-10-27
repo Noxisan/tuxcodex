@@ -94,3 +94,15 @@ the history, working with branches and sharing a repository with a Git server.
     Mark versions like v1.0.
 
 </div>
+
+## Branches
+
+<div class="grid cards" markdown>
+
+-   :material-source-branch:{ .lg .middle } **[git branch](git-branch.md)**
+
+    ---
+
+    List, create and delete branches.
+
+</div>

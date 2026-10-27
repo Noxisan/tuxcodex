@@ -331,6 +331,7 @@ nav:
       - git restore: 18-git/git-restore.md
       - git log: 18-git/git-log.md
       - git tag: 18-git/git-tag.md
+      - git branch: 18-git/git-branch.md
 
 markdown_extensions:
   - admonition
