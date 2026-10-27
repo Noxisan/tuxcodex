@@ -99,6 +99,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
 <div class="grid cards" markdown>
 
+-   :material-link-variant:{ .lg .middle } **[mount](mount.md)**
+
+    ---
+
+    Dateisysteme einhängen.
+
 </div>
 
 ## Prüfen und vergrößern

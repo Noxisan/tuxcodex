@@ -99,6 +99,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
 <div class="grid cards" markdown>
 
+-   :material-link-variant:{ .lg .middle } **[mount](mount.md)**
+
+    ---
+
+    Mount file systems.
+
 </div>
 
 ## Check and grow
