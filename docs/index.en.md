@@ -30,8 +30,6 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 </div>
 
-[:material-school-outline:{ .tc-basics-icon } **Basics:** New here? All introductions at a glance, from the file system to WireGuard :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
-
 ## Linux basics
 
 <div class="grid cards" markdown>
