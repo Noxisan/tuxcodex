@@ -21,6 +21,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
 <div class="grid cards" markdown>
 
+-   :material-message-text-outline:{ .lg .middle } **[echo](echo.md)**
+
+    ---
+
+    Print text and variables.
+
 </div>
 
 ## Variables and environment

@@ -21,6 +21,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
 <div class="grid cards" markdown>
 
+-   :material-message-text-outline:{ .lg .middle } **[echo](echo.md)**
+
+    ---
+
+    Text und Variablen ausgeben.
+
 </div>
 
 ## Variablen und Umgebung
