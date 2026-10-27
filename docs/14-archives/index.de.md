@@ -27,6 +27,12 @@ Kompressionsverfahren wählen und prüfen, ob eine Datei unbeschädigt angekomme
 
     Verzeichnisse packen und entpacken.
 
+-   :material-zip-box-outline:{ .lg .middle } **[zip](zip.md)**
+
+    ---
+
+    ZIP-Archive für Windows und macOS anlegen.
+
 </div>
 
 ## Komprimieren

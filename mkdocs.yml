@@ -267,6 +267,7 @@ nav:
       - 14-archives/index.md
       - Basics: 14-archives/basics.md
       - tar: 14-archives/tar.md
+      - zip: 14-archives/zip.md
 
 markdown_extensions:
   - admonition

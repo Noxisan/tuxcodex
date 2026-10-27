@@ -27,6 +27,12 @@ compression method and checking that a file arrived intact.
 
     Pack and unpack directories.
 
+-   :material-zip-box-outline:{ .lg .middle } **[zip](zip.md)**
+
+    ---
+
+    Create ZIP archives for Windows and macOS.
+
 </div>
 
 ## Compress
