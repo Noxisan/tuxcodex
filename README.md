@@ -64,7 +64,7 @@ Every command page has the same structure:
 | 16 | [Scheduling](https://noxisan.github.io/tuxcodex/16-scheduling/) | `crontab`, `at`, `anacron`, `flock`, … | ✅ 8 |
 | 17 | [Bash scripting](https://noxisan.github.io/tuxcodex/17-bash-scripting/) | `if`, `for`, `case`, `set`, `trap`, `shellcheck`, … | ✅ 16 |
 | 18 | [Git](https://noxisan.github.io/tuxcodex/18-git/) | `git commit`, `git log`, `git merge`, `git push`, … | ✅ 19 |
-| 19 | Docker | | 🚧 planned |
+| 19 | [Docker](https://noxisan.github.io/tuxcodex/19-docker/) | `docker run`, `docker logs`, `docker compose`, `podman`, … | ✅ 19 |
 | 20 | Kubernetes | `kubectl`, `helm`, `k3s` | 🚧 planned |
 | 21 | Ansible | | 🚧 planned |
 | 22 | CI/CD | | 🚧 planned |
