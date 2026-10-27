@@ -63,4 +63,10 @@ Rootkits und Schadsoftware, veränderte Systemdateien und verwundbare Container-
 
     Zweite Meinung zu Rootkits.
 
+-   :material-virus-outline:{ .lg .middle } **[clamscan](clamscan.md)**
+
+    ---
+
+    Dateien auf Schadsoftware prüfen.
+
 </div>

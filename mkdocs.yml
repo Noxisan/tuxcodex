@@ -416,6 +416,7 @@ nav:
       - lynis: 23-security-scanning/lynis.md
       - rkhunter: 23-security-scanning/rkhunter.md
       - chkrootkit: 23-security-scanning/chkrootkit.md
+      - clamscan: 23-security-scanning/clamscan.md
 
 markdown_extensions:
   - admonition

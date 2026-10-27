@@ -63,4 +63,10 @@ hardening, rootkits and malware, changed system files and vulnerable container i
 
     Second opinion on rootkits.
 
+-   :material-virus-outline:{ .lg .middle } **[clamscan](clamscan.md)**
+
+    ---
+
+    Scan files for malware.
+
 </div>
