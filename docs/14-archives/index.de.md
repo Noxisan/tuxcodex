@@ -75,4 +75,10 @@ Kompressionsverfahren wählen und prüfen, ob eine Datei unbeschädigt angekomme
 
 <div class="grid cards" markdown>
 
+-   :material-check-decagram-outline:{ .lg .middle } **[sha256sum](sha256sum.md)**
+
+    ---
+
+    Prüfsummen berechnen und prüfen.
+
 </div>

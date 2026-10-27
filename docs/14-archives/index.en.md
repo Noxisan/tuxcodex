@@ -75,4 +75,10 @@ compression method and checking that a file arrived intact.
 
 <div class="grid cards" markdown>
 
+-   :material-check-decagram-outline:{ .lg .middle } **[sha256sum](sha256sum.md)**
+
+    ---
+
+    Calculate and check checksums.
+
 </div>

@@ -273,6 +273,7 @@ nav:
       - bzip2: 14-archives/bzip2.md
       - xz: 14-archives/xz.md
       - zstd: 14-archives/zstd.md
+      - sha256sum: 14-archives/sha256sum.md
 
 markdown_extensions:
   - admonition

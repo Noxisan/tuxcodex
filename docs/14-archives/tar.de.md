@@ -128,4 +128,4 @@ www/index.html: Size differs
 
 ## Verwandte Befehle
 
-[gzip](gzip.md) · [zstd](zstd.md) · [zip](zip.md) · [rsync](../12-ssh/rsync.md) · [unzip](unzip.md) · [xz](xz.md)
+[gzip](gzip.md) · [zstd](zstd.md) · [zip](zip.md) · [rsync](../12-ssh/rsync.md) · [unzip](unzip.md) · [xz](xz.md) · [sha256sum](sha256sum.md)
