@@ -28,4 +28,10 @@ für Backups und Übertragungen verschlüsseln.
 
     Was ein Server ausliefert: Kette, Protokoll, Verschlüsselung.
 
+-   :material-card-account-details-outline:{ .lg .middle } **[openssl x509](openssl-x509.md)**
+
+    ---
+
+    Namen, Gültigkeit und Fingerabdrücke.
+
 </div>

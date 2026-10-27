@@ -28,4 +28,10 @@ for backups and transfers.
 
     What a server delivers: chain, protocol, cipher.
 
+-   :material-card-account-details-outline:{ .lg .middle } **[openssl x509](openssl-x509.md)**
+
+    ---
+
+    Names, validity and fingerprints.
+
 </div>

@@ -425,6 +425,7 @@ nav:
       - 24-certificates/index.md
       - Basics: 24-certificates/basics.md
       - openssl s_client: 24-certificates/openssl-s_client.md
+      - openssl x509: 24-certificates/openssl-x509.md
 
 markdown_extensions:
   - admonition
