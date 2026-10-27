@@ -360,6 +360,7 @@ nav:
       - docker volume: 19-docker/docker-volume.md
       - docker network: 19-docker/docker-network.md
       - docker compose: 19-docker/docker-compose.md
+      - docker system: 19-docker/docker-system.md
 
 markdown_extensions:
   - admonition

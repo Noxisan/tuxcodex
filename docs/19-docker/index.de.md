@@ -147,4 +147,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Mehrere Container aus einer compose.yaml betreiben.
 
+-   :material-broom:{ .lg .middle } **[docker system](docker-system.md)**
+
+    ---
+
+    Platzbedarf und Aufräumen.
+
 </div>
