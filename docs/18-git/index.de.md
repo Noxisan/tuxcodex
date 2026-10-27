@@ -154,3 +154,15 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
     Commits auf den Server schicken.
 
 </div>
+
+## Arbeit beiseitelegen
+
+<div class="grid cards" markdown>
+
+-   :material-archive-arrow-down-outline:{ .lg .middle } **[git stash](git-stash.md)**
+
+    ---
+
+    Nicht committete Änderungen beiseitelegen.
+
+</div>

@@ -154,3 +154,15 @@ the history, working with branches and sharing a repository with a Git server.
     Send commits to the server.
 
 </div>
+
+## Putting work aside
+
+<div class="grid cards" markdown>
+
+-   :material-archive-arrow-down-outline:{ .lg .middle } **[git stash](git-stash.md)**
+
+    ---
+
+    Put uncommitted changes aside.
+
+</div>

@@ -339,6 +339,7 @@ nav:
       - git fetch: 18-git/git-fetch.md
       - git pull: 18-git/git-pull.md
       - git push: 18-git/git-push.md
+      - git stash: 18-git/git-stash.md
 
 markdown_extensions:
   - admonition
