@@ -33,6 +33,12 @@ verpasste Jobs nachholen und dafür sorgen, dass ein Job nie doppelt gleichzeiti
 
     Alle Skripte in einem Verzeichnis ausführen.
 
+-   :material-calendar-refresh-outline:{ .lg .middle } **[anacron](anacron.md)**
+
+    ---
+
+    Verpasste tägliche Jobs nachholen.
+
 </div>
 
 ## Einmalige Jobs

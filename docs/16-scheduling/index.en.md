@@ -33,6 +33,12 @@ on missed jobs and making sure a job never runs twice at the same time.
 
     Run all scripts in a directory.
 
+-   :material-calendar-refresh-outline:{ .lg .middle } **[anacron](anacron.md)**
+
+    ---
+
+    Catch up on missed daily jobs.
+
 </div>
 
 ## One-time jobs
