@@ -87,6 +87,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Swap vorbereiten.
 
+-   :material-swap-vertical:{ .lg .middle } **[swapon](swapon.md)**
+
+    ---
+
+    Swap aktivieren und anzeigen.
+
 </div>
 
 ## Einhängen

@@ -250,6 +250,7 @@ nav:
       - parted: 13-disks-storage/parted.md
       - mkfs: 13-disks-storage/mkfs.md
       - mkswap: 13-disks-storage/mkswap.md
+      - swapon: 13-disks-storage/swapon.md
 
 markdown_extensions:
   - admonition

@@ -87,6 +87,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Prepare swap space.
 
+-   :material-swap-vertical:{ .lg .middle } **[swapon](swapon.md)**
+
+    ---
+
+    Activate and show swap.
+
 </div>
 
 ## Mount
