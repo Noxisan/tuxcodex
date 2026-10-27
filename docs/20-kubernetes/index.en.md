@@ -117,4 +117,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     Run a command or shell in a pod.
 
+-   :material-lan-connect:{ .lg .middle } **[kubectl port-forward](kubectl-port-forward.md)**
+
+    ---
+
+    Reach a pod or service locally.
+
 </div>

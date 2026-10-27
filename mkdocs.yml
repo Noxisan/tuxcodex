@@ -378,6 +378,7 @@ nav:
       - kubectl scale: 20-kubernetes/kubectl-scale.md
       - kubectl rollout: 20-kubernetes/kubectl-rollout.md
       - kubectl exec: 20-kubernetes/kubectl-exec.md
+      - kubectl port-forward: 20-kubernetes/kubectl-port-forward.md
 
 markdown_extensions:
   - admonition

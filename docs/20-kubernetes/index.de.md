@@ -117,4 +117,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Einen Befehl oder eine Shell im Pod ausführen.
 
+-   :material-lan-connect:{ .lg .middle } **[kubectl port-forward](kubectl-port-forward.md)**
+
+    ---
+
+    Einen Pod oder Service lokal erreichen.
+
 </div>
