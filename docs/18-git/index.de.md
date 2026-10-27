@@ -33,4 +33,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Ein neues Repository anlegen.
 
+-   :material-content-copy:{ .lg .middle } **[git clone](git-clone.md)**
+
+    ---
+
+    Ein Repository von einem Server kopieren.
+
 </div>

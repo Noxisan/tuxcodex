@@ -33,4 +33,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Create a new repository.
 
+-   :material-content-copy:{ .lg .middle } **[git clone](git-clone.md)**
+
+    ---
+
+    Copy a repository from a server.
+
 </div>
