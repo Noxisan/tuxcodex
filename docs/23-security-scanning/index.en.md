@@ -100,3 +100,39 @@ hardening, rootkits and malware, changed system files and vulnerable container i
     Vulnerabilities in images.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-lan-connect:{ .lg .middle } **[ss](../11-network/ss.md)**
+
+    ---
+
+    `ss -tlnp` shows from inside which services listen on which port. Covered in the chapter Network.
+
+-   :material-connection:{ .lg .middle } **[nc](../11-network/nc.md)**
+
+    ---
+
+    Test a single port by hand, without a full scan. Covered in the chapter Network.
+
+-   :material-access-point-network:{ .lg .middle } **[tcpdump](../11-network/tcpdump.md)**
+
+    ---
+
+    See which packets really arrive during a scan. Covered in the chapter Network.
+
+-   :material-wall-fire:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Close the ports that a scan shows but nobody needs. Covered in the chapter Network.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[fail2ban-client](../12-ssh/fail2ban-client.md)**
+
+    ---
+
+    Block hosts that scan or try passwords. Covered in the chapter SSH.
+
+</div>

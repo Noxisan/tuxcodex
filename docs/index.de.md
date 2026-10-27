@@ -178,11 +178,11 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 <div class="grid cards" markdown>
 
--   :material-radar:{ .lg .middle } **Netzwerk-Scans** · *in Arbeit*
+-   :material-radar:{ .lg .middle } **[Sicherheitsprüfung](23-security-scanning/index.md)**
 
     ---
 
-    Offene Ports und Dienste finden mit `nmap` und Co.
+    Offene Ports, Härtung, Rootkits, Dateiintegrität und verwundbare Images.
 
 -   :material-certificate-outline:{ .lg .middle } **Zertifikate und Verschlüsselung** · *in Arbeit*
 
