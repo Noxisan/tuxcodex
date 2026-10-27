@@ -105,4 +105,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Ein Image aus einem Dockerfile bauen.
 
+-   :material-upload:{ .lg .middle } **[docker push](docker-push.md)**
+
+    ---
+
+    Ein Image in eine Registry hochladen.
+
 </div>

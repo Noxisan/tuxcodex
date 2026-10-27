@@ -105,4 +105,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     Build an image from a Dockerfile.
 
+-   :material-upload:{ .lg .middle } **[docker push](docker-push.md)**
+
+    ---
+
+    Upload an image to a registry.
+
 </div>
