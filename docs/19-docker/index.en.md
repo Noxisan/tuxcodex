@@ -33,4 +33,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     List running and stopped containers.
 
+-   :material-play:{ .lg .middle } **[docker start](docker-start.md)**
+
+    ---
+
+    Start stopped containers again.
+
 </div>

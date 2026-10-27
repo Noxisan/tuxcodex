@@ -33,4 +33,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Laufende und gestoppte Container auflisten.
 
+-   :material-play:{ .lg .middle } **[docker start](docker-start.md)**
+
+    ---
+
+    Gestoppte Container wieder starten.
+
 </div>
