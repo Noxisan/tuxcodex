@@ -69,4 +69,10 @@ commands on whole groups of servers, keeping passwords safe and reusing roles.
 
     Module documentation in the terminal.
 
+-   :material-package-variant-closed:{ .lg .middle } **[ansible-galaxy](ansible-galaxy.md)**
+
+    ---
+
+    Create and install roles and collections.
+
 </div>

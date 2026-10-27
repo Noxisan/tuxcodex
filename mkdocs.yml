@@ -392,6 +392,7 @@ nav:
       - ansible-playbook: 21-ansible/ansible-playbook.md
       - ansible-pull: 21-ansible/ansible-pull.md
       - ansible-doc: 21-ansible/ansible-doc.md
+      - ansible-galaxy: 21-ansible/ansible-galaxy.md
 
 markdown_extensions:
   - admonition

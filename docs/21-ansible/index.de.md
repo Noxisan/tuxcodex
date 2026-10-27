@@ -70,4 +70,10 @@ wiederverwenden.
 
     Moduldokumentation im Terminal.
 
+-   :material-package-variant-closed:{ .lg .middle } **[ansible-galaxy](ansible-galaxy.md)**
+
+    ---
+
+    Rollen und Collections anlegen und installieren.
+
 </div>
