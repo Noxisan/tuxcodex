@@ -17,3 +17,15 @@ wiederverwenden.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Steuerrechner und verwaltete Server, Inventar, Module, Playbooks, Rollen und Installation :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Einrichten
+
+<div class="grid cards" markdown>
+
+-   :material-cog-outline:{ .lg .middle } **[ansible-config](ansible-config.md)**
+
+    ---
+
+    Welche Einstellungen gelten und woher.
+
+</div>

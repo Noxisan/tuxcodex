@@ -386,6 +386,7 @@ nav:
   - Ansible:
       - 21-ansible/index.md
       - Basics: 21-ansible/basics.md
+      - ansible-config: 21-ansible/ansible-config.md
 
 markdown_extensions:
   - admonition

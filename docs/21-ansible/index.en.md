@@ -16,3 +16,15 @@ commands on whole groups of servers, keeping passwords safe and reusing roles.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Basics:** Control node and managed servers, inventory, modules, playbooks, roles and installation :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Setting up
+
+<div class="grid cards" markdown>
+
+-   :material-cog-outline:{ .lg .middle } **[ansible-config](ansible-config.md)**
+
+    ---
+
+    Which settings apply, and from where.
+
+</div>
