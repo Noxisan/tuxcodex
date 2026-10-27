@@ -336,6 +336,7 @@ nav:
       - git merge: 18-git/git-merge.md
       - git rebase: 18-git/git-rebase.md
       - git remote: 18-git/git-remote.md
+      - git fetch: 18-git/git-fetch.md
 
 markdown_extensions:
   - admonition

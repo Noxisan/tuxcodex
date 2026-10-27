@@ -135,4 +135,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Manage connections to Git servers.
 
+-   :material-cloud-download-outline:{ .lg .middle } **[git fetch](git-fetch.md)**
+
+    ---
+
+    Download new commits, change nothing.
+
 </div>

@@ -135,4 +135,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Verbindungen zu Git-Servern verwalten.
 
+-   :material-cloud-download-outline:{ .lg .middle } **[git fetch](git-fetch.md)**
+
+    ---
+
+    Neue Commits holen, nichts ändern.
+
 </div>
