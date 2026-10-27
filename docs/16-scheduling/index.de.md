@@ -51,6 +51,12 @@ verpasste Jobs nachholen und dafür sorgen, dass ein Job nie doppelt gleichzeiti
 
     Einen Befehl einmal zu einer Zeit ausführen.
 
+-   :material-format-list-bulleted:{ .lg .middle } **[atq](atq.md)**
+
+    ---
+
+    Wartende at-Jobs auflisten.
+
 </div>
 
 ## Überschneidungen vermeiden

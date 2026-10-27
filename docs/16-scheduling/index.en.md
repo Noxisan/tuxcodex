@@ -51,6 +51,12 @@ on missed jobs and making sure a job never runs twice at the same time.
 
     Run a command once at a given time.
 
+-   :material-format-list-bulleted:{ .lg .middle } **[atq](atq.md)**
+
+    ---
+
+    List waiting at jobs.
+
 </div>
 
 ## Avoid overlaps

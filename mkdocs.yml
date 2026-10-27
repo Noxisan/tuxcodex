@@ -294,6 +294,7 @@ nav:
       - run-parts: 16-scheduling/run-parts.md
       - anacron: 16-scheduling/anacron.md
       - at: 16-scheduling/at.md
+      - atq: 16-scheduling/atq.md
 
 markdown_extensions:
   - admonition
