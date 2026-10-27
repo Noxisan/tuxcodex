@@ -58,4 +58,10 @@ gepusht werden.
 
     GitLab-Jobs auf dem eigenen Server ausführen.
 
+-   :material-gitlab:{ .lg .middle } **[glab ci](glab-ci.md)**
+
+    ---
+
+    Pipelines im Terminal.
+
 </div>

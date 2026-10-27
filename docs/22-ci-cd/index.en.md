@@ -58,4 +58,10 @@ are pushed.
 
     Run GitLab jobs on your own server.
 
+-   :material-gitlab:{ .lg .middle } **[glab ci](glab-ci.md)**
+
+    ---
+
+    Pipelines from the terminal.
+
 </div>

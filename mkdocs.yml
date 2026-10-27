@@ -403,6 +403,7 @@ nav:
       - gh secret: 22-ci-cd/gh-secret.md
       - act: 22-ci-cd/act.md
       - gitlab-runner: 22-ci-cd/gitlab-runner.md
+      - glab ci: 22-ci-cd/glab-ci.md
 
 markdown_extensions:
   - admonition
