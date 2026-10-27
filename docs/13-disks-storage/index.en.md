@@ -33,6 +33,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     UUID, label and type of file systems.
 
+-   :material-folder-search-outline:{ .lg .middle } **[findmnt](findmnt.md)**
+
+    ---
+
+    Mounted file systems, check `/etc/fstab`.
+
 </div>
 
 ## Partition and format

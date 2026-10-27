@@ -33,6 +33,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     UUID, Label und Typ von Dateisystemen.
 
+-   :material-folder-search-outline:{ .lg .middle } **[findmnt](findmnt.md)**
+
+    ---
+
+    Eingehängte Dateisysteme, `/etc/fstab` prüfen.
+
 </div>
 
 ## Partitionieren und formatieren
