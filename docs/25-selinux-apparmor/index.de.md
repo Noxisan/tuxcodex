@@ -40,3 +40,15 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
     Der vollständige SELinux-Status.
 
 </div>
+
+## SELinux: Ablehnungen beheben
+
+<div class="grid cards" markdown>
+
+-   :material-tag-text-outline:{ .lg .middle } **[semanage](semanage.md)**
+
+    ---
+
+    Datei-Labels, Ports und Booleans dauerhaft.
+
+</div>

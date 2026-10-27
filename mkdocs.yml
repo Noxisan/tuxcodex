@@ -440,6 +440,7 @@ nav:
       - getenforce: 25-selinux-apparmor/getenforce.md
       - setenforce: 25-selinux-apparmor/setenforce.md
       - sestatus: 25-selinux-apparmor/sestatus.md
+      - semanage: 25-selinux-apparmor/semanage.md
 
 markdown_extensions:
   - admonition

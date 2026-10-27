@@ -40,3 +40,15 @@ permissions are right, and how to fix it properly instead of switching the prote
     The full SELinux status.
 
 </div>
+
+## SELinux: fixing denials
+
+<div class="grid cards" markdown>
+
+-   :material-tag-text-outline:{ .lg .middle } **[semanage](semanage.md)**
+
+    ---
+
+    File labels, ports and booleans permanently.
+
+</div>
