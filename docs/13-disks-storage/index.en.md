@@ -153,6 +153,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Volume groups of LVM.
 
+-   :material-layers-outline:{ .lg .middle } **[lvs](lvs.md)**
+
+    ---
+
+    Logical volumes of LVM.
+
 </div>
 
 ## Health

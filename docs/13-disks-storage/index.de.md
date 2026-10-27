@@ -153,6 +153,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Volume Groups von LVM.
 
+-   :material-layers-outline:{ .lg .middle } **[lvs](lvs.md)**
+
+    ---
+
+    Logische Volumes von LVM.
+
 </div>
 
 ## Gesundheit
