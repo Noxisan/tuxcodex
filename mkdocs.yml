@@ -54,6 +54,8 @@ plugins:
             Bash scripting: Bash-Skripte
             Security scanning: Sicherheitsprüfung
             Certificates and encryption: Zertifikate und Verschlüsselung
+            SELinux and AppArmor: SELinux und AppArmor
+            VPN with WireGuard: VPN mit WireGuard
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -432,6 +434,9 @@ nav:
       - certbot: 24-certificates/certbot.md
       - gpg: 24-certificates/gpg.md
       - age: 24-certificates/age.md
+  - SELinux and AppArmor:
+      - 25-selinux-apparmor/index.md
+      - Basics: 25-selinux-apparmor/basics.md
 
 markdown_extensions:
   - admonition
