@@ -45,6 +45,12 @@ compression method and checking that a file arrived intact.
 
 <div class="grid cards" markdown>
 
+-   :material-arrow-collapse:{ .lg .middle } **[gzip](gzip.md)**
+
+    ---
+
+    Fast, compatible everywhere.
+
 </div>
 
 ## Verify

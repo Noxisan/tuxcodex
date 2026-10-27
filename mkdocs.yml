@@ -269,6 +269,7 @@ nav:
       - tar: 14-archives/tar.md
       - zip: 14-archives/zip.md
       - unzip: 14-archives/unzip.md
+      - gzip: 14-archives/gzip.md
 
 markdown_extensions:
   - admonition

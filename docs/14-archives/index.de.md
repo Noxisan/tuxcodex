@@ -45,6 +45,12 @@ Kompressionsverfahren wählen und prüfen, ob eine Datei unbeschädigt angekomme
 
 <div class="grid cards" markdown>
 
+-   :material-arrow-collapse:{ .lg .middle } **[gzip](gzip.md)**
+
+    ---
+
+    Schnell, überall kompatibel.
+
 </div>
 
 ## Prüfen
