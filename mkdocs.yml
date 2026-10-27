@@ -405,6 +405,7 @@ nav:
       - gitlab-runner: 22-ci-cd/gitlab-runner.md
       - glab ci: 22-ci-cd/glab-ci.md
       - actionlint: 22-ci-cd/actionlint.md
+      - yamllint: 22-ci-cd/yamllint.md
 
 markdown_extensions:
   - admonition

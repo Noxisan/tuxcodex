@@ -76,4 +76,10 @@ are pushed.
 
     Find mistakes in workflow files.
 
+-   :material-code-braces:{ .lg .middle } **[yamllint](yamllint.md)**
+
+    ---
+
+    Check any YAML file.
+
 </div>

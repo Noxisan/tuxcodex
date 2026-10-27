@@ -76,4 +76,10 @@ gepusht werden.
 
     Fehler in Workflow-Dateien finden.
 
+-   :material-code-braces:{ .lg .middle } **[yamllint](yamllint.md)**
+
+    ---
+
+    Jede YAML-Datei prüfen.
+
 </div>
