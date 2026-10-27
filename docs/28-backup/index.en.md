@@ -45,4 +45,10 @@ restic and borg, retention and, above all, testing the restore.
 
     Encrypted backups, also to the cloud.
 
+-   :material-archive-arrow-up-outline:{ .lg .middle } **[borg](borg.md)**
+
+    ---
+
+    Deduplicated archives over SSH.
+
 </div>

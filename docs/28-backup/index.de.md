@@ -45,4 +45,10 @@ restic und borg, Aufbewahrung und vor allem das Testen der Wiederherstellung.
 
     Verschlüsselte Backups, auch in die Cloud.
 
+-   :material-archive-arrow-up-outline:{ .lg .middle } **[borg](borg.md)**
+
+    ---
+
+    Deduplizierte Archive per SSH.
+
 </div>

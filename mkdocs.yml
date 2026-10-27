@@ -319,6 +319,7 @@ nav:
       - pg_dump: 28-backup/pg_dump.md
       - mysqldump: 28-backup/mysqldump.md
       - restic: 28-backup/restic.md
+      - borg: 28-backup/borg.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
