@@ -27,4 +27,10 @@ permissions are right, and how to fix it properly instead of switching the prote
 
     Show the SELinux mode.
 
+-   :material-toggle-switch-outline:{ .lg .middle } **[setenforce](setenforce.md)**
+
+    ---
+
+    Switch between enforcing and permissive.
+
 </div>

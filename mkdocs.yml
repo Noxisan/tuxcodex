@@ -438,6 +438,7 @@ nav:
       - 25-selinux-apparmor/index.md
       - Basics: 25-selinux-apparmor/basics.md
       - getenforce: 25-selinux-apparmor/getenforce.md
+      - setenforce: 25-selinux-apparmor/setenforce.md
 
 markdown_extensions:
   - admonition

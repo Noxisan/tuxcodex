@@ -27,4 +27,10 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
 
     Den SELinux-Modus zeigen.
 
+-   :material-toggle-switch-outline:{ .lg .middle } **[setenforce](setenforce.md)**
+
+    ---
+
+    Zwischen enforcing und permissive umschalten.
+
 </div>
