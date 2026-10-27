@@ -257,6 +257,7 @@ nav:
       - resize2fs: 13-disks-storage/resize2fs.md
       - xfs_growfs: 13-disks-storage/xfs_growfs.md
       - pvs: 13-disks-storage/pvs.md
+      - vgs: 13-disks-storage/vgs.md
 
 markdown_extensions:
   - admonition

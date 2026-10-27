@@ -147,6 +147,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Physische Volumes von LVM.
 
+-   :material-database:{ .lg .middle } **[vgs](vgs.md)**
+
+    ---
+
+    Volume Groups von LVM.
+
 </div>
 
 ## Gesundheit

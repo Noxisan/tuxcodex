@@ -147,6 +147,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Physical volumes of LVM.
 
+-   :material-database:{ .lg .middle } **[vgs](vgs.md)**
+
+    ---
+
+    Volume groups of LVM.
+
 </div>
 
 ## Health
