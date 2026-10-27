@@ -27,4 +27,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     Kubernetes in a single binary.
 
+-   :material-cog-outline:{ .lg .middle } **[kubectl config](kubectl-config.md)**
+
+    ---
+
+    Clusters, contexts and the default namespace.
+
 </div>

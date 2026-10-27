@@ -27,4 +27,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Kubernetes in einer einzigen Datei.
 
+-   :material-cog-outline:{ .lg .middle } **[kubectl config](kubectl-config.md)**
+
+    ---
+
+    Cluster, Kontexte und Standard-Namespace.
+
 </div>
