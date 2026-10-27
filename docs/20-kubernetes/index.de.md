@@ -87,4 +87,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Einzelne Objekte direkt anlegen.
 
+-   :material-delete-outline:{ .lg .middle } **[kubectl delete](kubectl-delete.md)**
+
+    ---
+
+    Objekte löschen.
+
 </div>

@@ -87,4 +87,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     Create single objects directly.
 
+-   :material-delete-outline:{ .lg .middle } **[kubectl delete](kubectl-delete.md)**
+
+    ---
+
+    Delete objects.
+
 </div>

@@ -374,6 +374,7 @@ nav:
       - kubectl top: 20-kubernetes/kubectl-top.md
       - kubectl apply: 20-kubernetes/kubectl-apply.md
       - kubectl create: 20-kubernetes/kubectl-create.md
+      - kubectl delete: 20-kubernetes/kubectl-delete.md
 
 markdown_extensions:
   - admonition
