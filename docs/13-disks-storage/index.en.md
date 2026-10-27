@@ -159,6 +159,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Logical volumes of LVM.
 
+-   :material-layers-plus:{ .lg .middle } **[lvcreate](lvcreate.md)**
+
+    ---
+
+    Create a logical volume.
+
 </div>
 
 ## Health

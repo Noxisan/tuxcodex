@@ -104,4 +104,4 @@ Proceed anyway? (y,N) n
 
 ## Related commands
 
-[fdisk](fdisk.md) · [blkid](blkid.md) · [mount](mount.md) · [mkswap](mkswap.md) · [xfs_growfs](xfs_growfs.md)
+[fdisk](fdisk.md) · [blkid](blkid.md) · [mount](mount.md) · [mkswap](mkswap.md) · [xfs_growfs](xfs_growfs.md) · [lvcreate](lvcreate.md)

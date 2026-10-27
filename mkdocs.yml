@@ -259,6 +259,7 @@ nav:
       - pvs: 13-disks-storage/pvs.md
       - vgs: 13-disks-storage/vgs.md
       - lvs: 13-disks-storage/lvs.md
+      - lvcreate: 13-disks-storage/lvcreate.md
 
 markdown_extensions:
   - admonition

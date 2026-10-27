@@ -159,6 +159,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Logische Volumes von LVM.
 
+-   :material-layers-plus:{ .lg .middle } **[lvcreate](lvcreate.md)**
+
+    ---
+
+    Ein logisches Volume anlegen.
+
 </div>
 
 ## Gesundheit
