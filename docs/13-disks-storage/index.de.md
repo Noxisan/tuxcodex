@@ -105,6 +105,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Dateisysteme einhängen.
 
+-   :material-link-variant-off:{ .lg .middle } **[umount](umount.md)**
+
+    ---
+
+    Dateisysteme aushängen.
+
 </div>
 
 ## Prüfen und vergrößern

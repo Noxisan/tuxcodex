@@ -105,6 +105,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Mount file systems.
 
+-   :material-link-variant-off:{ .lg .middle } **[umount](umount.md)**
+
+    ---
+
+    Unmount file systems.
+
 </div>
 
 ## Check and grow
