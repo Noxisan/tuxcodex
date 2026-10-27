@@ -58,3 +58,15 @@ commands on whole groups of servers, keeping passwords safe and reusing roles.
     Servers configure themselves from Git.
 
 </div>
+
+## Finding content
+
+<div class="grid cards" markdown>
+
+-   :material-book-open-variant:{ .lg .middle } **[ansible-doc](ansible-doc.md)**
+
+    ---
+
+    Module documentation in the terminal.
+
+</div>

@@ -391,6 +391,7 @@ nav:
       - ansible: 21-ansible/ansible.md
       - ansible-playbook: 21-ansible/ansible-playbook.md
       - ansible-pull: 21-ansible/ansible-pull.md
+      - ansible-doc: 21-ansible/ansible-doc.md
 
 markdown_extensions:
   - admonition

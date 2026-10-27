@@ -59,3 +59,15 @@ wiederverwenden.
     Server konfigurieren sich selbst aus Git.
 
 </div>
+
+## Inhalte finden
+
+<div class="grid cards" markdown>
+
+-   :material-book-open-variant:{ .lg .middle } **[ansible-doc](ansible-doc.md)**
+
+    ---
+
+    Moduldokumentation im Terminal.
+
+</div>
