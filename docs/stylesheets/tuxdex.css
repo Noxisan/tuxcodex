@@ -735,7 +735,3 @@ html[lang="de"] .md-nav--primary #__nav_27 + .md-nav__link::before {
   border-left-color: var(--tc-basics);
   background: linear-gradient(90deg, rgba(247, 220, 122, 0.1), transparent 70%);
 }
-
-.md-typeset .tc-hero--basics .tc-hero-icon {
-  color: var(--tc-basics);
-}
