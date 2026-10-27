@@ -372,6 +372,7 @@ nav:
       - kubectl logs: 20-kubernetes/kubectl-logs.md
       - kubectl events: 20-kubernetes/kubectl-events.md
       - kubectl top: 20-kubernetes/kubectl-top.md
+      - kubectl apply: 20-kubernetes/kubectl-apply.md
 
 markdown_extensions:
   - admonition

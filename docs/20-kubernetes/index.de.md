@@ -70,3 +70,15 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
     CPU und Speicher von Nodes und Pods.
 
 </div>
+
+## Anwendungen ausrollen
+
+<div class="grid cards" markdown>
+
+-   :material-file-upload-outline:{ .lg .middle } **[kubectl apply](kubectl-apply.md)**
+
+    ---
+
+    Aus Manifesten anlegen oder aktualisieren.
+
+</div>

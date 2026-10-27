@@ -70,3 +70,15 @@ finding errors, maintaining nodes and installing software with Helm.
     CPU and memory of nodes and pods.
 
 </div>
+
+## Rolling out applications
+
+<div class="grid cards" markdown>
+
+-   :material-file-upload-outline:{ .lg .middle } **[kubectl apply](kubectl-apply.md)**
+
+    ---
+
+    Create or update from manifests.
+
+</div>
