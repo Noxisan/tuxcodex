@@ -111,4 +111,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     Upload an image to a registry.
 
+-   :material-layers-remove:{ .lg .middle } **[docker rmi](docker-rmi.md)**
+
+    ---
+
+    Delete images.
+
 </div>

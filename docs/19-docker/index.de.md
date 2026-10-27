@@ -111,4 +111,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Ein Image in eine Registry hochladen.
 
+-   :material-layers-remove:{ .lg .middle } **[docker rmi](docker-rmi.md)**
+
+    ---
+
+    Images löschen.
+
 </div>
