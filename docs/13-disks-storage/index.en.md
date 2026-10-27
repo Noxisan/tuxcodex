@@ -21,6 +21,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
 <div class="grid cards" markdown>
 
+-   :material-view-list:{ .lg .middle } **[lsblk](lsblk.md)**
+
+    ---
+
+    All disks and partitions as a tree.
+
 </div>
 
 ## Partition and format

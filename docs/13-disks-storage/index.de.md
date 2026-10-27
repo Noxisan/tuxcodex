@@ -21,6 +21,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
 <div class="grid cards" markdown>
 
+-   :material-view-list:{ .lg .middle } **[lsblk](lsblk.md)**
+
+    ---
+
+    Alle Platten und Partitionen als Baum.
+
 </div>
 
 ## Partitionieren und formatieren
