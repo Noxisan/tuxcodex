@@ -117,4 +117,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Einen Branch in den aktuellen zusammenführen.
 
+-   :material-source-branch-sync:{ .lg .middle } **[git rebase](git-rebase.md)**
+
+    ---
+
+    Commits auf einen anderen Branch versetzen.
+
 </div>

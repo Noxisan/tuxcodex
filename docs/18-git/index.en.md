@@ -117,4 +117,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Merge a branch into the current one.
 
+-   :material-source-branch-sync:{ .lg .middle } **[git rebase](git-rebase.md)**
+
+    ---
+
+    Move commits onto another branch.
+
 </div>

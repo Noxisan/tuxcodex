@@ -334,6 +334,7 @@ nav:
       - git branch: 18-git/git-branch.md
       - git switch: 18-git/git-switch.md
       - git merge: 18-git/git-merge.md
+      - git rebase: 18-git/git-rebase.md
 
 markdown_extensions:
   - admonition
