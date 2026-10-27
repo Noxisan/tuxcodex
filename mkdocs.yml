@@ -241,6 +241,7 @@ nav:
       - 13-disks-storage/index.md
       - Basics: 13-disks-storage/basics.md
       - lsblk: 13-disks-storage/lsblk.md
+      - blkid: 13-disks-storage/blkid.md
 
 markdown_extensions:
   - admonition

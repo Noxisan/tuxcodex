@@ -27,6 +27,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Alle Platten und Partitionen als Baum.
 
+-   :material-barcode:{ .lg .middle } **[blkid](blkid.md)**
+
+    ---
+
+    UUID, Label und Typ von Dateisystemen.
+
 </div>
 
 ## Partitionieren und formatieren

@@ -27,6 +27,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     All disks and partitions as a tree.
 
+-   :material-barcode:{ .lg .middle } **[blkid](blkid.md)**
+
+    ---
+
+    UUID, label and type of file systems.
+
 </div>
 
 ## Partition and format
