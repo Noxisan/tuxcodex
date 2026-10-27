@@ -2,6 +2,10 @@
 
 <img src="docs/assets/logo-hero.png" alt="TuxCodex logo" width="58%">
 
+[![Deploy](https://github.com/Noxisan/tuxcodex/actions/workflows/deploy.yml/badge.svg)](https://github.com/Noxisan/tuxcodex/actions/workflows/deploy.yml)
+[![Website](https://img.shields.io/badge/read-noxisan.github.io%2Ftuxcodex-7af7b9?labelColor=161a21)](https://noxisan.github.io/tuxcodex/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-7af7b9?labelColor=161a21)](LICENSE)
+
 ### Linux commands. Real-world examples. No guesswork.
 
 A practical reference for **Linux administration, server operations, and DevOps** with<br>
@@ -17,10 +21,6 @@ English · German
 Built by [Nox](https://github.com/Noxisan)
 
 ### [🇬🇧 Read TuxCodex](https://noxisan.github.io/tuxcodex/) &nbsp;&nbsp;·&nbsp;&nbsp; [🇩🇪 TuxCodex lesen](https://noxisan.github.io/tuxcodex/de/)
-
-[![Deploy](https://github.com/Noxisan/tuxcodex/actions/workflows/deploy.yml/badge.svg)](https://github.com/Noxisan/tuxcodex/actions/workflows/deploy.yml)
-[![Website](https://img.shields.io/badge/read-noxisan.github.io%2Ftuxcodex-7af7b9?labelColor=161a21)](https://noxisan.github.io/tuxcodex/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-7af7b9?labelColor=161a21)](LICENSE)
 
 </div>
 
