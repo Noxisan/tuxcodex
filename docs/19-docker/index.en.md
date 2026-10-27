@@ -93,4 +93,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     List the images on the host.
 
+-   :material-download:{ .lg .middle } **[docker pull](docker-pull.md)**
+
+    ---
+
+    Download an image.
+
 </div>

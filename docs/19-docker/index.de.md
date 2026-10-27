@@ -93,4 +93,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Die Images auf dem Host auflisten.
 
+-   :material-download:{ .lg .middle } **[docker pull](docker-pull.md)**
+
+    ---
+
+    Ein Image herunterladen.
+
 </div>
