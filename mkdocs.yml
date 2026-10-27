@@ -50,6 +50,7 @@ plugins:
             Storage: Datenträger
             Archives: Archive
             Scheduling: Zeitsteuerung
+            Performance: Leistung
             Bash scripting: Bash-Skripte
             Security scanning: Sicherheitsprüfung
             Certificates: Zertifikate
@@ -301,6 +302,12 @@ nav:
       - atrm: 16-scheduling/atrm.md
       - batch: 16-scheduling/batch.md
       - flock: 16-scheduling/flock.md
+  - Performance:
+      - 27-performance/index.md
+      - Basics: 27-performance/basics.md
+  - Backup:
+      - 28-backup/index.md
+      - Basics: 28-backup/basics.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
