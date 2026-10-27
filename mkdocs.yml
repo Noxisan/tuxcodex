@@ -310,6 +310,7 @@ nav:
       - test: 17-bash-scripting/test.md
       - if: 17-bash-scripting/if.md
       - case: 17-bash-scripting/case.md
+      - for: 17-bash-scripting/for.md
 
 markdown_extensions:
   - admonition

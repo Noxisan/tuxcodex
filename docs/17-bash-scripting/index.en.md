@@ -87,6 +87,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
 <div class="grid cards" markdown>
 
+-   :material-repeat:{ .lg .middle } **[for](for.md)**
+
+    ---
+
+    Repeat for every element of a list.
+
 </div>
 
 ## Functions and exit codes

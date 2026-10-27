@@ -87,6 +87,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
 <div class="grid cards" markdown>
 
+-   :material-repeat:{ .lg .middle } **[for](for.md)**
+
+    ---
+
+    Für jedes Element einer Liste wiederholen.
+
 </div>
 
 ## Funktionen und Exit-Codes
