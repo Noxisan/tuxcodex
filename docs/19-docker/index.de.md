@@ -154,3 +154,15 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
     Platzbedarf und Aufräumen.
 
 </div>
+
+## Alternative
+
+<div class="grid cards" markdown>
+
+-   :material-seal:{ .lg .middle } **[podman](podman.md)**
+
+    ---
+
+    Container ohne Daemon und root, Standard unter RHEL.
+
+</div>

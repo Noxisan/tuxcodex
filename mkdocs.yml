@@ -361,6 +361,7 @@ nav:
       - docker network: 19-docker/docker-network.md
       - docker compose: 19-docker/docker-compose.md
       - docker system: 19-docker/docker-system.md
+      - podman: 19-docker/podman.md
 
 markdown_extensions:
   - admonition

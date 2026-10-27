@@ -154,3 +154,15 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
     Disk usage and cleanup.
 
 </div>
+
+## Alternative
+
+<div class="grid cards" markdown>
+
+-   :material-seal:{ .lg .middle } **[podman](podman.md)**
+
+    ---
+
+    Containers without daemon and root, standard on RHEL.
+
+</div>
