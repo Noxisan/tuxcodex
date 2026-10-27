@@ -293,6 +293,7 @@ nav:
       - crontab: 16-scheduling/crontab.md
       - run-parts: 16-scheduling/run-parts.md
       - anacron: 16-scheduling/anacron.md
+      - at: 16-scheduling/at.md
 
 markdown_extensions:
   - admonition

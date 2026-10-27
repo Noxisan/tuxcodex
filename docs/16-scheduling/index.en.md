@@ -45,6 +45,12 @@ on missed jobs and making sure a job never runs twice at the same time.
 
 <div class="grid cards" markdown>
 
+-   :material-clock-plus-outline:{ .lg .middle } **[at](at.md)**
+
+    ---
+
+    Run a command once at a given time.
+
 </div>
 
 ## Avoid overlaps
