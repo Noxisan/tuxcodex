@@ -93,6 +93,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Repeat for every element of a list.
 
+-   :material-repeat-variant:{ .lg .middle } **[while](while.md)**
+
+    ---
+
+    Repeat while a condition holds.
+
 </div>
 
 ## Functions and exit codes

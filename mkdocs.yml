@@ -311,6 +311,7 @@ nav:
       - if: 17-bash-scripting/if.md
       - case: 17-bash-scripting/case.md
       - for: 17-bash-scripting/for.md
+      - while: 17-bash-scripting/while.md
 
 markdown_extensions:
   - admonition

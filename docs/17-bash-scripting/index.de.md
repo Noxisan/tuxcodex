@@ -93,6 +93,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Für jedes Element einer Liste wiederholen.
 
+-   :material-repeat-variant:{ .lg .middle } **[while](while.md)**
+
+    ---
+
+    Wiederholen, solange eine Bedingung gilt.
+
 </div>
 
 ## Funktionen und Exit-Codes
