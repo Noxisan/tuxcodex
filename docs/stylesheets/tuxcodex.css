@@ -513,10 +513,11 @@
 }
 
 /* Sidebar: separators with a caption between the areas of the handbook.
-   #__nav_18 is the toggle of chapter 17 (Bash scripting), #__nav_23 of chapter 22 (first
+   #__nav_2 is the toggle of chapter 01 (Orientation), #__nav_18 the one of chapter 17 (Bash scripting), #__nav_23 of chapter 22 (first
    security chapter). The numbers follow the order in `nav`, they only change if chapters
    are inserted before. The rule targets the link right after the toggle, so it works
    without :has() in every browser. */
+.md-nav--primary #__nav_2 + .md-nav__link,
 .md-nav--primary #__nav_18 + .md-nav__link,
 .md-nav--primary #__nav_23 + .md-nav__link {
   flex-wrap: wrap;
@@ -525,6 +526,7 @@
   border-top: 1px solid var(--tc-border);
 }
 
+.md-nav--primary #__nav_2 + .md-nav__link::before,
 .md-nav--primary #__nav_18 + .md-nav__link::before,
 .md-nav--primary #__nav_23 + .md-nav__link::before {
   display: block;
@@ -537,12 +539,20 @@
   color: var(--tc-muted);
 }
 
+.md-nav--primary #__nav_2 + .md-nav__link::before {
+  content: "Linux basics";
+}
+
 .md-nav--primary #__nav_18 + .md-nav__link::before {
   content: "Automation & DevOps";
 }
 
 .md-nav--primary #__nav_23 + .md-nav__link::before {
   content: "Security";
+}
+
+html[lang="de"] .md-nav--primary #__nav_2 + .md-nav__link::before {
+  content: "Linux-Grundlagen";
 }
 
 html[lang="de"] .md-nav--primary #__nav_18 + .md-nav__link::before {
