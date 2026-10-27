@@ -107,7 +107,7 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Partitions, file systems, mounting, disk space and LVM.
 
--   :material-archive-arrow-down-outline:{ .lg .middle } **Archives** · *coming soon*
+-   :material-archive-arrow-down-outline:{ .lg .middle } **[Archives](14-archives/index.md)**
 
     ---
 

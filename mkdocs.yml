@@ -48,6 +48,7 @@ plugins:
             Packages: Pakete
             Network: Netzwerk
             Disks and storage: Festplatten und Speicher
+            Archives: Archive
             Overview: Übersicht
             Basics: Grundlagen
 
@@ -262,6 +263,9 @@ nav:
       - lvcreate: 13-disks-storage/lvcreate.md
       - lvextend: 13-disks-storage/lvextend.md
       - smartctl: 13-disks-storage/smartctl.md
+  - Archives:
+      - 14-archives/index.md
+      - Basics: 14-archives/basics.md
 
 markdown_extensions:
   - admonition

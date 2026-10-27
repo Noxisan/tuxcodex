@@ -107,7 +107,7 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Partitionen, Dateisysteme, Einhängen, Speicherplatz und LVM.
 
--   :material-archive-arrow-down-outline:{ .lg .middle } **Archive** · *in Arbeit*
+-   :material-archive-arrow-down-outline:{ .lg .middle } **[Archive](14-archives/index.md)**
 
     ---
 
