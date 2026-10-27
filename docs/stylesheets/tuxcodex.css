@@ -287,7 +287,14 @@
   }
 
   .md-search__input {
+    height: 100%;
     font-size: 0.75rem;
+  }
+
+  /* Centre the icons vertically in the 2rem field (Material places them for 1.8rem) */
+  .md-search__form .md-search__icon {
+    top: 50%;
+    transform: translateY(-50%);
   }
 
   .md-search__input::placeholder {
