@@ -61,7 +61,7 @@ Every command page has the same structure:
 | 13 | [Disks and storage](https://noxisan.github.io/tuxcodex/13-disks-storage/) | `lsblk`, `df`, `fdisk`, `mount`, `lvextend`, … | ✅ 22 |
 | 14 | [Archives](https://noxisan.github.io/tuxcodex/14-archives/) | `tar`, `zip`, `gzip`, `zstd`, `sha256sum`, … | ✅ 8 |
 | 15 | [Logs](https://noxisan.github.io/tuxcodex/15-logs/) | `dmesg`, `logger`, `logrotate`, `ausearch`, `lnav`, … | ✅ 9 |
-| 16 | Scheduling | `cron`, `at`, systemd timers | 🚧 planned |
+| 16 | [Scheduling](https://noxisan.github.io/tuxcodex/16-scheduling/) | `crontab`, `at`, `anacron`, `flock`, … | ✅ 8 |
 | 17 | Bash scripting | | 🚧 planned |
 | 18 | DevOps | Git, Docker, Ansible, CI/CD | 🚧 planned |
 
