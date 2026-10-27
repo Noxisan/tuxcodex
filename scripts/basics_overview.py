@@ -1,7 +1,8 @@
 """Generate docs/basics.{en,de}.md: all chapter basics, grouped by area, in nav order.
 
 Run after adding a chapter: python3 scripts/basics_overview.py
-The description of each chapter is taken from the basics box of its overview page.
+Each card shows the title of the basics page and the description from the basics box
+of the chapter overview.
 """
 import re
 from pathlib import Path
@@ -35,7 +36,8 @@ for lang in ("en", "de"):
                 continue
             idx = (ROOT / "docs" / ch / f"index.{lang}.md").read_text()
             icon = re.search(r"^icon: material/(\S+)", idx, re.M).group(1)
-            name = re.search(r"^# (.+)$", idx, re.M).group(1)
+            basics = (ROOT / "docs" / ch / f"basics.{lang}.md").read_text()
+            name = re.search(r"^# (.+)$", basics, re.M).group(1)
             desc = re.search(re.escape(LABEL[lang]) + r" (.*?) :material-arrow-right", idx).group(1)
             out += [f"-   :material-{icon}:{{ .lg .middle }} **[{name}]({ch}/basics.md)**", "", "    ---", "", f"    {desc}", ""]
         out += ["</div>", ""]
