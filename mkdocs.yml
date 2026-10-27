@@ -279,6 +279,7 @@ nav:
       - Basics: 15-logs/basics.md
       - dmesg: 15-logs/dmesg.md
       - logger: 15-logs/logger.md
+      - systemd-cat: 15-logs/systemd-cat.md
 
 markdown_extensions:
   - admonition

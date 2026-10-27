@@ -33,6 +33,12 @@ keeping log files small, tracking failed logins and audit events, and analysing 
 
     Write your own messages into the log.
 
+-   :material-cat:{ .lg .middle } **[systemd-cat](systemd-cat.md)**
+
+    ---
+
+    Send command output to the journal.
+
 </div>
 
 ## Manage log files

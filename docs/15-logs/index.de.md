@@ -33,6 +33,12 @@ Logdateien klein halten, fehlgeschlagene Anmeldungen und Audit-Ereignisse verfol
 
     Eigene Meldungen ins Log schreiben.
 
+-   :material-cat:{ .lg .middle } **[systemd-cat](systemd-cat.md)**
+
+    ---
+
+    Die Ausgabe von Befehlen ins Journal schicken.
+
 </div>
 
 ## Logdateien verwalten
