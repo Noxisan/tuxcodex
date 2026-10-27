@@ -24,109 +24,109 @@ in der Reihenfolge des Handbuchs.
 
     ---
 
-    Die erste Minute auf einem neuen Server, als Befehlsfolge
+    Orientierung: als Befehlsfolge
 
 -   :material-folder-outline:{ .lg .middle } **[Die wichtigsten Verzeichnisse auf einem Linux-Server](02-navigation/basics.md)**
 
     ---
 
-    Die wichtigsten Verzeichnisse auf einem Linux-Server
+    Navigation
 
 -   :material-file-document-outline:{ .lg .middle } **[Sicher arbeiten mit Dateien](03-files/basics.md)**
 
     ---
 
-    Regeln für sicheres Arbeiten mit Dateien
+    Dateien: Regeln für sicheres Arbeiten mit Dateien
 
 -   :material-text-box-search-outline:{ .lg .middle } **[Logs lesen](04-viewing-files/basics.md)**
 
     ---
 
-    Logs lesen: der passende Befehl für jede Aufgabe
+    Dateien anzeigen: der passende Befehl für jede Aufgabe
 
 -   :material-text-search:{ .lg .middle } **[Befehle mit Pipes verbinden](05-text-processing/basics.md)**
 
     ---
 
-    Befehle mit Pipes verbinden
+    Textverarbeitung
 
 -   :material-shield-lock-outline:{ .lg .middle } **[Rechte verstehen](06-permissions/basics.md)**
 
     ---
 
-    Besitzer, Gruppe, rwx und Oktalschreibweise erklärt
+    Rechte: Besitzer, Gruppe, rwx und Oktalschreibweise erklärt
 
 -   :material-account-multiple-outline:{ .lg .middle } **[Die wichtigen Dateien](07-users-groups/basics.md)**
 
     ---
 
-    Die wichtigen Dateien: passwd, shadow, group, sudoers
+    Benutzer und Gruppen: passwd, shadow, group, sudoers
 
 -   :material-cog-transfer-outline:{ .lg .middle } **[Prozesse verstehen](08-processes/basics.md)**
 
     ---
 
-    PID, Prozesszustände und Signale
+    Prozesse: PID, Prozesszustände und Signale
 
 -   :material-cog-sync-outline:{ .lg .middle } **[systemd verstehen](09-systemd/basics.md)**
 
     ---
 
-    Units, Unit-Dateien und ihre Zustände
+    systemd und Dienste: Units, Unit-Dateien und ihre Zustände
 
 -   :material-package-variant-closed:{ .lg .middle } **[Pakete verstehen](10-packages/basics.md)**
 
     ---
 
-    Paketquellen, Abhängigkeiten und `apt`, `dnf` und `pacman` im Vergleich
+    Pakete: Paketquellen, Abhängigkeiten und `apt`, `dnf` und `pacman` im Vergleich
 
 -   :material-lan:{ .lg .middle } **[Netzwerke verstehen](11-network/basics.md)**
 
     ---
 
-    IP-Adressen, Subnetze, Ports, DNS und wo jede Distribution ihre Netzwerkkonfiguration ablegt
+    Netzwerk: IP-Adressen, Subnetze, Ports, DNS und wo jede Distribution ihre Netzwerkkonfiguration ablegt
 
 -   :material-console-network-outline:{ .lg .middle } **[SSH verstehen](12-ssh/basics.md)**
 
     ---
 
-    Host-Keys, Anmeldung per Schlüssel, die Dateien in `~/.ssh` und die Client-Konfiguration
+    SSH: Host-Keys, Anmeldung per Schlüssel, die Dateien in `~/.ssh` und die Client-Konfiguration
 
 -   :material-harddisk:{ .lg .middle } **[Speicher verstehen](13-disks-storage/basics.md)**
 
     ---
 
-    Blockgeräte, Partitionstabellen, Dateisysteme, `/etc/fstab` und LVM
+    Festplatten und Speicher: Blockgeräte, Partitionstabellen, Dateisysteme, `/etc/fstab` und LVM
 
 -   :material-archive-arrow-down-outline:{ .lg .middle } **[Archive verstehen](14-archives/basics.md)**
 
     ---
 
-    Archivieren und Komprimieren, Dateiendungen und die Verfahren im Vergleich
+    Archive: Archivieren und Komprimieren, Dateiendungen und die Verfahren im Vergleich
 
 -   :material-text-box-multiple-outline:{ .lg .middle } **[Logs verstehen](15-logs/basics.md)**
 
     ---
 
-    Wo Logs liegen, Log-Level und Logrotation
+    Logs: Wo Logs liegen, Log-Level und Logrotation
 
 -   :material-calendar-clock:{ .lg .middle } **[Zeitsteuerung verstehen](16-scheduling/basics.md)**
 
     ---
 
-    cron-Syntax, wo Cronjobs liegen und systemd-Timer im Vergleich
+    Zeitgesteuerte Aufgaben: cron-Syntax, wo Cronjobs liegen und systemd-Timer im Vergleich
 
 -   :material-speedometer:{ .lg .middle } **[Leistung verstehen](27-performance/basics.md)**
 
     ---
 
-    Die vier Ressourcen, Last richtig lesen, wo der Engpass liegt und was du installieren musst
+    Leistung und Kernel: Die vier Ressourcen, Last richtig lesen, wo der Engpass liegt und was du installieren musst
 
 -   :material-backup-restore:{ .lg .middle } **[Backups verstehen](28-backup/basics.md)**
 
     ---
 
-    Die 3-2-1-Regel, was gesichert wird, restic oder borg und ein vollständiger Backup-Ablauf
+    Backup: Die 3-2-1-Regel, was gesichert wird, restic oder borg und ein vollständiger Backup-Ablauf
 
 </div>
 
@@ -138,37 +138,37 @@ in der Reihenfolge des Handbuchs.
 
     ---
 
-    Wie ein Skript aufgebaut ist: Shebang, Quoting, Variablen, Argumente und Exit-Codes
+    Bash-Skripte: Wie ein Skript aufgebaut ist: Shebang, Quoting, Variablen, Argumente und Exit-Codes
 
 -   :material-git:{ .lg .middle } **[Git verstehen](18-git/basics.md)**
 
     ---
 
-    Arbeitsverzeichnis, Staging-Bereich und Repository, `.gitignore`, SSH-Schlüssel und der tägliche Ablauf
+    Git: Arbeitsverzeichnis, Staging-Bereich und Repository, `.gitignore`, SSH-Schlüssel und der tägliche Ablauf
 
 -   :material-docker:{ .lg .middle } **[Docker verstehen](19-docker/basics.md)**
 
     ---
 
-    Images und Container, Installation, Ports und Volumes, ein Dockerfile und eine compose.yaml
+    Docker: Images und Container, Installation, Ports und Volumes, ein Dockerfile und eine compose.yaml
 
 -   :material-kubernetes:{ .lg .middle } **[Kubernetes verstehen](20-kubernetes/basics.md)**
 
     ---
 
-    Was du installieren musst, Pods, Deployments und Services, Manifeste und kubeconfig
+    Kubernetes: Was du installieren musst, Pods, Deployments und Services, Manifeste und kubeconfig
 
 -   :material-ansible:{ .lg .middle } **[Ansible verstehen](21-ansible/basics.md)**
 
     ---
 
-    Steuerrechner und verwaltete Server, Inventar, Module, Playbooks, Rollen und Installation
+    Ansible: Steuerrechner und verwaltete Server, Inventar, Module, Playbooks, Rollen und Installation
 
 -   :material-infinity:{ .lg .middle } **[CI/CD verstehen](22-ci-cd/basics.md)**
 
     ---
 
-    Pipelines, Jobs und Runner, was du installieren musst, ein Workflow für GitHub und einer für GitLab
+    CI/CD: Pipelines, Jobs und Runner, was du installieren musst, ein Workflow für GitHub und einer für GitLab
 
 </div>
 
@@ -180,24 +180,24 @@ in der Reihenfolge des Handbuchs.
 
     ---
 
-    Angriffsfläche, was welches Werkzeug findet, was du installieren musst, und die Regeln fürs Scannen
+    Sicherheitsprüfung: Angriffsfläche, was welches Werkzeug findet, was du installieren musst, und die Regeln fürs Scannen
 
 -   :material-certificate-outline:{ .lg .middle } **[Zertifikate verstehen](24-certificates/basics.md)**
 
     ---
 
-    Wie TLS funktioniert, Zertifikatsketten, Dateiformate, wo Zertifikate liegen und was du installieren musst
+    Zertifikate und Verschlüsselung: Wie TLS funktioniert, Zertifikatsketten, Dateiformate, wo Zertifikate liegen und was du installieren musst
 
 -   :material-shield-lock-outline:{ .lg .middle } **[SELinux und AppArmor verstehen](25-selinux-apparmor/basics.md)**
 
     ---
 
-    Wie SELinux und AppArmor arbeiten, welche Distribution was nutzt, und der Weg von der Ablehnung zur Lösung
+    SELinux und AppArmor: Wie SELinux und AppArmor arbeiten, welche Distribution was nutzt, und der Weg von der Ablehnung zur Lösung
 
 -   :material-vpn:{ .lg .middle } **[WireGuard verstehen](26-wireguard/basics.md)**
 
     ---
 
-    Wie WireGuard funktioniert, was du installieren musst, eine vollständige Einrichtung von Server und Client und die Firewall
+    VPN mit WireGuard: Wie WireGuard funktioniert, was du installieren musst, eine vollständige Einrichtung von Server und Client und die Firewall
 
 </div>

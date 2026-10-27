@@ -39,6 +39,11 @@ for lang in ("en", "de"):
             basics = (ROOT / "docs" / ch / f"basics.{lang}.md").read_text()
             name = re.search(r"^# (.+)$", basics, re.M).group(1)
             desc = re.search(re.escape(LABEL[lang]) + r" (.*?) :material-arrow-right", idx).group(1)
+            chapter = re.search(r"^# (.+)$", idx, re.M).group(1)
+            # Some summaries repeat the page title; keep only what they add
+            if desc.lower().startswith(name.lower()):
+                desc = desc[len(name):].lstrip(" ,:")
+            desc = f"{chapter}: {desc}" if desc else chapter
             out += [f"-   :material-{icon}:{{ .lg .middle }} **[{name}]({ch}/basics.md)**", "", "    ---", "", f"    {desc}", ""]
         out += ["</div>", ""]
     (ROOT / "docs" / f"basics.{lang}.md").write_text("\n".join(out))

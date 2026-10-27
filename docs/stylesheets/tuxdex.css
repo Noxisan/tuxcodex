@@ -725,10 +725,3 @@ html[lang="de"] .md-nav--primary #__nav_27 + .md-nav__link::before {
 .md-typeset .grid.cards.tc-basics-cards > ul > li:hover {
   border-color: var(--tc-basics);
 }
-
-/* Home page: link box to the basics overview, below the introduction */
-.md-typeset .tc-hero + p > a.tc-basics {
-  display: flex;
-  margin: 0 auto 0.5rem;
-  max-width: 40rem;
-}
