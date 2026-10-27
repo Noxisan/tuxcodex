@@ -40,4 +40,10 @@ are pushed.
 
     Store passwords and keys as secrets.
 
+-   :material-laptop:{ .lg .middle } **[act](act.md)**
+
+    ---
+
+    Run workflows locally in Docker.
+
 </div>

@@ -40,4 +40,10 @@ gepusht werden.
 
     Passwörter und Schlüssel als Secrets ablegen.
 
+-   :material-laptop:{ .lg .middle } **[act](act.md)**
+
+    ---
+
+    Workflows lokal in Docker ausführen.
+
 </div>
