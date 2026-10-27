@@ -34,3 +34,15 @@ restic und borg, Aufbewahrung und vor allem das Testen der Wiederherstellung.
     MySQL und MariaDB sichern.
 
 </div>
+
+## Backup-Werkzeuge
+
+<div class="grid cards" markdown>
+
+-   :material-backup-restore:{ .lg .middle } **[restic](restic.md)**
+
+    ---
+
+    Verschlüsselte Backups, auch in die Cloud.
+
+</div>
