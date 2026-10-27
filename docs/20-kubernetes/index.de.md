@@ -45,4 +45,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Pods, Deployments und mehr auflisten.
 
+-   :material-magnify:{ .lg .middle } **[kubectl describe](kubectl-describe.md)**
+
+    ---
+
+    Details und Events eines Objekts.
+
 </div>

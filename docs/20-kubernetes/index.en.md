@@ -45,4 +45,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     List pods, deployments and more.
 
+-   :material-magnify:{ .lg .middle } **[kubectl describe](kubectl-describe.md)**
+
+    ---
+
+    Details and events of an object.
+
 </div>
