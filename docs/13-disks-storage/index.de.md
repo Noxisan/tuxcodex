@@ -39,6 +39,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Eingehängte Dateisysteme, `/etc/fstab` prüfen.
 
+-   :material-chart-pie:{ .lg .middle } **[df](df.md)**
+
+    ---
+
+    Belegter und freier Platz pro Dateisystem.
+
 </div>
 
 ## Partitionieren und formatieren

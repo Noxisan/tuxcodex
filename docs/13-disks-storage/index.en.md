@@ -39,6 +39,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Mounted file systems, check `/etc/fstab`.
 
+-   :material-chart-pie:{ .lg .middle } **[df](df.md)**
+
+    ---
+
+    Used and free space per file system.
+
 </div>
 
 ## Partition and format
