@@ -58,7 +58,7 @@ Every command page has the same structure:
 | 10 | [Packages](https://noxisan.github.io/tuxcodex/10-packages/) | `apt`, `dpkg`, `dnf`, `rpm`, `pacman`, … | ✅ 10 |
 | 11 | [Network](https://noxisan.github.io/tuxcodex/11-network/) | `ip`, `ss`, `dig`, `curl`, `ufw`, `tcpdump`, … | ✅ 18 |
 | 12 | [SSH](https://noxisan.github.io/tuxcodex/12-ssh/) | `ssh`, `ssh-keygen`, `scp`, `rsync`, `sshd`, … | ✅ 11 |
-| 13 | Disks and storage | | 🚧 planned |
+| 13 | [Disks and storage](https://noxisan.github.io/tuxcodex/13-disks-storage/) | `lsblk`, `df`, `fdisk`, `mount`, `lvextend`, … | ✅ 22 |
 | 14 | Archives | | 🚧 planned |
 | 15 | Logs | | 🚧 planned |
 | 16 | Scheduling | `cron`, `at`, systemd timers | 🚧 planned |
