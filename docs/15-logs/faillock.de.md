@@ -88,4 +88,4 @@ Drei Fehlversuche innerhalb von 15 Minuten sperren das Konto für 10 Minuten.
 
 ## Verwandte Befehle
 
-[passwd](../07-users-groups/passwd.md) · [fail2ban-client](../12-ssh/fail2ban-client.md) · [last](../01-orientation/last.md)
+[passwd](../07-users-groups/passwd.md) · [fail2ban-client](../12-ssh/fail2ban-client.md) · [last](../01-orientation/last.md) · [ausearch](ausearch.md)

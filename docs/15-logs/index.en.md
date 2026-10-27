@@ -69,6 +69,12 @@ keeping log files small, tracking failed logins and audit events, and analysing 
 
 <div class="grid cards" markdown>
 
+-   :material-magnify:{ .lg .middle } **[ausearch](ausearch.md)**
+
+    ---
+
+    Search the audit log.
+
 </div>
 
 ## Analyse

@@ -69,6 +69,12 @@ Logdateien klein halten, fehlgeschlagene Anmeldungen und Audit-Ereignisse verfol
 
 <div class="grid cards" markdown>
 
+-   :material-magnify:{ .lg .middle } **[ausearch](ausearch.md)**
+
+    ---
+
+    Das Audit-Log durchsuchen.
+
 </div>
 
 ## Auswerten

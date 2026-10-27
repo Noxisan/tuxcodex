@@ -282,6 +282,7 @@ nav:
       - systemd-cat: 15-logs/systemd-cat.md
       - logrotate: 15-logs/logrotate.md
       - faillock: 15-logs/faillock.md
+      - ausearch: 15-logs/ausearch.md
 
 markdown_extensions:
   - admonition
