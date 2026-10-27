@@ -75,6 +75,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Befehle nur ausführen, wenn eine Bedingung stimmt.
 
+-   :material-format-list-checkbox:{ .lg .middle } **[case](case.md)**
+
+    ---
+
+    Nach Muster auswählen.
+
 </div>
 
 ## Schleifen

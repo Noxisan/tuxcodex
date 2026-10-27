@@ -75,6 +75,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Run commands only if a condition is true.
 
+-   :material-format-list-checkbox:{ .lg .middle } **[case](case.md)**
+
+    ---
+
+    Choose by pattern.
+
 </div>
 
 ## Loops
