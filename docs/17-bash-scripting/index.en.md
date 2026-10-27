@@ -69,6 +69,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Check files, strings and numbers.
 
+-   :material-source-branch:{ .lg .middle } **[if](if.md)**
+
+    ---
+
+    Run commands only if a condition is true.
+
 </div>
 
 ## Loops

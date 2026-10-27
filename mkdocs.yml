@@ -308,6 +308,7 @@ nav:
       - export: 17-bash-scripting/export.md
       - source: 17-bash-scripting/source.md
       - test: 17-bash-scripting/test.md
+      - if: 17-bash-scripting/if.md
 
 markdown_extensions:
   - admonition

@@ -69,6 +69,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Dateien, Zeichenketten und Zahlen prüfen.
 
+-   :material-source-branch:{ .lg .middle } **[if](if.md)**
+
+    ---
+
+    Befehle nur ausführen, wenn eine Bedingung stimmt.
+
 </div>
 
 ## Schleifen
