@@ -7,6 +7,7 @@
   --tc-muted: #8b919c;
   --tc-accent: #7af7b9;
   --tc-accent-light: #a6fad1;
+  --tc-basics: #f7dc7a;
 
   --md-hue: 220;
   --md-default-bg-color: var(--tc-bg);
@@ -458,28 +459,28 @@
   padding: 0.45rem 0.85rem;
   font-size: 0.75rem;
   border: 1px solid var(--tc-border);
-  border-left: 3px solid var(--tc-accent);
+  border-left: 3px solid var(--tc-basics);
   border-radius: 0.2rem;
-  background: linear-gradient(90deg, rgba(122, 247, 185, 0.08), var(--tc-surface) 60%);
+  background: linear-gradient(90deg, rgba(247, 220, 122, 0.08), var(--tc-surface) 60%);
   color: var(--tc-text);
   transition: border-color 0.15s;
 }
 
 .md-typeset a.tc-basics:hover {
-  border-color: var(--tc-accent);
+  border-color: var(--tc-basics);
   color: var(--tc-text);
 }
 
 .md-typeset a.tc-basics strong {
   flex-shrink: 0;
   white-space: nowrap;
-  color: var(--tc-accent);
+  color: var(--tc-basics);
 }
 
 .md-typeset a.tc-basics .tc-basics-icon,
 .md-typeset a.tc-basics .tc-basics-arrow {
   flex-shrink: 0;
-  color: var(--tc-accent);
+  color: var(--tc-basics);
 }
 
 .md-typeset a.tc-basics .tc-basics-arrow {
@@ -489,6 +490,20 @@
 
 .md-typeset a.tc-basics:hover .tc-basics-arrow {
   transform: translateX(0.2rem);
+}
+
+/* Sidebar: the Basics page of every chapter (always the first entry of a chapter) in the
+   same yellow as the Basics box on the chapter overviews */
+.md-nav--primary .md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item:first-child > .md-nav__link {
+  color: var(--tc-basics);
+}
+
+.md-nav--primary .md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item:first-child > .md-nav__link:hover {
+  color: #fbe9a8;
+}
+
+.md-nav--primary .md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item:first-child > .md-nav__link--active {
+  font-weight: 700;
 }
 
 /* Sidebar navigation: no site title above the chapter list on wide screens */

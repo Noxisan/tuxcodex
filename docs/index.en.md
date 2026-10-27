@@ -8,7 +8,7 @@ hide:
 
 # TuxCodex { .tc-sr-only }
 
-![TuxCodex Logo](assets/logo-hero.png){ width="300" }
+![TuxCodex Logo](assets/logo-hero.png){ width="350" }
 
 <div class="tc-distros" markdown>
 <span class="tc-badge tc-badge--debian" markdown="span">:simple-debian: Debian</span>
