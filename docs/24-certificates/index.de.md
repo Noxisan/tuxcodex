@@ -71,3 +71,15 @@ für Backups und Übertragungen verschlüsseln.
     Kostenlose Zertifikate, automatisch erneuert.
 
 </div>
+
+## Dateien verschlüsseln
+
+<div class="grid cards" markdown>
+
+-   :material-lock-outline:{ .lg .middle } **[gpg](gpg.md)**
+
+    ---
+
+    Verschlüsseln, signieren und prüfen.
+
+</div>

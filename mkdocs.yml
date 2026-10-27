@@ -430,6 +430,7 @@ nav:
       - openssl genpkey: 24-certificates/openssl-genpkey.md
       - openssl req: 24-certificates/openssl-req.md
       - certbot: 24-certificates/certbot.md
+      - gpg: 24-certificates/gpg.md
 
 markdown_extensions:
   - admonition

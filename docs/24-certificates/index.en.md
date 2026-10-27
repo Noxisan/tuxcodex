@@ -71,3 +71,15 @@ for backups and transfers.
     Free certificates, renewed automatically.
 
 </div>
+
+## Encrypting files
+
+<div class="grid cards" markdown>
+
+-   :material-lock-outline:{ .lg .middle } **[gpg](gpg.md)**
+
+    ---
+
+    Encrypt, sign and verify.
+
+</div>
