@@ -81,4 +81,10 @@ permissions are right, and how to fix it properly instead of switching the prote
 
     Loaded profiles and protected processes.
 
+-   :material-wrench-outline:{ .lg .middle } **[aa-complain](aa-complain.md)**
+
+    ---
+
+    Switch profiles between complain and enforce.
+
 </div>

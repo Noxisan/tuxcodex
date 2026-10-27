@@ -81,4 +81,10 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
 
     Geladene Profile und geschützte Prozesse.
 
+-   :material-wrench-outline:{ .lg .middle } **[aa-complain](aa-complain.md)**
+
+    ---
+
+    Profile zwischen complain und enforce umschalten.
+
 </div>
