@@ -111,4 +111,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Zu einem anderen Branch wechseln.
 
+-   :material-source-merge:{ .lg .middle } **[git merge](git-merge.md)**
+
+    ---
+
+    Einen Branch in den aktuellen zusammenführen.
+
 </div>

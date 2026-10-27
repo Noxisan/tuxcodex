@@ -111,4 +111,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Switch to another branch.
 
+-   :material-source-merge:{ .lg .middle } **[git merge](git-merge.md)**
+
+    ---
+
+    Merge a branch into the current one.
+
 </div>
