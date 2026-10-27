@@ -322,6 +322,7 @@ nav:
       - 18-git/index.md
       - Basics: 18-git/basics.md
       - git config: 18-git/git-config.md
+      - git init: 18-git/git-init.md
 
 markdown_extensions:
   - admonition

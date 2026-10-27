@@ -27,4 +27,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Name, E-Mail-Adresse und andere Einstellungen.
 
+-   :material-folder-plus-outline:{ .lg .middle } **[git init](git-init.md)**
+
+    ---
+
+    Ein neues Repository anlegen.
+
 </div>

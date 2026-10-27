@@ -27,4 +27,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Name, email address and other settings.
 
+-   :material-folder-plus-outline:{ .lg .middle } **[git init](git-init.md)**
+
+    ---
+
+    Create a new repository.
+
 </div>
