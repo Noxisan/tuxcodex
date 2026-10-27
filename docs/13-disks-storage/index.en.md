@@ -177,4 +177,10 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
 <div class="grid cards" markdown>
 
+-   :material-heart-pulse:{ .lg .middle } **[smartctl](smartctl.md)**
+
+    ---
+
+    Check the health of disks.
+
 </div>

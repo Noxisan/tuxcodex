@@ -177,4 +177,10 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
 <div class="grid cards" markdown>
 
+-   :material-heart-pulse:{ .lg .middle } **[smartctl](smartctl.md)**
+
+    ---
+
+    Die Gesundheit von Platten prüfen.
+
 </div>
