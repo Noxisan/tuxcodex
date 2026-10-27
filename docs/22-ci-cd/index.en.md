@@ -34,4 +34,10 @@ are pushed.
 
     Start, enable and disable workflows.
 
+-   :material-key-outline:{ .lg .middle } **[gh secret](gh-secret.md)**
+
+    ---
+
+    Store passwords and keys as secrets.
+
 </div>

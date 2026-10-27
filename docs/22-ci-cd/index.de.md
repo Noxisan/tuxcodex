@@ -34,4 +34,10 @@ gepusht werden.
 
     Workflows starten, ein- und ausschalten.
 
+-   :material-key-outline:{ .lg .middle } **[gh secret](gh-secret.md)**
+
+    ---
+
+    Passwörter und Schlüssel als Secrets ablegen.
+
 </div>
