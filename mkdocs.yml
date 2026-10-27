@@ -357,6 +357,7 @@ nav:
       - docker build: 19-docker/docker-build.md
       - docker push: 19-docker/docker-push.md
       - docker rmi: 19-docker/docker-rmi.md
+      - docker volume: 19-docker/docker-volume.md
 
 markdown_extensions:
   - admonition
