@@ -16,3 +16,15 @@ setting up a server and clients, and reaching admin services only through the VP
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Basics:** How WireGuard works, what to install, a complete server and client setup and the firewall :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Commands
+
+<div class="grid cards" markdown>
+
+-   :material-key-chain-variant:{ .lg .middle } **[wg](wg.md)**
+
+    ---
+
+    Keys, tunnel state and peers.
+
+</div>

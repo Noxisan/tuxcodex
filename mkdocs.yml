@@ -449,6 +449,7 @@ nav:
   - VPN with WireGuard:
       - 26-wireguard/index.md
       - Basics: 26-wireguard/basics.md
+      - wg: 26-wireguard/wg.md
 
 markdown_extensions:
   - admonition

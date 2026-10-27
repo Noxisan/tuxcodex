@@ -16,3 +16,15 @@ Server und Clients einrichten und Admin-Dienste nur noch über das VPN erreichba
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Wie WireGuard funktioniert, was du installieren musst, eine vollständige Einrichtung von Server und Client und die Firewall :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Befehle
+
+<div class="grid cards" markdown>
+
+-   :material-key-chain-variant:{ .lg .middle } **[wg](wg.md)**
+
+    ---
+
+    Schlüssel, Tunnelzustand und Peers.
+
+</div>
