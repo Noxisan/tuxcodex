@@ -443,6 +443,7 @@ nav:
       - semanage: 25-selinux-apparmor/semanage.md
       - restorecon: 25-selinux-apparmor/restorecon.md
       - setsebool: 25-selinux-apparmor/setsebool.md
+      - audit2allow: 25-selinux-apparmor/audit2allow.md
 
 markdown_extensions:
   - admonition

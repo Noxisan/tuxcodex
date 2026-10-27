@@ -63,4 +63,10 @@ permissions are right, and how to fix it properly instead of switching the prote
 
     Switch ready-made exceptions.
 
+-   :material-shield-alert-outline:{ .lg .middle } **[audit2allow](audit2allow.md)**
+
+    ---
+
+    Explain denials, create modules.
+
 </div>

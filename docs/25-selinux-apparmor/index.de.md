@@ -63,4 +63,10 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
 
     Fertige Ausnahmen schalten.
 
+-   :material-shield-alert-outline:{ .lg .middle } **[audit2allow](audit2allow.md)**
+
+    ---
+
+    Ablehnungen erklären, Module erzeugen.
+
 </div>
