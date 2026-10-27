@@ -63,6 +63,12 @@ verpasste Jobs nachholen und dafür sorgen, dass ein Job nie doppelt gleichzeiti
 
     Wartende at-Jobs entfernen.
 
+-   :material-tray-full:{ .lg .middle } **[batch](batch.md)**
+
+    ---
+
+    Einen Job bei niedriger Last ausführen.
+
 </div>
 
 ## Überschneidungen vermeiden

@@ -63,6 +63,12 @@ on missed jobs and making sure a job never runs twice at the same time.
 
     Remove waiting at jobs.
 
+-   :material-tray-full:{ .lg .middle } **[batch](batch.md)**
+
+    ---
+
+    Run a job when the load is low.
+
 </div>
 
 ## Avoid overlaps
