@@ -67,7 +67,7 @@ sudo lsof +L1
 
 ```text
 COMMAND PID     USER   FD   TYPE DEVICE   SIZE/OFF NLINK   NODE NAME
-nginx   813 www-data    4w   REG  254,1 8589934592     0 393270 /var/log/nginx/access.log.1 (deleted)
+nginx   813 www-data    4w   REG    8,2 8589934592     0 393270 /var/log/nginx/access.log.1 (deleted)
 ```
 
 Die Logdatei wurde gelöscht, aber `nginx` hält sie noch offen. Die 8 GiB werden erst frei,
