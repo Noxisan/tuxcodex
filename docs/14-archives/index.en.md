@@ -33,6 +33,12 @@ compression method and checking that a file arrived intact.
 
     Create ZIP archives for Windows and macOS.
 
+-   :material-folder-zip-outline:{ .lg .middle } **[unzip](unzip.md)**
+
+    ---
+
+    List, test and extract ZIP archives.
+
 </div>
 
 ## Compress

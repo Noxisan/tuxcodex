@@ -33,6 +33,12 @@ Kompressionsverfahren wählen und prüfen, ob eine Datei unbeschädigt angekomme
 
     ZIP-Archive für Windows und macOS anlegen.
 
+-   :material-folder-zip-outline:{ .lg .middle } **[unzip](unzip.md)**
+
+    ---
+
+    ZIP-Archive auflisten, prüfen und entpacken.
+
 </div>
 
 ## Komprimieren
