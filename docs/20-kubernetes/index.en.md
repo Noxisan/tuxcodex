@@ -81,4 +81,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     Create or update from manifests.
 
+-   :material-plus-box-outline:{ .lg .middle } **[kubectl create](kubectl-create.md)**
+
+    ---
+
+    Create single objects directly.
+
 </div>

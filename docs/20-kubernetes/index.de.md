@@ -81,4 +81,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Aus Manifesten anlegen oder aktualisieren.
 
+-   :material-plus-box-outline:{ .lg .middle } **[kubectl create](kubectl-create.md)**
+
+    ---
+
+    Einzelne Objekte direkt anlegen.
+
 </div>
