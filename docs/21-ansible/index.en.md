@@ -27,4 +27,10 @@ commands on whole groups of servers, keeping passwords safe and reusing roles.
 
     Which settings apply, and from where.
 
+-   :material-server-network:{ .lg .middle } **[ansible-inventory](ansible-inventory.md)**
+
+    ---
+
+    Groups, servers and their variables.
+
 </div>

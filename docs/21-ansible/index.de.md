@@ -28,4 +28,10 @@ wiederverwenden.
 
     Welche Einstellungen gelten und woher.
 
+-   :material-server-network:{ .lg .middle } **[ansible-inventory](ansible-inventory.md)**
+
+    ---
+
+    Gruppen, Server und ihre Variablen.
+
 </div>
