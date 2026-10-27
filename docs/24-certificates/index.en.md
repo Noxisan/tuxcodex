@@ -89,3 +89,27 @@ for backups and transfers.
     Simple file encryption.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-console-network:{ .lg .middle } **[ssh-keygen](../12-ssh/ssh-keygen.md)**
+
+    ---
+
+    SSH keys work like TLS key pairs; age can even use them. Covered in the chapter SSH.
+
+-   :material-pound:{ .lg .middle } **[sha256sum](../14-archives/sha256sum.md)**
+
+    ---
+
+    Check downloads and backups with checksums. Covered in the chapter Archives.
+
+-   :material-lock-outline:{ .lg .middle } **[ansible-vault](../21-ansible/ansible-vault.md)**
+
+    ---
+
+    Encrypt passwords inside Ansible projects. Covered in the chapter Ansible.
+
+</div>

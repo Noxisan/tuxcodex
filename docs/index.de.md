@@ -184,7 +184,7 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Offene Ports, Härtung, Rootkits, Dateiintegrität und verwundbare Images.
 
--   :material-certificate-outline:{ .lg .middle } **Zertifikate und Verschlüsselung** · *in Arbeit*
+-   :material-certificate-outline:{ .lg .middle } **[Zertifikate und Verschlüsselung](24-certificates/index.md)**
 
     ---
 

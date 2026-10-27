@@ -89,3 +89,27 @@ für Backups und Übertragungen verschlüsseln.
     Einfache Dateiverschlüsselung.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-console-network:{ .lg .middle } **[ssh-keygen](../12-ssh/ssh-keygen.md)**
+
+    ---
+
+    SSH-Schlüssel funktionieren wie TLS-Schlüsselpaare; age kann sie sogar nutzen. Behandelt im Kapitel SSH.
+
+-   :material-pound:{ .lg .middle } **[sha256sum](../14-archives/sha256sum.md)**
+
+    ---
+
+    Downloads und Backups mit Prüfsummen kontrollieren. Behandelt im Kapitel Archive.
+
+-   :material-lock-outline:{ .lg .middle } **[ansible-vault](../21-ansible/ansible-vault.md)**
+
+    ---
+
+    Passwörter in Ansible-Projekten verschlüsseln. Behandelt im Kapitel Ansible.
+
+</div>

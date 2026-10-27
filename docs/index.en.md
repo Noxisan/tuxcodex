@@ -184,7 +184,7 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Open ports, hardening, rootkits, file integrity and vulnerable images.
 
--   :material-certificate-outline:{ .lg .middle } **Certificates and encryption** · *coming soon*
+-   :material-certificate-outline:{ .lg .middle } **[Certificates and encryption](24-certificates/index.md)**
 
     ---
 
