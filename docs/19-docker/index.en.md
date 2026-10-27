@@ -27,4 +27,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     Create and start a container.
 
+-   :material-format-list-bulleted:{ .lg .middle } **[docker ps](docker-ps.md)**
+
+    ---
+
+    List running and stopped containers.
+
 </div>

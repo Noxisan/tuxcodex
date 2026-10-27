@@ -27,4 +27,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Einen Container anlegen und starten.
 
+-   :material-format-list-bulleted:{ .lg .middle } **[docker ps](docker-ps.md)**
+
+    ---
+
+    Laufende und gestoppte Container auflisten.
+
 </div>
