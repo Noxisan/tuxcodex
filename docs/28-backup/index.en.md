@@ -27,4 +27,10 @@ restic and borg, retention and, above all, testing the restore.
 
     Back up PostgreSQL while it runs.
 
+-   :material-database-arrow-down-outline:{ .lg .middle } **[mysqldump](mysqldump.md)**
+
+    ---
+
+    Back up MySQL and MariaDB.
+
 </div>

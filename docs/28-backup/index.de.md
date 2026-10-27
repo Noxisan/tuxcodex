@@ -27,4 +27,10 @@ restic und borg, Aufbewahrung und vor allem das Testen der Wiederherstellung.
 
     PostgreSQL im laufenden Betrieb sichern.
 
+-   :material-database-arrow-down-outline:{ .lg .middle } **[mysqldump](mysqldump.md)**
+
+    ---
+
+    MySQL und MariaDB sichern.
+
 </div>
