@@ -324,6 +324,7 @@ nav:
       - git config: 18-git/git-config.md
       - git init: 18-git/git-init.md
       - git clone: 18-git/git-clone.md
+      - git status: 18-git/git-status.md
 
 markdown_extensions:
   - admonition

@@ -40,3 +40,15 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
     Ein Repository von einem Server kopieren.
 
 </div>
+
+## Änderungen speichern
+
+<div class="grid cards" markdown>
+
+-   :material-list-status:{ .lg .middle } **[git status](git-status.md)**
+
+    ---
+
+    Was sich geändert hat, was vorgemerkt ist.
+
+</div>

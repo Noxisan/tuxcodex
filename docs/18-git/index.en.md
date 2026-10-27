@@ -40,3 +40,15 @@ the history, working with branches and sharing a repository with a Git server.
     Copy a repository from a server.
 
 </div>
+
+## Saving changes
+
+<div class="grid cards" markdown>
+
+-   :material-list-status:{ .lg .middle } **[git status](git-status.md)**
+
+    ---
+
+    What has changed, what is staged.
+
+</div>
