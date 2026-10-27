@@ -10,7 +10,7 @@ theme:
   logo: assets/logo-small.png
   favicon: assets/favicon.png
   font:
-    text: Inter
+    text: Poppins
     code: JetBrains Mono
   palette:
     scheme: slate
