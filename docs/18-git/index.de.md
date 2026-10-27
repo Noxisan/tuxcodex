@@ -16,3 +16,15 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Arbeitsverzeichnis, Staging-Bereich und Repository, `.gitignore`, SSH-Schlüssel und der tägliche Ablauf :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Einrichten
+
+<div class="grid cards" markdown>
+
+-   :material-cog-outline:{ .lg .middle } **[git config](git-config.md)**
+
+    ---
+
+    Name, E-Mail-Adresse und andere Einstellungen.
+
+</div>
