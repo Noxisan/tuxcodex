@@ -46,8 +46,9 @@ MIN_COLS = 72
 # Working directory the first example runs in, if not the home directory
 START_DIR = {
     "18-git": "/home/nox/scripts",
+    "21-ansible": "/home/nox/ansible",
 }
-START_IN_HOME = {"git-config", "git-init", "git-clone"}
+START_IN_HOME = {"git-config", "git-init", "git-clone", "ansible-pull"}
 
 PLACEHOLDER = re.compile(r"<!-- SCREENSHOT: assets/screenshots/(?P<path>[^ ]+\.png) -->")
 EMBED = re.compile(r"!\[[^\]]*\]\(\.\./assets/screenshots/(?P<path>[^)]+\.png)\)")
