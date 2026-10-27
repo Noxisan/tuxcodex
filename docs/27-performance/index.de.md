@@ -39,4 +39,10 @@ Zeit, und den Kernel mit sysctl, Limits und Modulen einstellen.
 
     Welcher Prozess Platten-I/O verursacht.
 
+-   :material-chart-timeline-variant:{ .lg .middle } **[sar](sar.md)**
+
+    ---
+
+    Statistik für jede Uhrzeit des Tages.
+
 </div>

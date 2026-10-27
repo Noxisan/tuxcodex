@@ -39,4 +39,10 @@ the kernel with sysctl, limits and modules.
 
     Which process causes disk I/O.
 
+-   :material-chart-timeline-variant:{ .lg .middle } **[sar](sar.md)**
+
+    ---
+
+    Statistics for any time of the day.
+
 </div>
