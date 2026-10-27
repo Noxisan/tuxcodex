@@ -21,6 +21,12 @@ Logdateien klein halten, fehlgeschlagene Anmeldungen und Audit-Ereignisse verfol
 
 <div class="grid cards" markdown>
 
+-   :material-chip:{ .lg .middle } **[dmesg](dmesg.md)**
+
+    ---
+
+    Kernelmeldungen: Hardware, Treiber, OOM-Killer.
+
 </div>
 
 ## Logdateien verwalten

@@ -277,6 +277,7 @@ nav:
   - Logs:
       - 15-logs/index.md
       - Basics: 15-logs/basics.md
+      - dmesg: 15-logs/dmesg.md
 
 markdown_extensions:
   - admonition
