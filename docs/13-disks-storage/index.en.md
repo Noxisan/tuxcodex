@@ -51,6 +51,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Find out what takes up the space.
 
+-   :material-chart-donut:{ .lg .middle } **[ncdu](ncdu.md)**
+
+    ---
+
+    Interactive disk usage browser.
+
 </div>
 
 ## Partition and format

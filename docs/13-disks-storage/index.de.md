@@ -51,6 +51,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     Herausfinden, was den Platz belegt.
 
+-   :material-chart-donut:{ .lg .middle } **[ncdu](ncdu.md)**
+
+    ---
+
+    Interaktiver Speicherplatz-Browser.
+
 </div>
 
 ## Partitionieren und formatieren

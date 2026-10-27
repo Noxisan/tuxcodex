@@ -245,6 +245,7 @@ nav:
       - findmnt: 13-disks-storage/findmnt.md
       - df: 13-disks-storage/df.md
       - du: 13-disks-storage/du.md
+      - ncdu: 13-disks-storage/ncdu.md
 
 markdown_extensions:
   - admonition
