@@ -70,3 +70,15 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
     Ablehnungen erklären, Module erzeugen.
 
 </div>
+
+## AppArmor
+
+<div class="grid cards" markdown>
+
+-   :material-shield-check-outline:{ .lg .middle } **[aa-status](aa-status.md)**
+
+    ---
+
+    Geladene Profile und geschützte Prozesse.
+
+</div>

@@ -444,6 +444,7 @@ nav:
       - restorecon: 25-selinux-apparmor/restorecon.md
       - setsebool: 25-selinux-apparmor/setsebool.md
       - audit2allow: 25-selinux-apparmor/audit2allow.md
+      - aa-status: 25-selinux-apparmor/aa-status.md
 
 markdown_extensions:
   - admonition

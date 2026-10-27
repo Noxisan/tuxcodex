@@ -70,3 +70,15 @@ permissions are right, and how to fix it properly instead of switching the prote
     Explain denials, create modules.
 
 </div>
+
+## AppArmor
+
+<div class="grid cards" markdown>
+
+-   :material-shield-check-outline:{ .lg .middle } **[aa-status](aa-status.md)**
+
+    ---
+
+    Loaded profiles and protected processes.
+
+</div>
