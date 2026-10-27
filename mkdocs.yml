@@ -338,6 +338,7 @@ nav:
       - git remote: 18-git/git-remote.md
       - git fetch: 18-git/git-fetch.md
       - git pull: 18-git/git-pull.md
+      - git push: 18-git/git-push.md
 
 markdown_extensions:
   - admonition

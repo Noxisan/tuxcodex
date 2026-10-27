@@ -147,4 +147,10 @@ mit Branches arbeiten und ein Repository über einen Git-Server teilen.
 
     Holen und zusammenführen in einem Schritt.
 
+-   :material-upload:{ .lg .middle } **[git push](git-push.md)**
+
+    ---
+
+    Commits auf den Server schicken.
+
 </div>

@@ -147,4 +147,10 @@ the history, working with branches and sharing a repository with a Git server.
 
     Fetch and merge in one step.
 
+-   :material-upload:{ .lg .middle } **[git push](git-push.md)**
+
+    ---
+
+    Send commits to the server.
+
 </div>
