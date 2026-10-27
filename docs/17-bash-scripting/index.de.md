@@ -33,6 +33,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Formatierte Ausgabe: Spalten, Zahlen.
 
+-   :material-keyboard-outline:{ .lg .middle } **[read](read.md)**
+
+    ---
+
+    Eingaben und Dateien zeilenweise lesen.
+
 </div>
 
 ## Variablen und Umgebung

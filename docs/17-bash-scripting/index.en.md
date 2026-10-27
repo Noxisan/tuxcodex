@@ -33,6 +33,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Formatted output: columns, numbers.
 
+-   :material-keyboard-outline:{ .lg .middle } **[read](read.md)**
+
+    ---
+
+    Read input and files line by line.
+
 </div>
 
 ## Variables and environment
