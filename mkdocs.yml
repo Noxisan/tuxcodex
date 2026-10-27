@@ -290,6 +290,7 @@ nav:
   - Scheduling:
       - 16-scheduling/index.md
       - Basics: 16-scheduling/basics.md
+      - crontab: 16-scheduling/crontab.md
 
 markdown_extensions:
   - admonition

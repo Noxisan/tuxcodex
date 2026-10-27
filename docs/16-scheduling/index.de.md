@@ -21,6 +21,12 @@ verpasste Jobs nachholen und dafür sorgen, dass ein Job nie doppelt gleichzeiti
 
 <div class="grid cards" markdown>
 
+-   :material-calendar-edit:{ .lg .middle } **[crontab](crontab.md)**
+
+    ---
+
+    Die Cronjobs eines Benutzers zeigen und bearbeiten.
+
 </div>
 
 ## Einmalige Jobs

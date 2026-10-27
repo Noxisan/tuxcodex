@@ -21,6 +21,12 @@ on missed jobs and making sure a job never runs twice at the same time.
 
 <div class="grid cards" markdown>
 
+-   :material-calendar-edit:{ .lg .middle } **[crontab](crontab.md)**
+
+    ---
+
+    Show and edit the cron jobs of a user.
+
 </div>
 
 ## One-time jobs
