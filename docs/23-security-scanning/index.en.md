@@ -70,3 +70,15 @@ hardening, rootkits and malware, changed system files and vulnerable container i
     Scan files for malware.
 
 </div>
+
+## Integrity
+
+<div class="grid cards" markdown>
+
+-   :material-file-lock-outline:{ .lg .middle } **[aide](aide.md)**
+
+    ---
+
+    Report changed system files.
+
+</div>

@@ -417,6 +417,7 @@ nav:
       - rkhunter: 23-security-scanning/rkhunter.md
       - chkrootkit: 23-security-scanning/chkrootkit.md
       - clamscan: 23-security-scanning/clamscan.md
+      - aide: 23-security-scanning/aide.md
 
 markdown_extensions:
   - admonition

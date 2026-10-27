@@ -70,3 +70,15 @@ Rootkits und Schadsoftware, veränderte Systemdateien und verwundbare Container-
     Dateien auf Schadsoftware prüfen.
 
 </div>
+
+## Integrität
+
+<div class="grid cards" markdown>
+
+-   :material-file-lock-outline:{ .lg .middle } **[aide](aide.md)**
+
+    ---
+
+    Veränderte Systemdateien melden.
+
+</div>
