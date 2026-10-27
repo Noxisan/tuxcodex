@@ -389,6 +389,7 @@ nav:
       - ansible-config: 21-ansible/ansible-config.md
       - ansible-inventory: 21-ansible/ansible-inventory.md
       - ansible: 21-ansible/ansible.md
+      - ansible-playbook: 21-ansible/ansible-playbook.md
 
 markdown_extensions:
   - admonition

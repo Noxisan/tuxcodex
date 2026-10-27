@@ -46,4 +46,10 @@ wiederverwenden.
 
     Ein Modul sofort auf vielen Servern.
 
+-   :material-play-box-outline:{ .lg .middle } **[ansible-playbook](ansible-playbook.md)**
+
+    ---
+
+    Playbooks ausführen, Änderungen vorher prüfen.
+
 </div>

@@ -45,4 +45,10 @@ commands on whole groups of servers, keeping passwords safe and reusing roles.
 
     One module on many servers, right away.
 
+-   :material-play-box-outline:{ .lg .middle } **[ansible-playbook](ansible-playbook.md)**
+
+    ---
+
+    Run playbooks, check changes first.
+
 </div>
