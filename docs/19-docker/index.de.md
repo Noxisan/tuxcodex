@@ -136,3 +136,15 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
     Netzwerke zwischen Containern.
 
 </div>
+
+## Stacks und Aufräumen
+
+<div class="grid cards" markdown>
+
+-   :material-file-cog-outline:{ .lg .middle } **[docker compose](docker-compose.md)**
+
+    ---
+
+    Mehrere Container aus einer compose.yaml betreiben.
+
+</div>

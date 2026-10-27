@@ -359,6 +359,7 @@ nav:
       - docker rmi: 19-docker/docker-rmi.md
       - docker volume: 19-docker/docker-volume.md
       - docker network: 19-docker/docker-network.md
+      - docker compose: 19-docker/docker-compose.md
 
 markdown_extensions:
   - admonition

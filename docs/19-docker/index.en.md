@@ -136,3 +136,15 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
     Networks between containers.
 
 </div>
+
+## Stacks and cleanup
+
+<div class="grid cards" markdown>
+
+-   :material-file-cog-outline:{ .lg .middle } **[docker compose](docker-compose.md)**
+
+    ---
+
+    Run several containers from a compose.yaml.
+
+</div>
