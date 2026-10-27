@@ -59,7 +59,7 @@ Every command page has the same structure:
 | 11 | [Network](https://noxisan.github.io/tuxcodex/11-network/) | `ip`, `ss`, `dig`, `curl`, `ufw`, `tcpdump`, … | ✅ 18 |
 | 12 | [SSH](https://noxisan.github.io/tuxcodex/12-ssh/) | `ssh`, `ssh-keygen`, `scp`, `rsync`, `sshd`, … | ✅ 11 |
 | 13 | [Disks and storage](https://noxisan.github.io/tuxcodex/13-disks-storage/) | `lsblk`, `df`, `fdisk`, `mount`, `lvextend`, … | ✅ 22 |
-| 14 | Archives | | 🚧 planned |
+| 14 | [Archives](https://noxisan.github.io/tuxcodex/14-archives/) | `tar`, `zip`, `gzip`, `zstd`, `sha256sum`, … | ✅ 8 |
 | 15 | Logs | | 🚧 planned |
 | 16 | Scheduling | `cron`, `at`, systemd timers | 🚧 planned |
 | 17 | Bash scripting | | 🚧 planned |
