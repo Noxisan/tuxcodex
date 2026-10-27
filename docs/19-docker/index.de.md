@@ -45,4 +45,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Container sauber stoppen.
 
+-   :material-delete-outline:{ .lg .middle } **[docker rm](docker-rm.md)**
+
+    ---
+
+    Container löschen.
+
 </div>

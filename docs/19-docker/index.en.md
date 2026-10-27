@@ -45,4 +45,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     Stop containers cleanly.
 
+-   :material-delete-outline:{ .lg .middle } **[docker rm](docker-rm.md)**
+
+    ---
+
+    Delete containers.
+
 </div>
