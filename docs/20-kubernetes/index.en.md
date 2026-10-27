@@ -16,3 +16,15 @@ finding errors, maintaining nodes and installing software with Helm.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Basics:** What you need to install, pods, deployments and services, manifests and kubeconfig :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Setting up the cluster
+
+<div class="grid cards" markdown>
+
+-   :material-server:{ .lg .middle } **[k3s](k3s.md)**
+
+    ---
+
+    Kubernetes in a single binary.
+
+</div>

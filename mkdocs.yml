@@ -365,6 +365,7 @@ nav:
   - Kubernetes:
       - 20-kubernetes/index.md
       - Basics: 20-kubernetes/basics.md
+      - k3s: 20-kubernetes/k3s.md
 
 markdown_extensions:
   - admonition
