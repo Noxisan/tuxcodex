@@ -52,4 +52,10 @@ für Backups und Übertragungen verschlüsseln.
 
     Private Schlüssel erstellen.
 
+-   :material-file-certificate-outline:{ .lg .middle } **[openssl req](openssl-req.md)**
+
+    ---
+
+    Zertifikatsanfragen und selbstsignierte Zertifikate.
+
 </div>
