@@ -37,6 +37,7 @@ plugins:
           site_description: Linux-Administration & DevOps ein Handbuch von Nox
           nav_translations:
             Home: Startseite
+            Basics overview: Grundlagen im Überblick
             Orientation: Orientierung
             Navigation: Navigation
             Files: Dateien
@@ -59,6 +60,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - Basics overview: basics.md
   - Orientation:
       - 01-orientation/index.md
       - Basics: 01-orientation/basics.md
