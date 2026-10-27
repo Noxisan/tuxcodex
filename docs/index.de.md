@@ -137,7 +137,7 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Variablen, Bedingungen, Schleifen und Funktionen für eigene Admin-Skripte.
 
--   :material-git:{ .lg .middle } **Git** · *in Arbeit*
+-   :material-git:{ .lg .middle } **[Git](18-git/index.md)**
 
     ---
 

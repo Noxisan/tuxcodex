@@ -137,7 +137,7 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Variables, conditions, loops and functions for your own admin scripts.
 
--   :material-git:{ .lg .middle } **Git** · *coming soon*
+-   :material-git:{ .lg .middle } **[Git](18-git/index.md)**
 
     ---
 
