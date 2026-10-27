@@ -613,7 +613,16 @@
 @media screen and (min-width: 76.25em) {
   .md-header__button.md-logo {
     margin-right: 0;
-    padding-right: 0.2rem;
+    padding: 0.2rem 0.2rem 0.2rem 0.4rem;
+  }
+
+  /* Larger logo; the smaller padding keeps the header at its normal height */
+  .md-header__button.md-logo img {
+    height: 2rem;
+  }
+
+  .md-header__title {
+    font-size: 1.05rem;
   }
 
   [dir] .md-header__title {
