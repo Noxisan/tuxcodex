@@ -87,4 +87,4 @@ done
 
 ## Related commands
 
-[for](for.md) · [read](read.md) · [test](test.md)
+[for](for.md) · [read](read.md) · [test](test.md) · [getopts](getopts.md)

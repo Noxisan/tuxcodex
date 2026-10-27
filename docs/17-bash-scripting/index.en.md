@@ -135,4 +135,10 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Clean up on exit and signals.
 
+-   :material-tune-vertical:{ .lg .middle } **[getopts](getopts.md)**
+
+    ---
+
+    Read options like `-v` and `-t`.
+
 </div>

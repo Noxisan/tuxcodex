@@ -75,4 +75,4 @@ bash: backupp: command not found
 
 ## Related commands
 
-[function](function.md) · [set](set.md) · [trap](trap.md)
+[function](function.md) · [set](set.md) · [trap](trap.md) · [getopts](getopts.md)

@@ -135,4 +135,10 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Beim Ende und bei Signalen aufräumen.
 
+-   :material-tune-vertical:{ .lg .middle } **[getopts](getopts.md)**
+
+    ---
+
+    Optionen wie `-v` und `-t` lesen.
+
 </div>

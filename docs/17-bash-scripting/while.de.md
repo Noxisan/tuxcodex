@@ -87,4 +87,4 @@ done
 
 ## Verwandte Befehle
 
-[for](for.md) · [read](read.md) · [test](test.md)
+[for](for.md) · [read](read.md) · [test](test.md) · [getopts](getopts.md)
