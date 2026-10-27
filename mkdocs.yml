@@ -395,6 +395,9 @@ nav:
       - ansible-galaxy: 21-ansible/ansible-galaxy.md
       - ansible-vault: 21-ansible/ansible-vault.md
       - ansible-lint: 21-ansible/ansible-lint.md
+  - CI/CD:
+      - 22-ci-cd/index.md
+      - Basics: 22-ci-cd/basics.md
 
 markdown_extensions:
   - admonition
