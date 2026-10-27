@@ -57,6 +57,12 @@ verpasste Jobs nachholen und dafür sorgen, dass ein Job nie doppelt gleichzeiti
 
     Wartende at-Jobs auflisten.
 
+-   :material-clock-remove-outline:{ .lg .middle } **[atrm](atrm.md)**
+
+    ---
+
+    Wartende at-Jobs entfernen.
+
 </div>
 
 ## Überschneidungen vermeiden

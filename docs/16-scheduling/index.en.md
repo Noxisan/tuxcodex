@@ -57,6 +57,12 @@ on missed jobs and making sure a job never runs twice at the same time.
 
     List waiting at jobs.
 
+-   :material-clock-remove-outline:{ .lg .middle } **[atrm](atrm.md)**
+
+    ---
+
+    Remove waiting at jobs.
+
 </div>
 
 ## Avoid overlaps

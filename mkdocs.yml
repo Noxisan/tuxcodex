@@ -295,6 +295,7 @@ nav:
       - anacron: 16-scheduling/anacron.md
       - at: 16-scheduling/at.md
       - atq: 16-scheduling/atq.md
+      - atrm: 16-scheduling/atrm.md
 
 markdown_extensions:
   - admonition
