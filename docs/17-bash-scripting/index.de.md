@@ -111,6 +111,12 @@ Funktionen, dazu die Werkzeuge, die Skripte robust und sicher für den unbeaufsi
 
     Benannte Befehlsblöcke.
 
+-   :material-exit-run:{ .lg .middle } **[exit](exit.md)**
+
+    ---
+
+    Ein Skript mit Exit-Code beenden.
+
 </div>
 
 ## Robuste Skripte

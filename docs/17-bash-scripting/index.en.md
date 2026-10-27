@@ -111,6 +111,12 @@ functions, plus the tools that make scripts robust and safe to run unattended.
 
     Named blocks of commands.
 
+-   :material-exit-run:{ .lg .middle } **[exit](exit.md)**
+
+    ---
+
+    End a script with an exit code.
+
 </div>
 
 ## Robust scripts
