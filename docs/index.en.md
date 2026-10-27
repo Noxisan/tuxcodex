@@ -160,7 +160,7 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Running containers across many servers with `kubectl` and Helm.
 
--   :material-ansible:{ .lg .middle } **Ansible** · *coming soon*
+-   :material-ansible:{ .lg .middle } **[Ansible](21-ansible/index.md)**
 
     ---
 

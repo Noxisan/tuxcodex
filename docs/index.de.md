@@ -160,7 +160,7 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Container über viele Server verteilen mit `kubectl` und Helm.
 
--   :material-ansible:{ .lg .middle } **Ansible** · *in Arbeit*
+-   :material-ansible:{ .lg .middle } **[Ansible](21-ansible/index.md)**
 
     ---
 
