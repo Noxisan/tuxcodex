@@ -99,4 +99,4 @@ Number  Start    End       Size      File system  Name  Flags
 
 ## Verwandte Befehle
 
-[fdisk](fdisk.md) · [lsblk](lsblk.md) · [resize2fs](resize2fs.md)
+[fdisk](fdisk.md) · [lsblk](lsblk.md) · [resize2fs](resize2fs.md) · [mkfs](mkfs.md)

@@ -80,4 +80,4 @@ UUID=87c6aa0c-cb18-455e-b534-d2864a90bb80 /mnt/backup ext4 defaults,nofail 0 2
 
 ## Related commands
 
-[lsblk](lsblk.md) · [mount](mount.md) · [findmnt](findmnt.md)
+[lsblk](lsblk.md) · [mount](mount.md) · [findmnt](findmnt.md) · [mkfs](mkfs.md)

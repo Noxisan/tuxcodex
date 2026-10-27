@@ -75,6 +75,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Partition in one command line.
 
+-   :material-eraser:{ .lg .middle } **[mkfs](mkfs.md)**
+
+    ---
+
+    Create a file system.
+
 </div>
 
 ## Mount

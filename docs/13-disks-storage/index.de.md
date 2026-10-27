@@ -75,6 +75,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     In einer Befehlszeile partitionieren.
 
+-   :material-eraser:{ .lg .middle } **[mkfs](mkfs.md)**
+
+    ---
+
+    Ein Dateisystem anlegen.
+
 </div>
 
 ## Einhängen
