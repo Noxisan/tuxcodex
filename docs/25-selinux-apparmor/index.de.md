@@ -88,3 +88,33 @@ Dateirechte stimmen, und wie du das richtig behebst, statt den Schutz abzuschalt
     Profile zwischen complain und enforce umschalten.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-magnify-scan:{ .lg .middle } **[ausearch](../15-logs/ausearch.md)**
+
+    ---
+
+    `ausearch -m AVC -ts recent` findet die SELinux-Ablehnungen. Behandelt im Kapitel Logs.
+
+-   :material-format-list-bulleted:{ .lg .middle } **[ls](../02-navigation/ls.md)**
+
+    ---
+
+    `ls -Z` zeigt das SELinux-Label von Dateien. Behandelt im Kapitel Navigation.
+
+-   :material-format-list-checks:{ .lg .middle } **[ps](../08-processes/ps.md)**
+
+    ---
+
+    `ps -eZ` zeigt die SELinux-Domäne von Prozessen. Behandelt im Kapitel Prozesse.
+
+-   :material-text-box-search-outline:{ .lg .middle } **[journalctl](../09-systemd/journalctl.md)**
+
+    ---
+
+    `journalctl -k` zeigt AppArmor-Ablehnungen im Kernel-Log. Behandelt im Kapitel systemd.
+
+</div>

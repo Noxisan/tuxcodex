@@ -190,6 +190,12 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     TLS-Zertifikate, `openssl`, `gpg` und Let's Encrypt.
 
+-   :material-shield-lock-outline:{ .lg .middle } **[SELinux und AppArmor](25-selinux-apparmor/index.md)**
+
+    ---
+
+    „Permission denied“ richtig beheben, statt den Schutz abzuschalten.
+
 </div>
 
 ## Alle Befehle

@@ -88,3 +88,33 @@ permissions are right, and how to fix it properly instead of switching the prote
     Switch profiles between complain and enforce.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-magnify-scan:{ .lg .middle } **[ausearch](../15-logs/ausearch.md)**
+
+    ---
+
+    `ausearch -m AVC -ts recent` finds the SELinux denials. Covered in the chapter Logs.
+
+-   :material-format-list-bulleted:{ .lg .middle } **[ls](../02-navigation/ls.md)**
+
+    ---
+
+    `ls -Z` shows the SELinux label of files. Covered in the chapter Navigation.
+
+-   :material-format-list-checks:{ .lg .middle } **[ps](../08-processes/ps.md)**
+
+    ---
+
+    `ps -eZ` shows the SELinux domain of processes. Covered in the chapter Processes.
+
+-   :material-text-box-search-outline:{ .lg .middle } **[journalctl](../09-systemd/journalctl.md)**
+
+    ---
+
+    `journalctl -k` shows AppArmor denials in the kernel log. Covered in the chapter systemd.
+
+</div>
