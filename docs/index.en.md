@@ -166,7 +166,7 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Configuring many servers at once with playbooks.
 
--   :material-infinity:{ .lg .middle } **CI/CD** · *coming soon*
+-   :material-infinity:{ .lg .middle } **[CI/CD](22-ci-cd/index.md)**
 
     ---
 

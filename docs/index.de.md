@@ -166,7 +166,7 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Viele Server auf einmal mit Playbooks konfigurieren.
 
--   :material-infinity:{ .lg .middle } **CI/CD** · *in Arbeit*
+-   :material-infinity:{ .lg .middle } **[CI/CD](22-ci-cd/index.md)**
 
     ---
 
