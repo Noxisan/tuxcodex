@@ -93,4 +93,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     Delete objects.
 
+-   :material-arrow-expand-horizontal:{ .lg .middle } **[kubectl scale](kubectl-scale.md)**
+
+    ---
+
+    Change the number of pods.
+
 </div>

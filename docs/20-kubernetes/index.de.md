@@ -93,4 +93,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Objekte löschen.
 
+-   :material-arrow-expand-horizontal:{ .lg .middle } **[kubectl scale](kubectl-scale.md)**
+
+    ---
+
+    Die Anzahl der Pods ändern.
+
 </div>
