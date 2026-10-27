@@ -680,3 +680,13 @@ html[lang="de"] .md-nav--primary #__nav_18 + .md-nav__link::before {
 html[lang="de"] .md-nav--primary #__nav_24 + .md-nav__link::before {
   content: "Sicherheit";
 }
+
+/* Tables: no line breaks inside inline code (such as after the hyphen of --install), and
+   option names in the first column stay on one line */
+.md-typeset table:not([class]) td code {
+  white-space: nowrap;
+}
+
+.md-typeset table:not([class]) td:first-child:has(> code:first-child) {
+  white-space: nowrap;
+}

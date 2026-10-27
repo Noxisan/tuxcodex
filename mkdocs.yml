@@ -9,6 +9,9 @@ theme:
   name: material
   logo: assets/logo-small.png
   favicon: assets/favicon.png
+  font:
+    text: Inter
+    code: JetBrains Mono
   palette:
     scheme: slate
     primary: custom
@@ -22,6 +25,7 @@ theme:
 
 plugins:
   - search
+  - privacy
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
