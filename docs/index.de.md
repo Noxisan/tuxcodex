@@ -125,6 +125,18 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Jobs regelmäßig ausführen mit cron, `at` und systemd-Timern.
 
+-   :material-script-text-outline:{ .lg .middle } **Bash-Skripte** · *in Arbeit*
+
+    ---
+
+    Variablen, Bedingungen, Schleifen und Funktionen für eigene Admin-Skripte.
+
+-   :material-rocket-launch:{ .lg .middle } **DevOps** · *in Arbeit*
+
+    ---
+
+    Git, Docker, Ansible und CI/CD für Server.
+
 </div>
 
 ## Alle Befehle

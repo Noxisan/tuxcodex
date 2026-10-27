@@ -125,6 +125,18 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Running jobs regularly with cron, `at` and systemd timers.
 
+-   :material-script-text-outline:{ .lg .middle } **Bash scripting** · *coming soon*
+
+    ---
+
+    Variables, conditions, loops and functions for your own admin scripts.
+
+-   :material-rocket-launch:{ .lg .middle } **DevOps** · *coming soon*
+
+    ---
+
+    Git, Docker, Ansible and CI/CD for servers.
+
 </div>
 
 ## All commands
