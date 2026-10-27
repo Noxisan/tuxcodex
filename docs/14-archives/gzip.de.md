@@ -83,4 +83,4 @@ ls -lh shop.sql.gz
 
 ## Verwandte Befehle
 
-[tar](tar.md) · [zstd](zstd.md) · [zcat](../04-viewing-files/zcat.md) · [bzip2](bzip2.md)
+[tar](tar.md) · [zstd](zstd.md) · [zcat](../04-viewing-files/zcat.md) · [bzip2](bzip2.md) · [xz](xz.md)

@@ -57,6 +57,12 @@ compression method and checking that a file arrived intact.
 
     Stronger than gzip, but slow.
 
+-   :material-arrow-collapse-all:{ .lg .middle } **[xz](xz.md)**
+
+    ---
+
+    The smallest files, slow to create.
+
 </div>
 
 ## Verify

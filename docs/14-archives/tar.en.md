@@ -127,4 +127,4 @@ www/index.html: Size differs
 
 ## Related commands
 
-[gzip](gzip.md) · [zstd](zstd.md) · [zip](zip.md) · [rsync](../12-ssh/rsync.md) · [unzip](unzip.md)
+[gzip](gzip.md) · [zstd](zstd.md) · [zip](zip.md) · [rsync](../12-ssh/rsync.md) · [unzip](unzip.md) · [xz](xz.md)

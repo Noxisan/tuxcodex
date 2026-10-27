@@ -57,6 +57,12 @@ Kompressionsverfahren wählen und prüfen, ob eine Datei unbeschädigt angekomme
 
     Stärker als gzip, aber langsam.
 
+-   :material-arrow-collapse-all:{ .lg .middle } **[xz](xz.md)**
+
+    ---
+
+    Die kleinsten Dateien, langsam beim Erstellen.
+
 </div>
 
 ## Prüfen
