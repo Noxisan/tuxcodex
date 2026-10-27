@@ -380,6 +380,7 @@ nav:
       - kubectl exec: 20-kubernetes/kubectl-exec.md
       - kubectl port-forward: 20-kubernetes/kubectl-port-forward.md
       - kubectl drain: 20-kubernetes/kubectl-drain.md
+      - helm: 20-kubernetes/helm.md
 
 markdown_extensions:
   - admonition

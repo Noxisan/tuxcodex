@@ -136,3 +136,15 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
     Einen Node vor der Wartung leeren.
 
 </div>
+
+## Werkzeuge
+
+<div class="grid cards" markdown>
+
+-   :material-package-variant-closed:{ .lg .middle } **[helm](helm.md)**
+
+    ---
+
+    Paketmanager für Kubernetes.
+
+</div>
