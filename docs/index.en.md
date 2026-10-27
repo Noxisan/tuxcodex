@@ -190,37 +190,3 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 ## All commands
 
 <!-- COMMAND_INDEX -->
-
-## What every command page contains
-
-<div class="grid cards" markdown>
-
--   :material-console:{ .lg .middle } **Syntax & options**
-
-    ---
-
-    The command at a glance, with the options you actually need.
-
--   :material-play-box-outline:{ .lg .middle } **Real examples**
-
-    ---
-
-    Practical examples with their output and a screenshot.
-
--   :material-server:{ .lg .middle } **Admin practice**
-
-    ---
-
-    When you need the command on a server, plus tips and pitfalls.
-
--   :material-swap-horizontal:{ .lg .middle } **Distribution differences**
-
-    ---
-
-    Where Debian, Ubuntu, RHEL and Arch differ: packages, defaults and tools.
-
-</div>
-
-!!! tip "How to use this handbook"
-    Use the search at the top or work through the chapters in order.
-    Each chapter builds on the previous one.
