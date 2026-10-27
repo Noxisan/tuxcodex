@@ -272,6 +272,7 @@ nav:
       - gzip: 14-archives/gzip.md
       - bzip2: 14-archives/bzip2.md
       - xz: 14-archives/xz.md
+      - zstd: 14-archives/zstd.md
 
 markdown_extensions:
   - admonition

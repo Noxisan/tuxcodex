@@ -63,6 +63,12 @@ compression method and checking that a file arrived intact.
 
     The smallest files, slow to create.
 
+-   :material-lightning-bolt-outline:{ .lg .middle } **[zstd](zstd.md)**
+
+    ---
+
+    Fast and small, ideal for backups.
+
 </div>
 
 ## Verify

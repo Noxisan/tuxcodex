@@ -63,6 +63,12 @@ Kompressionsverfahren wählen und prüfen, ob eine Datei unbeschädigt angekomme
 
     Die kleinsten Dateien, langsam beim Erstellen.
 
+-   :material-lightning-bolt-outline:{ .lg .middle } **[zstd](zstd.md)**
+
+    ---
+
+    Schnell und klein, ideal für Backups.
+
 </div>
 
 ## Prüfen
