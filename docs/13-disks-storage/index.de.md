@@ -129,6 +129,12 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
     ext4 vergrößern oder verkleinern.
 
+-   :material-arrow-expand-all:{ .lg .middle } **[xfs_growfs](xfs_growfs.md)**
+
+    ---
+
+    XFS vergrößern.
+
 </div>
 
 ## LVM

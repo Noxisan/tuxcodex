@@ -129,6 +129,12 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
     Grow or shrink ext4.
 
+-   :material-arrow-expand-all:{ .lg .middle } **[xfs_growfs](xfs_growfs.md)**
+
+    ---
+
+    Grow XFS.
+
 </div>
 
 ## LVM

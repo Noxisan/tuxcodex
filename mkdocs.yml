@@ -255,6 +255,7 @@ nav:
       - umount: 13-disks-storage/umount.md
       - fsck: 13-disks-storage/fsck.md
       - resize2fs: 13-disks-storage/resize2fs.md
+      - xfs_growfs: 13-disks-storage/xfs_growfs.md
 
 markdown_extensions:
   - admonition
