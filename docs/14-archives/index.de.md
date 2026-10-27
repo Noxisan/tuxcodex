@@ -21,6 +21,12 @@ Kompressionsverfahren wählen und prüfen, ob eine Datei unbeschädigt angekomme
 
 <div class="grid cards" markdown>
 
+-   :material-archive:{ .lg .middle } **[tar](tar.md)**
+
+    ---
+
+    Verzeichnisse packen und entpacken.
+
 </div>
 
 ## Komprimieren

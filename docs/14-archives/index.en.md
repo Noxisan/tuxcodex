@@ -21,6 +21,12 @@ compression method and checking that a file arrived intact.
 
 <div class="grid cards" markdown>
 
+-   :material-archive:{ .lg .middle } **[tar](tar.md)**
+
+    ---
+
+    Pack and unpack directories.
+
 </div>
 
 ## Compress
