@@ -99,4 +99,10 @@ finding errors, maintaining nodes and installing software with Helm.
 
     Change the number of pods.
 
+-   :material-update:{ .lg .middle } **[kubectl rollout](kubectl-rollout.md)**
+
+    ---
+
+    Watch, restart and undo updates.
+
 </div>

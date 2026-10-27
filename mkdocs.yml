@@ -376,6 +376,7 @@ nav:
       - kubectl create: 20-kubernetes/kubectl-create.md
       - kubectl delete: 20-kubernetes/kubectl-delete.md
       - kubectl scale: 20-kubernetes/kubectl-scale.md
+      - kubectl rollout: 20-kubernetes/kubectl-rollout.md
 
 markdown_extensions:
   - admonition

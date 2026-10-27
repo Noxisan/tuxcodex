@@ -99,4 +99,10 @@ Fehler finden, Nodes warten und Software mit Helm installieren.
 
     Die Anzahl der Pods ändern.
 
+-   :material-update:{ .lg .middle } **[kubectl rollout](kubectl-rollout.md)**
+
+    ---
+
+    Updates beobachten, neu starten, zurücknehmen.
+
 </div>
