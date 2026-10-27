@@ -65,3 +65,15 @@ gepusht werden.
     Pipelines im Terminal.
 
 </div>
+
+## Qualität vor dem Push
+
+<div class="grid cards" markdown>
+
+-   :material-file-check-outline:{ .lg .middle } **[actionlint](actionlint.md)**
+
+    ---
+
+    Fehler in Workflow-Dateien finden.
+
+</div>

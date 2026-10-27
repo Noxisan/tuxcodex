@@ -65,3 +65,15 @@ are pushed.
     Pipelines from the terminal.
 
 </div>
+
+## Quality before the push
+
+<div class="grid cards" markdown>
+
+-   :material-file-check-outline:{ .lg .middle } **[actionlint](actionlint.md)**
+
+    ---
+
+    Find mistakes in workflow files.
+
+</div>
