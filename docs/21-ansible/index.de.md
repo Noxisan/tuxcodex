@@ -52,4 +52,10 @@ wiederverwenden.
 
     Playbooks ausführen, Änderungen vorher prüfen.
 
+-   :material-source-pull:{ .lg .middle } **[ansible-pull](ansible-pull.md)**
+
+    ---
+
+    Server konfigurieren sich selbst aus Git.
+
 </div>

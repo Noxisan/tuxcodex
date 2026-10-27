@@ -51,4 +51,10 @@ commands on whole groups of servers, keeping passwords safe and reusing roles.
 
     Run playbooks, check changes first.
 
+-   :material-source-pull:{ .lg .middle } **[ansible-pull](ansible-pull.md)**
+
+    ---
+
+    Servers configure themselves from Git.
+
 </div>
