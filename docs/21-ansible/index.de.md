@@ -35,3 +35,15 @@ wiederverwenden.
     Gruppen, Server und ihre Variablen.
 
 </div>
+
+## Ausführen
+
+<div class="grid cards" markdown>
+
+-   :material-console-line:{ .lg .middle } **[ansible](ansible.md)**
+
+    ---
+
+    Ein Modul sofort auf vielen Servern.
+
+</div>

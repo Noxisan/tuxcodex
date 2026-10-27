@@ -34,3 +34,15 @@ commands on whole groups of servers, keeping passwords safe and reusing roles.
     Groups, servers and their variables.
 
 </div>
+
+## Running
+
+<div class="grid cards" markdown>
+
+-   :material-console-line:{ .lg .middle } **[ansible](ansible.md)**
+
+    ---
+
+    One module on many servers, right away.
+
+</div>

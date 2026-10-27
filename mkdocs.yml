@@ -388,6 +388,7 @@ nav:
       - Basics: 21-ansible/basics.md
       - ansible-config: 21-ansible/ansible-config.md
       - ansible-inventory: 21-ansible/ansible-inventory.md
+      - ansible: 21-ansible/ansible.md
 
 markdown_extensions:
   - admonition
