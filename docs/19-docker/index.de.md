@@ -16,3 +16,15 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Images und Container, Installation, Ports und Volumes, ein Dockerfile und eine compose.yaml :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Container betreiben
+
+<div class="grid cards" markdown>
+
+-   :material-play-circle-outline:{ .lg .middle } **[docker run](docker-run.md)**
+
+    ---
+
+    Einen Container anlegen und starten.
+
+</div>

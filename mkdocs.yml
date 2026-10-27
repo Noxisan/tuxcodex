@@ -343,6 +343,7 @@ nav:
   - Docker:
       - 19-docker/index.md
       - Basics: 19-docker/basics.md
+      - docker run: 19-docker/docker-run.md
 
 markdown_extensions:
   - admonition
