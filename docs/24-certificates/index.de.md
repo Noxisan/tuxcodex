@@ -17,3 +17,15 @@ für Backups und Übertragungen verschlüsseln.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Wie TLS funktioniert, Zertifikatsketten, Dateiformate, wo Zertifikate liegen und was du installieren musst :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Zertifikate prüfen
+
+<div class="grid cards" markdown>
+
+-   :material-connection:{ .lg .middle } **[openssl s_client](openssl-s_client.md)**
+
+    ---
+
+    Was ein Server ausliefert: Kette, Protokoll, Verschlüsselung.
+
+</div>
