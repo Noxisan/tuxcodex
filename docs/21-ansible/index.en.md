@@ -76,3 +76,15 @@ commands on whole groups of servers, keeping passwords safe and reusing roles.
     Create and install roles and collections.
 
 </div>
+
+## Secrets and quality
+
+<div class="grid cards" markdown>
+
+-   :material-lock-outline:{ .lg .middle } **[ansible-vault](ansible-vault.md)**
+
+    ---
+
+    Encrypt passwords and keys.
+
+</div>

@@ -77,3 +77,15 @@ wiederverwenden.
     Rollen und Collections anlegen und installieren.
 
 </div>
+
+## Geheimnisse und Qualität
+
+<div class="grid cards" markdown>
+
+-   :material-lock-outline:{ .lg .middle } **[ansible-vault](ansible-vault.md)**
+
+    ---
+
+    Passwörter und Schlüssel verschlüsseln.
+
+</div>
