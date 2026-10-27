@@ -57,6 +57,12 @@ Logdateien klein halten, fehlgeschlagene Anmeldungen und Audit-Ereignisse verfol
 
 <div class="grid cards" markdown>
 
+-   :material-account-lock-outline:{ .lg .middle } **[faillock](faillock.md)**
+
+    ---
+
+    Fehlgeschlagene Anmeldungen und gesperrte Konten.
+
 </div>
 
 ## Audit

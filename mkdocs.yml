@@ -281,6 +281,7 @@ nav:
       - logger: 15-logs/logger.md
       - systemd-cat: 15-logs/systemd-cat.md
       - logrotate: 15-logs/logrotate.md
+      - faillock: 15-logs/faillock.md
 
 markdown_extensions:
   - admonition

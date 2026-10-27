@@ -57,6 +57,12 @@ keeping log files small, tracking failed logins and audit events, and analysing 
 
 <div class="grid cards" markdown>
 
+-   :material-account-lock-outline:{ .lg .middle } **[faillock](faillock.md)**
+
+    ---
+
+    Failed logins and locked accounts.
+
 </div>
 
 ## Audit
