@@ -39,4 +39,10 @@ images, keeping data in volumes and running whole stacks with Docker Compose.
 
     Start stopped containers again.
 
+-   :material-stop:{ .lg .middle } **[docker stop](docker-stop.md)**
+
+    ---
+
+    Stop containers cleanly.
+
 </div>

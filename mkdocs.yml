@@ -346,6 +346,7 @@ nav:
       - docker run: 19-docker/docker-run.md
       - docker ps: 19-docker/docker-ps.md
       - docker start: 19-docker/docker-start.md
+      - docker stop: 19-docker/docker-stop.md
 
 markdown_extensions:
   - admonition

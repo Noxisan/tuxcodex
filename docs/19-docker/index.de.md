@@ -39,4 +39,10 @@ aktualisieren, Daten in Volumes ablegen und ganze Stacks mit Docker Compose betr
 
     Gestoppte Container wieder starten.
 
+-   :material-stop:{ .lg .middle } **[docker stop](docker-stop.md)**
+
+    ---
+
+    Container sauber stoppen.
+
 </div>
