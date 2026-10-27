@@ -149,6 +149,12 @@ Compiled by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Running services in containers, images, volumes and Compose.
 
+-   :material-kubernetes:{ .lg .middle } **Kubernetes** · *coming soon*
+
+    ---
+
+    Running containers across many servers with `kubectl` and Helm.
+
 -   :material-ansible:{ .lg .middle } **Ansible** · *coming soon*
 
     ---

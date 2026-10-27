@@ -149,6 +149,12 @@ Zusammengestellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-auth
 
     Dienste in Containern betreiben, Images, Volumes und Compose.
 
+-   :material-kubernetes:{ .lg .middle } **Kubernetes** · *in Arbeit*
+
+    ---
+
+    Container über viele Server verteilen mit `kubectl` und Helm.
+
 -   :material-ansible:{ .lg .middle } **Ansible** · *in Arbeit*
 
     ---

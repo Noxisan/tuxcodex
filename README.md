@@ -65,12 +65,13 @@ Every command page has the same structure:
 | 17 | [Bash scripting](https://noxisan.github.io/tuxcodex/17-bash-scripting/) | `if`, `for`, `case`, `set`, `trap`, `shellcheck`, … | ✅ 16 |
 | 18 | [Git](https://noxisan.github.io/tuxcodex/18-git/) | `git commit`, `git log`, `git merge`, `git push`, … | ✅ 19 |
 | 19 | Docker | | 🚧 planned |
-| 20 | Ansible | | 🚧 planned |
-| 21 | CI/CD | | 🚧 planned |
-| 22 | Network scanning | `nmap`, … | 🚧 planned |
-| 23 | Certificates and encryption | `openssl`, `gpg`, `certbot` | 🚧 planned |
+| 20 | Kubernetes | `kubectl`, `helm`, `k3s` | 🚧 planned |
+| 21 | Ansible | | 🚧 planned |
+| 22 | CI/CD | | 🚧 planned |
+| 23 | Network scanning | `nmap`, … | 🚧 planned |
+| 24 | Certificates and encryption | `openssl`, `gpg`, `certbot` | 🚧 planned |
 
-Chapters 01 to 16 cover the Linux basics, 17 to 21 automation and DevOps, 22 and 23 security.
+Chapters 01 to 16 cover the Linux basics, 17 to 22 automation and DevOps, 23 and 24 security.
 
 ## Run it locally
 

@@ -513,13 +513,13 @@
 }
 
 /* Sidebar: separators with a caption between the areas of the handbook.
-   #__nav_2 is the toggle of chapter 01 (Orientation), #__nav_18 the one of chapter 17 (Bash scripting), #__nav_23 of chapter 22 (first
-   security chapter). The numbers follow the order in `nav`, they only change if chapters
+   #__nav_2 is the toggle of chapter 01 (Orientation), #__nav_18 the one of chapter 17
+   (Bash scripting), #__nav_24 the one of chapter 23 (first security chapter). The numbers follow the order in `nav`, they only change if chapters
    are inserted before. The rule targets the link right after the toggle, so it works
    without :has() in every browser. */
 .md-nav--primary #__nav_2 + .md-nav__link,
 .md-nav--primary #__nav_18 + .md-nav__link,
-.md-nav--primary #__nav_23 + .md-nav__link {
+.md-nav--primary #__nav_24 + .md-nav__link {
   flex-wrap: wrap;
   margin-top: 0.9rem;
   padding-top: 0.9rem;
@@ -528,7 +528,7 @@
 
 .md-nav--primary #__nav_2 + .md-nav__link::before,
 .md-nav--primary #__nav_18 + .md-nav__link::before,
-.md-nav--primary #__nav_23 + .md-nav__link::before {
+.md-nav--primary #__nav_24 + .md-nav__link::before {
   display: block;
   flex: 0 0 100%;
   margin: 0 0 0.4rem;
@@ -547,7 +547,7 @@
   content: "Automation & DevOps";
 }
 
-.md-nav--primary #__nav_23 + .md-nav__link::before {
+.md-nav--primary #__nav_24 + .md-nav__link::before {
   content: "Security";
 }
 
@@ -559,6 +559,6 @@ html[lang="de"] .md-nav--primary #__nav_18 + .md-nav__link::before {
   content: "Automatisierung & DevOps";
 }
 
-html[lang="de"] .md-nav--primary #__nav_23 + .md-nav__link::before {
+html[lang="de"] .md-nav--primary #__nav_24 + .md-nav__link::before {
   content: "Sicherheit";
 }
