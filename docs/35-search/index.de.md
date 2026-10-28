@@ -17,3 +17,15 @@ Passwörter zurücksetzen, Geheimnisse im Keystore ablegen und Plugins verwalten
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Elasticsearch oder OpenSearch, Installation und Pfade, die REST-API mit curl, grün, gelb und rot, Speicher und Systemeinstellungen :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Elasticsearch
+
+<div class="grid cards" markdown>
+
+-   :material-lock-reset:{ .lg .middle } **[elasticsearch-reset-password](elasticsearch-reset-password.md)**
+
+    ---
+
+    Neues Passwort für elastic und andere eingebaute Benutzer.
+
+</div>

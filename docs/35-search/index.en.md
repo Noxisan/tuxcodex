@@ -17,3 +17,15 @@ passwords, storing secrets in the keystore and managing plugins.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Basics:** Elasticsearch or OpenSearch, installation and paths, the REST API with curl, green, yellow and red, memory and system settings :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Elasticsearch
+
+<div class="grid cards" markdown>
+
+-   :material-lock-reset:{ .lg .middle } **[elasticsearch-reset-password](elasticsearch-reset-password.md)**
+
+    ---
+
+    New password for elastic and other built-in users.
+
+</div>
