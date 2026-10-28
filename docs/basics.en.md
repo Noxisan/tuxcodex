@@ -130,6 +130,18 @@ the handbook.
 
 </div>
 
+## Server services
+
+<div class="grid cards tc-basics-cards" markdown>
+
+-   :material-web:{ .lg .middle } **[Understanding web servers](29-webserver/basics.md)**
+
+    ---
+
+    Web servers: Where the configuration lives on each distribution, server blocks and virtual hosts, reverse proxy and TLS
+
+</div>
+
 ## Automation & DevOps
 
 <div class="grid cards tc-basics-cards" markdown>

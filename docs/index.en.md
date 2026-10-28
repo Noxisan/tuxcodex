@@ -144,6 +144,24 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 </div>
 
+## Server services
+
+<div class="grid cards" markdown>
+
+-   :material-web:{ .lg .middle } **[Web servers](29-webserver/index.md)**
+
+    ---
+
+    nginx and Apache: configuration, sites, reverse proxy and load tests.
+
+-   :material-folder-network-outline:{ .lg .middle } **File shares** · *coming soon*
+
+    ---
+
+    Sharing directories with NFS and Samba.
+
+</div>
+
 ## Automation & DevOps
 
 <div class="grid cards" markdown>

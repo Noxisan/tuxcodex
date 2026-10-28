@@ -144,6 +144,24 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
 </div>
 
+## Serverdienste
+
+<div class="grid cards" markdown>
+
+-   :material-web:{ .lg .middle } **[Webserver](29-webserver/index.md)**
+
+    ---
+
+    nginx und Apache: Konfiguration, Seiten, Reverse Proxy und Lasttests.
+
+-   :material-folder-network-outline:{ .lg .middle } **Freigaben** · *in Arbeit*
+
+    ---
+
+    Verzeichnisse mit NFS und Samba freigeben.
+
+</div>
+
 ## Automatisierung & DevOps
 
 <div class="grid cards" markdown>

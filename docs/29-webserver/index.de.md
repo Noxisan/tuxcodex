@@ -70,3 +70,33 @@ aktivieren, Bereiche mit Passwörtern schützen, Reverse Proxys und Lasttests.
     Lasttests gegen den eigenen Server.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-certificate-outline:{ .lg .middle } **[certbot](../24-certificates/certbot.md)**
+
+    ---
+
+    HTTPS mit Let's Encrypt für nginx und Apache. Behandelt im Kapitel Zertifikate.
+
+-   :material-web-check:{ .lg .middle } **[curl](../11-network/curl.md)**
+
+    ---
+
+    Antworten, Header und Weiterleitungen testen. Behandelt im Kapitel Netzwerk.
+
+-   :material-chart-bar:{ .lg .middle } **[goaccess](../15-logs/goaccess.md)**
+
+    ---
+
+    Die Zugriffslogs auswerten. Behandelt im Kapitel Logs.
+
+-   :material-rotate-right:{ .lg .middle } **[logrotate](../15-logs/logrotate.md)**
+
+    ---
+
+    Die Logs des Webservers klein halten. Behandelt im Kapitel Logs.
+
+</div>
