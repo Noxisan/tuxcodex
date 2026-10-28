@@ -40,4 +40,10 @@ vergeben, prüfen, ob der Server lebt, und eine frische Installation absichern.
 
     Eine PostgreSQL-Datenbank anlegen.
 
+-   :material-heart-pulse:{ .lg .middle } **[pg_isready](pg_isready.md)**
+
+    ---
+
+    Nimmt der Server Verbindungen an?
+
 </div>

@@ -40,4 +40,10 @@ rights, checking whether the server is alive and securing a fresh installation.
 
     Create a PostgreSQL database.
 
+-   :material-heart-pulse:{ .lg .middle } **[pg_isready](pg_isready.md)**
+
+    ---
+
+    Does the server accept connections?
+
 </div>

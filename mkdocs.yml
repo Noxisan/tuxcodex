@@ -352,6 +352,7 @@ nav:
       - psql: 33-databases/psql.md
       - createuser: 33-databases/createuser.md
       - createdb: 33-databases/createdb.md
+      - pg_isready: 33-databases/pg_isready.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
