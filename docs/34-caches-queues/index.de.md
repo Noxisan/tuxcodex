@@ -29,4 +29,10 @@ finden.
 
     Zustand, Speicher, Schlüssel und Live-Verkehr.
 
+-   :material-speedometer:{ .lg .middle } **[redis-benchmark](redis-benchmark.md)**
+
+    ---
+
+    Anfragen pro Sekunde und Latenz messen.
+
 </div>

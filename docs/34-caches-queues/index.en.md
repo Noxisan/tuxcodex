@@ -28,4 +28,10 @@ and memory, measuring speed, managing users and queues, and finding problems.
 
     State, memory, keys and live traffic.
 
+-   :material-speedometer:{ .lg .middle } **[redis-benchmark](redis-benchmark.md)**
+
+    ---
+
+    Measure requests per second and latency.
+
 </div>
