@@ -45,4 +45,10 @@ Linux. Exporting, checking the configuration, managing Samba users and testing a
 
     Check the Samba configuration.
 
+-   :material-account-key-outline:{ .lg .middle } **[smbpasswd](smbpasswd.md)**
+
+    ---
+
+    Manage Samba users and passwords.
+
 </div>

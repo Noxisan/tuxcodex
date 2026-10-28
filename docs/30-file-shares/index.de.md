@@ -46,4 +46,10 @@ Zugriff testen.
 
     Die Samba-Konfiguration prüfen.
 
+-   :material-account-key-outline:{ .lg .middle } **[smbpasswd](smbpasswd.md)**
+
+    ---
+
+    Samba-Benutzer und Passwörter verwalten.
+
 </div>
