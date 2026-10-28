@@ -27,4 +27,10 @@ Alarmregeln prüfen, Daten abfragen und Alarme im Alertmanager bearbeiten.
 
     Metriken eines Linux-Servers auf Port 9100.
 
+-   :material-chart-line:{ .lg .middle } **[prometheus](prometheus.md)**
+
+    ---
+
+    Metriken sammeln, speichern und auswerten.
+
 </div>

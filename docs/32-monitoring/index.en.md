@@ -27,4 +27,10 @@ configuration and alert rules, querying data and handling alerts in the Alertman
 
     Metrics of a Linux server on port 9100.
 
+-   :material-chart-line:{ .lg .middle } **[prometheus](prometheus.md)**
+
+    ---
+
+    Collect, store and evaluate metrics.
+
 </div>

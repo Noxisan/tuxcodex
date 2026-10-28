@@ -461,6 +461,7 @@ nav:
       - 32-monitoring/index.md
       - Basics: 32-monitoring/basics.md
       - node_exporter: 32-monitoring/node_exporter.md
+      - prometheus: 32-monitoring/prometheus.md
   - Security scanning:
       - 23-security-scanning/index.md
       - Basics: 23-security-scanning/basics.md
