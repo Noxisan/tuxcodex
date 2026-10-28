@@ -70,4 +70,10 @@ rights, checking whether the server is alive and securing a fresh installation.
 
     Ping, status, processes and variables.
 
+-   :material-shield-check-outline:{ .lg .middle } **[mariadb-secure-installation](mariadb-secure-installation.md)**
+
+    ---
+
+    Secure a fresh installation.
+
 </div>

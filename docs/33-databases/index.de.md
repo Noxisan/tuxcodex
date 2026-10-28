@@ -70,4 +70,10 @@ vergeben, prüfen, ob der Server lebt, und eine frische Installation absichern.
 
     Ping, Status, Prozesse und Variablen.
 
+-   :material-shield-check-outline:{ .lg .middle } **[mariadb-secure-installation](mariadb-secure-installation.md)**
+
+    ---
+
+    Eine frische Installation absichern.
+
 </div>

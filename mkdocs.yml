@@ -356,6 +356,7 @@ nav:
       - pg_lsclusters: 33-databases/pg_lsclusters.md
       - mariadb: 33-databases/mariadb.md
       - mariadb-admin: 33-databases/mariadb-admin.md
+      - mariadb-secure-installation: 33-databases/mariadb-secure-installation.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
