@@ -330,6 +330,7 @@ nav:
       - Basics: 29-webserver/basics.md
       - nginx: 29-webserver/nginx.md
       - apachectl: 29-webserver/apachectl.md
+      - a2ensite: 29-webserver/a2ensite.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md

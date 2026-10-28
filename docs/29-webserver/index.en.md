@@ -39,4 +39,10 @@ modules, protecting areas with passwords, reverse proxies and load tests.
 
     Test and reload Apache, list virtual hosts.
 
+-   :material-toggle-switch-outline:{ .lg .middle } **[a2ensite](a2ensite.md)**
+
+    ---
+
+    Enable and disable sites.
+
 </div>

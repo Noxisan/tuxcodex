@@ -39,4 +39,10 @@ aktivieren, Bereiche mit Passwörtern schützen, Reverse Proxys und Lasttests.
 
     Apache testen und neu laden, Virtual Hosts zeigen.
 
+-   :material-toggle-switch-outline:{ .lg .middle } **[a2ensite](a2ensite.md)**
+
+    ---
+
+    Seiten aktivieren und deaktivieren.
+
 </div>
