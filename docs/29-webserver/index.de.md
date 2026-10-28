@@ -28,3 +28,15 @@ aktivieren, Bereiche mit Passwörtern schützen, Reverse Proxys und Lasttests.
     Konfiguration testen, neu laden und durchsuchen.
 
 </div>
+
+## Apache
+
+<div class="grid cards" markdown>
+
+-   :material-feather:{ .lg .middle } **[apachectl](apachectl.md)**
+
+    ---
+
+    Apache testen und neu laden, Virtual Hosts zeigen.
+
+</div>

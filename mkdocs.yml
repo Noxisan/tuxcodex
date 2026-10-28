@@ -329,6 +329,7 @@ nav:
       - 29-webserver/index.md
       - Basics: 29-webserver/basics.md
       - nginx: 29-webserver/nginx.md
+      - apachectl: 29-webserver/apachectl.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md

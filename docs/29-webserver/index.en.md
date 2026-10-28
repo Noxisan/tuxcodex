@@ -28,3 +28,15 @@ modules, protecting areas with passwords, reverse proxies and load tests.
     Test, reload and inspect the configuration.
 
 </div>
+
+## Apache
+
+<div class="grid cards" markdown>
+
+-   :material-feather:{ .lg .middle } **[apachectl](apachectl.md)**
+
+    ---
+
+    Test and reload Apache, list virtual hosts.
+
+</div>
