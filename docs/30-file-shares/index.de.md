@@ -17,3 +17,15 @@ Zugriff testen.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** NFS oder Samba, `/etc/exports` und `smb.conf`, eine Freigabe Schritt für Schritt einrichten, Ports und Firewall :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## NFS
+
+<div class="grid cards" markdown>
+
+-   :material-folder-arrow-up-outline:{ .lg .middle } **[exportfs](exportfs.md)**
+
+    ---
+
+    NFS-Freigaben aktivieren und anzeigen.
+
+</div>
