@@ -52,6 +52,9 @@ plugins:
             Archives: Archive
             Scheduling: Zeitsteuerung
             Performance: Leistung
+            Web servers: Webserver
+            File shares: Freigaben
+            Virtualization: Virtualisierung
             Bash scripting: Bash-Skripte
             Security scanning: Sicherheitsprüfung
             Certificates: Zertifikate
@@ -322,6 +325,9 @@ nav:
       - mysqldump: 28-backup/mysqldump.md
       - restic: 28-backup/restic.md
       - borg: 28-backup/borg.md
+  - Web servers:
+      - 29-webserver/index.md
+      - Basics: 29-webserver/basics.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
