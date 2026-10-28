@@ -53,3 +53,15 @@ vergeben, prüfen, ob der Server lebt, und eine frische Installation absichern.
     Cluster, Versionen und Ports (Debian, Ubuntu).
 
 </div>
+
+## MariaDB
+
+<div class="grid cards" markdown>
+
+-   :material-console-line:{ .lg .middle } **[mariadb](mariadb.md)**
+
+    ---
+
+    Verbinden, SQL ausführen, Benutzer und Rechte verwalten.
+
+</div>

@@ -53,3 +53,15 @@ rights, checking whether the server is alive and securing a fresh installation.
     Clusters, versions and ports (Debian, Ubuntu).
 
 </div>
+
+## MariaDB
+
+<div class="grid cards" markdown>
+
+-   :material-console-line:{ .lg .middle } **[mariadb](mariadb.md)**
+
+    ---
+
+    Connect, run SQL, manage users and rights.
+
+</div>
