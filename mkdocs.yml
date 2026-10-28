@@ -390,6 +390,7 @@ nav:
       - virsh: 31-virtualization/virsh.md
       - virt-install: 31-virtualization/virt-install.md
       - qemu-img: 31-virtualization/qemu-img.md
+      - virt-clone: 31-virtualization/virt-clone.md
   - Docker:
       - 19-docker/index.md
       - Basics: 19-docker/basics.md

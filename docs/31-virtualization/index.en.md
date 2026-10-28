@@ -45,4 +45,10 @@ working with disk images, cloning and snapshots.
 
     Create, inspect and convert disk images.
 
+-   :material-content-copy:{ .lg .middle } **[virt-clone](virt-clone.md)**
+
+    ---
+
+    Copy a VM with new identity.
+
 </div>

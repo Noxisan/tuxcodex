@@ -45,4 +45,10 @@ mit Plattenabbildern arbeiten, klonen und Snapshots anlegen.
 
     Plattenabbilder anlegen, untersuchen und umwandeln.
 
+-   :material-content-copy:{ .lg .middle } **[virt-clone](virt-clone.md)**
+
+    ---
+
+    Eine VM mit neuer Identität kopieren.
+
 </div>
