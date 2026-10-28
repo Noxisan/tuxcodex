@@ -208,6 +208,12 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Automatisch testen und ausliefern mit Pipelines.
 
+-   :material-monitor-dashboard:{ .lg .middle } **[Monitoring](32-monitoring/index.md)**
+
+    ---
+
+    Prometheus, Node Exporter und Alertmanager: Metriken, Abfragen und Alarme.
+
 </div>
 
 ## Sicherheit

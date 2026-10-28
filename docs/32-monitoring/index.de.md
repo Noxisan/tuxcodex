@@ -52,3 +52,33 @@ Alarmregeln prüfen, Daten abfragen und Alarme im Alertmanager bearbeiten.
     Alarme zeigen und stummschalten.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-chart-line:{ .lg .middle } **[sar](../27-performance/sar.md)**
+
+    ---
+
+    Leistungsverlauf auf einem einzelnen Server. Behandelt im Kapitel Leistung.
+
+-   :material-web-check:{ .lg .middle } **[curl](../11-network/curl.md)**
+
+    ---
+
+    Metriken und API von Hand abfragen. Behandelt im Kapitel Netzwerk.
+
+-   :material-code-json:{ .lg .middle } **[jq](../05-text-processing/jq.md)**
+
+    ---
+
+    Die JSON-Antworten der API filtern. Behandelt im Kapitel Textverarbeitung.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Die Exporter-Ports nur für Prometheus öffnen. Behandelt im Kapitel Netzwerk.
+
+</div>

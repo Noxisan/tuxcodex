@@ -208,6 +208,12 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Testing and deploying automatically with pipelines.
 
+-   :material-monitor-dashboard:{ .lg .middle } **[Monitoring](32-monitoring/index.md)**
+
+    ---
+
+    Prometheus, node exporter and Alertmanager: metrics, queries and alerts.
+
 </div>
 
 ## Security

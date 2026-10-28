@@ -52,3 +52,33 @@ configuration and alert rules, querying data and handling alerts in the Alertman
     Show alerts and silence them.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-chart-line:{ .lg .middle } **[sar](../27-performance/sar.md)**
+
+    ---
+
+    Performance history on a single server. Covered in the chapter Performance.
+
+-   :material-web-check:{ .lg .middle } **[curl](../11-network/curl.md)**
+
+    ---
+
+    Query the metrics and the API by hand. Covered in the chapter Network.
+
+-   :material-code-json:{ .lg .middle } **[jq](../05-text-processing/jq.md)**
+
+    ---
+
+    Filter the JSON answers of the API. Covered in the chapter Text processing.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Allow the exporter ports only for Prometheus. Covered in the chapter Network.
+
+</div>

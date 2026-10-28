@@ -194,6 +194,12 @@ in der Reihenfolge des Handbuchs.
 
     CI/CD: Pipelines, Jobs und Runner, was du installieren musst, ein Workflow für GitHub und einer für GitLab
 
+-   :material-monitor-dashboard:{ .lg .middle } **[Monitoring verstehen](32-monitoring/basics.md)**
+
+    ---
+
+    Monitoring: Wie Prometheus arbeitet, Ports und Pakete, eine Scrape-Konfiguration, PromQL, Alarmregeln und Alertmanager
+
 </div>
 
 ## Sicherheit
