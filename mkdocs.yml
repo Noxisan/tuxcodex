@@ -355,6 +355,7 @@ nav:
       - pg_isready: 33-databases/pg_isready.md
       - pg_lsclusters: 33-databases/pg_lsclusters.md
       - mariadb: 33-databases/mariadb.md
+      - mariadb-admin: 33-databases/mariadb-admin.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md

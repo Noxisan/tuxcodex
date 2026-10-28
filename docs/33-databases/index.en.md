@@ -64,4 +64,10 @@ rights, checking whether the server is alive and securing a fresh installation.
 
     Connect, run SQL, manage users and rights.
 
+-   :material-database-cog-outline:{ .lg .middle } **[mariadb-admin](mariadb-admin.md)**
+
+    ---
+
+    Ping, status, processes and variables.
+
 </div>

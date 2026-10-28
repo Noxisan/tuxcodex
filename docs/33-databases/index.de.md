@@ -64,4 +64,10 @@ vergeben, prüfen, ob der Server lebt, und eine frische Installation absichern.
 
     Verbinden, SQL ausführen, Benutzer und Rechte verwalten.
 
+-   :material-database-cog-outline:{ .lg .middle } **[mariadb-admin](mariadb-admin.md)**
+
+    ---
+
+    Ping, Status, Prozesse und Variablen.
+
 </div>
