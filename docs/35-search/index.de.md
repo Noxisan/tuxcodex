@@ -34,4 +34,10 @@ Passwörter zurücksetzen, Geheimnisse im Keystore ablegen und Plugins verwalten
 
     Geheime Einstellungen wie S3-Schlüssel.
 
+-   :material-puzzle-outline:{ .lg .middle } **[elasticsearch-plugin](elasticsearch-plugin.md)**
+
+    ---
+
+    Plugins installieren, auflisten und entfernen.
+
 </div>

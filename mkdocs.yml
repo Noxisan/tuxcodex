@@ -370,6 +370,7 @@ nav:
       - Basics: 35-search/basics.md
       - elasticsearch-reset-password: 35-search/elasticsearch-reset-password.md
       - elasticsearch-keystore: 35-search/elasticsearch-keystore.md
+      - elasticsearch-plugin: 35-search/elasticsearch-plugin.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md

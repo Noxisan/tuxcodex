@@ -34,4 +34,10 @@ passwords, storing secrets in the keystore and managing plugins.
 
     Secret settings such as S3 keys.
 
+-   :material-puzzle-outline:{ .lg .middle } **[elasticsearch-plugin](elasticsearch-plugin.md)**
+
+    ---
+
+    Install, list and remove plugins.
+
 </div>
