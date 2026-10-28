@@ -26,7 +26,7 @@ Community-Fork von MySQL; beide nutzen dieselben Befehle und dasselbe Protokoll)
 | MariaDB-Konfiguration | `/etc/mysql/mariadb.conf.d/50-server.cnf` | `/etc/mysql/mariadb.conf.d/50-server.cnf` | `/etc/my.cnf.d/mariadb-server.cnf` | `/etc/my.cnf.d/server.cnf` |
 
 Die Dienste heißen überall `postgresql` und `mariadb`. Unter Debian und Ubuntu läuft
-PostgreSQL in *Clustern* wie `17/main`; `pg_lsclusters` listet sie auf.
+PostgreSQL in *Clustern* wie `17/main`; [`pg_lsclusters`](pg_lsclusters.md) listet sie auf.
 
 ## Wie die Anmeldung funktioniert
 

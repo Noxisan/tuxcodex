@@ -46,4 +46,10 @@ rights, checking whether the server is alive and securing a fresh installation.
 
     Does the server accept connections?
 
+-   :material-format-list-bulleted-square:{ .lg .middle } **[pg_lsclusters](pg_lsclusters.md)**
+
+    ---
+
+    Clusters, versions and ports (Debian, Ubuntu).
+
 </div>

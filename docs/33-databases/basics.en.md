@@ -26,7 +26,7 @@ same commands and protocol).
 | MariaDB configuration | `/etc/mysql/mariadb.conf.d/50-server.cnf` | `/etc/mysql/mariadb.conf.d/50-server.cnf` | `/etc/my.cnf.d/mariadb-server.cnf` | `/etc/my.cnf.d/server.cnf` |
 
 The services are called `postgresql` and `mariadb` everywhere. On Debian and Ubuntu,
-PostgreSQL runs as *clusters* such as `17/main`; `pg_lsclusters` lists them.
+PostgreSQL runs as *clusters* such as `17/main`; [`pg_lsclusters`](pg_lsclusters.md) lists them.
 
 ## How login works
 

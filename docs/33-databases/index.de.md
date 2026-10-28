@@ -46,4 +46,10 @@ vergeben, prüfen, ob der Server lebt, und eine frische Installation absichern.
 
     Nimmt der Server Verbindungen an?
 
+-   :material-format-list-bulleted-square:{ .lg .middle } **[pg_lsclusters](pg_lsclusters.md)**
+
+    ---
+
+    Cluster, Versionen und Ports (Debian, Ubuntu).
+
 </div>
