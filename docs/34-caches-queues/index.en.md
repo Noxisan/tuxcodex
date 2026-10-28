@@ -46,4 +46,10 @@ and memory, measuring speed, managing users and queues, and finding problems.
 
     Users, vhosts, permissions and queues.
 
+-   :material-puzzle-outline:{ .lg .middle } **[rabbitmq-plugins](rabbitmq-plugins.md)**
+
+    ---
+
+    Enable the web interface and other plugins.
+
 </div>

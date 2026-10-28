@@ -47,4 +47,10 @@ finden.
 
     Benutzer, vhosts, Rechte und Queues.
 
+-   :material-puzzle-outline:{ .lg .middle } **[rabbitmq-plugins](rabbitmq-plugins.md)**
+
+    ---
+
+    Weboberfläche und andere Plugins einschalten.
+
 </div>

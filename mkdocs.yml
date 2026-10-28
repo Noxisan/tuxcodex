@@ -363,6 +363,7 @@ nav:
       - redis-cli: 34-caches-queues/redis-cli.md
       - redis-benchmark: 34-caches-queues/redis-benchmark.md
       - rabbitmqctl: 34-caches-queues/rabbitmqctl.md
+      - rabbitmq-plugins: 34-caches-queues/rabbitmq-plugins.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
