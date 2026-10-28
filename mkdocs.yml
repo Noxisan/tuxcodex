@@ -342,6 +342,7 @@ nav:
       - showmount: 30-file-shares/showmount.md
       - testparm: 30-file-shares/testparm.md
       - smbpasswd: 30-file-shares/smbpasswd.md
+      - smbclient: 30-file-shares/smbclient.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md

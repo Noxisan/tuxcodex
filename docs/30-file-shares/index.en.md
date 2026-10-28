@@ -51,4 +51,10 @@ Linux. Exporting, checking the configuration, managing Samba users and testing a
 
     Manage Samba users and passwords.
 
+-   :material-console-network-outline:{ .lg .middle } **[smbclient](smbclient.md)**
+
+    ---
+
+    Test and use SMB shares.
+
 </div>

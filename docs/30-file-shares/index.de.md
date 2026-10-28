@@ -52,4 +52,10 @@ Zugriff testen.
 
     Samba-Benutzer und Passwörter verwalten.
 
+-   :material-console-network-outline:{ .lg .middle } **[smbclient](smbclient.md)**
+
+    ---
+
+    SMB-Freigaben testen und nutzen.
+
 </div>
