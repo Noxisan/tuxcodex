@@ -387,6 +387,7 @@ nav:
   - Virtualization:
       - 31-virtualization/index.md
       - Basics: 31-virtualization/basics.md
+      - virsh: 31-virtualization/virsh.md
   - Docker:
       - 19-docker/index.md
       - Basics: 19-docker/basics.md

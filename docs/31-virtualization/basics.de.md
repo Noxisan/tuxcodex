@@ -7,7 +7,7 @@ eigenen Platten und eigener Netzwerkkarte. Unter Linux arbeiten dafür drei Teil
 |------|---------|
 | **KVM** | Kernelmodul, das die Virtualisierungsfunktionen der CPU nutzt (Intel VT-x, AMD-V) |
 | **QEMU** | Bildet die Hardware der VM nach: Platten, Netzwerkkarte, Grafik |
-| **libvirt** | Verwaltet VMs, Netzwerke und Speicher; `virsh`, `virt-install` und virt-manager sprechen mit ihm |
+| **libvirt** | Verwaltet VMs, Netzwerke und Speicher; [`virsh`](virsh.md), `virt-install` und virt-manager sprechen mit ihm |
 
 Container wie [Docker](../19-docker/index.md) teilen sich den Kernel des Hosts. Eine VM hat
 einen eigenen: Darin läuft auch eine andere Distribution, ein anderer Kernel oder Windows.

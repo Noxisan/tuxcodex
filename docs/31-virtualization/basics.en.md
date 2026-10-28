@@ -7,7 +7,7 @@ disks and its own network card. On Linux, three parts work together:
 |------|-----|
 | **KVM** | Kernel module that uses the virtualization features of the CPU (Intel VT-x, AMD-V) |
 | **QEMU** | Emulates the hardware of the VM: disks, network card, graphics |
-| **libvirt** | Manages VMs, networks and storage; `virsh`, `virt-install` and virt-manager talk to it |
+| **libvirt** | Manages VMs, networks and storage; [`virsh`](virsh.md), `virt-install` and virt-manager talk to it |
 
 Containers like [Docker](../19-docker/index.md) share the kernel of the host. A VM has its
 own: you can run another distribution, another kernel or Windows.

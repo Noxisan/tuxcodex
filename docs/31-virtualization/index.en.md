@@ -16,3 +16,15 @@ working with disk images, cloning and snapshots.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Basics:** KVM, QEMU and libvirt, checking the host, networks and bridges, where the files live, Proxmox :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Virtual machines
+
+<div class="grid cards" markdown>
+
+-   :material-console:{ .lg .middle } **[virsh](virsh.md)**
+
+    ---
+
+    List, start, stop and inspect VMs.
+
+</div>
