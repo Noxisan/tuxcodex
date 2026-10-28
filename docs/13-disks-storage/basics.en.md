@@ -71,6 +71,20 @@ LVM puts a layer between disks and file systems:
 The big advantage: when a volume gets full, you add a disk to the volume group and grow
 the logical volume, while the server keeps running.
 
+## RAID: redundancy
+
+A software RAID (`mdadm`) combines several disks into one device `/dev/md0`:
+
+| Level | Disks | Usable | Survives |
+|-------|-------|--------|----------|
+| RAID 1 (mirror) | 2 or more | one disk | all but one disk failing |
+| RAID 5 | 3 or more | all but one | one failed disk |
+| RAID 6 | 4 or more | all but two | two failed disks |
+| RAID 10 | 4 or more | half | one disk per mirror pair |
+
+On top of `/dev/md0` you create a file system or an LVM physical volume, just as on a
+normal disk. RAID protects against failed hardware, not against deleted files.
+
 ## Distribution differences
 
 | | Debian | Ubuntu | RHEL | Arch |

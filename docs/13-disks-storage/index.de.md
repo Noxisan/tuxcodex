@@ -173,6 +173,18 @@ formatieren, dauerhaft einhängen, Dateisysteme vergrößern, mit LVM arbeiten u
 
 </div>
 
+## RAID
+
+<div class="grid cards" markdown>
+
+-   :material-harddisk-plus:{ .lg .middle } **[mdadm](mdadm.md)**
+
+    ---
+
+    Platten per Software-RAID spiegeln.
+
+</div>
+
 ## Gesundheit
 
 <div class="grid cards" markdown>

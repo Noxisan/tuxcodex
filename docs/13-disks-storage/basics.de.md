@@ -71,6 +71,20 @@ LVM legt eine Schicht zwischen Platten und Dateisysteme:
 Der große Vorteil: Wird ein Volume voll, fügst du der Volume Group eine Platte hinzu und
 vergrößerst das logische Volume, während der Server weiterläuft.
 
+## RAID: Ausfallsicherheit
+
+Ein Software-RAID (`mdadm`) fasst mehrere Platten zu einem Gerät `/dev/md0` zusammen:
+
+| Level | Platten | Nutzbar | Übersteht |
+|-------|---------|---------|-----------|
+| RAID 1 (Spiegel) | 2 oder mehr | eine Platte | den Ausfall aller Platten bis auf eine |
+| RAID 5 | 3 oder mehr | alle bis auf eine | eine defekte Platte |
+| RAID 6 | 4 oder mehr | alle bis auf zwei | zwei defekte Platten |
+| RAID 10 | 4 oder mehr | die Hälfte | eine Platte pro Spiegelpaar |
+
+Auf `/dev/md0` legst du wie auf einer normalen Platte ein Dateisystem oder ein Physical
+Volume für LVM an. RAID schützt vor defekter Hardware, nicht vor gelöschten Dateien.
+
 ## Unterschiede zwischen Distributionen
 
 | | Debian | Ubuntu | RHEL | Arch |

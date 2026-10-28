@@ -173,6 +173,18 @@ mounting them permanently, growing file systems, working with LVM and checking d
 
 </div>
 
+## RAID
+
+<div class="grid cards" markdown>
+
+-   :material-harddisk-plus:{ .lg .middle } **[mdadm](mdadm.md)**
+
+    ---
+
+    Mirror disks with software RAID.
+
+</div>
+
 ## Health
 
 <div class="grid cards" markdown>

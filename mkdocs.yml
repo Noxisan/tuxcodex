@@ -272,6 +272,7 @@ nav:
       - lvs: 13-disks-storage/lvs.md
       - lvcreate: 13-disks-storage/lvcreate.md
       - lvextend: 13-disks-storage/lvextend.md
+      - mdadm: 13-disks-storage/mdadm.md
       - smartctl: 13-disks-storage/smartctl.md
   - Archives:
       - 14-archives/index.md
