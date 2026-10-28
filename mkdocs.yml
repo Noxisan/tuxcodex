@@ -335,6 +335,9 @@ nav:
       - a2enmod: 29-webserver/a2enmod.md
       - htpasswd: 29-webserver/htpasswd.md
       - ab: 29-webserver/ab.md
+  - File shares:
+      - 30-file-shares/index.md
+      - Basics: 30-file-shares/basics.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
