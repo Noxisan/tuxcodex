@@ -65,7 +65,7 @@ scrape_configs:
       - targets: ['localhost:9100', '192.0.2.21:9100', '192.0.2.22:9100']
 ```
 
-After a change: `promtool check config`, then `sudo systemctl reload prometheus`.
+After a change: [`promtool check config`](promtool.md), then `sudo systemctl reload prometheus`.
 
 ## PromQL in five queries
 
@@ -78,7 +78,7 @@ After a change: `promtool check config`, then `sudo systemctl reload prometheus`
 | `rate(node_network_receive_bytes_total[5m])` | Received bytes per second, averaged over 5 minutes |
 
 You can type them into the web interface on port 9090 or run them with
-`promtool query instant`.
+[`promtool query instant`](promtool.md).
 
 ## An alert rule
 

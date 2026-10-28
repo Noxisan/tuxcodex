@@ -34,3 +34,15 @@ configuration and alert rules, querying data and handling alerts in the Alertman
     Collect, store and evaluate metrics.
 
 </div>
+
+## Tools
+
+<div class="grid cards" markdown>
+
+-   :material-file-check-outline:{ .lg .middle } **[promtool](promtool.md)**
+
+    ---
+
+    Check configuration and rules, run queries.
+
+</div>

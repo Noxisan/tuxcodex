@@ -34,3 +34,15 @@ Alarmregeln prüfen, Daten abfragen und Alarme im Alertmanager bearbeiten.
     Metriken sammeln, speichern und auswerten.
 
 </div>
+
+## Werkzeuge
+
+<div class="grid cards" markdown>
+
+-   :material-file-check-outline:{ .lg .middle } **[promtool](promtool.md)**
+
+    ---
+
+    Konfiguration und Regeln prüfen, Abfragen ausführen.
+
+</div>
