@@ -27,4 +27,10 @@ Linux. Exporting, checking the configuration, managing Samba users and testing a
 
     Activate and show NFS shares.
 
+-   :material-format-list-bulleted:{ .lg .middle } **[showmount](showmount.md)**
+
+    ---
+
+    Which shares a server offers.
+
 </div>

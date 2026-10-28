@@ -28,4 +28,10 @@ Zugriff testen.
 
     NFS-Freigaben aktivieren und anzeigen.
 
+-   :material-format-list-bulleted:{ .lg .middle } **[showmount](showmount.md)**
+
+    ---
+
+    Welche Freigaben ein Server anbietet.
+
 </div>

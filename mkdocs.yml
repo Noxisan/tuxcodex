@@ -339,6 +339,7 @@ nav:
       - 30-file-shares/index.md
       - Basics: 30-file-shares/basics.md
       - exportfs: 30-file-shares/exportfs.md
+      - showmount: 30-file-shares/showmount.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
