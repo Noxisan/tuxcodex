@@ -34,4 +34,10 @@ vergeben, prüfen, ob der Server lebt, und eine frische Installation absichern.
 
     Eine PostgreSQL-Rolle anlegen.
 
+-   :material-database-plus-outline:{ .lg .middle } **[createdb](createdb.md)**
+
+    ---
+
+    Eine PostgreSQL-Datenbank anlegen.
+
 </div>

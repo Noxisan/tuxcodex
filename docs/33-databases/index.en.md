@@ -34,4 +34,10 @@ rights, checking whether the server is alive and securing a fresh installation.
 
     Create a PostgreSQL role.
 
+-   :material-database-plus-outline:{ .lg .middle } **[createdb](createdb.md)**
+
+    ---
+
+    Create a PostgreSQL database.
+
 </div>

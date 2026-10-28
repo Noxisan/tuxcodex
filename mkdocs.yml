@@ -351,6 +351,7 @@ nav:
       - Basics: 33-databases/basics.md
       - psql: 33-databases/psql.md
       - createuser: 33-databases/createuser.md
+      - createdb: 33-databases/createdb.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
