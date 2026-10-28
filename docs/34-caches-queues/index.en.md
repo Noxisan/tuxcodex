@@ -52,4 +52,10 @@ and memory, measuring speed, managing users and queues, and finding problems.
 
     Enable the web interface and other plugins.
 
+-   :material-stethoscope:{ .lg .middle } **[rabbitmq-diagnostics](rabbitmq-diagnostics.md)**
+
+    ---
+
+    Health checks, alarms, ports and memory.
+
 </div>

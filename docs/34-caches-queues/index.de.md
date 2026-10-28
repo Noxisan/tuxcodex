@@ -53,4 +53,10 @@ finden.
 
     Weboberfläche und andere Plugins einschalten.
 
+-   :material-stethoscope:{ .lg .middle } **[rabbitmq-diagnostics](rabbitmq-diagnostics.md)**
+
+    ---
+
+    Health Checks, Alarme, Ports und Speicher.
+
 </div>
