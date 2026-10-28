@@ -457,6 +457,9 @@ nav:
       - actionlint: 22-ci-cd/actionlint.md
       - yamllint: 22-ci-cd/yamllint.md
       - pre-commit: 22-ci-cd/pre-commit.md
+  - Monitoring:
+      - 32-monitoring/index.md
+      - Basics: 32-monitoring/basics.md
   - Security scanning:
       - 23-security-scanning/index.md
       - Basics: 23-security-scanning/basics.md
