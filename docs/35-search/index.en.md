@@ -28,4 +28,10 @@ passwords, storing secrets in the keystore and managing plugins.
 
     New password for elastic and other built-in users.
 
+-   :material-key-chain-variant:{ .lg .middle } **[elasticsearch-keystore](elasticsearch-keystore.md)**
+
+    ---
+
+    Secret settings such as S3 keys.
+
 </div>

@@ -28,4 +28,10 @@ Passwörter zurücksetzen, Geheimnisse im Keystore ablegen und Plugins verwalten
 
     Neues Passwort für elastic und andere eingebaute Benutzer.
 
+-   :material-key-chain-variant:{ .lg .middle } **[elasticsearch-keystore](elasticsearch-keystore.md)**
+
+    ---
+
+    Geheime Einstellungen wie S3-Schlüssel.
+
 </div>
