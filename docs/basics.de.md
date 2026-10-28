@@ -146,6 +146,12 @@ in der Reihenfolge des Handbuchs.
 
     Dateifreigaben: NFS oder Samba, `/etc/exports` und `smb.conf`, eine Freigabe Schritt für Schritt einrichten, Ports und Firewall
 
+-   :material-database-outline:{ .lg .middle } **[Datenbanken verstehen](33-databases/basics.md)**
+
+    ---
+
+    Datenbanken: PostgreSQL oder MariaDB, Pakete und Pfade je Distribution, wie die Anmeldung funktioniert, Benutzer und Rechte, Zugriff von anderen Rechnern
+
 </div>
 
 ## Automatisierung & DevOps

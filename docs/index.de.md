@@ -160,6 +160,12 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Verzeichnisse mit NFS und Samba freigeben.
 
+-   :material-database-outline:{ .lg .middle } **[Datenbanken](33-databases/index.md)**
+
+    ---
+
+    PostgreSQL und MariaDB: Benutzer, Datenbanken, Rechte und Health Checks.
+
 </div>
 
 ## Automatisierung & DevOps

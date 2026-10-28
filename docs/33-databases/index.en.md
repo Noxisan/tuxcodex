@@ -77,3 +77,33 @@ rights, checking whether the server is alive and securing a fresh installation.
     Secure a fresh installation.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-database-export-outline:{ .lg .middle } **[pg_dump](../28-backup/pg_dump.md)**
+
+    ---
+
+    Back up PostgreSQL databases. Covered in the chapter Backup.
+
+-   :material-database-export-outline:{ .lg .middle } **[mysqldump](../28-backup/mysqldump.md)**
+
+    ---
+
+    Back up MariaDB and MySQL databases. Covered in the chapter Backup.
+
+-   :material-lan:{ .lg .middle } **[ss](../11-network/ss.md)**
+
+    ---
+
+    Check on which address the database listens. Covered in the chapter Network.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Open the database port only for application servers. Covered in the chapter Network.
+
+</div>

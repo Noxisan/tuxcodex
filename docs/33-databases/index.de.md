@@ -77,3 +77,33 @@ vergeben, prüfen, ob der Server lebt, und eine frische Installation absichern.
     Eine frische Installation absichern.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-database-export-outline:{ .lg .middle } **[pg_dump](../28-backup/pg_dump.md)**
+
+    ---
+
+    PostgreSQL-Datenbanken sichern. Behandelt im Kapitel Backup.
+
+-   :material-database-export-outline:{ .lg .middle } **[mysqldump](../28-backup/mysqldump.md)**
+
+    ---
+
+    MariaDB- und MySQL-Datenbanken sichern. Behandelt im Kapitel Backup.
+
+-   :material-lan:{ .lg .middle } **[ss](../11-network/ss.md)**
+
+    ---
+
+    Prüfen, auf welcher Adresse die Datenbank lauscht. Behandelt im Kapitel Netzwerk.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Den Datenbank-Port nur für Anwendungsserver öffnen. Behandelt im Kapitel Netzwerk.
+
+</div>

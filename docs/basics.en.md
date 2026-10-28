@@ -146,6 +146,12 @@ the handbook.
 
     File shares: NFS or Samba, `/etc/exports` and `smb.conf`, setting up a share step by step, ports and firewall
 
+-   :material-database-outline:{ .lg .middle } **[Understanding databases](33-databases/basics.md)**
+
+    ---
+
+    Databases: PostgreSQL or MariaDB, packages and paths per distribution, how login works, users and rights, access from other machines
+
 </div>
 
 ## Automation & DevOps

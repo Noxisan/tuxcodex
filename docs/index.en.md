@@ -160,6 +160,12 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Sharing directories with NFS and Samba.
 
+-   :material-database-outline:{ .lg .middle } **[Databases](33-databases/index.md)**
+
+    ---
+
+    PostgreSQL and MariaDB: users, databases, rights and health checks.
+
 </div>
 
 ## Automation & DevOps
