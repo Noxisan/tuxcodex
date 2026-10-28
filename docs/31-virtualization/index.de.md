@@ -27,4 +27,10 @@ mit Plattenabbildern arbeiten, klonen und Snapshots anlegen.
 
     VMs auflisten, starten, stoppen und untersuchen.
 
+-   :material-disc:{ .lg .middle } **[virt-install](virt-install.md)**
+
+    ---
+
+    Eine neue VM anlegen und installieren.
+
 </div>

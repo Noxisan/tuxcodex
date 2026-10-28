@@ -27,4 +27,10 @@ working with disk images, cloning and snapshots.
 
     List, start, stop and inspect VMs.
 
+-   :material-disc:{ .lg .middle } **[virt-install](virt-install.md)**
+
+    ---
+
+    Create a new VM and install it.
+
 </div>
