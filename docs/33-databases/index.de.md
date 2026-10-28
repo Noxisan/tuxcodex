@@ -28,4 +28,10 @@ vergeben, prüfen, ob der Server lebt, und eine frische Installation absichern.
 
     Verbinden, SQL ausführen, Datenbanken und Rollen untersuchen.
 
+-   :material-account-plus-outline:{ .lg .middle } **[createuser](createuser.md)**
+
+    ---
+
+    Eine PostgreSQL-Rolle anlegen.
+
 </div>

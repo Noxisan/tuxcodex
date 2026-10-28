@@ -28,4 +28,10 @@ rights, checking whether the server is alive and securing a fresh installation.
 
     Connect, run SQL, inspect databases and roles.
 
+-   :material-account-plus-outline:{ .lg .middle } **[createuser](createuser.md)**
+
+    ---
+
+    Create a PostgreSQL role.
+
 </div>
