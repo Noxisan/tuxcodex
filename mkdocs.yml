@@ -54,6 +54,9 @@ plugins:
             Performance: Leistung
             Web servers: Webserver
             File shares: Freigaben
+            Databases: Datenbanken
+            Caches & queues: Caches & Queues
+            Search: Suche
             Virtualization: Virtualisierung
             Bash scripting: Bash-Skripte
             Security scanning: Sicherheitsprüfung
@@ -343,6 +346,9 @@ nav:
       - testparm: 30-file-shares/testparm.md
       - smbpasswd: 30-file-shares/smbpasswd.md
       - smbclient: 30-file-shares/smbclient.md
+  - Databases:
+      - 33-databases/index.md
+      - Basics: 33-databases/basics.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
