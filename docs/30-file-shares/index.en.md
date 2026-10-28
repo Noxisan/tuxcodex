@@ -34,3 +34,15 @@ Linux. Exporting, checking the configuration, managing Samba users and testing a
     Which shares a server offers.
 
 </div>
+
+## Samba
+
+<div class="grid cards" markdown>
+
+-   :material-file-check-outline:{ .lg .middle } **[testparm](testparm.md)**
+
+    ---
+
+    Check the Samba configuration.
+
+</div>

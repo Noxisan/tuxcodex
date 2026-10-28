@@ -35,3 +35,15 @@ Zugriff testen.
     Welche Freigaben ein Server anbietet.
 
 </div>
+
+## Samba
+
+<div class="grid cards" markdown>
+
+-   :material-file-check-outline:{ .lg .middle } **[testparm](testparm.md)**
+
+    ---
+
+    Die Samba-Konfiguration prüfen.
+
+</div>
