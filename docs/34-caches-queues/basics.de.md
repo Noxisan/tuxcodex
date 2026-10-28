@@ -12,7 +12,7 @@ Programmen weiterreicht. Auf Linux-Servern sind das meist **Redis** und **Rabbit
 | Daten | Schlüssel mit Werten, auf Wunsch mit Ablaufzeit | Nachrichten in Queues, vom Empfänger bestätigt |
 | Nach einem Neustart | Daten aus dem letzten Snapshot oder keine (reiner Cache) | Dauerhafte Queues und persistente Nachrichten überleben |
 | Typischer Einsatz | PHP-Sitzungen, Seiten-Cache, Rate Limits, Datei-Sperren in Nextcloud | Bestellverarbeitung, Mailversand, Hintergrundjobs |
-| Kommandozeile | [`redis-cli`](redis-cli.md) | `rabbitmqctl` |
+| Kommandozeile | [`redis-cli`](redis-cli.md) | [`rabbitmqctl`](rabbitmqctl.md) |
 
 ## Redis oder Valkey?
 
@@ -72,7 +72,7 @@ wenn es voll ist. Für Sitzungen und Queues ist das richtig, für einen reinen C
 | **Benutzer und Rechte** | Pro vhost: Rechte zum Konfigurieren, Schreiben und Lesen |
 
 Der Standardbenutzer `guest` darf sich nur von `localhost` aus anmelden. Leg mit
-`rabbitmqctl` eigene Benutzer an und lösch `guest` auf Produktivsystemen.
+[`rabbitmqctl`](rabbitmqctl.md) eigene Benutzer an und lösch `guest` auf Produktivsystemen.
 
 !!! tip "Unix-Socket für lokale Anwendungen"
     Laufen Redis und Anwendung auf demselben Server, schaltet `unixsocket /run/redis/redis-server.sock`

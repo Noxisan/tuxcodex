@@ -35,3 +35,15 @@ and memory, measuring speed, managing users and queues, and finding problems.
     Measure requests per second and latency.
 
 </div>
+
+## RabbitMQ
+
+<div class="grid cards" markdown>
+
+-   :material-tray-full:{ .lg .middle } **[rabbitmqctl](rabbitmqctl.md)**
+
+    ---
+
+    Users, vhosts, permissions and queues.
+
+</div>

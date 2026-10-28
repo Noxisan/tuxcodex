@@ -36,3 +36,15 @@ finden.
     Anfragen pro Sekunde und Latenz messen.
 
 </div>
+
+## RabbitMQ
+
+<div class="grid cards" markdown>
+
+-   :material-tray-full:{ .lg .middle } **[rabbitmqctl](rabbitmqctl.md)**
+
+    ---
+
+    Benutzer, vhosts, Rechte und Queues.
+
+</div>

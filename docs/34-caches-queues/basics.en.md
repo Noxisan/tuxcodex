@@ -12,7 +12,7 @@ programs. On Linux servers that's usually **Redis** and **RabbitMQ**.
 | Data | Keys with values, optionally with an expiry time | Messages in queues, confirmed by the consumer |
 | If the server restarts | Data from the last snapshot, or none (pure cache) | Durable queues and persistent messages survive |
 | Typical use | PHP sessions, page cache, rate limits, Nextcloud file locking | Order processing, mail sending, background jobs |
-| Command line | [`redis-cli`](redis-cli.md) | `rabbitmqctl` |
+| Command line | [`redis-cli`](redis-cli.md) | [`rabbitmqctl`](rabbitmqctl.md) |
 
 ## Redis or Valkey?
 
@@ -71,7 +71,7 @@ That's right for sessions and queues, but wrong for a pure cache.
 | **User and permissions** | Per vhost: rights to configure, write and read |
 
 The default user `guest` may only log in from `localhost`. Create your own users with
-`rabbitmqctl` and delete `guest` on production systems.
+[`rabbitmqctl`](rabbitmqctl.md) and delete `guest` on production systems.
 
 !!! tip "Unix socket for local applications"
     If Redis and the application run on the same server, `unixsocket /run/redis/redis-server.sock`
