@@ -384,6 +384,9 @@ nav:
       - git pull: 18-git/git-pull.md
       - git push: 18-git/git-push.md
       - git stash: 18-git/git-stash.md
+  - Virtualization:
+      - 31-virtualization/index.md
+      - Basics: 31-virtualization/basics.md
   - Docker:
       - 19-docker/index.md
       - Basics: 19-docker/basics.md
