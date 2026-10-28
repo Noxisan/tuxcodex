@@ -83,7 +83,7 @@ RHEL you create it with [`nmcli`](../11-network/nmcli.md). VMs use the bridge wi
 Proxmox VE is a Debian-based distribution for virtualization servers with a web interface.
 Underneath it uses the same KVM and QEMU, but not libvirt: it has its own tools such as
 `qm` for VMs and `pct` for LXC containers. The disk images are the same, so
-`qemu-img` works there as well.
+[`qemu-img`](qemu-img.md) works there as well.
 
 !!! tip "Snapshots are no backup"
     A snapshot lives in the same image on the same disk. If the disk fails, the snapshot is

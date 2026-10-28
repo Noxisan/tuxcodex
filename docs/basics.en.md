@@ -164,6 +164,12 @@ the handbook.
 
     Git: Working directory, staging area and repository, `.gitignore`, SSH keys and the daily workflow
 
+-   :material-monitor-multiple:{ .lg .middle } **[Understanding virtualization](31-virtualization/basics.md)**
+
+    ---
+
+    Virtualization: KVM, QEMU and libvirt, checking the host, networks and bridges, where the files live, Proxmox
+
 -   :material-docker:{ .lg .middle } **[Understanding Docker](19-docker/basics.md)**
 
     ---

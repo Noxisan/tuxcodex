@@ -178,6 +178,12 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Versioning configurations and scripts, branches and remotes.
 
+-   :material-monitor-multiple:{ .lg .middle } **[Virtualization](31-virtualization/index.md)**
+
+    ---
+
+    Virtual machines with KVM and libvirt: install, clone, snapshots and disk images.
+
 -   :material-docker:{ .lg .middle } **[Docker](19-docker/index.md)**
 
     ---

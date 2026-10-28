@@ -52,3 +52,27 @@ mit Plattenabbildern arbeiten, klonen und Snapshots anlegen.
     Eine VM mit neuer Identität kopieren.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-docker:{ .lg .middle } **[docker run](../19-docker/docker-run.md)**
+
+    ---
+
+    Container statt VMs, wenn der Kernel des Hosts reicht. Behandelt im Kapitel Docker.
+
+-   :material-lan:{ .lg .middle } **[ip](../11-network/ip.md)**
+
+    ---
+
+    Bridges und Schnittstellen auf dem Host prüfen. Behandelt im Kapitel Netzwerk.
+
+-   :material-chart-pie:{ .lg .middle } **[df](../13-disks-storage/df.md)**
+
+    ---
+
+    Den Platz für Plattenabbilder im Blick behalten. Behandelt im Kapitel Datenträger.
+
+</div>

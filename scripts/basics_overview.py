@@ -14,7 +14,7 @@ order = re.findall(r"^      - (\d\d-[a-z0-9-]+)/index\.md$", nav, re.M)
 AREAS = {
     "en": [("Linux administration", ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "27", "28"]),
            ("Server services", ["29", "30"]),
-           ("Automation & DevOps", ["17", "18", "19", "20", "21", "22"]),
+           ("Automation & DevOps", ["17", "18", "31", "19", "20", "21", "22", "32"]),
            ("Security", ["23", "24", "25", "26"])],
     "de": [("Linux-Administration", None), ("Serverdienste", None), ("Automatisierung & DevOps", None), ("Sicherheit", None)],
 }

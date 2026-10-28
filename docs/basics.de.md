@@ -164,6 +164,12 @@ in der Reihenfolge des Handbuchs.
 
     Git: Arbeitsverzeichnis, Staging-Bereich und Repository, `.gitignore`, SSH-Schlüssel und der tägliche Ablauf
 
+-   :material-monitor-multiple:{ .lg .middle } **[Virtualisierung verstehen](31-virtualization/basics.md)**
+
+    ---
+
+    Virtualisierung: KVM, QEMU und libvirt, den Host prüfen, Netzwerke und Bridges, wo die Dateien liegen, Proxmox
+
 -   :material-docker:{ .lg .middle } **[Docker verstehen](19-docker/basics.md)**
 
     ---

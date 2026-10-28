@@ -52,3 +52,27 @@ working with disk images, cloning and snapshots.
     Copy a VM with new identity.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-docker:{ .lg .middle } **[docker run](../19-docker/docker-run.md)**
+
+    ---
+
+    Containers instead of VMs, when the host kernel is enough. Covered in the chapter Docker.
+
+-   :material-lan:{ .lg .middle } **[ip](../11-network/ip.md)**
+
+    ---
+
+    Check bridges and interfaces on the host. Covered in the chapter Network.
+
+-   :material-chart-pie:{ .lg .middle } **[df](../13-disks-storage/df.md)**
+
+    ---
+
+    Watch the space for disk images. Covered in the chapter Storage.
+
+</div>

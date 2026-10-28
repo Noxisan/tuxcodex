@@ -178,6 +178,12 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Konfigurationen und Skripte versionieren, Branches und Remotes.
 
+-   :material-monitor-multiple:{ .lg .middle } **[Virtualisierung](31-virtualization/index.md)**
+
+    ---
+
+    Virtuelle Maschinen mit KVM und libvirt: installieren, klonen, Snapshots und Plattenabbilder.
+
 -   :material-docker:{ .lg .middle } **[Docker](19-docker/index.md)**
 
     ---

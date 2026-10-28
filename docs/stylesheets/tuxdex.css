@@ -653,7 +653,7 @@
 .md-nav--primary #__nav_3 + .md-nav__link,
 .md-nav--primary #__nav_21 + .md-nav__link,
 .md-nav--primary #__nav_23 + .md-nav__link,
-.md-nav--primary #__nav_29 + .md-nav__link {
+.md-nav--primary #__nav_30 + .md-nav__link {
   flex-wrap: wrap;
   margin-top: 0.9rem;
   padding-top: 0.9rem;
@@ -663,7 +663,7 @@
 .md-nav--primary #__nav_3 + .md-nav__link::before,
 .md-nav--primary #__nav_21 + .md-nav__link::before,
 .md-nav--primary #__nav_23 + .md-nav__link::before,
-.md-nav--primary #__nav_29 + .md-nav__link::before {
+.md-nav--primary #__nav_30 + .md-nav__link::before {
   display: block;
   flex: 0 0 100%;
   margin: 0 0 0.4rem;
@@ -698,11 +698,11 @@ html[lang="de"] .md-nav--primary #__nav_23 + .md-nav__link::before {
   content: "Automatisierung & DevOps";
 }
 
-.md-nav--primary #__nav_29 + .md-nav__link::before {
+.md-nav--primary #__nav_30 + .md-nav__link::before {
   content: "Security";
 }
 
-html[lang="de"] .md-nav--primary #__nav_29 + .md-nav__link::before {
+html[lang="de"] .md-nav--primary #__nav_30 + .md-nav__link::before {
   content: "Sicherheit";
 }
 
