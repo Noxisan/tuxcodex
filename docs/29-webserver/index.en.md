@@ -63,4 +63,10 @@ modules, protecting areas with passwords, reverse proxies and load tests.
 
     Password protection for areas.
 
+-   :material-speedometer-medium:{ .lg .middle } **[ab](ab.md)**
+
+    ---
+
+    Load tests against your own server.
+
 </div>

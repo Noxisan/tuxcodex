@@ -333,6 +333,7 @@ nav:
       - a2ensite: 29-webserver/a2ensite.md
       - a2enmod: 29-webserver/a2enmod.md
       - htpasswd: 29-webserver/htpasswd.md
+      - ab: 29-webserver/ab.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
