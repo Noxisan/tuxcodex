@@ -349,6 +349,7 @@ nav:
   - Databases:
       - 33-databases/index.md
       - Basics: 33-databases/basics.md
+      - psql: 33-databases/psql.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
