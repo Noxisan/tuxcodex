@@ -45,4 +45,10 @@ modules, protecting areas with passwords, reverse proxies and load tests.
 
     Enable and disable sites.
 
+-   :material-puzzle-check-outline:{ .lg .middle } **[a2enmod](a2enmod.md)**
+
+    ---
+
+    Enable and disable modules.
+
 </div>

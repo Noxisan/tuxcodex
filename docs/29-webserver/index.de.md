@@ -45,4 +45,10 @@ aktivieren, Bereiche mit Passwörtern schützen, Reverse Proxys und Lasttests.
 
     Seiten aktivieren und deaktivieren.
 
+-   :material-puzzle-check-outline:{ .lg .middle } **[a2enmod](a2enmod.md)**
+
+    ---
+
+    Module aktivieren und deaktivieren.
+
 </div>
