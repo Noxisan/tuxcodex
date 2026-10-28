@@ -60,3 +60,27 @@ finden.
     Health Checks, Alarme, Ports und Speicher.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-gauge:{ .lg .middle } **[node_exporter](../32-monitoring/node_exporter.md)**
+
+    ---
+
+    Redis und RabbitMQ in Prometheus überwachen. Behandelt im Kapitel Monitoring.
+
+-   :material-lan:{ .lg .middle } **[ss](../11-network/ss.md)**
+
+    ---
+
+    Prüfen, auf welcher Adresse Redis und RabbitMQ lauschen. Behandelt im Kapitel Netzwerk.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Die Ports nur für Anwendungsserver öffnen. Behandelt im Kapitel Netzwerk.
+
+</div>

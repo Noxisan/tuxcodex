@@ -166,6 +166,12 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     PostgreSQL and MariaDB: users, databases, rights and health checks.
 
+-   :material-lightning-bolt-outline:{ .lg .middle } **[Caches and message queues](34-caches-queues/index.md)**
+
+    ---
+
+    Redis, Valkey and RabbitMQ: memory, keys, users, queues and health checks.
+
 </div>
 
 ## Automation & DevOps

@@ -59,3 +59,27 @@ and memory, measuring speed, managing users and queues, and finding problems.
     Health checks, alarms, ports and memory.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-gauge:{ .lg .middle } **[node_exporter](../32-monitoring/node_exporter.md)**
+
+    ---
+
+    Watch Redis and RabbitMQ in Prometheus. Covered in the chapter Monitoring.
+
+-   :material-lan:{ .lg .middle } **[ss](../11-network/ss.md)**
+
+    ---
+
+    Check on which address Redis and RabbitMQ listen. Covered in the chapter Network.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Open the ports only for application servers. Covered in the chapter Network.
+
+</div>

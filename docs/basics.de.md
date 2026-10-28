@@ -152,6 +152,12 @@ in der Reihenfolge des Handbuchs.
 
     Datenbanken: PostgreSQL oder MariaDB, Pakete und Pfade je Distribution, wie die Anmeldung funktioniert, Benutzer und Rechte, Zugriff von anderen Rechnern
 
+-   :material-lightning-bolt-outline:{ .lg .middle } **[Caches und Message Queues verstehen](34-caches-queues/basics.md)**
+
+    ---
+
+    Caches und Message Queues: Cache oder Message Broker, Redis und Valkey, Ports, Redis absichern, Persistenz und Speichergrenzen, Begriffe von RabbitMQ
+
 </div>
 
 ## Automatisierung & DevOps
