@@ -18,3 +18,15 @@ finden.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Grundlagen:** Cache oder Message Broker, Redis und Valkey, Ports, Redis absichern, Persistenz und Speichergrenzen, Begriffe von RabbitMQ :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Redis / Valkey
+
+<div class="grid cards" markdown>
+
+-   :material-console-line:{ .lg .middle } **[redis-cli](redis-cli.md)**
+
+    ---
+
+    Zustand, Speicher, Schlüssel und Live-Verkehr.
+
+</div>

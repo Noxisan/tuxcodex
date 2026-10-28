@@ -12,7 +12,7 @@ Programmen weiterreicht. Auf Linux-Servern sind das meist **Redis** und **Rabbit
 | Daten | Schlüssel mit Werten, auf Wunsch mit Ablaufzeit | Nachrichten in Queues, vom Empfänger bestätigt |
 | Nach einem Neustart | Daten aus dem letzten Snapshot oder keine (reiner Cache) | Dauerhafte Queues und persistente Nachrichten überleben |
 | Typischer Einsatz | PHP-Sitzungen, Seiten-Cache, Rate Limits, Datei-Sperren in Nextcloud | Bestellverarbeitung, Mailversand, Hintergrundjobs |
-| Kommandozeile | `redis-cli` | `rabbitmqctl` |
+| Kommandozeile | [`redis-cli`](redis-cli.md) | `rabbitmqctl` |
 
 ## Redis oder Valkey?
 

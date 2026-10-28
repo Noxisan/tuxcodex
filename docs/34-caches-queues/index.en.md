@@ -17,3 +17,15 @@ and memory, measuring speed, managing users and queues, and finding problems.
 </div>
 
 [:material-school-outline:{ .tc-basics-icon } **Basics:** Cache or message broker, Redis and Valkey, ports, securing Redis, persistence and memory limits, RabbitMQ concepts :material-arrow-right:{ .tc-basics-arrow }](basics.md){ .tc-basics }
+
+## Redis / Valkey
+
+<div class="grid cards" markdown>
+
+-   :material-console-line:{ .lg .middle } **[redis-cli](redis-cli.md)**
+
+    ---
+
+    State, memory, keys and live traffic.
+
+</div>

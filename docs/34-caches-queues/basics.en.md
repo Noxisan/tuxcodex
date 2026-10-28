@@ -12,7 +12,7 @@ programs. On Linux servers that's usually **Redis** and **RabbitMQ**.
 | Data | Keys with values, optionally with an expiry time | Messages in queues, confirmed by the consumer |
 | If the server restarts | Data from the last snapshot, or none (pure cache) | Durable queues and persistent messages survive |
 | Typical use | PHP sessions, page cache, rate limits, Nextcloud file locking | Order processing, mail sending, background jobs |
-| Command line | `redis-cli` | `rabbitmqctl` |
+| Command line | [`redis-cli`](redis-cli.md) | `rabbitmqctl` |
 
 ## Redis or Valkey?
 

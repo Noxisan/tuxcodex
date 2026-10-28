@@ -360,6 +360,7 @@ nav:
   - Caches & queues:
       - 34-caches-queues/index.md
       - Basics: 34-caches-queues/basics.md
+      - redis-cli: 34-caches-queues/redis-cli.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
