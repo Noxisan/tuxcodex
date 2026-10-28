@@ -52,3 +52,15 @@ aktivieren, Bereiche mit Passwörtern schützen, Reverse Proxys und Lasttests.
     Module aktivieren und deaktivieren.
 
 </div>
+
+## Werkzeuge
+
+<div class="grid cards" markdown>
+
+-   :material-account-key-outline:{ .lg .middle } **[htpasswd](htpasswd.md)**
+
+    ---
+
+    Passwortschutz für Bereiche.
+
+</div>

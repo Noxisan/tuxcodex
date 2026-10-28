@@ -52,3 +52,15 @@ modules, protecting areas with passwords, reverse proxies and load tests.
     Enable and disable modules.
 
 </div>
+
+## Tools
+
+<div class="grid cards" markdown>
+
+-   :material-account-key-outline:{ .lg .middle } **[htpasswd](htpasswd.md)**
+
+    ---
+
+    Password protection for areas.
+
+</div>
