@@ -365,6 +365,9 @@ nav:
       - rabbitmqctl: 34-caches-queues/rabbitmqctl.md
       - rabbitmq-plugins: 34-caches-queues/rabbitmq-plugins.md
       - rabbitmq-diagnostics: 34-caches-queues/rabbitmq-diagnostics.md
+  - Search:
+      - 35-search/index.md
+      - Basics: 35-search/basics.md
   - Bash scripting:
       - 17-bash-scripting/index.md
       - Basics: 17-bash-scripting/basics.md
