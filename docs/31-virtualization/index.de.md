@@ -34,3 +34,15 @@ mit Plattenabbildern arbeiten, klonen und Snapshots anlegen.
     Eine neue VM anlegen und installieren.
 
 </div>
+
+## Platten und Kopien
+
+<div class="grid cards" markdown>
+
+-   :material-harddisk:{ .lg .middle } **[qemu-img](qemu-img.md)**
+
+    ---
+
+    Plattenabbilder anlegen, untersuchen und umwandeln.
+
+</div>

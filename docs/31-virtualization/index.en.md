@@ -34,3 +34,15 @@ working with disk images, cloning and snapshots.
     Create a new VM and install it.
 
 </div>
+
+## Disks and copies
+
+<div class="grid cards" markdown>
+
+-   :material-harddisk:{ .lg .middle } **[qemu-img](qemu-img.md)**
+
+    ---
+
+    Create, inspect and convert disk images.
+
+</div>

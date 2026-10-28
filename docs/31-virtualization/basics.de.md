@@ -84,7 +84,7 @@ Bridge mit `virt-install --network bridge=br0`.
 Proxmox VE ist eine auf Debian basierende Distribution für Virtualisierungsserver mit
 Weboberfläche. Darunter arbeiten dieselben KVM und QEMU, aber nicht libvirt: Proxmox hat
 eigene Werkzeuge wie `qm` für VMs und `pct` für LXC-Container. Die Plattenabbilder sind
-dieselben, deshalb funktioniert `qemu-img` auch dort.
+dieselben, deshalb funktioniert [`qemu-img`](qemu-img.md) auch dort.
 
 !!! tip "Snapshots sind kein Backup"
     Ein Snapshot liegt im selben Abbild auf derselben Platte. Fällt die Platte aus, ist auch
