@@ -45,4 +45,10 @@ configuration and alert rules, querying data and handling alerts in the Alertman
 
     Check configuration and rules, run queries.
 
+-   :material-bell-off-outline:{ .lg .middle } **[amtool](amtool.md)**
+
+    ---
+
+    Show alerts and silence them.
+
 </div>

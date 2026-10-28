@@ -99,7 +99,7 @@ groups:
 
 `for: 2m` means the condition must be true for two minutes before the alert *fires*. That
 avoids mails for a short hiccup. The Alertmanager then decides who gets told; see
-`amtool`.
+[`amtool`](amtool.md).
 
 !!! tip "Monitor the monitoring"
     If the Prometheus server itself fails, no alert arrives. A simple external check (a

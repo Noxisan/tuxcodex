@@ -99,7 +99,7 @@ groups:
 
 `for: 2m` heißt: Die Bedingung muss zwei Minuten lang zutreffen, bevor der Alarm *auslöst*
 (firing). Das verhindert Mails wegen eines kurzen Aussetzers. Wer benachrichtigt wird,
-entscheidet danach der Alertmanager; siehe `amtool`.
+entscheidet danach der Alertmanager; siehe [`amtool`](amtool.md).
 
 !!! tip "Das Monitoring überwachen"
     Fällt der Prometheus-Server selbst aus, kommt kein Alarm. Eine einfache Prüfung von

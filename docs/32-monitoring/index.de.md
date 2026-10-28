@@ -45,4 +45,10 @@ Alarmregeln prüfen, Daten abfragen und Alarme im Alertmanager bearbeiten.
 
     Konfiguration und Regeln prüfen, Abfragen ausführen.
 
+-   :material-bell-off-outline:{ .lg .middle } **[amtool](amtool.md)**
+
+    ---
+
+    Alarme zeigen und stummschalten.
+
 </div>
