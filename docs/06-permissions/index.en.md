@@ -1,4 +1,5 @@
 ---
+title: "Permissions"
 icon: material/shield-lock-outline
 hide:
   - toc

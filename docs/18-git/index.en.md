@@ -1,4 +1,5 @@
 ---
+title: "Git"
 icon: material/git
 hide:
   - toc

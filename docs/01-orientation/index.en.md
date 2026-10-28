@@ -1,4 +1,5 @@
 ---
+title: "Orientation"
 icon: material/compass-outline
 hide:
   - toc

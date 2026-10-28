@@ -1,4 +1,5 @@
 ---
+title: "SELinux and AppArmor"
 icon: material/shield-lock-outline
 hide:
   - toc

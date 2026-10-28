@@ -1,4 +1,5 @@
 ---
+title: "Kubernetes"
 icon: material/kubernetes
 hide:
   - toc

@@ -1,4 +1,5 @@
 ---
+title: "Bash-Skripte"
 icon: material/script-text-outline
 hide:
   - toc

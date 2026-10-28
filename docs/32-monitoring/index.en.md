@@ -1,4 +1,5 @@
 ---
+title: "Monitoring"
 icon: material/monitor-dashboard
 hide:
   - toc

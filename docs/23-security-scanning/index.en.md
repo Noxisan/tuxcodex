@@ -1,4 +1,5 @@
 ---
+title: "Security scanning"
 icon: material/radar
 hide:
   - toc

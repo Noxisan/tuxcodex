@@ -1,4 +1,5 @@
 ---
+title: "Rechte"
 icon: material/shield-lock-outline
 hide:
   - toc

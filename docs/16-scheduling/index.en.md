@@ -1,4 +1,5 @@
 ---
+title: "Scheduling"
 icon: material/calendar-clock
 hide:
   - toc

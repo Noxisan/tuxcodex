@@ -1,4 +1,5 @@
 ---
+title: "SSH"
 icon: material/console-network-outline
 hide:
   - toc

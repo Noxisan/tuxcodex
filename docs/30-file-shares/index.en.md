@@ -1,4 +1,5 @@
 ---
+title: "File shares"
 icon: material/folder-network-outline
 hide:
   - toc

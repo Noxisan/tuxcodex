@@ -1,4 +1,5 @@
 ---
+title: "Leistung und Kernel"
 icon: material/speedometer
 hide:
   - toc

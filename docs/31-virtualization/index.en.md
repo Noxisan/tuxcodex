@@ -1,4 +1,5 @@
 ---
+title: "Virtualization"
 icon: material/monitor-multiple
 hide:
   - toc

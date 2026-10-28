@@ -1,4 +1,5 @@
 ---
+title: "systemd und Dienste"
 icon: material/cog-sync-outline
 hide:
   - toc

@@ -1,4 +1,5 @@
 ---
+title: "Ansible"
 icon: material/ansible
 hide:
   - toc

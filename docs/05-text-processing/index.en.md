@@ -1,4 +1,5 @@
 ---
+title: "Text processing"
 icon: material/text-search
 hide:
   - toc

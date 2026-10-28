@@ -1,4 +1,5 @@
 ---
+title: "VPN mit WireGuard"
 icon: material/vpn
 hide:
   - toc

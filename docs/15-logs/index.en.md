@@ -1,4 +1,5 @@
 ---
+title: "Logs"
 icon: material/text-box-multiple-outline
 hide:
   - toc

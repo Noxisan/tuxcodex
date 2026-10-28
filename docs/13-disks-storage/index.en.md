@@ -1,4 +1,5 @@
 ---
+title: "Disks and storage"
 icon: material/harddisk
 hide:
   - toc

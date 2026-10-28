@@ -1,4 +1,5 @@
 ---
+title: "Packages"
 icon: material/package-variant-closed
 hide:
   - toc

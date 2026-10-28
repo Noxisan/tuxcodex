@@ -1,4 +1,5 @@
 ---
+title: "Zeitgesteuerte Aufgaben"
 icon: material/calendar-clock
 hide:
   - toc

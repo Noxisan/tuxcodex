@@ -1,4 +1,5 @@
 ---
+title: "Users and groups"
 icon: material/account-multiple-outline
 hide:
   - toc

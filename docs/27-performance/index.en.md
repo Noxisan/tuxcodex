@@ -1,4 +1,5 @@
 ---
+title: "Performance and kernel"
 icon: material/speedometer
 hide:
   - toc

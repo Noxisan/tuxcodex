@@ -1,4 +1,5 @@
 ---
+title: "Archive"
 icon: material/archive-arrow-down-outline
 hide:
   - toc

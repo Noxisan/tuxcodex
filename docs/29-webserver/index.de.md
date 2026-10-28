@@ -1,4 +1,5 @@
 ---
+title: "Webserver"
 icon: material/web
 hide:
   - toc

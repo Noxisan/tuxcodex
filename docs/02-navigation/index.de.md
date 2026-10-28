@@ -1,4 +1,5 @@
 ---
+title: "Navigation"
 icon: material/folder-outline
 hide:
   - toc

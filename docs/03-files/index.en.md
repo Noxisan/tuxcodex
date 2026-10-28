@@ -1,4 +1,5 @@
 ---
+title: "Files"
 icon: material/file-document-outline
 hide:
   - toc

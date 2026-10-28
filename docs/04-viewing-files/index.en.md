@@ -1,4 +1,5 @@
 ---
+title: "Viewing files"
 icon: material/text-box-search-outline
 hide:
   - toc

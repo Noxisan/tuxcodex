@@ -1,4 +1,5 @@
 ---
+title: "Zertifikate und Verschlüsselung"
 icon: material/certificate-outline
 hide:
   - toc

@@ -1,4 +1,5 @@
 ---
+title: "Sicherheitsprüfung"
 icon: material/radar
 hide:
   - toc

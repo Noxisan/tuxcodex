@@ -1,4 +1,5 @@
 ---
+title: "Textverarbeitung"
 icon: material/text-search
 hide:
   - toc

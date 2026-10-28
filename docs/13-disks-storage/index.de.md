@@ -1,4 +1,5 @@
 ---
+title: "Festplatten und Speicher"
 icon: material/harddisk
 hide:
   - toc

@@ -1,4 +1,5 @@
 ---
+title: "Netzwerk"
 icon: material/lan
 hide:
   - toc

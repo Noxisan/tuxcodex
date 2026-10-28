@@ -1,4 +1,5 @@
 ---
+title: "CI/CD"
 icon: material/infinity
 hide:
   - toc

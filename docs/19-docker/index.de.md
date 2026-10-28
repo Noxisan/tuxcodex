@@ -1,4 +1,5 @@
 ---
+title: "Docker"
 icon: material/docker
 hide:
   - toc
