@@ -158,6 +158,12 @@ in der Reihenfolge des Handbuchs.
 
     Caches und Message Queues: Cache oder Message Broker, Redis und Valkey, Ports, Redis absichern, Persistenz und Speichergrenzen, Begriffe von RabbitMQ
 
+-   :material-text-search:{ .lg .middle } **[Suchserver verstehen](35-search/basics.md)**
+
+    ---
+
+    Suche mit Elasticsearch und OpenSearch: Elasticsearch oder OpenSearch, Installation und Pfade, die REST-API mit curl, grün, gelb und rot, Speicher und Systemeinstellungen
+
 </div>
 
 ## Automatisierung & DevOps

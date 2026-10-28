@@ -172,6 +172,12 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Redis, Valkey and RabbitMQ: memory, keys, users, queues and health checks.
 
+-   :material-text-search:{ .lg .middle } **[Search with Elasticsearch and OpenSearch](35-search/index.md)**
+
+    ---
+
+    Cluster health, indices and shards, passwords, keystore and plugins.
+
 </div>
 
 ## Automation & DevOps

@@ -172,6 +172,12 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     Redis, Valkey und RabbitMQ: Speicher, Schlüssel, Benutzer, Queues und Health Checks.
 
+-   :material-text-search:{ .lg .middle } **[Suche mit Elasticsearch und OpenSearch](35-search/index.md)**
+
+    ---
+
+    Zustand des Clusters, Indizes und Shards, Passwörter, Keystore und Plugins.
+
 </div>
 
 ## Automatisierung & DevOps

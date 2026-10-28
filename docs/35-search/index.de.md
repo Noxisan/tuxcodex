@@ -41,3 +41,33 @@ Passwörter zurücksetzen, Geheimnisse im Keystore ablegen und Plugins verwalten
     Plugins installieren, auflisten und entfernen.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-web-check:{ .lg .middle } **[curl](../11-network/curl.md)**
+
+    ---
+
+    Mit der REST-API sprechen. Behandelt im Kapitel Netzwerk.
+
+-   :material-code-json:{ .lg .middle } **[jq](../05-text-processing/jq.md)**
+
+    ---
+
+    Die JSON-Antworten filtern. Behandelt im Kapitel Textverarbeitung.
+
+-   :material-tune:{ .lg .middle } **[sysctl](../27-performance/sysctl.md)**
+
+    ---
+
+    vm.max_map_count setzen. Behandelt im Kapitel Leistung.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Port 9200 nur für Anwendungsserver öffnen. Behandelt im Kapitel Netzwerk.
+
+</div>

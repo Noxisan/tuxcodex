@@ -41,3 +41,33 @@ passwords, storing secrets in the keystore and managing plugins.
     Install, list and remove plugins.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-web-check:{ .lg .middle } **[curl](../11-network/curl.md)**
+
+    ---
+
+    Talk to the REST API. Covered in the chapter Network.
+
+-   :material-code-json:{ .lg .middle } **[jq](../05-text-processing/jq.md)**
+
+    ---
+
+    Filter the JSON answers. Covered in the chapter Text processing.
+
+-   :material-tune:{ .lg .middle } **[sysctl](../27-performance/sysctl.md)**
+
+    ---
+
+    Set vm.max_map_count. Covered in the chapter Performance.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Open port 9200 only for application servers. Covered in the chapter Network.
+
+</div>

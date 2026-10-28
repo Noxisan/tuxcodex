@@ -652,8 +652,8 @@
    without :has() in every browser. */
 .md-nav--primary #__nav_3 + .md-nav__link,
 .md-nav--primary #__nav_21 + .md-nav__link,
-.md-nav--primary #__nav_25 + .md-nav__link,
-.md-nav--primary #__nav_33 + .md-nav__link {
+.md-nav--primary #__nav_26 + .md-nav__link,
+.md-nav--primary #__nav_34 + .md-nav__link {
   flex-wrap: wrap;
   margin-top: 0.9rem;
   padding-top: 0.9rem;
@@ -662,8 +662,8 @@
 
 .md-nav--primary #__nav_3 + .md-nav__link::before,
 .md-nav--primary #__nav_21 + .md-nav__link::before,
-.md-nav--primary #__nav_25 + .md-nav__link::before,
-.md-nav--primary #__nav_33 + .md-nav__link::before {
+.md-nav--primary #__nav_26 + .md-nav__link::before,
+.md-nav--primary #__nav_34 + .md-nav__link::before {
   display: block;
   flex: 0 0 100%;
   margin: 0 0 0.4rem;
@@ -690,19 +690,19 @@ html[lang="de"] .md-nav--primary #__nav_21 + .md-nav__link::before {
   content: "Serverdienste";
 }
 
-.md-nav--primary #__nav_25 + .md-nav__link::before {
+.md-nav--primary #__nav_26 + .md-nav__link::before {
   content: "Automation & DevOps";
 }
 
-html[lang="de"] .md-nav--primary #__nav_25 + .md-nav__link::before {
+html[lang="de"] .md-nav--primary #__nav_26 + .md-nav__link::before {
   content: "Automatisierung & DevOps";
 }
 
-.md-nav--primary #__nav_33 + .md-nav__link::before {
+.md-nav--primary #__nav_34 + .md-nav__link::before {
   content: "Security";
 }
 
-html[lang="de"] .md-nav--primary #__nav_33 + .md-nav__link::before {
+html[lang="de"] .md-nav--primary #__nav_34 + .md-nav__link::before {
   content: "Sicherheit";
 }
 
