@@ -140,6 +140,12 @@ in der Reihenfolge des Handbuchs.
 
     Webserver: Wo die Konfiguration je Distribution liegt, Server-Blöcke und Virtual Hosts, Reverse Proxy und TLS
 
+-   :material-folder-network-outline:{ .lg .middle } **[Dateifreigaben verstehen](30-file-shares/basics.md)**
+
+    ---
+
+    Dateifreigaben: NFS oder Samba, `/etc/exports` und `smb.conf`, eine Freigabe Schritt für Schritt einrichten, Ports und Firewall
+
 </div>
 
 ## Automatisierung & DevOps

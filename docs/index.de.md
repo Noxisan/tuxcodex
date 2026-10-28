@@ -154,7 +154,7 @@ Erstellt von [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     nginx und Apache: Konfiguration, Seiten, Reverse Proxy und Lasttests.
 
--   :material-folder-network-outline:{ .lg .middle } **Freigaben** · *in Arbeit*
+-   :material-folder-network-outline:{ .lg .middle } **[Dateifreigaben](30-file-shares/index.md)**
 
     ---
 

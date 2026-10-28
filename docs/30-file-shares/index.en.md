@@ -58,3 +58,33 @@ Linux. Exporting, checking the configuration, managing Samba users and testing a
     Test and use SMB shares.
 
 </div>
+
+## From other chapters
+
+<div class="grid cards" markdown>
+
+-   :material-link-variant:{ .lg .middle } **[mount](../13-disks-storage/mount.md)**
+
+    ---
+
+    Mount NFS and SMB shares on a client. Covered in the chapter Storage.
+
+-   :material-account-multiple-outline:{ .lg .middle } **[useradd](../07-users-groups/useradd.md)**
+
+    ---
+
+    Create users for Samba. Covered in the chapter Users & groups.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Open the ports for your own network only. Covered in the chapter Network.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[firewall-cmd](../11-network/firewall-cmd.md)**
+
+    ---
+
+    Allow the services nfs and samba on RHEL. Covered in the chapter Network.
+
+</div>

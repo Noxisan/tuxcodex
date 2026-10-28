@@ -140,6 +140,12 @@ the handbook.
 
     Web servers: Where the configuration lives on each distribution, server blocks and virtual hosts, reverse proxy and TLS
 
+-   :material-folder-network-outline:{ .lg .middle } **[Understanding file shares](30-file-shares/basics.md)**
+
+    ---
+
+    File shares: NFS or Samba, `/etc/exports` and `smb.conf`, setting up a share step by step, ports and firewall
+
 </div>
 
 ## Automation & DevOps

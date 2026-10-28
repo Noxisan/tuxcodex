@@ -154,7 +154,7 @@ Built by [:simple-github: Nox](https://github.com/Noxisan){ .tc-author }
 
     nginx and Apache: configuration, sites, reverse proxy and load tests.
 
--   :material-folder-network-outline:{ .lg .middle } **File shares** · *coming soon*
+-   :material-folder-network-outline:{ .lg .middle } **[File shares](30-file-shares/index.md)**
 
     ---
 

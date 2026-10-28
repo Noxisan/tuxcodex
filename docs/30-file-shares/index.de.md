@@ -59,3 +59,33 @@ Zugriff testen.
     SMB-Freigaben testen und nutzen.
 
 </div>
+
+## Aus anderen Kapiteln
+
+<div class="grid cards" markdown>
+
+-   :material-link-variant:{ .lg .middle } **[mount](../13-disks-storage/mount.md)**
+
+    ---
+
+    NFS- und SMB-Freigaben auf einem Client einhängen. Behandelt im Kapitel Datenträger.
+
+-   :material-account-multiple-outline:{ .lg .middle } **[useradd](../07-users-groups/useradd.md)**
+
+    ---
+
+    Benutzer für Samba anlegen. Behandelt im Kapitel Benutzer & Gruppen.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[ufw](../11-network/ufw.md)**
+
+    ---
+
+    Die Ports nur fürs eigene Netz öffnen. Behandelt im Kapitel Netzwerk.
+
+-   :material-shield-lock-outline:{ .lg .middle } **[firewall-cmd](../11-network/firewall-cmd.md)**
+
+    ---
+
+    Die Dienste nfs und samba unter RHEL erlauben. Behandelt im Kapitel Netzwerk.
+
+</div>
